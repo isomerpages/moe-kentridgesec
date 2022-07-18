@@ -191,6 +191,22 @@ Student Leaders are given experiential learning opportunities to develop their l
 
 The school collaborates with partners to seize work shadow opportunities in different industries. Interested Secondary 3 student leaders are selected to participate in the programme to learn beyond the classroom.
 
-**(upload video on YouTube and embed video here?)**
+***(upload video on YouTube and embed video here?)***
 
-### 
+### Student Support Programmes
+
+**Social and Emotional Well-being** <br>Student support structures in this aspect include Counselling Support, Secondary 1 Transition & Engagement Programme and Secondary 4 Stress Management Programme.
+
+**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:
+
+*   Providing health advice for individuals or small groups of students who approach the SHA directly or are referred to by authorised school personnel.
+*   Advising/Counselling students with existing chronic medical conditions.
+*   Providing advice on health issues which include smoking, substance abuse, chronic disease management etc.
+*   Working with Health Promotion Board (HPB) or other relevant agencies to mount suitable health education/promotion activities for students, school staff and parents.
+
+**Financial Assistance Programmes** <br>Financial needs of students are identified and supported through various schemes and bursary applications.
+
+**Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs are provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also partners stakeholders for case management and resource management discussions.
+
+
+***(upload video on YouTube and embed video here?)***
