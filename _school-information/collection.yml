@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - Academic Matters/AEP and MEP.md
       - Academic Matters/.keep
