@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021.md
       - Administrative Matters/.keep
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/School Book List and Uniform.md
