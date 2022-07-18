@@ -262,16 +262,16 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i" rowspan="2">4E6</td>
     <td class="tg-lm9i">Ms Chong Jieting, Jasmine</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chong_jieting_jasmine@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chong_jieting_jasmine@schools.gov.sg">chong_jieting_jasmine@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lam Yao Lun</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>LAM_Yao_Lun@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:LAM_Yao_Lun@schools.gov.sg">LAM_Yao_Lun@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4E7</td>
     <td class="tg-lm9i">Mr Chan Kar Hong</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chan_kar_hong@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chan_kar_hong@schools.gov.sg">chan_kar_hong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Zannatul Nauum Moummee</td>
