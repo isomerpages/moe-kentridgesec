@@ -275,7 +275,7 @@ third_nav_title: Organisational Structure
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Zannatul Nauum Moummee</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>nauum_moumee_zannatul@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:nauum_moumee_zannatul@schools.gov.sg">nauum_moumee_zannatul@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">5N1</td>
