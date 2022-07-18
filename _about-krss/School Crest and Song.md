@@ -34,8 +34,7 @@ Embracing our values too <br>
 Caring for others moulding heart and mind <br>  
 Seek to do it right the first time </p>
 
-Come let us spread our gleams of light  
-Hand in hand we can create a better life  
-Our hopes and our dreams only can come true  
-Living the Kent Ridgean life
-</p>
+<p style="text-align:center;"> Come let us spread our gleams of light  <br>
+Hand in hand we can create a better life  <br>
+Our hopes and our dreams only can come true  <br>
+Living the Kent Ridgean life </p>
