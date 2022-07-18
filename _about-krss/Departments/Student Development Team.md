@@ -112,4 +112,83 @@ The programme aims to
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
 *   raise youths’ resiliency with life skills and competencies.
 
-### 
+### Leadership Development
+
+##### **Overview**
+
+The Student Leadership Team of the Student Management Committee is guided by the philosophy “Every Kent Ridgean A Leader” as it plans for experiential learning opportunities for students to be resilient leaders who lead self, peers and school/community. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to differentiate the programmes for the different segments of students. Student Leaders are provided with explicit teaching and experiential learning opportunities to hone their leadership skills. Student leaders who go through the programmes reflect on their learning and are assessed by their peers and teachers.
+
+##### **Explicit Teaching**  
+Briefings, leadership training programmes and bonding activities are customised for the different tiers of student leaders to equip them with the relevant leadership knowledge and skills.
+
+##### **Experiential Learning Opportunities**
+
+1.  **Experiential Week**
+
+Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
+
+2.  **NYAA Programme**
+
+The NYAA Programme Bronze Award is offered to all Sec 2 students while Sec 3 students are given the opportunity to sign up for the Silver Award. The programme equips Kent Ridgeans with the knowledge and skills to develop personal effectiveness and peer leadership through various school-organised activities. Through their participation in the programme, Kent Ridgeans develop personal qualities of self-reliance, perseverance and responsibility to self, society and the nation.
+
+3.  **School Operations, Events and Celebrations**
+
+Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">Leadership Group</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">Experiential Learning opportunities</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Student Councillors</td>
+    <td class="tg-lm9i">Sec 1 Orientation and Teachers’ Day Celebrations</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Sports Leaders</td>
+    <td class="tg-lm9i">Kent Ridge Olympics and Level Inter-class Games</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">CCA Leaders</td>
+    <td class="tg-lm9i">CCA Activities, CCA Fair and Appreciation Day</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Student Ambassadors</td>
+    <td class="tg-lm9i">Hosting Guests, School Publicity and Sec 1 Pledge-taking</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">GEAR-UP Leaders</td>
+    <td class="tg-lm9i">GEAR-UP Activities and KR Gives Back</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">School Safety Ambassadors</td>
+    <td class="tg-lm9i">Enforcement of Safety Measure in School CCA and Emergency Exercise</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">House Leaders</td>
+    <td class="tg-lm9i">House Matters and Competition during Kent Ridge Olympics</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Class Committee Members</td>
+    <td class="tg-lm9i">Class Administration, Circle Time and Class Activities</td>
+  </tr>
+</tbody>
+</table>
+
+4.  **Work Shadow Programme**
+
+The school collaborates with partners to seize work shadow opportunities in different industries. Interested Secondary 3 student leaders are selected to participate in the programme to learn beyond the classroom.
+
+**(upload video on YouTube and embed video here?)**
