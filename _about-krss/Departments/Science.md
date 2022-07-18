@@ -36,3 +36,18 @@ img {
 </body>
 
 ![Science Department](/images/science-department-2-1024x731.jpg)
+
+### Programmes
+
+**1\. Learning Journeys**  
+Learning Journeys provide structured out-of-school curriculum-based learning experiences that enrich students’ perspectives as they build an understanding of how Science is applied in the real world.  Our students have participated in learning journeys to the Blood Bank, Lee Kong Chian Natural History Museum and High Tech farms.
+
+**2\. Competitions**  
+Students with the interest and ability are identified and trained to take part in competitions, so as to deepen their learning experience and literacy in Science. These include The Amazing Flying Machine Challenge, The Scientific Thinking Programme Competition, Crystal Growing Challenge and Science Olympiad.
+
+![Competitions](/images/Competitions.jpg)
+
+**3\. Science Talent Development Programme**  
+The Science TDP aims to develop Science talents with the passion to pursue and advocate scientific truth, and the ability to solve problems using the scientific method. Students are exposed to different fields of Science and gain a breadth of knowledge and skills through workshops, apply their learning in competitions and projects, as well as are stretched for external competitions.
+
+![Science Talent Development Programme](/images/Science%20Talent%20Development%20Programme.jpg)
