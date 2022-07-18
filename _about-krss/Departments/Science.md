@@ -4,6 +4,9 @@ permalink: /about-krss/departments/science/
 description: ""
 third_nav_title: Departments
 ---
+### Overview
+
+
 In line with MOE’s revised Science Curriculum Framework, the vision of the department is for every child to be an inquirer, supported by every teacher as a facilitator of the inquiry process.
 
 <style>  
