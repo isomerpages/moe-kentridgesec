@@ -2,10 +2,10 @@ collections:
   school-information:
     output: true
     order:
-      - Administrative Matters/School Fees.md
-      - Administrative Matters/School Book List and Uniform.md
-      - Administrative Matters/Financial Assistance.md
       - Administrative Matters/.keep
+      - Administrative Matters/Financial Assistance.md
+      - Administrative Matters/School Book List and Uniform.md
+      - Administrative Matters/School Fees.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
