@@ -4,11 +4,17 @@ permalink: /school-information/sec-1-registration-2021/krss-cca-information/
 description: ""
 third_nav_title: Sec 1 Registration 2021
 ---
-Please refer to the [KRSS CCA Information Letter](https://kentridgesec.moe.edu.sg/wp-content/uploads/2021/12/KRSS-CCA-Information-Letter-2022.pdf) for more details.
+Please refer to the [KRSS CCA Information Letter](/files/KRSS-CCA-Information-Letter-2022.pdf) for more details.
 
 Please complete the [Survey on Primary School CCA Involvement](https://go.gov.sg/2022sec1cca) via the QR code or link by 5 January 2022 (Wed).
 
-[![](https://kentridgesec.moe.edu.sg/wp-content/uploads/2021/12/Survey-on-Primary-School-CCA-Involvement-276x300.png)](https://go.gov.sg/2022sec1cca)
+<html>
+<body>
+<p><a href="https://go.gov.sg/2022sec1cca">
+<img src="/images/Survey-on-Primary-School-CCA-Involvement-276x300.png"  style="width:40%">
+</a></p>
+</body>
+</html>
 
 Should you have any queries, please contact the following officers:
 
