@@ -17,7 +17,16 @@ Inquiry-based Learning, supported by the use of Thinking Routines and ICT, are u
 **Inquiry-based Learning and Project-Based Assessment** <br>
 The use of an Inquiry Based Learning approach to the teaching of Humanities subjects equips students with critical thinking and communication skills. Through the study of History, Geography and Social Studies, our students become more aware of the world around them and learn to look at issues from multiple perspectives.
 
-![Inquiry-based Learning and Project-Based Assessment](/images/IBL.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IBL.png" alt="Inquiry-based Learning and Project-Based Assessment" style="width:50%;">  
+  
+</body>
 
 ![Inquiry-based Learning and Project-Based Assessment](/images/IBL2.png)
 
