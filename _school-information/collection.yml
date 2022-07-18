@@ -2,8 +2,8 @@ collections:
   school-information:
     output: true
     order:
-      - Academic Matters/Timetables.md
-      - Academic Matters/Parents’ Briefing Slides.md
-      - Academic Matters/Assessment Matters.md
-      - Academic Matters/AEP & MEP.md
       - Academic Matters/.keep
+      - Academic Matters/AEP & MEP.md
+      - Academic Matters/Assessment Matters.md
+      - Academic Matters/Parents’ Briefing Slides.md
+      - Academic Matters/Timetables.md
