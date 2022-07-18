@@ -2,6 +2,7 @@ collections:
   about-krss:
     output: true
     order:
+      - Departments/Science.md
       - Departments/Principles of Accounts.md
       - Departments/Physical Education.md
       - Departments/Mother Tongue Languages.md
