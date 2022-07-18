@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/MOE Financial Assistance Scheme (FAS).md
       - Sec 1 Registration 2021/Purchase of PE T Shirt (House Colours).md
       - Sec 1 Registration 2021/Purchase of Books and Uniforms.md
       - Sec 1 Registration 2021/Safe Measurement Measures.md
