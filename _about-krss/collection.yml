@@ -2,5 +2,6 @@ collections:
   about-krss:
     output: true
     order:
+      - School Mission, Vision & Values.md
       - School's History.md
       - Principal's Message.md
