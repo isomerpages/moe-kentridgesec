@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Administrative Matters/Financial Assistance.md
       - Administrative Matters/.keep
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
