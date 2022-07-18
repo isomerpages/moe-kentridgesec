@@ -2,6 +2,7 @@ collections:
   about-krss:
     output: true
     order:
+      - Organisational Structure/.keep
       - Departments/.keep
       - Departments/Craft & Technology.md
       - Departments/English Language & Literature.md
