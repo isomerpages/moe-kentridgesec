@@ -1,0 +1,4 @@
+collections:
+  about-krss:
+    output: true
+    order: []
