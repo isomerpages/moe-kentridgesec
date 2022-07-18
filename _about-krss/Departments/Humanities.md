@@ -19,5 +19,7 @@ The use of an Inquiry Based Learning approach to the teaching of Humanities subj
 
 ![Inquiry-based Learning and Project-Based Assessment](/images/IBL.png)
 
+![Inquiry-based Learning and Project-Based Assessment](/images/IBL2.png)
+
 **Overseas Learning Journey**  
 Overseas field trips provide students with authentic learning experiences. These experiences provide students with the platform to apply concepts taught in the classroom to the real world. Coupled with the objective of enriching students’ worldly perspective, these trips encourage students explore the inter-relationships of real life issues.
