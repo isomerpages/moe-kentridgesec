@@ -47,27 +47,27 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i">Operations Manager</td>
     <td class="tg-lm9i">Mr Koh Beng Chye, Thomas</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>koh_beng_chye@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:koh_beng_chye@schools.gov.sg">koh_beng_chye@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Operations Manager</td>
     <td class="tg-lm9i">Mr Chandra S/O Karumanan</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chandra_karumanan@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chandra_karumanan@schools.gov.sg">chandra_karumanan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Aesthetics &amp; CCA</td>
     <td class="tg-lm9i">Ms Jaime Lim Hwee Fung</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>im_hwee_fung_jaime@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:im_hwee_fung_jaime@schools.gov.sg">im_hwee_fung_jaime@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / CCE</td>
     <td class="tg-lm9i">Mdm Lim Chye Ling</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_chye_ling@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lim_chye_ling@schools.gov.sg">lim_chye_ling@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / English Language &amp; Literature</td>
     <td class="tg-lm9i">Ms Tan Siew Hui</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_siew_hui_a@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Humanities</td>
