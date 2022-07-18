@@ -105,3 +105,5 @@ Students with the interest and ability are identified and trained to take part i
 **Shanghai Twinning**:  
 This school-initiated educational exchange programme started in 2007 to build ties with Shanghai No.4 High School (D4ZX). Each year a team of about 20 students and two teachers from KRSS visit D4ZX which is hosted by students from D4ZX in October. This is followed by a visit by the D4ZX students to KRSS where they will be hosted by their KRSS counterparts in the following year.
 
+**Conversational Chinese/ Malay (CCM)**:  
+CCM is introduced as an enrichment programme for non-Chinese / non-Malay students who are interested in learning Chinese / Malay Language and its culture. Communication through languages enhances social interaction. CCM provides these students with the platform to communicate with their counterparts, and to better understand and appreciate Chinese / Malay cultures and values. It will also help students to enhance their rapport with Chinese- / Malay-speaking friends.
