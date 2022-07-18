@@ -2,16 +2,16 @@ collections:
   about-krss:
     output: true
     order:
-      - Departments/Student Development Team.md
-      - Departments/Science.md
-      - Departments/Principles of Accounts.md
-      - Departments/Physical Education.md
-      - Departments/Mother Tongue Languages.md
-      - Departments/Mathematics.md
-      - Departments/Humanities.md
-      - Departments/English Language & Literature.md
-      - Departments/Craft & Technology.md
       - Departments/.keep
+      - Departments/Craft & Technology.md
+      - Departments/English Language & Literature.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education.md
+      - Departments/Principles of Accounts.md
+      - Departments/Science.md
+      - Departments/Student Development Team.md
       - School's Direction/.keep
       - School's Direction/School Strategy & Focus.md
       - School's Direction/Student Outcomes.md
