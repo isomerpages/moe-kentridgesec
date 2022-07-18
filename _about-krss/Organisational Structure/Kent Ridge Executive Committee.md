@@ -72,67 +72,67 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i">HOD / Humanities</td>
     <td class="tg-lm9i">Mdm Ruby Jayanthi d/o Simmon R E</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>ruby_simmon@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:ruby_simmon@schools.gov.sg">ruby_simmon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / ICT (Info Comm Tech)</td>
     <td class="tg-lm9i">Ms Sally Chow</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chow_sally@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chow_sally@schools.gov.sg">chow_sally@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Mathematics</td>
     <td class="tg-lm9i">Ms Tiong Kian Yoon Betty</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tiong_kian_yoon@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tiong_kian_yoon@schools.gov.sg">tiong_kian_yoon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Mother Tongue Languages</td>
     <td class="tg-lm9i">Mr Lee Fook Yew</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lee_fook_yew@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lee_fook_yew@schools.gov.sg">lee_fook_yew@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Science</td>
     <td class="tg-lm9i">Mrs Sherine Ang</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>sherine_chua@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">HOD / Student Management</td>
     <td class="tg-lm9i">Mdm Sujeetha Margarita Brampy</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>sujeetha_margarita_brampy@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">School Staff Developer</td>
     <td class="tg-lm9i">Ms Tan Siew Eng Vivian</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_siew_eng_vivian@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_siew_eng_vivian@schools.gov.sg">tan_siew_eng_vivian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Year Head (Sec 1)</td>
     <td class="tg-lm9i">Mrs Elaine Su</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_shihan_elaine@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Year Head (Sec 2)</td>
     <td class="tg-lm9i">Mr Mohamed Asan Bin Mohideen Pitchay</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>mohamed_asan_mohideen_pitc@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg">mohamed_asan_mohideen_pitc@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Year Head (Sec 3)</td>
     <td class="tg-lm9i">Ms Tan Ai Lin</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>Tan_Ai_Lin@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:Tan_Ai_Lin@schools.gov.sg">Tan_Ai_Lin@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Year Head (Sec 4/5)</td>
     <td class="tg-lm9i">Ms Krystal Ong Shi Xuan</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>ong_shi_xuan_krystal@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:ong_shi_xuan_krystal@schools.gov.sg">ong_shi_xuan_krystal@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">LH / English Language</td>
     <td class="tg-lm9i">Mr Lee Hoe Sheng Hosea</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lee_hoe_sheng_hosea@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lee_hoe_sheng_hosea@schools.gov.sg">lee_hoe_sheng_hosea@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">LH / Science</td>
     <td class="tg-lm9i">Ms Zhou Li</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a></td>
+    <td class="tg-lm9i"><a href="mailto:zhou_li@schools.gov.sg">zhou_li@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">SH / CCE</td>
