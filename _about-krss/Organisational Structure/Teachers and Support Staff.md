@@ -216,48 +216,48 @@ third_nav_title: Organisational Structure
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Chia Tai-Yu</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>Chia_Tai-Yu@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:Chia_Tai-Yu@schools.gov.sg">Chia_Tai-Yu@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4N1</td>
     <td class="tg-lm9i">Mr Lim Wei Chun Randall</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_wei_chun_randall@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lim_wei_chun_randall@schools.gov.sg">lim_wei_chun_randall@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Mohammad Helmy Bin Sadon</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>mohammad_helmy_sadon@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:mohammad_helmy_sadon@schools.gov.sg">mohammad_helmy_sadon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4N2</td>
     <td class="tg-lm9i">Mr Kevin Nicholas Fonseka</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>kevin_nicholas_fonseka@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:kevin_nicholas_fonseka@schools.gov.sg">kevin_nicholas_fonseka@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mdm Wong Weng Han</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>wong_weng_han@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:wong_weng_han@schools.gov.sg">wong_weng_han@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4N3</td>
     <td class="tg-lm9i">Mr Lok Sin Min</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lok_sin_min@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lok_sin_min@schools.gov.sg">lok_sin_min@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Siti Fadzilah Binte Subto</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>siti_fadzilah_subto@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:siti_fadzilah_subto@schools.gov.sg">siti_fadzilah_subto@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4E4</td>
     <td class="tg-lm9i">Ms Kalpana d/o Kaleselvan</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>kalpana_kaleselvan@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:kalpana_kaleselvan@schools.gov.sg">kalpana_kaleselvan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Ong Wee Kwang</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>ong_wee_kwang@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:ong_wee_kwang@schools.gov.sg">ong_wee_kwang@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">4E5</td>
     <td class="tg-lm9i">Mr Wong Chin Seng</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>wong_chin_seng@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:wong_chin_seng@schools.gov.sg">wong_chin_seng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">4E6</td>
