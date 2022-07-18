@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Administrative Matters/School Book List and Uniform.md
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/.keep
       - Academic Matters/.keep
