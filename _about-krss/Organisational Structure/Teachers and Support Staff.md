@@ -280,11 +280,11 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i" rowspan="2">5N1</td>
     <td class="tg-lm9i">Mr Lee Shu Hsi, Tommy</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lee_shu_hsi@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lee_shu_hsi@schools.gov.sg">lee_shu_hsi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lai Wei Lim</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lai_wei_lim@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -314,17 +314,17 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i">Chinese</td>
     <td class="tg-lm9i">Mr Chang Khang En</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chang_khang_en@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chang_khang_en@schools.gov.sg">chang_khang_en@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">English</td>
     <td class="tg-lm9i">Ms Tan Peck Joon</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_peck_joon@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_peck_joon@schools.gov.sg">tan_peck_joon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">English</td>
     <td class="tg-lm9i">Mdm Kalaimathi d/o Manikam</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>Kalaimathi_Manikam@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -357,27 +357,27 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i">School Counsellor</td>
     <td class="tg-lm9i">Mr Foong Zhee Hou Melvyn</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>foong_zhee_hou_melvyn@moe.edu.sg</td>
+    <td class="tg-lm9i"><a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Part-Time School Counsellor</td>
     <td class="tg-lm9i">Mdm Ow Suek Yin</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>ow_suek_yin@moe.edu.sg</td>
+    <td class="tg-lm9i"><a href="mailto:ow_suek_yin@moe.edu.sg">ow_suek_yin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Allied Educator (Teaching &amp; Learning)</td>
     <td class="tg-lm9i">Ms Nurhaslinda Binte Rohop</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>nurhaslinda_rohop@moe.edu.sg</td>
+    <td class="tg-lm9i"><a href="mailto:nurhaslinda_rohop@moe.edu.sg">nurhaslinda_rohop@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Allied Educator (Teaching &amp; Learning)</td>
     <td class="tg-lm9i">Mr Tan Siang Yong</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_siang_yong@moe.edu.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_siang_yong@moe.edu.sg">tan_siang_yong@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Allied Educator (Learning &amp; Behavioural Support)</td>
     <td class="tg-lm9i">Mrs Cheryl Lim</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_seok_gek@moe.edu.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">ICT Associate</td>
