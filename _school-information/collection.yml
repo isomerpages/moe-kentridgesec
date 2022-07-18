@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/.keep
       - Information for 2022 Sec 1 Students.md
       - Administrative Matters/.keep
       - Administrative Matters/Financial Assistance.md
