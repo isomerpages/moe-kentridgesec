@@ -162,57 +162,57 @@ third_nav_title: Organisational Structure
   <tr>
     <td class="tg-lm9i" rowspan="2">3N1</td>
     <td class="tg-lm9i">Mr Ng Chong Hern, Bennedic</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>ng_chong_hern_bennedic@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:ng_chong_hern_bennedic@schools.gov.sg">ng_chong_hern_bennedic@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Arfah Lubis Binte Abdul Rahman</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>arfah_lubis_abdul_rahman@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:arfah_lubis_abdul_rahman@schools.gov.sg">arfah_lubis_abdul_rahman@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">3N2</td>
     <td class="tg-lm9i">Mrs Claudia Ng</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>foo_fang_yu@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:foo_fang_yu@schools.gov.sg">foo_fang_yu@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Tay Kok Liang</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tay_kok_liang@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:tay_kok_liang@schools.gov.sg">tay_kok_liang@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">3N3</td>
     <td class="tg-lm9i">Mrs Roszana Teo</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chu_ying_sin_roszana@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chu_ying_sin_roszana@schools.gov.sg">chu_ying_sin_roszana@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lu Sunjie, Leon</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lu_sunjie_leon@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lu_sunjie_leon@schools.gov.sg">lu_sunjie_leon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">3E4</td>
     <td class="tg-lm9i">Mr Hong Thin Yong</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>hong_thin_yong@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:hong_thin_yong@schools.gov.sg">hong_thin_yong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">3E5</td>
     <td class="tg-lm9i">Mrs Fu Wen-Ci</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>oh_wen-ci@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:oh_wen-ci@schools.gov.sg">oh_wen-ci@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Jitendra Bhilare</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>jitendra_khashaba_bhilare@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:jitendra_khashaba_bhilare@schools.gov.sg">jitendra_khashaba_bhilare@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">3E6</td>
     <td class="tg-lm9i">Mr Lim Er Song</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_er_song@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lim_er_song@schools.gov.sg">lim_er_song@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Cheong How Min Michelle</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>michelle_cheong@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:michelle_cheong@schools.gov.sg">michelle_cheong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">3E7</td>
     <td class="tg-lm9i">Ms Lim Bee Leng</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_bee_leng_b@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:lim_bee_leng_b@schools.gov.sg">lim_bee_leng_b@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Chia Tai-Yu</td>
