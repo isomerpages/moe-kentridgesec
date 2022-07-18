@@ -2,6 +2,7 @@ collections:
   about-krss:
     output: true
     order:
+      - Organisational Structure/School Advisory Committee.md
       - Organisational Structure/Kent Ridge Executive Committee.md
       - Organisational Structure/.keep
       - Departments/.keep
