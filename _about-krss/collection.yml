@@ -2,10 +2,10 @@ collections:
   about-krss:
     output: true
     order:
-      - Organisational Structure/Teachers and Support Staff.md
-      - Organisational Structure/School Advisory Committee.md
-      - Organisational Structure/Kent Ridge Executive Committee.md
       - Organisational Structure/.keep
+      - Organisational Structure/Kent Ridge Executive Committee.md
+      - Organisational Structure/School Advisory Committee.md
+      - Organisational Structure/Teachers and Support Staff.md
       - Departments/.keep
       - Departments/Craft & Technology.md
       - Departments/English Language & Literature.md
