@@ -2,6 +2,7 @@ collections:
   about-krss:
     output: true
     order:
+      - School's Direction/School Strategy & Focus.md
       - School's Direction/.keep
       - School Crest and Song.md
       - School Mission, Vision & Values.md
