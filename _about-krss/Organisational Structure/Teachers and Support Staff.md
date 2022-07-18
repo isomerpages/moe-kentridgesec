@@ -62,43 +62,43 @@ third_nav_title: Organisational Structure
   </tr>
   <tr>
     <td class="tg-lm9i">Mdm Kalaivani d/o Paneer Selvam</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>kalaivani_paneer_selvam@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:kalaivani_paneer_selvam@schools.gov.sg">kalaivani_paneer_selvam@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">1-5</td>
     <td class="tg-lm9i">Mr Chew Ying Chao</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chew_ying_chao@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chew_ying_chao@schools.gov.sg">chew_ying_chao@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Hong Yunfang</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>hong_yunfang@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:hong_yunfang@schools.gov.sg">hong_yunfang@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">1-6</td>
     <td class="tg-lm9i">Ms Dian Farhana Binte Zulkifli Kaspari</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>dian_farhana_zulkifli_kaspari@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:dian_farhana_zulkifli_kaspari@schools.gov.sg">dian_farhana_zulkifli_kaspari@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mdm How Siow Ling</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>how_siow_ling@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:how_siow_ling@schools.gov.sg">how_siow_ling@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">1-7</td>
     <td class="tg-lm9i">Mr Wong Wai Kit</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>wong_wai_kit@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:wong_wai_kit@schools.gov.sg">wong_wai_kit@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Foo Shuan Chou</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>foo_shuan_chou@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:foo_shuan_chou@schools.gov.sg">foo_shuan_chou@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">1-8</td>
     <td class="tg-lm9i">Mr Mohammad Basheer Bin Adrian</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>mohammad_basheer_adrian@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:mohammad_basheer_adrian@schools.gov.sg">mohammad_basheer_adrian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mrs Loke Wenyi</td>
-    <td class="tg-lm9i"><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>chua_boon_yee@schools.gov.sg</td>
+    <td class="tg-lm9i"><a href="mailto:chua_boon_yee@schools.gov.sg">chua_boon_yee@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="2">2N1</td>
