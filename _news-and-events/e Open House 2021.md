@@ -66,19 +66,19 @@ description: ""
     <td class="tg-0lax"><a href="/about-krss/departments/english-language-literature/">English Language &amp; Literature</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Physical Education</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/physical-education/">Physical Education</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Humanities</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/humanities/">Humanities</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Principles of Accounts</td>
+    <td class="tg-0lax"><a href="/principles-of-accounts/">Principles of Accounts</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Mathematics</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/mathematics/">Mathematics</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Science</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/science/">Science</a></td>
   </tr>
 </tbody>
 </table>
