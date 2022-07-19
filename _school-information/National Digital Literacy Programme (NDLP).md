@@ -57,7 +57,10 @@ img {
 </tbody>
 </table>
 			<p>In order to achieve the desired student outcomes described above, our school has put in place processes to support our students, staff and partners.</p>
-<p><img src="/images/NDLP4.png" alt="NDLP" style="width:75%"></p>
+			<p><img src="/images/NDLP4.png" alt="NDLP" style="width:75%"></p>
+			<p>For instance, all Secondary One students are provided with weekly digital literacy lessons in semester 1 to support them in achieving baseline digital literacies. All students also have access to the digital literacy lessons in the SLS MOE community library. </p>
+<p><strong>Personal Learning Device (PLD)</strong></p>
+
 
     </div>  
 </li>  
