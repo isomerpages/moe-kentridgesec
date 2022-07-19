@@ -106,9 +106,6 @@ img {
 
 <img src="/images/rhd%20psg.png" alt="Racial Harmony Day" style="width:90%;">
 <p style="text-align:center;"><em><strong>Racial Harmony Day</strong> – Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students</em></p>
-
-
-
 </body>
 
 
