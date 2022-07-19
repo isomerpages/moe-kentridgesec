@@ -31,7 +31,74 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">Infocomm Club</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS<br>THURSDAY: 1515 - 1815 HRS</p>
+<p>In line with the School’s Applied Learning Programme (ALP) in “<strong>Computational Thinking through Robotics</strong>”, Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs. </p>
+<p>The training framework for Infocomm Club students details a clear progression of skills from introduction to computational thinking, programming and robotics in Sec 1, to deepening of programming and robotics skills in Sec 2 and 3, to maker skills in Sec 4 and 5. From 2022 onwards, students would also be introduced to Artificial Intelligence (AI) and learn to build simple AI applications, and subsequently create AI solutions through an AI project cycle. </p>
+<p>Students participate in different competitions to hone their skills and are selected based on their learning progress. Through the process of training for the competitions, students learn to apply their skills in new ways, leverage on team members’ strengths to complete complex missions and be resilient in the face of challenges to continue to invent better solutions. </p>
+<p>Students also apply their skills to help others during community projects e.g. prior to the pandemic, Sec 1s introduced robotics to pre-schoolers from a PCF kindergarten by guiding them through different games based on Scratch and mBots that are designed by themselves. Sec 2s and 3s supported the NYAA Gold Award Holders’ Alumni’s effort to raise awareness among the residents at Clementi West, West Coast GRC on e-waste recycling. Students were also invited to participate in a collaboration with ACS (I), where students from ACS (I) shared their expertise in Vex Robotics.</p>
+<p><em><strong>Competitions</strong></em></p>
+<ul>
+<li>Asia Pacific Youth Robotics Competition</li>
+<li>Bebras Computational Thinking Challenge</li>
+<li>Design Thinking with robotics and Computational Thinking Competition</li>
+<li>Hackathon</li>
+<li>National Robotics Competition</li>
+<li>National Software Competition</li>
+<li>Robotics Fiesta – Sumo Challenge</li>
+<li>Spark IT Competition</li>
+<li>Underwater Robotics Olympiad</li>
+<li>World Robo Tournament</li>
+</ul>
+<p><em><strong>Achievements</strong></em></p>
+<p>Asia Pacific Youth Robotics Competition</p>
+<ul>
+<li>2019: Champion in Sumo Senior (doubles)<br>2018: 1st Runner Up, 2nd Runner Up</li>
+</ul>
+<p>Bebras Computational Thinking Challenge</p>
+<ul>
+<li>2018: 1 Gold, 2 Sliver and 7 Bronze</li>
+<li>2017: 1 Gold, 5 Sliver and 6 Bronze</li>
+</ul>
+<p>Design Thinking with robotics and Computational Thinking Competition</p>
+<ul>
+<li>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</li>
+<li>2020: 3 Gold, 6 Silver and 5 Bronze</li>
+<li>2019: 2 Gold, 6 Sliver and 10 Bronze</li>
+</ul>
+<p>Game Jam 1 (Video Game Coding Competition)</p>
+<ul>
+<li>2021: 1 Top Game Award</li>
+</ul>
+<p>National Robotics Competition (World Robot Olympiad)</p>
+<ul>
+<li>2020: 1 Distinction, 1 Merit</li>
+</ul>
+<p>National Software Competition</p>
+<ul>
+<li>2021: 1 Gold, 2 Bronze</li>
+</ul>
+<p>Underwater Robotics Olympiad</p>
+<ul>
+<li>2018: Best Instagram Photo, Top 12 Placing in terms of speed</li>
+</ul>
+<p>World Robo Tournament</p>
+<ul>
+<li>2019:<ul>
+<li>1st Place (Aerodynamic Award)</li>
+<li>1st Place (Best Mechanical Design)</li>
+<li>1st Place (Best Robot Performance)</li>
+<li>1st Place (Fastest Area 1)</li>
+<li>2nd Place (Best Mechanical Design)</li>
+<li>2nd Place (Best Robot Construction)</li>
+<li>2nd Place (Fastest Area 1)</li>
+<li>3rd Place (Fastest Area 1)</li>
+<li>3rd Place (Fastest Area 2)</li>
+<li>3rd Place (Fastest Racer Award)</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Xu Kaibin<br>Mr Ong Wee Kwang<br>Ms Michelle Cheong<br>Mrs Tan Jiayi</p>
+  
     </div>  
 </li>  
 <li>  
