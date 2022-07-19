@@ -38,3 +38,47 @@ description: ""
 </a></p> 
 </body>
 </html>
+
+---
+
+### Instructional Programme
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mother Tongue Language</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">English Language &amp; Literature</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Physical Education</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Humanities</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Principles of Accounts</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Science</td>
+  </tr>
+</tbody>
+</table>
