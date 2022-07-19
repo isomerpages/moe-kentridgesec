@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Direct School Admission 2022/FAQ.md
       - Direct School Admission 2022/Application Procedure.md
       - Direct School Admission 2022/Important Dates to Note.md
       - Direct School Admission 2022/Criteria.md
