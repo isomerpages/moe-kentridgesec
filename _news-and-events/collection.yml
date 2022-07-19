@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - Financial Literacy for Youths (FLY) Race 2021.md
       - Student Leaders’ Investiture 2022.md
       - Community in Nature (CIN) Schools Award 2022.md
