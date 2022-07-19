@@ -25,6 +25,10 @@ third_nav_title: Co Curricular Activities
 <p>This year, the Band participated in the Singapore Youth Festival despite the strict Safe Management Measures during the current COVID-19 pandemic, and pulled through countless hours of online practice sessions, overcoming many limitations and restrictions. Concert Band displayed resilience and perseverance during these trying times, achieving a certificate of Accomplishment for SYF.</p>
 <p><strong>Singapore Youth Festival 2021</strong></p>
 <p> <img src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg" alt="Singapore Youth Festival 2021"></p>
+<p>Serenading the school during school events like CCA Fair and Awards Day cum National Day Celebration, members of the Band have multiple chances to perform for the school. Through this CCA, members become more musically inclined, while learning to cherish the bonds of friendships built during their journey with the Band. Come join us and be a part of “One Band, One Sound”!</p>
+<p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Lam Yao Lun<br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka</p>
+<p><img src="/images/concert%20band.png" alt="Concert Band"></p>
 
     </div>  
 </li>  
