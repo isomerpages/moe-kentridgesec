@@ -8,3 +8,7 @@ links:
     collection: programmes
   - title: Achievements
     collection: achievements
+  - title: News & Events
+    collection: news-and-events
+  - title: Partners
+    collection: partners
