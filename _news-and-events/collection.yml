@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - e Open House 2021.md
       - Secondary 1 Orientation 2022.md
       - MP Visit to KRSS.md
       - Release of GCE ‘N’ Level & ‘O’ Level Results 2022.md
