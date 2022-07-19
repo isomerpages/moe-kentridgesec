@@ -62,7 +62,6 @@ Each year, the PSG committee plans activities for parents, students and teachers
 
 Their areas of involvement include reaching out to the community through Values-In-Action (VIA) projects, as well as supporting the school at the Kent Ridge Olympics (KRO), Entrepreneurship Fair, Careers’ Talk, Sec 4/5 Self-Study Programme and Graduation Ceremony.
 
-
 <style>
 img {
   display: block;
@@ -79,9 +78,22 @@ img {
 
 </body>
 
-![](/images/cny%20psg.png)
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 
-_**Chinese New Year Celebrations** – Annual CNY celebrations with PSG team joining in with the celebrations!_
+
+<img src="/images/cny%20psg.png" alt="Chinese New Year Celebrations" style="width:90%;">
+<p><em><strong>Chinese New Year Celebrations</strong> – Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
+
+
+</body>
 
 ![](/images/rhd%20psg.png)
 
