@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Alumni.md
       - Students/.keep
       - Students/Overview.md
       - Students/Kent Ridgean of the Year.md
