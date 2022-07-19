@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum Support/Experiential Learning Week.md
       - Curriculum Support/Curriculum Support Programmes.md
       - Curriculum Support/.keep
       - Co Curricular Activities/.keep
