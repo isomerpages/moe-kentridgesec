@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/Subject Based Banding (Secondary).md
       - Sec 1 Registration 2021/Mother Tongue Languages (MTL) Matters.md
       - Sec 1 Registration 2021/KRSS Co Curricular Activities (CCA)
         Information.md
