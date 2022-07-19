@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Science Talent Development Programme.md
       - KHCC WEC Sandwich Competition 2021.md
       - 21st Annual Awards Day cum National Day Celebration.md
       - e Open House 2021.md
