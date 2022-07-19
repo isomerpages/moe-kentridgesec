@@ -36,4 +36,4 @@ All Secondary 1 students will experience the **Robotics Proficiency Programme**
 
 ![Secondary 2 Project Work](/images/Secondary%202%20Project%20Work_1.png)
 
-![Secondary 2 Project Work](/images/Secondary%202%20Project%20Work_2.png)
+![Secondary 2 Project Work](/images/Secondary%202%20Project%20Work_22.png)
