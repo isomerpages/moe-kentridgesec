@@ -20,7 +20,11 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">eARTh Club</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS<br>THURSDAY: 1515 - 1815 HRS</p>
+<p>Established in 2016, eARTh Club continues to march on in our mission to raise awareness to promote respect and care for our environment with the infusion of Art elements. Our members serve as advocates for the environment and gain opportunities to get in touch with nature through learning journeys to locations such as Siloso Beach Resort, Gardens by the Bay and Tuas Incineration Plant. Our club also works closely with external partners such as NEA, Southwest CDC and MINDS Lee Kong Chian Gardens School in coming up with exciting programmes and activities for our members. Our members also get to hone their creativity and artistic talents in designing educational posters to raise awareness on contemporary environmental issues. Our club aspires to continue to be the change we want to see in this world!</p>
+<p><em><strong>Achievements</strong></em><br>2019 – Green Schools @ South West – Gold Award<br>2018 – Green Schools @ South West – Gold Award<br>2017 – Green Schools @ South West – Gold Award<br>2016 – Green Schools @ South West – Gold Award</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Kenneth Pek<br>Mr Hong Thin Yong</p>
+<p><img src="/images/eARTH%20Club.png" alt="eARTH Club"></p>  
     </div>  
 </li>  
 <li>  
@@ -37,5 +41,5 @@ third_nav_title: Co Curricular Activities
       <p>This is a simple one line item</p>  
     </div>  
 </li>  
-
 </ul>
+
