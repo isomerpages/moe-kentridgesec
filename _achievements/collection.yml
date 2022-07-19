@@ -2,10 +2,10 @@ collections:
   achievements:
     output: true
     order:
-      - Students/CanREACH Award.md
-      - Students/Kent Ridgean of the Year.md
-      - Students/Overview.md
       - Students/.keep
+      - Students/Overview.md
+      - Students/Kent Ridgean of the Year.md
+      - Students/CanREACH Award.md
       - Staff/.keep
       - Staff/School.md
       - Staff/National and MOE.md
