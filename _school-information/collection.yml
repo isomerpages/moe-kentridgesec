@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/HPB School Health and Dental Services.md
       - Sec 1 Registration 2021/School Counselling Support.md
       - Sec 1 Registration 2021/Arrangements for Students with Special
         Educational Needs (SEN).md
