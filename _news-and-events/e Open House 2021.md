@@ -55,30 +55,30 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a</th>
+    <th class="tg-0pky"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Mother Tongue Language</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Mother Tongue Language</td>
   </tr>
   <tr>
-    <td class="tg-0lax">English Language &amp; Literature</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>English Language &amp; Literature</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Physical Education</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Physical Education</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Humanities</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Humanities</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Principles of Accounts</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Principles of Accounts</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mathematics</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Science</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Science</td>
   </tr>
 </tbody>
 </table>
