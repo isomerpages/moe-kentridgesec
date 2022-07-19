@@ -2,6 +2,8 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/Arrangements for Students with Special
+        Educational Needs (SEN).md
       - Sec 1 Registration 2021/National Digital Literacy Programme (NDLP).md
       - Sec 1 Registration 2021/Art & Music Elective Programmes (AEP and MEP).md
       - Sec 1 Registration 2021/Subject Based Banding (Secondary).md
