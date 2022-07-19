@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Staff/National and MOE.md
       - Staff/School.md
       - Staff/.keep
