@@ -108,12 +108,33 @@ img {
 <p style="text-align:center;"><em><strong>Racial Harmony Day</strong> – Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students</em></p>
 </body>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 
-![](/images/Careers’%20Talk%20psg.jpg)
 
-_**Careers’ Talk** – Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students
+<img src="/images/Careers’%20Talk%20psg.jpg" alt="Careers’ Talk" style="width:90%;">
+<p style="text-align:center;"><em><strong>Careers’ Talk</strong></em> - Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students</p>
 
-![](/images/PSG-9.jpg)
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/PSG-9.jpg" alt="We Want You!" style="width:40%;">  
+  
+</body>
+
 
 **Parent Volunteers**
 
