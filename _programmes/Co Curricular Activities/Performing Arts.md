@@ -29,20 +29,26 @@ third_nav_title: Co Curricular Activities
 <p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Lam Yao Lun<br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka</p>
 <p><img src="/images/concert%20band.png" alt="Concert Band"></p>
-
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">Dance Club</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS<br>THURSDAY: 1515 - 1815 HRS</p>
+<p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and enthusiastic team of students, teachers and instructors. Our programme’s objectives are to create a conducive, safe and collaborative environment for students to appreciate and explore a variety of dance genres consisting mainly of contemporary and jazz along with hip-hop, ballroom and ballet. To develop their confidence and stage presence, students are exposed to school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as external platforms like the Singapore Youth Festival Arts Presentation, Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the scenes, the dancers build their skills through holiday workshops and inter-school exchanges. We welcome you to the Modern Dance Club, a family that braves challenges together and where everyone is allowed to grow at their own pace.</p>
+<p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Kalpana<br>Ms Arfah Lubis<br>Ms Tew Yu Chan</p>
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
     <label for="accordion4">Drama Club</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS<br>THURSDAY: 1515 - 1815 HRS</p>
+<p>At Kent Ridge, the Drama Club is a vibrant CCA and currently stands at 34-strong. Kent Ridge Drama Club fosters a strong bond between the members who work together as a team within individual strengths. The school currently engages Toy Factory Productions Ltd which have been partners of Kent Ridge Secondary since 2020. The club explores different theatrical plays and seeks to not only entertain but also educate our audiences through our dramatic pieces, ranging from modern to tradiitonal. The Kent Ridge Drama Club participates in the Singapore Youth Festival Arts Presentation (SYF AP) once every two years, where we recently attained a Certificate of Commendation in 2019. The piece entitled ‘Intertwined’ explores the theme of modern slavery in a family, where different circumstances were explored with each character in the family. On alternate years, we participate in our school’s very own concert, Vivace! as well as other external performances. Not only that, Kent Ridge Drama Club seeks to explore learning through watching professional plays outside of school. Whenever we have the opportunity, we explore collaboration pieces with other schools or organisations locally. The Drama Club fills the lively atmosphere of the school in school performances like CCA Fair, Awards Day cum National Day Celebration and other performances. Our members not only learn to be artistically inclined but they cherish the bonds of friendships built during their stay with us. Be a member of the Drama Club and we hope to see you soon!</p>
+<p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Commendation<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm Siti Suhara<br>Ms Dian Farhana<br>Ms Eve Lai</p>
+<p><img src="/images/drama%20club.png" alt="Drama Club"></p>
     </div>  
 </ul>
