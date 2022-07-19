@@ -2,11 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - Parents Gateway/Update Contact Details in Parents Gateway.md
-      - Parents Gateway/Travel Declaration.md
-      - Parents Gateway/Onboarding.md
-      - Parents Gateway/Parents Gateway.md
       - Parents Gateway/.keep
+      - Parents Gateway/Parents Gateway.md
+      - Parents Gateway/Onboarding.md
+      - Parents Gateway/Travel Declaration.md
+      - Parents Gateway/Update Contact Details in Parents Gateway.md
       - Student Learning Space.md
       - School Based Student Health Advisor (SHA) Programme.md
       - National Digital Literacy Programme (NDLP).md
