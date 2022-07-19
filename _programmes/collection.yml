@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Overseas Learning Journeys/Hanoi.md
       - Overseas Learning Journeys/.keep
       - Curriculum Support/.keep
       - Curriculum Support/Curriculum Support Programmes.md
