@@ -31,14 +31,23 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">National Cadet Corps</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS</p>
+<p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities. The seven core values that our NCC seeks to inculcate are Leadership, Discipline, Uprightness, Loyalty to Singapore, Commitment and Responsibility, Care for Fellow Cadets and Adventurous Spirit. With the support from NCC HQ, the unit aims to provide a diverse range of challenging and enriching activities such as Camp Forge, Camp Steel, self-defence workshops, Orienteering trainings, total defence programs and fitness trainings that enhance character development, military awareness, National Education, leadership skills and an adventurous spirit. Our cadets are also engaged in VIA, so as to help develop their sense of social responsibility.</p>
+<p><strong><em>Achievements (BUC)</em></strong><br>2019 - Unit Recognition - Distinction<br>2018 - Unit Recognition - Distinction<br>2017 - Best Unit Competition - Gold<br>2017 - Best Unit Competition - Sliver<br>2017 - Best Unit Competition - Gold</p>
+<p>2019 - Road Relay Competiton Finalist<br>2019 - Fitness Challenge Finalist<br>2018 - Orienteering Competition Overall Champians<br>2018 - Road Relay Competiton 4th Placing<br>2018 - Fitness Challenge Finalist</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Tay Kok Liang<br>Mr Ramish<br>Mr Randall Lim</p>
+<p><img src="/images/NCC.png" alt="National Cadet Corps"></p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
     <label for="accordion4">National Police Cadet Corps</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS</p>
+<p>The Kent Ridge Secondary School&#39;s National Police Cadet Core (NPCC) develops our students to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe. NPCC aims to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world. Our programmes and activities are designed to develop leaders with good character and values, to build bonds with the Singpaore Police Force, and to show care and concern to those who are in need. We want our cadets to be resilient and to be able to face challenges and turn them to opportunities while striving for excellence. NPCC cadets discover themselves by stepping out and interacting with others in their lower secondary years. The cadets progress to have experiences of being leaders as they take charge of their juniors and events, with the ultimate goal of leading the Unit.</p>
+<p><strong><em>Achievements</em></strong><br>2019 - Unit Overall Proficiency Award - Silver<br>2018 - Unit Overall Proficiency Award - Silver<br>2017 - Unit Overall Proficiency Award - Silver<br>2016 - Unit Overall Proficiency Award - Silver<br>2015 - Unit Overall Proficiency Award - Bronze</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mr Wong Chin Seng<br>Mdm Haizurah Kadir Mydin<br>Ms Vivien Tan</p>  
     </div>  
 </li>  
 </ul>
+
