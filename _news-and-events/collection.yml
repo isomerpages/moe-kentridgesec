@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Mother Tongue Fortnight 2022.md
       - NUS Geography Challenge 2022.md
       - ApLM@ITE & ApLM@Poly 2022.md
       - Singapore Amazing Flying Machine Competition 2022.md
