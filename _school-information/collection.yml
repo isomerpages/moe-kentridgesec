@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Direct School Admission 2022/Criteria.md
       - Direct School Admission 2022/Terms and Conditions.md
       - Direct School Admission 2022/Main Page.md
       - Direct School Admission 2022/Direct School Admission 2022.md
