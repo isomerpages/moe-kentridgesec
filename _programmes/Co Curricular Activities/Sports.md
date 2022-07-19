@@ -27,7 +27,9 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">Basketball</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1515 -1815 HRS (BOYS)<br>WEDNESDAY: 1600 – 1815 HRS (GIRLS)<br>FRIDAY: 1330 –1545 HRS (GIRLS)</p>
+<p>Our motto of “One Voice, One Team, One Goal!” spells out the motivational force of our Basketball Team. We have &#39;B&#39; and &#39;C&#39; Divisions Boys and Girls teams, with a healthy recruitment of members from each gender yearly. The Indoor Sports Hall Level 1 is home to our training; aspiring to provide our students with a platform for acquiring new skills, techniques and strategies in basketball as we believe in a structured training programme to harness the potentials of our players. Our teams focus on both offensive and defensive basketball strategies where every player is responsible in improving their personal mastery while staying grounded with our school values of resilience and sportsmanship. We strongly believe in harnessing student leadership and will create suitable leadership positions such as Captain, Vice-Captains, Student Well-Being Representatives, Training, VIA, Logistics and Administration Personnel to develop our students to be well-rounded future leaders. Training sessions take place at the school’s Indoor Sports Hall Level 1.</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Vincent Lim<br>Mrs Kalaivani Selvin<br>Mrs Roszana Teo</p>  
     </div>  
 </li>  
 <li>  
