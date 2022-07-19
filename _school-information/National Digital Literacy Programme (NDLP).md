@@ -98,8 +98,6 @@ img {
 </ul>
 <p>  </p>
 <p>Schools may also choose to roll out applications other than those listed above. The school will need to use your child’s/ward’s personal data such as his/her name and class to set up user accounts.</p>
-
-			
     </div>  
 </li>  
 <li>  
@@ -110,4 +108,3 @@ img {
     </div>  
 </li>    
 </ul>
-
