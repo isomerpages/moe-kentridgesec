@@ -168,7 +168,16 @@ Typically, PVs sign up to join the PSG during the Secondary 1 Orientation. Howev
 
 Presenting the KR20-20 Limited Edition Commemorative Mask which was launched in conjunction with the school’s 20th Anniversary Celebration. These Limited Edition masks feature the design of the school’s official 20th Anniversary logo and are available in white and black. Contact us for more information if you are interested to own a piece of the history of Kent Ridge Secondary School.
 
-![](/images/About%20the%20Masks.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/About%20the%20Masks.png" alt="About the Masks" style="width:80%;">  
+  
+</body>
 
 Please click the following link to place orders for the KR20-20 Limited Edition Commemorative Mask
 
