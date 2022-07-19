@@ -56,6 +56,9 @@ img {
   </tr>
 </tbody>
 </table>
+			<p>In order to achieve the desired student outcomes described above, our school has put in place processes to support our students, staff and partners.</p>
+<p><img src="/images/NDLP4.png" alt="NDLP" style="width:75%"></p>
+
     </div>  
 </li>  
 <li>  
