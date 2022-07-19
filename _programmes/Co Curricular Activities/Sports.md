@@ -4,8 +4,6 @@ permalink: /programmes/co-curricular-activities/sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
@@ -36,14 +34,20 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">Floorball</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1815 HRS<br>THURSDAY: 1515 - 1815 HRS</p>
+<p>KRSS Floorball Team was established in 2008 with a pioneer cohort of 36 enthusiastic Kent Ridgeans. Growing in strength over the last 12 years, the CCA now comprises of more than 100 dedicated players. Floorball was introduced to students as a team sport to allow learning beyond the classroom. Besides developing physical fitness, our CCA programme aims to help students develop personal qualities such as teamwork, discipline and leadership skills. Floorball is an indoor sport and is usually played with 16 players in a competition team. It is fast gaining popularity in our school and Singapore as it is easy to pick up and fun to play. Skills trainings are conducted in indoor venues with fibreglass panel boards to build up our skills and game strategies. To give our players greater exposure, friendly matches are arranged to let them gain experience and increase their confidence level during competitions.</p>
+<p><strong><em>Achievements</em></strong><br>2020 - No National Competition was conducted by the Ministry due to the Health Pandemic.<br>2019 - SFA &#39;C&#39; Div Floorball Plate &amp; Bowl Competition (Boys Plate Category) - Champion<br>2019 - SFA &#39;B&#39; Div Floorball Plate &amp; Bowl Competition (Girls Bowl Category) - Silver<br>2017 - SFA ‘B’ Div Floorball Plate &amp;  Bowl Competition (Boys Bowl Category) - Champion<br>2017 - SFA ‘B’ Div Floorball Plate &amp; Bowl Competition (Girls Bowl Category) - 4th Place</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Jitendra<br>Ms Siti Fadzilah<br>Mdm Siti Hajar<br>Mr Leon Lu</p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
     <label for="accordion4">Football</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1515 - 1815 HRS (&#39;C&#39; DIVISION)<br>MONDAY &amp; WEDNESDAY: 1515 - 1815 HRS (&#39;B&#39; DIVISION)</p>
+<p>The Kent Ridge Football Team takes part in training sessions and tournaments regularly, from which they learn valuable lessons in discipline, commitment and teamwork. As a result, many of the players have moved on to compete at the Singapore League as well as in the National level. In addition, these boys are committed to serving the society and caring for the less fortunate through various Community Involvement Projects. The Football Team has consistently achieved top placings in the South Zone Football Championship since 2006.</p>
+<p><strong><em>Achievements</em></strong><br>2017 – South Zone Inter-School Soccer Championship &#39;B&#39; Division (Champion)</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Rishabh<br>Mr Mohd Helmy<br>Mr Chia Tai-Yu</p>  
     </div>  
 </li>  
 <li>  
