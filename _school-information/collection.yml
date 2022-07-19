@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Parents Gateway/Parents Gateway.md
       - Parents Gateway/.keep
       - Student Learning Space.md
       - School Based Student Health Advisor (SHA) Programme.md
