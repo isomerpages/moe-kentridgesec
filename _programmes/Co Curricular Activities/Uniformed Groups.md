@@ -4,7 +4,7 @@ permalink: /programmes/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Boys' Brigade</label>  
@@ -50,4 +50,3 @@ third_nav_title: Co Curricular Activities
     </div>  
 </li>  
 </ul>
-
