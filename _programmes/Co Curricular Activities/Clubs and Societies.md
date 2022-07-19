@@ -98,15 +98,24 @@ third_nav_title: Co Curricular Activities
 </li>
 </ul>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Xu Kaibin<br>Mr Ong Wee Kwang<br>Ms Michelle Cheong<br>Mrs Tan Jiayi</p>
-  
+<p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
     <label for="accordion4">Media Club</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1730 HRS<br>THURSDAY: 1500 - 1730 HRS</p>
+<p>The Media Club, formerly known as the AVA Club, began in 2000 with only six pioneer members under the Media Resource Library. 2002 was a milestone for the club as it celebrated its recognition as an official CCA. As a service-oriented CCA, with a strength of 80 members to date, Media Club has thrived through the sheer dedication of its teachers and members in all school events pertaining to Audio Visual (AV) support, live telecasting, video shooting, digital photography, production of videos and photo slideshows. Students build their expertise by undergoing training in workshops and engaging with multiple hands-on projects to develop artefacts that can be used in their portfolios. They are also supported with a wide range of equipment from studio lighting to DSLR cameras. In addition, members are exposed to a plethora of talks, exhibitions and competitions to express their creativity and skills as well as to showcase their works.</p>
+<p><strong>Vision:</strong> Equip members with useful technological skills through independent learning and personal experience. </p>
+<p><strong>Training structure:</strong><br>Year 1 – Basic Photography / Videography<br>Year 2 &amp; 3 – Choice of:  </p>
+<p><u>Advanced Photography</u> – training in genres such as Studio / Portrait photography, Light painting, Photo journalism, Sports &amp; Events photography, Architecture photography, Photo editing e.t.c.</p>
+<p>Or  </p>
+<p><u>Advanced Videography</u> – training in shooting of video genres such as visual documentaries, interviews, video logs, dramas, advertisements, video editing using special particle effects and green screen effects e.t.c.</p>
+<p>Note: All students will learn to operate basic AV equipment to support school operations.</p>
+<p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
+<p><strong><em>Achievements</em></strong><br>2021: N.E.mation!2021 - Champion<br>2021: #ClickArt S2 Cluster Showcase 2021 - 2 Distinctions<br>2020: N.E.mation!2021 - Top 10<br>2020: Our Schools, Our Storiees - Best Photo Story<br>2019: CNB #DrugFreeSG - 2nd<br>2019: N.E.mation!2020 - Top 10<br>2018: Hear and Now - Listen (A video on Dementia) - Special Commendation<br>2017 : N.E.mation! 11 – Top 10</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic<br>Mr Yang Kuangji</p>  
     </div>  
 </li>  
 </ul>
-
