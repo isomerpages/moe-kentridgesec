@@ -60,10 +60,10 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Mother Tongue Language</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/mother-tongue-languages/">Mother Tongue Language</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>English Language &amp; Literature</td>
+    <td class="tg-0lax"><a href="/about-krss/departments/english-language-literature/">English Language &amp; Literature</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/about-krss/departments/craft-technology/">Craft &amp; Technology</a>Physical Education</td>
