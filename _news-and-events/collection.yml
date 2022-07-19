@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - MP Visit to KRSS.md
       - Release of GCE ‘N’ Level & ‘O’ Level Results 2022.md
       - Mother Tongue Fortnight 2022.md
       - NUS Geography Challenge 2022.md
