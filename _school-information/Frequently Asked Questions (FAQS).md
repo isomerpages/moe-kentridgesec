@@ -3,7 +3,7 @@ title: Frequently Asked Questions (FAQS)
 permalink: /school-information/frequently-asked-questions-faqs/
 description: ""
 ---
-**A. School Information**
+##### **A. School Information**
 
 **1\. Where is the school located?**
 
@@ -24,3 +24,13 @@ We operate from 7.00 am to 6.30 pm on school days and from 8.00 am to 5.30 pm du
 **5\. What are the school terms?**
 
 There are four terms in an academic year. Click [here](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022) to check MOE’s School Terms and Holidays.
+
+##### B. School Programmes
+
+**6\. What are Kent Ridge Secondary School’s distinctive programmes?**
+
+All Ministry of Education (MOE) schools have two distinctive programmes: the Applied Learning Programme (ALP) and Learning for Life Programme (LLP). These distinctive programmes provide opportunities for students to discover their strengths and interests, and to find greater relevance and motivation in their learning. Our ALP is STEM (Science, Technology, Engineering and Mathematics)-focused:
+
+Computational Thinking through Robotics. Please click [here](/programmes/distinctive-programmes/applied-learning-programme/) for more information on our ALP.
+
+Our LLP focuses on Sports and Outdoor Education (Education Values of Olympism @ Kent Ridge (EVOKE!)). Please click [here](/programmes/distinctive-programmes/learning-for-life-programme/) for more information on our LLP.
