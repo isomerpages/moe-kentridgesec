@@ -24,7 +24,16 @@ third_nav_title: Staff
 **President’s Award For Teachers 2020, Finalist  
 Mr Vincent Heng Swee Chye**
 
-![Mr Vincent Heng Swee Chye](/images/PAT-20201.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/PAT-20201.png" alt="Mr Vincent Heng Swee Chye" style="width:80%;">  
+  
+</body>
 
 The President’s Award for Teachers (PAT) recognises excellent educators for their role in moulding the future of our nation. In recognition of his inspiration to his students and peers, Mr Vincent Heng was a finalist of the PAT 2020. He is a caring educator and is committed to developing his students to the fullest potential. Mr Heng started his journey in Kent Ridge in 2005. He believes in developing the leadership potential in his students and started the Sports Leadership Programme, Kent Ridge Olympics and Vivace! Mr Heng is a firm believer of discipline but does not believe in meting out punishments. He believes in turning moments of wrong-doing into opportunities to explain what went wrong and to provide students with better routines to follow. Mr Heng holds the idea of ‘caring is discipline’ close to his heart. He takes every opportunity available to inculcate the right values in students. Mr Heng heads the Department of PE & CCA. Educators like him constantly adopt innovative approaches in their lessons, and are lifelong learners and mentors to their peers. Through their words and deeds, these educators are an inspiration to their students and colleagues.
 
