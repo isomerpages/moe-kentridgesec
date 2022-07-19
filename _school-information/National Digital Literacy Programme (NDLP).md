@@ -17,3 +17,20 @@ img {
 <body><img src="/images/NDLP.jpg" alt="NATIONAL DIGITAL LITERACY PROGRAMME (NDLP)" style="width:80%;">  
   
 </body>
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">NDLP in Kent Ridge Secondary School</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2">Acceptable Use Policy (AUP)</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>    
+</ul>
