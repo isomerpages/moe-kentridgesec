@@ -23,7 +23,39 @@ img {
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">NDLP in Kent Ridge Secondary School</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+			<p>Our school strives to develop Kent Ridgeans who are</p>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h4iq{background-color:#FFF;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dq4l{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h4iq"><img src="https://kentridgesec.moe.edu.sg/wp-content/uploads/2021/10/NDLP1-300x161.jpg" alt="NDLP1" width="101" height="54"></th>
+    <th class="tg-dq4l"><img src="https://kentridgesec.moe.edu.sg/wp-content/uploads/2021/10/NDLP2-300x161.jpg" alt="NDLP2" width="73" height="39"></th>
+    <th class="tg-dq4l"><img src="https://kentridgesec.moe.edu.sg/wp-content/uploads/2021/10/NDLP3-300x161.jpg" width="90" height="48"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1jgz"><span style="font-weight:bold">Passionate Learners</span></td>
+    <td class="tg-1jgz"><span style="font-weight:bold">Self-directed Learners</span></td>
+    <td class="tg-1jgz"><span style="font-weight:bold">Responsible and Effective Digital Learners</span></td>
+  </tr>
+  <tr>
+    <td class="tg-e404"><span style="font-weight:400">who link what they have learnt to own experiences and real world, ask questions to satisfy their curiosity and seek to find their own answers, whether through observation, research or experimentation</span></td>
+    <td class="tg-e404"><span style="font-weight:400">who take initiative to formulate learning goals, identify resources for learning, choose and implement appropriate learning strategies and evaluate learning outcomes</span></td>
+    <td class="tg-e404"><span style="font-weight:400">who can leverage digital and physical resources safely, responsibly and effectively, both independently and with others, in their learn</span></td>
+  </tr>
+</tbody>
+</table>
     </div>  
 </li>  
 <li>  
@@ -34,3 +66,4 @@ img {
     </div>  
 </li>    
 </ul>
+
