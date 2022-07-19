@@ -62,9 +62,22 @@ Each year, the PSG committee plans activities for parents, students and teachers
 
 Their areas of involvement include reaching out to the community through Values-In-Action (VIA) projects, as well as supporting the school at the Kent Ridge Olympics (KRO), Entrepreneurship Fair, Careers’ Talk, Sec 4/5 Self-Study Programme and Graduation Ceremony.
 
-![](/images/kro%20psg.png)
 
-_**Kent Ridge Olympics (KRO)** – PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!_
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+<img src="/images/kro%20psg.png" alt="Kent Ridge Olympics (KRO)" style="width:90%;">
+<p><em><strong>Kent Ridge Olympics (KRO)</strong> – PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!</em></p>
+
+</body>
 
 ![](/images/cny%20psg.png)
 
