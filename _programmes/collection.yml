@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Overseas Learning Journeys/Hong Kong.md
       - Overseas Learning Journeys/Shanghai.md
       - Overseas Learning Journeys/Hanoi.md
       - Overseas Learning Journeys/.keep
