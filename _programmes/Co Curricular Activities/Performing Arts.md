@@ -50,5 +50,6 @@ third_nav_title: Co Curricular Activities
 <p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Commendation<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mdm Siti Suhara<br>Ms Dian Farhana<br>Ms Eve Lai</p>
 <p><img src="/images/drama%20club.png" alt="Drama Club"></p>
-    </div>  
+    </div>
+	</li> 
 </ul>
