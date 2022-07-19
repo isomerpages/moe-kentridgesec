@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Frequently Asked Questions (FAQS).md
       - Parents Gateway/.keep
       - Parents Gateway/Parents Gateway.md
       - Parents Gateway/Onboarding.md
