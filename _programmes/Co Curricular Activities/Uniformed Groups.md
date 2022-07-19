@@ -7,28 +7,28 @@ third_nav_title: Co Curricular Activities
 <ul class="jekyllcodex\_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Department Members:</label>  
+    <label for="accordion1">Boys' Brigade</label>  
     <div>  
       <p>This is a simple one line item</p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Mathematics Framework</label>  
+    <label for="accordion2">Girls' Brigade</label>  
     <div>  
       <p>This is a simple one line item</p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Learning Support</label>  
+    <label for="accordion3">National Cadet Corps</label>  
     <div>  
       <p>This is a simple one line item</p>  
     </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
-    <label for="accordion4">Math Enrichment</label>  
+    <label for="accordion4">National Police Cadet Corps</label>  
     <div>  
       <p>This is a simple one line item</p>  
     </div>  
