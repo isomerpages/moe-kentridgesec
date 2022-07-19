@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Based Student Health Advisor (SHA) Programme.md
       - National Digital Literacy Programme (NDLP).md
       - MOE Sexuality Education in Schools.md
       - Direct School Admission 2022/.keep
