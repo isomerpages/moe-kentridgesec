@@ -73,7 +73,33 @@ img {
 </ul>
 <p>Parents/guardians can choose between these 3 DMA After-School Parent Options to suit their preferences for managing the PLDs <strong>after school hours</strong>. Parents can request to change their choice of DMA option by submitting this form: <a href="http://go.gov.sg/krssdmaoptions">http://go.gov.sg/krssdmaoptions</a>. The request will be processed by the school <strong>at the end of every month</strong>.</p>
 <p><img src="/images/Slide2-225x300.jpg" alt="Device Management Application (DMA)" style="width:80%"></p>
+<p><strong>Cyber-wellness</strong></p>
+<p>The school has in place measures to enable a safe and seamless learning environment for students. Parents play a key role in partnering the school to support their child. </p>
+<ul>
+<li><p><strong>Educating students on Cyber-Wellness and Digital Literacies</strong>. MOE has made significant changes to the Character and Citizenship Education (CCE) curriculum. Cyber-Wellness lessons will feature significantly in the CCE2021 lessons. Students will also continue to learn to be respectful, safe, and responsible users of technology through various student learning experiences.  </p>
+</li>
+<li><p><strong>Device Management Application (DMA)</strong>. The DMA plays an important role in helping the school to safeguard students’ cyber-wellness by:</p>
+<ul>
+<li>collecting data on usage by the student, such as the amount of time spent on each application, </li>
+<li>monitoring, filtering and limiting the type of websites accessible to the student, and</li>
+<li>placing restrictions on students’ screen time in order to prevent cyber addiction.</li>
+</ul>
+<p> </p>
+</li>
+<li><p><strong>Acceptable Use Policy (AUP)</strong>. The AUP helps to establish a common understanding of what constitutes an acceptable and appropriate use of the PLD, so as to enable a conducive learning environment. Parents could refer to the AUP when helping to manage their child’s use of the PLD.</p>
+</li>
+</ul>
+<p><strong>Roll-Out of IT Applications as part of the NDLP</strong></p>
+<p>As part of the NDLP, schools will progressively roll out IT applications that will be vital to students’ learning experience and educational journey. The school will roll out some or all of the following applications:</p>
+<ul>
+<li><strong>Student</strong> <strong>iCON</strong>: Every secondary school student will be given an email address. This is a service provided by Google as part of Google Suite. </li>
+<li><strong>Microsoft</strong> <strong>Pro Plus</strong>: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel. </li>
+<li><strong>Zoom</strong>: Every secondary school student will be given a Zoom free account with a 40-min time limit using the Student iCON for the students’ video conferencing needs.</li>
+</ul>
+<p>  </p>
+<p>Schools may also choose to roll out applications other than those listed above. The school will need to use your child’s/ward’s personal data such as his/her name and class to set up user accounts.</p>
 
+			
     </div>  
 </li>  
 <li>  
@@ -84,3 +110,4 @@ img {
     </div>  
 </li>    
 </ul>
+
