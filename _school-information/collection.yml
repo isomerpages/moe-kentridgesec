@@ -2,6 +2,8 @@ collections:
   school-information:
     output: true
     order:
+      - Sec 1 Registration 2021/Secondary One Students using Primary Level
+        School Smart Card (SSC).md
       - Sec 1 Registration 2021/2022 Sec 1 Parents Briefing (Online).md
       - Sec 1 Registration 2021/2022 Sec 1 Orientation Programme.md
       - Sec 1 Registration 2021/First Day of School.md
