@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Direct School Admission 2022.md
       - Code of Conduct.md
       - Sec 1 Registration 2021/.keep
       - Sec 1 Registration 2021/Information for 2022 Sec 1 Students.md
