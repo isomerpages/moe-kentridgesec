@@ -2,4 +2,5 @@ collections:
   news-and-events:
     output: true
     order:
+      - Student Leaders’ Investiture 2022.md
       - Community in Nature (CIN) Schools Award 2022.md
