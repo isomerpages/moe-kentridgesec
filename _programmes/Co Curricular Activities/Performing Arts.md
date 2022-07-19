@@ -4,7 +4,7 @@ permalink: /programmes/co-curricular-activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Department Members:</label>  
