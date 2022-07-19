@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - Curriculum Support/Kent Ridge Olympics (KRO).md
-      - Curriculum Support/Experiential Learning Week.md
-      - Curriculum Support/Curriculum Support Programmes.md
       - Curriculum Support/.keep
+      - Curriculum Support/Curriculum Support Programmes.md
+      - Curriculum Support/Experiential Learning Week.md
+      - Curriculum Support/Kent Ridge Olympics (KRO).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Clubs and Societies.md
       - Co Curricular Activities/Performing Arts.md
