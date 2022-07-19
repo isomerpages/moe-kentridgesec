@@ -5,6 +5,4 @@ description: ""
 ---
 A throwback to the recent Student Leaders' Investiture where we showed our appreciation to outgoing leaders and welcomed new leaders to take on the mantle. Student Leaders were presented with certificates and badges by our School Leaders and stood proud as they took their oaths of service to the school and student body.
 
-![Student Leaders’ Investiture 2022](/images/Student%20Leaders’%20Investiture%202022_1.png)
-
-![Student Leaders’ Investiture 2022](/images/Student%20Leaders’%20Investiture%202022_2.png)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_2J_9NeEJHZ7QeK5stU_sTv2F4Q3Hi0lCAR98wikk1Xi_VQDPkmg7i3TmOQZAF-Mh1dLQ9UWWvpNk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
