@@ -140,9 +140,23 @@ img {
 
 The PSG relies on the team of Parent Volunteers (PV) to help organise and participate in many of our activities. Coming from various backgrounds, the skills and resources available from our PVs help in many ways, from sourcing for items required to run events to simply volunteering time and effort to participate in activities. Registered PVs are regularly updated on current and upcoming activities in the school. As a KRSS family, we also support each other by sharing information and advice.
 
-![](/images/Secondary%201%20Orientation%20Day.jpg)
 
-_**Secondary 1 Orientation Day** – The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs._
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+<img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:90%;">
+<p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong> – The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
+
+
+</body>
 
 **Signing Up As A PV**
 
