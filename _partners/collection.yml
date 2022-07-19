@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Kit.md
       - Community Partners.md
       - Family Matters!.md
       - Parent Support Group.md
