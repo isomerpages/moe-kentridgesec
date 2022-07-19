@@ -29,4 +29,12 @@ Secondary Two students are to choose one elective. The sports allow students to 
 
 ### Learning Journeys
 
+Learning journeys promote active learning and are a platform for the real-life application of classroom instruction. They allow students to better understand Singapore’s vulnerabilities and the journey Singapore has taken from third world to first world status through overcoming hardships and constraints. Thus, through their participation in learning journeys, students would be better able to appreciate what Singapore has accomplished and to feel pride and confidence in the nation.
+
+![Learning journeys](/images/Learning%20Journeys.png)
+
 ### Experiential Week
+
+The annual Experiential Week is a school-wide platform where all students are engaged in learning beyond the classroom. Programmes include learning journeys and camps with the camp for Secondary 3 students held in Malaysia. Experiential Week is anchored by KR Hands-On Day, the annual Values In-Action (VIA) programme which aims to inculcate in students empathy for others and a sense of service to the community.
+
+![Experiential Week](/images/Experiential%20Week.png)
