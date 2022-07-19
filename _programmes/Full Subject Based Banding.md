@@ -44,3 +44,7 @@ By 2024, secondary schools will have implemented the following aspects of Full S
   </tr>
 </tbody>
 </table>
+
+For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).  
+
+For more information on how our school will be implementing Full SBB, you can contact us at [krss@moe.edu.sg](mailto:krss@moe.edu.sg).
