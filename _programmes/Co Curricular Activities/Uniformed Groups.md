@@ -23,7 +23,8 @@ third_nav_title: Co Curricular Activities
 <p>The Girls’ Brigade&#39;s mission is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer to be a servant leader. This is done through the GB programme, which is meant to develop the girls&#39; character, social-emotional and leadership competencies. They will learn good values, be equipped with leadership skills, and be given the opportunities to lead and serve at home, in the company, and in their local community through planning and executing activities such as camps and VIA activities. They can attain the rank of Master Staff Sergeant by Sec 4 or Sec 5 in their leadership journey, with leadership equipping and opportunities that are structured into the yearly programme, spiralling up from Sec 1. There is an annual competition, that alternates between the National Drill Competition and the Low Guat Tin Challenge, that the girls can aspire to participate in. Through passion and hardwork, the 54th Company has achieved good results thus far. Over the years, the 54th Company of the Girls&#39; Brigade in Kent Ridge Secondary has grown steadily in strength with the faithful support of the Volunteer Adult Officers. Come and join us in this GB 54th family!</p>
 <p><strong><em>Achievements</em></strong><br>2021 - Dr Low Guat Tin Challenge - Gold<br>2019 - Dr Low Guat Tin Challenge - Silver<br>2018 - National Drill Competition - Gold<br>2017 - Low Guat Tin Challenge - Gold<br>2016 - National Drill Competition - Gold<br>2015 - Low Guat Tin Challenge - Gold</p>
 <p><strong><em>Achievements - Unit Overall Proficiency</em></strong><br>2019 - Gold<br>2018 - Gold<br>2017 - Gold<br>2016 - Gold<br>2015 - Gold</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Chong Yoke Khee<br>Mrs Claudia Ng<br>Ms Zhou Li<br>Mrs Loke Wenyi</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Chong Yoke Khee<br>Mrs Claudia Ng<br>Ms Zhou Li<br>Mrs Loke Wenyi</p> 
+<p><img src="/images/Girls'%20Brigade.png" alt="Girls&#39; Brigade"></p>
     </div>  
 </li>  
 <li>  
@@ -41,4 +42,3 @@ third_nav_title: Co Curricular Activities
     </div>  
 </li>  
 </ul>
-
