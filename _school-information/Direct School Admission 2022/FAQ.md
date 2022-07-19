@@ -20,7 +20,11 @@ Yes, your child/ward will be automatically channelled into the Infocomm Club as 
 
 Students who take up Confirmed Offers or are placed on Waiting List by schools during the DSA-Sec Exercise are still required to take the Primary School Leaving Examination (PSLE). Those who take up Confirmed Offers are guaranteed a place in the school that has extended them an offer, provided that their PSLE results meet the **minimum** requirement for a course \[Express / Normal (Academic) /Normal (Technical)\] offered by the school.
 
-<h5 style="color:black" align="center">Is there a minimum requirement?</h5>
+<h5 style="color:black" align="center">Can my child/ward apply for transfer after accepting the Confirmed Offer from DSA-Sec school?</h5>
+
+Similar to previous years, students who have been admitted to a school through the DSA-Sec Exercise will not be able to participate in the centralised Secondary One Posting Exercise.
+
+Students who have been successfully allocated to a school via the DSA-Sec Exercise are expected to honour their commitment to their posted DSA-Sec schools and will thus not be allowed to transfer to another school after the release of the PSLE results.
 
 <h5 style="color:black" align="center">Is there a minimum requirement?</h5>
 
