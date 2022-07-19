@@ -104,7 +104,33 @@ img {
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">Acceptable Use Policy (AUP)</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p style="text-align:center;"> <strong>Kent Ridge Secondary School</strong></p>
+<p style="text-align:center;"> <strong><u>Acceptable Use Policy (AUP)<br>For Personal Learning Device & School ICT Resources</u></strong></p>  
+			<p>Dear Student,</p>
+<p>Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. As you navigate the digital space, you should do so in a safe and responsible manner. More information can be found in the “Student Kit on Cyber Wellness and Learning with a Personal Learning Device”. The kit can be found here (SLS log-in is required): <a href="https://go.gov.sg/cwstudentkit">https://go.gov.sg/cwstudentkit</a>.</p>
+<p>In addition, you are reminded to observe the guidelines stated in this Acceptable Use Policy (AUP) on the use of personal learning devices (PLDs) and the school’s ICT resources. ICT resources include the following, but are not limited to, MOE/school-deployed ICT system accounts, the device management application (DMA) and the school’s internet network.</p>
+<p><strong>General</strong></p>
+<p>1. You are responsible for your PLD. In the event of loss or theft of the device, you must make a police report and report the matter to the school.</p>
+<p>2. In order to have a seamless learning experience, you should ensure that your PLD is fully charged before bringing it to school.</p>
+<p>3. All PLDs are installed with a device management application (DMA) to support a safe and conducive learning environment.  You should not attempt to uninstall the DMA or de-enroll the PLD from the DMA. Non-compliance may lead to disciplinary action in accordance with the school’s discipline policy.</p>
+<p>4. You should not attempt to access data, system and information that you are not authorised to.</p>
+<p>5. You are reminded that the use of PLDs and school’s ICT resources should solely be for the purpose of learning.</p>
+<p><strong>User Account</strong></p>
+<p>6. You should interact with others in a respectful and responsible way. You should not post online remarks that are</p>
+<ul>
+<li>racially and/or religiously insensitive,</li>
+<li>vulgar and/or offensive, or</li>
+<li>hurtful to others.</li>
+</ul>
+<p>7. You should not use any devices to</p>
+<ul>
+<li>store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).</li>
+<li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
+</ul>
+<p>8. You should not use MOE/school-deployed ICT system accounts for any commercial activities (<em>e.g.</em> buying and selling of goods and services).</p>
+<p><strong>Intellectual Property</strong></p>
+<p>9. You are reminded to obtain explicit permission from the content owner before downloading, copying or sharing any copyrighted materials (<em>e.g.</em> pictures, videos, music).</p>
+<p>10. You should not use, copy or share digital files in an unauthorised or illegal manner.</p>
     </div>  
 </li>    
 </ul>
