@@ -72,7 +72,8 @@ img {
 <li><strong>Usage Management Service</strong>. This allows the school to address cyber-wellness concerns, such as excessive and inappropriate use of the PLD and manage prolonged use of the PLD to reduce stress on the eyes.</li>
 </ul>
 <p>Parents/guardians can choose between these 3 DMA After-School Parent Options to suit their preferences for managing the PLDs <strong>after school hours</strong>. Parents can request to change their choice of DMA option by submitting this form: <a href="http://go.gov.sg/krssdmaoptions">http://go.gov.sg/krssdmaoptions</a>. The request will be processed by the school <strong>at the end of every month</strong>.</p>
-![](/images/Slide2-225x300.jpg)
+<p><img src="/images/Slide2-225x300.jpg" alt="Device Management Application (DMA)" style="width:80%"></p>
+
     </div>  
 </li>  
 <li>  
@@ -83,4 +84,3 @@ img {
     </div>  
 </li>    
 </ul>
-
