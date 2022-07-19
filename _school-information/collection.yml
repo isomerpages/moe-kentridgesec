@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - National Digital Literacy Programme (NDLP).md
       - MOE Sexuality Education in Schools.md
       - Direct School Admission 2022/.keep
       - Direct School Admission 2022/Direct School Admission 2022.md
