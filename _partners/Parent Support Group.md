@@ -74,7 +74,7 @@ img {
 
 
 <img src="/images/kro%20psg.png" alt="Kent Ridge Olympics (KRO)" style="width:90%;">
-<p><em><strong>Kent Ridge Olympics (KRO)</strong> – PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!</em></p>
+<p style="text-align:center;"><em><strong>Kent Ridge Olympics (KRO)</strong> – PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!</em></p>
 
 </body>
 
@@ -90,14 +90,27 @@ img {
 
 
 <img src="/images/cny%20psg.png" alt="Chinese New Year Celebrations" style="width:90%;">
-<p><em><strong>Chinese New Year Celebrations</strong> – Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
+<p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong> – Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
+</body>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+<img src="/images/rhd%20psg.png" alt="Racial Harmony Day" style="width:90%;">
+<p style="text-align:center;"><em><strong>Racial Harmony Day</strong> – Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students</em></p>
+
 
 
 </body>
 
-![](/images/rhd%20psg.png)
-
-_**Racial Harmony Day** – Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students_
 
 ![](/images/Careers’%20Talk%20psg.jpg)
 
