@@ -23,3 +23,15 @@ Our LLP, Education Values of Olympism @ Kent Ridge (EVOKE!) – is in the area o
 ![Sports Exposure - Experiential Week](/images/sports%20green.png)
 
 ![Sports Exposure - Experiential Week](/images/sports%20blue.png)
+
+**Sports Empowerment - Outreach to Primary Schools**
+
+![Sports Empowerment - Outreach to Primary Schools](/images/Sports%20Empowerment%20-%20Outreach%20to%20Primary%20Schools.png)
+
+**Sports Empowerment - Student Leadership Training**
+
+![Sports Empowerment - Student Leadership Training](/images/Sports%20Empowerment%20-%20Student%20Leadership%20Training.png)
+
+**Sports Excellence - Sports CCA**
+
+![Sports Excellence - Sports CCA](/images/Sports%20Excellence%20-%20Sports%20CCA.png)
