@@ -54,7 +54,9 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion5">  
     <label for="accordion5">Sailing</label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1500 - 1845 HRS<br>WEDNESDAY: 1500 - 1845 HRS</p>
+<p>Sailing started with a humble beginning of six members and grew to a sizable number today. A mixed gender CCA, we aim to build our students’ mettle and to foster teamwork when they sail in the open waters. Our sailors will be equipped with the knowledge of reading waves and wind direction, hand-eye coordination and good decision-making skills while out at sea. They are also given opportunities to participate in the annual National Schools&#39; Games competitions where our sailors are able to apply their skills and to learn from their peers from other schools. Training is provided by certified instructors from SAF Yacht Club. Our sailors will learn the technicalities to manage two different types of boats - the Optimist and the Laser. As the training venue is located at MOE Sea Sports Centre at Changi Coast Walk, two-way transportation is provided by the school for every training. Do join our team if you are looking for an adventure out at sea.</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mrs Teo Wee Leng<br>Ms Hafizah Beevi<br>Ms Shirley Wong<br>Ms Hong Yunfang</p>  
     </div>  
 </li>  
 </ul>
