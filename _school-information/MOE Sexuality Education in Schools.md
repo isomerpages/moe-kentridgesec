@@ -40,10 +40,253 @@ b.  Character and Citizenship Education (CCE)
   
 <p style="text-align:center;"> <strong>Secondary 1</strong></p>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e404" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-lm9i">1<br>(60 mins)</td>
+    <td class="tg-lm9i">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-e404">Term 3<br>Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">2<br>(60 mins)</td>
+    <td class="tg-lm9i">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-e404">Term 3<br>Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">3<br>(60 mins)</td>
+    <td class="tg-lm9i">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-lm9i">Term 3<br>Week 9</td>
+  </tr>
+</tbody>
+</table>
+
 <p style="text-align:center;"> <strong>Secondary 2</strong></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e404" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-lm9i">1<br>(60 mins)</td>
+    <td class="tg-lm9i">Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails</td>
+    <td class="tg-lm9i">Term 3<br>Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">2A<br>(60 mins)</td>
+    <td class="tg-lm9i">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-lm9i">Term 3<br>Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">2B<br>(60 mins)</td>
+    <td class="tg-lm9i">Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-lm9i">Term 3<br>Week 3</td>
+  </tr>
+</tbody>
+</table>
 
 <p style="text-align:center;"> <strong>Secondary 3</strong></p>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-0lax">1A<br>(60 mins)</td>
+    <td class="tg-0lax">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-0lax">Term 3<br>Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1B<br>(60 mins)</td>
+    <td class="tg-0lax">Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
+    <td class="tg-0lax">Term 3<br>Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2<br>(60 mins)</td>
+    <td class="tg-0lax">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-0lax">Term 3<br>Week 3</td>
+  </tr>
+</tbody>
+</table>
+
 <p style="text-align:center;"> <strong>Secondary 4</strong></p>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1jgz"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-0lax">1A<br>(60 mins)</td>
+    <td class="tg-0lax">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-0lax">Term 3<br>Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2<br>(60 mins)</td>
+    <td class="tg-0lax">Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-0lax">Term 3<br>Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3<br>(60 mins)</td>
+    <td class="tg-0lax">Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-0lax">Term 3<br>Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">4<br>(60 mins)</td>
+    <td class="tg-0lax">Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-0lax">Term 3<br>Week 6</td>
+  </tr>
+</tbody>
+</table>
+
 <p style="text-align:center;"> <strong>Secondary 5</strong></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e404" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-lm9i">1<br>(60 mins)</td>
+    <td class="tg-lm9i">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-lm9i">Term 3<br>Week 2</td>
+  </tr>
+</tbody>
+</table>
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+**_eTeens_** **Programme**:
+
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Kent Ridge Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1jgz"><span style="font-weight:bold">TOPICS/LESSONS</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">PROGRAMME LEARNING OBJECTIVES</span></th>
+    <th class="tg-1jgz"><span style="color:#FFF">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-0lax">Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV</td>
+    <td class="tg-0lax">Term 3<br>Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Classroom-based Lesson</td>
+    <td class="tg-0lax">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-0lax">Term 3<br>Week 7</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022-MOE-The-Growing-Years-Programme.pdf). The completed form is to be submitted by 11/02/2022.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf) . The completed form is to be submitted by 11/02/2022.
+13.  Parents can contact the school at 6773 1127 or [krss@moe.edu.sg](mailto:krss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
