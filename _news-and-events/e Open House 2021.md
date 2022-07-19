@@ -10,3 +10,15 @@ description: ""
  <p style="text-align:center;">To register for session on 13th and 19th Nov, please scan the QR code on the banner or click on this <a href="https://go.gov.sg/krssopenhouse">link</a>.</p>
  
  <p style="text-align:center;"> Follow us on <a href="https://www.facebook.com/kentridgesec">Facebook</a> to get the latest updates.</p>
+ 
+ ---
+ 
+ ### Principal's Address
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/EqjGNqrPyrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ ---
+ 
+ ### Our Signature Programmes
+ 
+ 
