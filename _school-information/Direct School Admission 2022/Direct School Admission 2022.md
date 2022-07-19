@@ -4,12 +4,11 @@ permalink: /school-information/direct-school-admission-2022/
 description: ""
 third_nav_title: Direct School Admission 2022
 ---
+<p style="text-align:center;"> <strong>KENT RIDGE SECONDARY SCHOOL</strong></p>
 
-**KENT RIDGE SECONDARY SCHOOL**
+<p style="text-align:center;"> <strong>2022 Direct School Admission (DSA-Sec) Exercise</strong></p>
 
-**2022 Direct School Admission (DSA-Sec) Exercise**
-
-**for Admission to Secondary 1 in 2023**
+<p style="text-align:center;"> <strong>for Admission to Secondary 1 in 2023</strong></p>
 
 Dear Primary 6 Students and Parents,
 
@@ -22,10 +21,10 @@ At Kent Ridge, we have two distinctive programmes:
 
 We offer the following DSA talent areas in 2022:
 
-*   [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission/dsa-science-technology-engineering-and-mathematics-computational-thinking-skills/)
-*   [DSA - Sports and Games (Badminton)](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission/dsa-sports-and-games-badminton/)
-*   [DSA - Sports and Games (Basketball)](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission/dsa-sports-and-games-basketball/)
-*   [DSA - Sports and Games (Floorball)](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission/dsa-sports-and-games-floorball/)
+*   [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/direct-school-admission/dsa-science-technology-engineering-and-mathematics-computational-thinking-skills/)
+*   [DSA - Sports and Games (Badminton)](/school-information/direct-school-admission/dsa-sports-and-games-badminton/)
+*   [DSA - Sports and Games (Basketball)](/school-information/direct-school-admission/dsa-sports-and-games-basketball/)
+*   [DSA - Sports and Games (Floorball)](/school-information/direct-school-admission/dsa-sports-and-games-floorball/)
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to [MOE website](http://www.moe.gov.sg/dsa-sec).
 
