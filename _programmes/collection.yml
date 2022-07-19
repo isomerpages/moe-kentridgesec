@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - Overseas Learning Journeys/Hong Kong.md
-      - Overseas Learning Journeys/Shanghai.md
-      - Overseas Learning Journeys/Hanoi.md
       - Overseas Learning Journeys/.keep
+      - Overseas Learning Journeys/Hanoi.md
+      - Overseas Learning Journeys/Shanghai.md
+      - Overseas Learning Journeys/Hong Kong.md
       - Curriculum Support/.keep
       - Curriculum Support/Curriculum Support Programmes.md
       - Curriculum Support/Experiential Learning Week.md
