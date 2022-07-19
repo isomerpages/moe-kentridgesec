@@ -82,3 +82,39 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+---
+
+### Find out more about our CCAs
+
+<html>
+<body>
+<p><a href="/programmes/co-curricular-activities/clubs-societies/">
+<img src="/images/20180620_105103-2048x1366.jpg"  style="width:50%"><p>Clubs & Societies</p>
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/programmes/co-curricular-activities/sports/">
+<img src="/images/20180620_085026-2048x1366.jpg"  style="width:50%"><p>Sports</p>
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/programmes/co-curricular-activities/uniformed-groups/">
+<img src="/images/5-2048x1365.jpg"  style="width:50%"><p>Uniformed Groups</p>
+</a></p>
+</body>
+</html>
+
+<html>
+<body>
+<p><a href="/programmes/co-curricular-activities/performing-arts/">
+<img src="/images/20180619_140516-2048x1366.jpg"  style="width:50%"><p>Performing Arts</p>
+</a></p>
+</body>
+</html>
