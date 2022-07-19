@@ -14,7 +14,18 @@ The Kent Ridge Secondary School Parent Support Group (PSG) was started in Januar
 
 **PSG LOGO**
 
-![](/images/psg3.jpg)
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="/images/psg3.jpg" alt="PSG LOGO" style="width:50%;">
+</body>
 
 The circle represents our school working as a family. Circle represents Family and School
 
@@ -28,9 +39,20 @@ The 3 red hearts represent our stakeholders – namely parents, teachers and stu
 
 The PSG Exco team meets regularly with the school to plan information and activities which involve the PSG, which would then be shared amongst PSG members.
 
-**THE PSG EXCO Leadership team for 2021**
 
-![](/images/PSG-Exco-e1610581596977-768x822.jpg)
+<p style="text-align:center;"> <strong>THE PSG EXCO Leadership team for 2021</strong></p>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="/images/PSG-Exco-e1610581596977-768x822.jpg" alt="THE PSG EXCO Leadership team for 2021" style="width:75%;">
+</body>
 
 _From top left – Paulyn Lee (Vice-Chairperson), Jean Leong (Secretary), Sarifah Ali Rahman (Chairperson), Michelle Chung (Treasurer), Peter Chua (Vice-Chairperson) & Mudzakir Agus (Communication & IT)._
 
