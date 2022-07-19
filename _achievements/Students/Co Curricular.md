@@ -186,6 +186,123 @@ third_nav_title: Students
 
 ### Aesthetics
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w1zq{background-color:#FFF;border-color:inherit;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-w1zq" colspan="2"><span style="font-weight:bold">Singapore Youth Festivals Arts Presentation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Choir</td>
+    <td class="tg-lm9i">Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Concert Band</td>
+    <td class="tg-lm9i">Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Dance</td>
+    <td class="tg-lm9i">Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Drama</td>
+    <td class="tg-lm9i">Accomplishment</td>
+  </tr>
+</tbody>
+</table>
+
 ### Physical
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn" colspan="2"><span style="font-weight:bold">Inter-School Competition</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">National B’ Division Plate and Bowl Competition 2019</td>
+    <td class="tg-lm9i">Sliver</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">National C’ Division Plate and Bowl Competition 2019</td>
+    <td class="tg-lm9i">Champion</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Tchoukball Competition 2019</td>
+    <td class="tg-lm9i">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Kent Ridge Cup 2018 (C' Division)</td>
+    <td class="tg-lm9i">4th</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">ActiveSG-BAS Basketball Development League 2018</td>
+    <td class="tg-lm9i">4th</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">National School Games South Zone C’ Division Girls</td>
+    <td class="tg-lm9i">Best Sportsmanship Award</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w1zq{background-color:#FFF;border-color:inherit;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-w1zq" colspan="2"><span style="font-weight:bold">Self-Interest Group</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">National School Games (Trampoline) 2019</td>
+    <td class="tg-lm9i">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">National School Games (Wushu 1st International 32 Style Tajiquan)</td>
+    <td class="tg-lm9i">3rd</td>
+  </tr>
+</tbody>
+</table>
+
 ### Social-Moral
+
+**Edusave Character Awards (ECHA)**
+
+The Edusave Character Award which is given to recognise students for demonstrating exemplary character and outstanding personal qualities through their behaviour and actions.
+
+The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year.
+
+**Fund-raising**
+
+**2021**
+
+*   Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
