@@ -2,14 +2,14 @@ collections:
   school-information:
     output: true
     order:
-      - Direct School Admission 2022/FAQ.md
-      - Direct School Admission 2022/Application Procedure.md
-      - Direct School Admission 2022/Important Dates to Note.md
-      - Direct School Admission 2022/Criteria.md
-      - Direct School Admission 2022/Terms and Conditions.md
-      - Direct School Admission 2022/Main Page.md
-      - Direct School Admission 2022/Direct School Admission 2022.md
       - Direct School Admission 2022/.keep
+      - Direct School Admission 2022/Direct School Admission 2022.md
+      - Direct School Admission 2022/Main Page.md
+      - Direct School Admission 2022/Terms and Conditions.md
+      - Direct School Admission 2022/Criteria.md
+      - Direct School Admission 2022/Important Dates to Note.md
+      - Direct School Admission 2022/Application Procedure.md
+      - Direct School Admission 2022/FAQ.md
       - Code of Conduct.md
       - Sec 1 Registration 2021/.keep
       - Sec 1 Registration 2021/Information for 2022 Sec 1 Students.md
