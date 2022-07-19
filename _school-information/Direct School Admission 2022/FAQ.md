@@ -26,8 +26,22 @@ Similar to previous years, students who have been admitted to a school through t
 
 Students who have been successfully allocated to a school via the DSA-Sec Exercise are expected to honour their commitment to their posted DSA-Sec schools and will thus not be allowed to transfer to another school after the release of the PSLE results.
 
-<h5 style="color:black" align="center">Is there a minimum requirement?</h5>
+<h5 style="color:black" align="center">I'm an international student. Am I eligible to apply for DSA-Sec? I am not sitting for PSLE/not from an MOE mainstream school; can I apply for DSA-Sec?</h5>
 
-<h5 style="color:black" align="center">Is there a minimum requirement?</h5>
+If you are a Singapore Citizen, Permanent Resident, or an International Student who is residing in Singapore and holding a valid pass, you may take part in this DSA-Sec.  International/Foreign student are required to take and fulfil the requirements of the Admission Exercise for International Students (AEIS) conducted by Ministry of Education.
 
-<h5 style="color:black" align="center">Is there a minimum requirement?</h5>
+All International Students who are not residing in Singapore are not eligible to take part in DSA-Sec, but may consider to take part in the [Admissions Exercise for International Students (AEIS)](https://www.moe.gov.sg/international-students/aeis) for admission into mainstream secondary schools.
+
+For more details, please refer to [MOE-website](https://go.gov.sg/nmsdsa-sec-application).
+
+<h5 style="color:black" align="center">Can I apply for DSA in other schools too?</h5>
+
+Yes, you can indicate up to 3 choices, 3 talent areas and maximum of 2 choices for the same school for the DSA-Sec Exercise. However, parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent and the distance of the schools from home.
+
+<h5 style="color:black" align="center">If I have been informed that I am successful in my application, do I have to accept the offer immediately?</h5>
+
+There is no need to accept any offer during the DSA-Sec exercise period. Students who are given Confirmed Offers or placed on Waiting List will only exercise their DSA- Sec School Preference from 31 October 2022 – 4 November 2022.
+
+MOE will issue the DSA-Sec School Preference Form to successful DSA-Sec students (Confirmed Offers or Waiting List Offers) through a SMS and email from Postman.gov.sg  The email provides you with instructions to submit school preferences.
+
+The School Preference Form template from your email (sent via Postman) will show all the offers that the student has received and he is required to indicate his first choice, second choice, etc. Upon the release of PSLE results in November you will be informed of your posted school. Once you are posted to a school via your DSA-Sec Exercise, you will not participate in the MOE S1 Posting Exercise based on PSLE results and will not be allowed to transfer to other secondary schools.
