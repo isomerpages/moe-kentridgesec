@@ -116,8 +116,7 @@ third_nav_title: Co Curricular Activities
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
 <p><strong><em>Achievements</em></strong><br>2021: N.E.mation!2021 - Champion<br>2021: #ClickArt S2 Cluster Showcase 2021 - 2 Distinctions<br>2020: N.E.mation!2021 - Top 10<br>2020: Our Schools, Our Storiees - Best Photo Story<br>2019: CNB #DrugFreeSG - 2nd<br>2019: N.E.mation!2020 - Top 10<br>2018: Hear and Now - Listen (A video on Dementia) - Special Commendation<br>2017 : N.E.mation! 11 – Top 10</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic<br>Mr Yang Kuangji</p>
-			<p><img src="/images/Media%20Club.png" alt="Media Club"></p>
-
+<p><img src="/images/Media%20Club.png" alt="Media Club"></p>
     </div>  
 </li>  
 </ul>
