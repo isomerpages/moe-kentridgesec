@@ -22,19 +22,19 @@ description: ""
  ### Our Signature Programmes
 
  
- <html>
+<html>
 <body>
 <p><a href="/programmes/distinctive-programmes/applied-learning-programme/">
-<img src="/images/Applied-Learning-Programme.jpg"  style="width:75%">
+<img src="/images/Applied-Learning-Programme.jpg"  style="width:75%"><p>Applied Learning Programme</p>
 </a></p>
 </body>
 </html>
 
  
- <html>
+<html>
 <body>
 <p><a href="/programmes/distinctive-programmes/learning-for-life-programme/">
-<img src="/images/E-Week-2020.png"  style="width:75%">
-</a></p>
+<img src="/images/E-Week-2020.png"  style="width:75%"><p>Learning for Life Programme</p>
+</a></p> 
 </body>
 </html>
