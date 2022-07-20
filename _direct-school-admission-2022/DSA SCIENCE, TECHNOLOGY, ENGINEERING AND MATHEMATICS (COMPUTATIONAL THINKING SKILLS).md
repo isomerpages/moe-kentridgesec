@@ -6,7 +6,7 @@ description: ""
 ---
 **Background**
 
-Kent Ridge Secondary School offers its [Applied Learning Programme (ALP)](https://kentridgesec.moe.edu.sg/programmes/distinctive-programmes/applied-learning-programme/) under the Science, Technology, Engineering and Mathematics (STEM) strand and is focused on developing computational thinking through robotics. Kent Ridge Secondary School will offer the DSA-Sec to eligible students via Computational Thinking Skills. Students who show aptitude in computational thinking and are passionate and committed to develop this strength should apply.
+Kent Ridge Secondary School offers its [Applied Learning Programme (ALP)](/programmes/distinctive-programmes/applied-learning-programme/) under the Science, Technology, Engineering and Mathematics (STEM) strand and is focused on developing computational thinking through robotics. Kent Ridge Secondary School will offer the DSA-Sec to eligible students via Computational Thinking Skills. Students who show aptitude in computational thinking and are passionate and committed to develop this strength should apply.
 
 **Selection Criteria**
 
