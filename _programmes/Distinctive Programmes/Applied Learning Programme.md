@@ -22,7 +22,8 @@ The Use-Modify-Create Learning Progression describes a pattern of engagement inv
 
 During the “**Create**” phase, students apply their growing computational thinking skills to create an original product that meets the needs of a specific target audience. Work at this phase will show increasing levels of abstraction and automation. Over time, students will go through these phases to build their capacity to innovate and create **user-centric smart solutions** to solve real world problems. Hence Secondary 2 students are guided to apply what they have learnt across different knowledge domains, including what they have learnt during the robotics proficiency programme, to create an innovative, robotics-based solution to address a real world need using a design thinking process.
 
-![ALP Instructional Framework](/images/ALP-Instructional-Framework.png)
+<img src="/images/ALP-Instructional-Framework.png"  
+style="width:80%">
 
 **ALP for Every Kent Ridgean**
 
