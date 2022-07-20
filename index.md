@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: For Staff
           description: ""
-          url: ""
+          url: /for-staff/
         - title: For Students
           description: ""
-          url: ""
+          url: /for-students/
         - title: Contact Us
           description: ""
           url: /school-information/contact-information/
