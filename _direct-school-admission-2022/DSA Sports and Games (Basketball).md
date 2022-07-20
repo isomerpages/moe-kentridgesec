@@ -97,3 +97,5 @@ Singapore 127368
 Tel: 67731127  
 Fax: 67735119  
 Email: [krss@moe.edu.sg](mailto:krss@moe.edu.sg)
+
+![DSA Basketball](/images/dsa%20basketball.png)
