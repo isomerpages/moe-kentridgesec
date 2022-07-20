@@ -22,9 +22,8 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-<img src="/images/psg3.jpg" alt="PSG LOGO" style="width:50%;">
+<img src="/images/psg3.jpg" alt="PSG LOGO" style="width:35%;">
 </body>
 
 The circle represents our school working as a family. Circle represents Family and School
