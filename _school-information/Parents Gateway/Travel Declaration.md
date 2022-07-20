@@ -39,6 +39,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Travel-Declarations-Online-Form.jpg" alt="Travel Declarations Online Form" style="width:50%;">  
+<body><img src="/images/Travel-Declarations-Online-Form.jpg" alt="Travel Declarations Online Form" style="width:40%;">  
   
 </body>
