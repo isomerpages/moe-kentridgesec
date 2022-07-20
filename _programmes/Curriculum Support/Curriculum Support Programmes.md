@@ -8,7 +8,8 @@ third_nav_title: Curriculum Support
 
 In line with the school’s thrust on holistic education, Kent Ridge aims to inculcate in students an appreciation for the arts. Students take part in a range of arts enrichment programmes which expose them to various art forms. These include workshops that nurture students’ creativity in producing pieces using batik, metal tooling and ceramics. Students also discover their musical talents through workshops on the guitar and the ukulele.
 
-![Arts Enrichment](/images/arts%20enrichment.png)
+<img src="/images/arts%20enrichment.png"  
+style="width:80%">
 
 ### Sports Enrichment
 
@@ -25,16 +26,19 @@ The objectives of the Sports Electives Programme are:
 
 Secondary Two students are to choose one elective. The sports allow students to pursue them at recreational so that they can maintain an active lifestyle.
 
-![Sports Enrichment](/images/sports%20enrichment.png)
+<img src="/images/sports%20enrichment.png"  
+style="width:80%">
 
 ### Learning Journeys
 
 Learning journeys promote active learning and are a platform for the real-life application of classroom instruction. They allow students to better understand Singapore’s vulnerabilities and the journey Singapore has taken from third world to first world status through overcoming hardships and constraints. Thus, through their participation in learning journeys, students would be better able to appreciate what Singapore has accomplished and to feel pride and confidence in the nation.
 
-![Learning journeys](/images/Learning%20Journeys.png)
+<img src="/images/Learning%20Journeys.png"  
+style="width:80%">
 
 ### Experiential Week
 
 The annual Experiential Week is a school-wide platform where all students are engaged in learning beyond the classroom. Programmes include learning journeys and camps with the camp for Secondary 3 students held in Malaysia. Experiential Week is anchored by KR Hands-On Day, the annual Values In-Action (VIA) programme which aims to inculcate in students empathy for others and a sense of service to the community.
 
-![Experiential Week](/images/Experiential%20Week.png)
+<img src="/images/Experiential%20Week.png"  
+style="width:80%">
