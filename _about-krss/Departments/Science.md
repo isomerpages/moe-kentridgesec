@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Science-274x300.png" alt="Science Department" style="width:50%;">  
+<body><img src="/images/Science-274x300.png" alt="Science Department" style="width:40%;">  
   
 </body>
 
@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Science-1-e1604369354640-300x300.png" alt="Science Department" style="width:50%;">  
+<body><img src="/images/Science-1-e1604369354640-300x300.png" alt="Science Department" style="width:40%;">  
   
 </body>
 
