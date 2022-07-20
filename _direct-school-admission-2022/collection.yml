@@ -1,4 +1,6 @@
 collections:
   direct-school-admission-2022:
     output: true
-    order: []
+    order:
+      - DSA SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (COMPUTATIONAL
+        THINKING SKILLS).md
