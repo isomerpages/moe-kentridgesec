@@ -94,10 +94,7 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-
-
 <img src="/images/rhd%20psg.png" alt="Racial Harmony Day" style="width:90%;">
 <p style="text-align:center;"><em><strong>Racial Harmony Day</strong> – Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students</em></p>
 </body>
@@ -109,10 +106,7 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-
-
 <img src="/images/Careers’%20Talk%20psg.jpg" alt="Careers’ Talk" style="width:90%;">
 <p style="text-align:center;"><em><strong>Careers’ Talk</strong></em> - Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students</p>
 
@@ -125,7 +119,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/PSG-9.jpg" alt="We Want You!" style="width:40%;">  
+<body><img src="/images/PSG-9.jpg" alt="We Want You!" style="width:35%;">  
   
 </body>
 
@@ -142,9 +136,7 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-
 
 <img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:90%;">
 <p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong> – The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
