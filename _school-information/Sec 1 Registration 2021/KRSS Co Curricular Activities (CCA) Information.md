@@ -11,7 +11,7 @@ Please complete the [Survey on Primary School CCA Involvement](https://go.gov.s
 <html>
 <body>
 <p><a href="https://go.gov.sg/2022sec1cca">
-<img src="/images/Survey-on-Primary-School-CCA-Involvement-276x300.png"  style="width:40%">
+<img src="/images/Survey-on-Primary-School-CCA-Involvement-276x300.png"  style="width:30%">
 </a></p>
 </body>
 </html>
