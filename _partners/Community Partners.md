@@ -12,6 +12,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/community_partners.jpg" alt="Community Partners" style="width:80%;">  
+<body><img src="/images/community_partners.jpg" alt="Community Partners" style="width:60%;">  
   
 </body>
