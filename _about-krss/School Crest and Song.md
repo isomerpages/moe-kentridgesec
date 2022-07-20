@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school-logo.jpg" alt="KRSS" style="width:40%;">  
+<body><img src="/images/school-logo.jpg" alt="KRSS" style="width:25%;">  
   
 </body>
 
