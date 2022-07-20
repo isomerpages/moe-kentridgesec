@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Kent Ridge Secondary School
+description: Kent Ridge Secondary School
+image: /images/KRSS logo.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /school-information/contact-information/
 ---
+
