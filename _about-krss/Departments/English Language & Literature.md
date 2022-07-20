@@ -27,7 +27,8 @@ Students also have an opportunity to showcase their alternative assessment to th
 **Speak Up, Speak Out, Speak Right (S³) Programme** <br>
 The S³ Programme provides a school-wide platform for students to deliver oral presentations in front of an audience. In line with 21st century skills of being confident communicators, the programme aims to build oral communication skills and emphasise the importance of expressing one's ideas with clarity and precision in Standard English. Sec 1 to Sec 3 students showcase their alternative assessment tasks such as videos, drama skits and current affairs presentations. The Sec 3 Express and N(A) students also engage in an inter-class debate competition to develop confidence and communication skills.
 
-![Speak Up, Speak Out, Speak Right (S³) Programme](/images/eng1.png)
+<img src="/images/eng1.png"  
+style="width:70%">
 
 **Reading Programme** <br>
 To improve our students’ language proficiency, we seek to cultivate the habit of reading through collaborating with the National Library Board and by having our students subscribe to educational magazines such as Beyond and ITHINK. The subscription is planned according to their level of needs and the magazines are also closely aligned to the English Language syllabus to equip our students with essential reading and writing skills.
@@ -42,7 +43,8 @@ The first GCE ‘O’ Level Pure Literature class was set up in 2010, and since 
 **Creative Tasks for Literature** <br>
 Creative tasks, as part of the Literature curriculum at Kent Ridge, broaden students’ perspective of the subject, and encourage personal response and creativity. Such tasks include song analysis, drama and poetry writing. Our students also participated actively in the annual National Schools Literature Festival, where they achieved commendable results in competitions such as the Lower Secondary Book Trailer and Upper Secondary Set Text and Poetry debate.
 
-![Creative Tasks for Literature](/images/EL3.png)
+<img src="/images/EL3.png"  
+style="width:70%">
 
 **Talent Development Programme** <br>
 In order to further cultivate interest and appreciation for language and literature, we started a Talent Development Programme to develop students with the potential to excel in English Language and Literature. These students are given opportunities to participate in external competitions to hone their language skills. This year, we emerged as semifinalists in both the YMCA Plain English Speaking Awards (PESA) as well as the Orator’s Trophy. Our students also took part in Creative Writing competitions such as the Essay Writing Competition for the Live On Festival, Tales of ‘S’ eBook Competition and the Write for Kindness Competition.
