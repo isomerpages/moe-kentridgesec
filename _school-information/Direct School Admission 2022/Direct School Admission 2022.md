@@ -21,10 +21,10 @@ At Kent Ridge, we have two distinctive programmes:
 
 We offer the following DSA talent areas in 2022:
 
-*   [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/direct-school-admission/dsa-science-technology-engineering-and-mathematics-computational-thinking-skills/)
-*   [DSA - Sports and Games (Badminton)](/school-information/direct-school-admission/dsa-sports-and-games-badminton/)
-*   [DSA - Sports and Games (Basketball)](/school-information/direct-school-admission/dsa-sports-and-games-basketball/)
-*   [DSA - Sports and Games (Floorball)](/school-information/direct-school-admission/dsa-sports-and-games-floorball/)
+*   [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/)
+*   [DSA - Sports and Games (Badminton)](/school-information/dsa/sports-and-games-badminton/)
+*   [DSA - Sports and Games (Basketball)](/school-information/dsa/sports-and-games-basketball/)
+*   [DSA - Sports and Games (Floorball)](/school-information/dsa/sports-and-games-basketball/)
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to [MOE website](http://www.moe.gov.sg/dsa-sec).
 
