@@ -48,9 +48,8 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-<img src="/images/PSG-Exco-e1610581596977-768x822.jpg" alt="THE PSG EXCO Leadership team for 2021" style="width:75%;">
+<img src="/images/PSG-Exco-e1610581596977-768x822.jpg" alt="THE PSG EXCO Leadership team for 2021" style="width:65%;">
 </body>
 
 _From top left – Paulyn Lee (Vice-Chairperson), Jean Leong (Secretary), Sarifah Ali Rahman (Chairperson), Michelle Chung (Treasurer), Peter Chua (Vice-Chairperson) & Mudzakir Agus (Communication & IT)._
