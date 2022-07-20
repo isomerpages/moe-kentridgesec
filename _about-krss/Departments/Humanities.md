@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IBL.png" alt="Inquiry-based Learning and Project-Based Assessment" style="width:50%;">  
+<body><img src="/images/IBL.png" alt="Inquiry-based Learning and Project-Based Assessment" style="width:40%;">  
   
 </body>
 
