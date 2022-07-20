@@ -12,6 +12,7 @@ description: ""
  <p style="text-align:center;"> Follow us on <a href="https://www.facebook.com/kentridgesec">Facebook</a> to get the latest updates.</p>
  
  ------
+
  ### Principal's Address
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/EqjGNqrPyrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
