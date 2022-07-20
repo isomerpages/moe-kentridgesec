@@ -67,9 +67,7 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-
 
 <img src="/images/kro%20psg.png" alt="Kent Ridge Olympics (KRO)" style="width:90%;">
 <p style="text-align:center;"><em><strong>Kent Ridge Olympics (KRO)</strong> – PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!</em></p>
@@ -83,9 +81,7 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
-
 
 <img src="/images/cny%20psg.png" alt="Chinese New Year Celebrations" style="width:90%;">
 <p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong> – Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
