@@ -1,6 +1,6 @@
 ---
 title: test
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
 <ul class="jekyllcodex\_accordion">
