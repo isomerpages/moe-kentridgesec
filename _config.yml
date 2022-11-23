@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-kentridgesec-staging.netlify.app
-prod: https://moe-kentridgesec-prod.netlify.app
+staging: https://staging.dsvnzzthjhdgz.amplifyapp.com
+prod: https://master.dsvnzzthjhdgz.amplifyapp.com
 shareicon: /images/KRSS logo.png
 is_government: false
 facebook-pixel: ""
