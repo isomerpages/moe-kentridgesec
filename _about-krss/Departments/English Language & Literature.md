@@ -14,11 +14,9 @@ Secondary 1: Video production
 Secondary 2: Drama
 
 Secondary 3: Current Affairs Presentation
-![EL_1](/images/EL1.jpg)
+<img src="/images/EL1.jpg" style="width:50%"><img src="/images/EL2.png" style="width:50%">
+<img src="/images/EL3.jpg" style="width:50%">
 
-![EL_2](/images/EL2.png)
-
-![EL_3](/images/EL3.jpg)
 
 **Student-centric Pedagogy  
 Students learn through Writing as a Process to develop metacognitive awareness in their writing. They learn collaboratively using their Personal Learning Devices (PLDs), tapping on ICT tools including SLS, Google Classroom, Kami and Padlet.
