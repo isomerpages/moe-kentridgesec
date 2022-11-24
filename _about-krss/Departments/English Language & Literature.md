@@ -25,8 +25,9 @@ Students learn through Writing as a Process to develop metacognitive awareness i
 
 ![EL Dept](/images/english-language-and-literature-department-2-1024x731.jpg)
 
-**Programmes**
+##### **Programmes**
 **Reading Programme**
+
 To improve our students’ language proficiency, we seek to cultivate the habit of reading through collaborating with the National Library Board and by having our students subscribe to educational magazines such as Beyond and ITHINK. The subscription is planned according to their level of needs and the magazines are also closely aligned to the English Language syllabus to equip our students with essential reading and writing skills.
 
 To further enthuse our students in reading, we also organised events such as Blind Date with a Book and invited popular local authors to give talks to our students.
@@ -35,6 +36,7 @@ To further enthuse our students in reading, we also organised events such as Bli
 In order to further cultivate interest and appreciation for language and literature, we started a Talent Development Programme to develop students with the potential to excel in English Language and Literature. These students are given opportunities to further pursue their interest in and participate in external competitions to hone their language skills. Students have participated in public speaking competitions such as the YMCA Plain English Speaking Awards (PESA), the ACJC Speech Arts Festival, as well as the Orator’s Trophy. A group of aspiring writers also took part in creative writing competitions such as the Queen’s Commonwealth Essay Competition and the Essay Writing Competition for the Live On Festival.
 
 **KR Monthly Show**
+
 A collaboration with the CCE and Humanities department, the KR Monthly Show is another platform for students to develop their global awareness and oral communication skills. Through the monthly videos put up by a team of dedicated teachers and students, Kent Ridgeans are able to engage in a discussion of contemporary and social issues that they are interested in.
 
 **Literature**
