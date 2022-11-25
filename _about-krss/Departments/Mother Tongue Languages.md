@@ -8,8 +8,6 @@ third_nav_title: Departments
 
 In line with MOE’s direction, we strive to develop all Kent Ridgeans to be learned persons in their mother tongue language, culture and values by equipping them with a repertoire of language skills, through the love for the language grounded in values.
 
-![Mother Tongue Language Department](/images/mother-tongue-languages-department-2.jpg)
-
 ### Programmes
 
 **Academic Programme:**
