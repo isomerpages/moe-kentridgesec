@@ -6,20 +6,29 @@ third_nav_title: Staff
 ---
 **MOE Service Excellence Award 2021 (Gold)**
 
-*   Mr Koh Beng Chye, Thomas
-*   Ms Lee Siew Har
 *   Ms Nur Delis Sulastra Binte Rasid
-*   Mr Shahrunizam Bin Senawi
-*   Ms Zannatul Nauum Moumee
-*   Mr Zulfadhli Bin Mohamed Zain
+
+**MOE Service Excellence Award 2021 (Gold)**
+
+*   Ms Hafizah Beevi Binte Abdul Hamid
+*   Mrs Tan Jiayi
 
 **MOE Service Excellence Award 2021 (Sliver)**
 
-*   Mdm G Vasaki
-*   Ms Hafizah Beevi Binte Abdul Hamid
-*   Ms Nicole Tay Xiao Lin
-*   Ms Nur Hidayah Binte Mohmed Nor
-*   Ms Wendy Lin
+*   Mr Chan Yew Fei Samuel
+*   Mr Chandra S/O Karumanan
+*   Mr Chen Weixiong Jeffrey
+*   Ms Chow Sally
+*   Mr Foong Zhee Hou Melvyn
+*   Ms Gan Bee Yi
+*   Ms Kalpana D/O Kaleselvan
+*   Mr Kevin Nicholas Fonseka
+*   Mr Lee Hoe Sheng Hosea
+*   Mr Ong Wee Kwang
+*   Mr Ramish Goby
+*   Mdm Rosnah Binti Salleh
+*   Mdm W.K. Sujeetha Margarita Brampy
+*   Ms Zhou Li
 
 **President’s Award For Teachers 2020, Finalist  
 Mr Vincent Heng Swee Chye**
