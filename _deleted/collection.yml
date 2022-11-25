@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - Parents Gateway/Update Contact Details in Parents Gateway.md
       - Parents Gateway/Travel Declaration.md
       - Parents Gateway/.keep
       - Curriculum Support/Curriculum Support Programmes.md
