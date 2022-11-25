@@ -202,4 +202,5 @@ Student Leaders are given experiential learning opportunities to develop their l
 
 **Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs are provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also partners stakeholders for case management and resource management discussions.
 
-<iframe width="920" height="675" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1060" height="815" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
