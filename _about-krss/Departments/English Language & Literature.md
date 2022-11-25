@@ -42,5 +42,8 @@ A collaboration with the CCE and Humanities department, the KR Monthly Show is a
 **Upper Secondary Literature Showcase**  
 The first GCE ‘O’ Level Pure Literature class was set up in 2010, and since then, it has been an annual tradition for the ‘O’ Level class to perform a dramatisation of one of their texts. This showcase allows students to gain deeper insights into their texts and to better appreciate the performance aspect of the play they are studying. Students have always enjoyed their experience in this showcase where they are given the platform to build confidence and presentation skills, nurture creativity, lead their peers and work in a team.
 
+<img src="/images/Lit%20Showcase%201.png" style="width:75%">
+<img src="/images/Lit%20Showcase%202.png" style="width:75%">
+
 **Read, Annotate, Debate! (RAD) Interschool Literature Debate**  
 The Read, Annotate, Debate! (RAD) Interschool Literature Debate competition was co-organised by KRSS and a total of 6 participating schools. Students enjoyed the experience of debating with their peers from different schools which gave them fresh insights into the texts they were studying.
