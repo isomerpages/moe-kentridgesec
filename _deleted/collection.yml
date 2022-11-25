@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - News & Events/.keep
       - Parents Gateway/Parents Gateway.md
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
