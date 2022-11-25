@@ -116,14 +116,11 @@ Briefings, leadership training programmes and bonding activities are customised 
 
 ##### **Experiential Learning Opportunities**
 
-1.  **Experiential Week**
-Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
+1.  **Experiential Week**<br>Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
 
-2.  **NYAA Programme**
-The NYAA Programme Bronze Award is offered to all Sec 2 students while Sec 3 students are given the opportunity to sign up for the Silver Award. The programme equips Kent Ridgeans with the knowledge and skills to develop personal effectiveness and peer leadership through various school-organised activities. Through their participation in the programme, Kent Ridgeans develop personal qualities of self-reliance, perseverance and responsibility to self, society and the nation.
+2.  **NYAA Programme**<br>The NYAA Programme Bronze Award is offered to all Sec 2 students while Sec 3 students are given the opportunity to sign up for the Silver Award. The programme equips Kent Ridgeans with the knowledge and skills to develop personal effectiveness and peer leadership through various school-organised activities. Through their participation in the programme, Kent Ridgeans develop personal qualities of self-reliance, perseverance and responsibility to self, society and the nation.
 
-3.  **School Operations, Events and Celebrations**
-Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
+3.  **School Operations, Events and Celebrations**<br>Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
