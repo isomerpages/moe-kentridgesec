@@ -84,6 +84,7 @@ Students are given various platforms to present their learning to the school and
 </tbody>
 </table>
 		</div>
+		</li>  
 
 <ul class="jekyllcodex_accordion">  
   <li>  
