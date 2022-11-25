@@ -155,13 +155,13 @@ Students are given various platforms to present their learning to the school and
     <td class="tg-lm9i">2010</td>
     <td class="tg-lm9i">Ng Xin Ru Samantha</td>
   </tr>
-	</li>
-		</div>
+	
+	</div>
+		</li>  
   <li>  
     <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Debate Society</label>  
-    <div>  
-      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS (Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p></ul>
-			</li>
-		</div>
+    <label for="accordion3">CanREACH Award</label>  
+		sdsfsdfsf
+
+	
 </tbody>
