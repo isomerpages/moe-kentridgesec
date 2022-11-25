@@ -303,5 +303,6 @@ third_nav_title: Students
 </table>    
 </div>  
 </li>  
+	</ul>
 
 </li>
