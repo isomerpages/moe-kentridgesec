@@ -308,9 +308,9 @@ third_nav_title: Students
     <input type="checkbox" id="accordion5">  
     <label for="accordion5"> Social-Moral</label>  
 <div>  
-<p><strong>Edusave Character Awards (ECHA)</strong></p>
+<p><strong>Edusave Character Awards (ECHA)</strong>
 <br>The Edusave Character Award which is given to recognise students for demonstrating exemplary character and outstanding personal qualities through their behaviour and actions.
-<br>The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year.
+<br>The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year. </p>
 	
 <p><strong>Fund-raising</strong>
 <strong>2021</strong></p>
