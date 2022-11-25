@@ -155,13 +155,5 @@ Students are given various platforms to present their learning to the school and
     <td class="tg-lm9i">2010</td>
     <td class="tg-lm9i">Ng Xin Ru Samantha</td>
   </tr>
-	
-	</div>
-		</li>  
-  <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">CanREACH Award</label>  
-		sdsfsdfsf
 
-	
 </tbody>
