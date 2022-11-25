@@ -24,7 +24,7 @@ Students learn through Writing as a Process to develop metacognitive awareness i
 
 <img src="/images/EL4.jpg" style="width:75%">
 
-##### **Programmes**
+### Programmes
 **Reading Programme**  
 To improve our students’ language proficiency, we seek to cultivate the habit of reading through collaborating with the National Library Board and by having our students subscribe to educational magazines such as Beyond and ITHINK. The subscription is planned according to their level of needs and the magazines are also closely aligned to the English Language syllabus to equip our students with essential reading and writing skills.
 
