@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - Curriculum Support/Curriculum Support Programmes.md
       - Curriculum Support/Kent Ridge Olympics (KRO).md
       - Curriculum Support/Experiential Learning Week.md
       - Curriculum Support/.keep
