@@ -9,7 +9,11 @@ Students are given various platforms to present their learning to the school and
 
 ![Masterplan](/images/masterplan.jpg)
 
-### Kent Ridgean of the Year
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">Kent Ridgean of the Year</label>  
+    <div>  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -79,14 +83,13 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </tbody>
 </table>
+		</div>
 
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">CanREACH Award</label>  
     <div>  
-### CanREACH Award
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
