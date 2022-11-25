@@ -161,7 +161,7 @@ Students are given various platforms to present their learning to the school and
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">Debate Society</label>  
     <div>  
-      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS (Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p>
+      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS (Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p></ul>
 			</li>
 		</div>
 </tbody>
