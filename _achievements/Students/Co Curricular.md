@@ -4,9 +4,12 @@ permalink: /achievements/students/co-curricular/
 description: ""
 third_nav_title: Students
 ---
-### Cognitive
-
-<style type="text/css">
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1"> Cognitive</label>  
+    <div>  
+      <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -178,14 +181,18 @@ third_nav_title: Students
     <td class="tg-lm9i">2nd<br>3rd</td>
   </tr>
 </tbody>
-</table>
-
-### Leadership
-
-<table class="table table-responsive table-bordered" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); width: 946px; max-width: 100%; margin-bottom: 20px; border: 1px solid rgb(221, 221, 221); overflow-x: auto; min-height: 0.01%; color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td colspan="2" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 493px;"><p align="center" style="box-sizing: border-box; margin: 0px; padding-bottom: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Unit Overall Proficiency Award</strong></p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">The Girls’ Brigade</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Gold</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">National Cadet Corps</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Distinction</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">The Boys’ Brigade</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Bronze</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">National Police Cadet Corps</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Silver</td></tr></tbody></table>
-
-### Aesthetics
-
+</table>    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2"> Leadership</label>  
+    <div>  
+      <table class="table table-responsive table-bordered" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); width: 946px; max-width: 100%; margin-bottom: 20px; border: 1px solid rgb(221, 221, 221); overflow-x: auto; min-height: 0.01%; color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td colspan="2" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 493px;"><p align="center" style="box-sizing: border-box; margin: 0px; padding-bottom: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Unit Overall Proficiency Award</strong></p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">The Girls’ Brigade</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Gold</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">National Cadet Corps</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Distinction</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">The Boys’ Brigade</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Bronze</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 414px;">National Police Cadet Corps</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 79px;">Silver</td></tr></tbody></table>    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3"> Aesthetics</label>  
+    <div>  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -219,11 +226,13 @@ third_nav_title: Students
     <td class="tg-lm9i">Accomplishment</td>
   </tr>
 </tbody>
-</table>
-
-### Physical
-
-<style type="text/css">
+</table>    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">Physical</label>  
+    <div>  
+      <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -291,18 +300,21 @@ third_nav_title: Students
     <td class="tg-lm9i">3rd</td>
   </tr>
 </tbody>
-</table>
+</table>    
+</div>  
+</li>  
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion5">  
+    <label for="accordion5"> Social-Moral</label>  
+<div>  
+<p><strong>Edusave Character Awards (ECHA) </p></strong>
+<br>The Edusave Character Award which is given to recognise students for demonstrating exemplary character and outstanding personal qualities through their behaviour and actions.
+<br>The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year.
+<p><strong>Fund-raising</p></strong>
+</p></strong>2021</p></strong>
 
-### Social-Moral
-
-**Edusave Character Awards (ECHA)**
-
-The Edusave Character Award which is given to recognise students for demonstrating exemplary character and outstanding personal qualities through their behaviour and actions.
-
-The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year.
-
-**Fund-raising**
-
-**2021**
-
-*   Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
+*  Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
+</div>  
+</li>  
+</ul>
