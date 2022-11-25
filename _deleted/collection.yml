@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - News & Events/NEmation 2021.md
       - News & Events/21st Annual Awards Day cum National Day Celebration.md
       - News & Events/e Open House 2021.md
       - News & Events/Science Talent Development Programme.md
