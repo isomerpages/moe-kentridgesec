@@ -46,4 +46,7 @@ The first GCE ‘O’ Level Pure Literature class was set up in 2010, and since 
 <img src="/images/Lit%20Showcase%202.png" style="width:75%">
 
 **Read, Annotate, Debate! (RAD) Interschool Literature Debate**  
-The Read, Annotate, Debate! (RAD) Interschool Literature Debate competition was co-organised by KRSS and a total of 6 participating schools. Students enjoyed the experience of debating with their peers from different schools which gave them fresh insights into the texts they were studying.
+The Read, Annotate, Debate! (RAD) Interschool Literature Debate competition was co-organised by KRSS and a total of 6 participating schools. Students enjoyed the experience of debating with their peers from different schools which gave them fresh insights into the texts they were 
+studying.
+<img src="/images/RAD.jpg" style="width:100%">
+
