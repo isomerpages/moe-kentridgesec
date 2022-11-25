@@ -158,5 +158,5 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </tbody>
 	</div>
-
+</li>  
 </table>
