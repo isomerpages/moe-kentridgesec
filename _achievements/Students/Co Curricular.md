@@ -314,8 +314,7 @@ third_nav_title: Students
 	
 <p><strong>Fund-raising</strong>
 <strong>2021</strong></p>
-
-*  Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
+<br>Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
 </div>  
 </li>  
 </ul>
