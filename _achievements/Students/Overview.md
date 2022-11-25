@@ -86,9 +86,8 @@ Students are given various platforms to present their learning to the school and
 		</div>
 		</li>  
 
-<ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion1">  
+    <input type="checkbox" id="accordion2">  
     <label for="accordion1">CanREACH Award</label>  
     <div>  
 <style type="text/css">
