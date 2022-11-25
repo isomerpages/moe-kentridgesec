@@ -10,8 +10,6 @@ The Physical Education Department aims to nurture and develop our students into 
 
 Our student-centric PE curriculum is conducted through two-pronged approaches of explicit teaching and experiential learning. The PE curriculum consists of three main modules namely Sports and Games, Fitness and Conditioning, and Outdoor Education. We have six key sports and games, namely Netball, Softball, Tag Rugby, Tchoukball, Ultimate Disc and Volleyball, in our PE curriculum to increase students’ repertoire in games and to develop their psychomotor skills. Our students will be equipped with more in-depth knowledge of their own bodies and apply this knowledge to make themselves fitter and healthier. The outdoor module teaches basic outdoor skills, increases students’ awareness of their environment and develops their risk assessment proficiency in unfamiliar settings. The students are also given opportunities to apply their learnt skills through our PE co-curricular programmes such as Inter-Class Competitions, Kent Ridge Olympics and Outdoor Residential Camp during Experiential Week. Our Secondary Two Sports Electives Programme provides an opportunity for students to learn a new sport such as archery, bowling, golf and inline skating. This is to expose them to more sporting activities that they can pursue on their own. Our PE curriculum and co-curriculum activities work in tandem to complement our school’s effort to provide a holistic education for our students.
 
-![PE and CCA department](/images/physical-education-and-cca-department-2-1024x731.jpg)
-
 ### Programmes
 
 **Explicit Teaching**
