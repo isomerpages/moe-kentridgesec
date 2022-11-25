@@ -20,7 +20,6 @@ Our aim is to have confident and creative student-designers through application 
 **Music Unit / Aesthetics**  
 Our aim is to provide students with an authentic experience to develop a connection to music.
 
-![](/images/craft-and-technology-department-2-1024x731.jpg)
 
 ### Programmes
 
@@ -30,8 +29,8 @@ Through fun and age-appropriate mini projects, students gain awareness of aesthe
 **Upper Secondary Thematic Coursework**  
 Thematic coursework emphasises the development of critical thinking skills such as analysis, planning, interpretation and evaluation. Given a set theme, upper secondary students are able to see their paper ideas turn into actual prototypes.
 
-**Designrete Ideation Workshops**  
-Upper secondary students hone their inventive thinking skills and develop effective communication through this programme.
+**Baking Workshops**  
+NFS Upper secondary students will be equipped with knowledge and gain hands-on practice of techniques in preparation of puff pastries.
 
 **Learning Journeys to Red Dot Museum, Bakery and Arts Resource Library**  
 An out-of-classroom learning experience is created for students where they will see the connection between aesthetics and real-life applications.
