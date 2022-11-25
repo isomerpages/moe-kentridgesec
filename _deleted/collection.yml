@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - Travel Declaration.md
       - Update Contact Details in Parents Gateway.md
       - Onboarding.md
       - Parents Gateway.md
