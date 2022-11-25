@@ -312,7 +312,7 @@ third_nav_title: Students
 <br>The Edusave Character Award which is given to recognise students for demonstrating exemplary character and outstanding personal qualities through their behaviour and actions.
 <br>The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year.
 <p><strong>Fund-raising</p></strong>
-</p></strong>2021</p></strong>
+<p><strong>2021</p></strong>
 
 *  Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
 </div>  
