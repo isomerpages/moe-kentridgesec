@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - News & Events/e Open House 2021.md
       - News & Events/Science Talent Development Programme.md
       - News & Events/.keep
       - Parents Gateway/Parents Gateway.md
