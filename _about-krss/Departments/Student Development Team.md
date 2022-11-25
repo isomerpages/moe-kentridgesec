@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Departments
 ---
 ### Overview
-
 The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning. ([Refer to the Kent Ridge Co- Curricular Framework.](/about-krss/schools-directions/cc-framework/))
 
 ### CCE Curriculum
@@ -61,7 +60,7 @@ The school-wide VIA programme – KR Hands-On Day provides students with the exp
 **Sec 1 –** _**Lend a Hand, Save the Earth**_  
 Sec 1 students participate in beach cleaning at East Coast Park to appreciate the importance of conserving the environment.
 
-**Sec 2 –** _**Lend a Hand, Save the Earth.**_  
+**Sec 2 –** _**Lend a Hand, Save the Earth.**_ 
 Students visit the homes of residents in the Clementi neighbourhood to collect recyclable paper and old clothing from residents. They aim to save the environment through their recycling efforts. The funds raised through their endeavours are donated to Children’s Cancer Foundation.
 
 **Sec 3 –** _**Lend a Hand, Save a Child.**_  
@@ -80,7 +79,6 @@ To develop students to be Gracious Citizens and Active Contributors, students ca
 To support the School’s Key Strategic Thrust 1 of Holistic Development of Students, the school has an extensive GEAR-UP programme which targets different segments of students with varied profiles, interests, strengths and needs. GEAR-UP @ KR aims to engage Kent Ridgeans in meaningful after-school engagement programmes to develop useful core skills and competencies, build positive relationships with their peers, mentors and teachers while deepening their passions so that they can strive towards achieving their aspirations. GEAR-UP @ KR adopts the SOAR (Skills, Opportunities, Achievement, Recognition) approach to engage students in meaningful activities. They are:
 
 (a) KR Lighthouse
-
 The programme aims to
 
 *   provide a conducive environment for engaging students in school after curriculum hours;
@@ -88,7 +86,6 @@ The programme aims to
 *   provide opportunities for learning of social and life skills.
 
 (b) STARChef
-
 The programme aims to
 
 *   engage and challenge students through an energising after-school culinary skills training;
@@ -96,7 +93,6 @@ The programme aims to
 *   develop students to be confident individuals who are conscientious of their own strengths and capabilities.
 
 (c) D’Strykers Girls
-
 The programme aims to
 
 *   utilise football as a platform to impart life skills to students;
@@ -104,7 +100,6 @@ The programme aims to
 *   encourage positive relationships between the students as a team.
 
 (d) Youth COP
-
 The programme aims to
 
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
@@ -122,15 +117,12 @@ Briefings, leadership training programmes and bonding activities are customised 
 ##### **Experiential Learning Opportunities**
 
 1.  **Experiential Week**
-
 Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
 
 2.  **NYAA Programme**
-
 The NYAA Programme Bronze Award is offered to all Sec 2 students while Sec 3 students are given the opportunity to sign up for the Silver Award. The programme equips Kent Ridgeans with the knowledge and skills to develop personal effectiveness and peer leadership through various school-organised activities. Through their participation in the programme, Kent Ridgeans develop personal qualities of self-reliance, perseverance and responsibility to self, society and the nation.
 
 3.  **School Operations, Events and Celebrations**
-
 Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
 
 <style type="text/css">
@@ -184,6 +176,7 @@ Student Leaders are given experiential learning opportunities to develop their l
   </tr>
 </tbody>
 </table>
+
 <iframe width="850" height="478" src="https://www.youtube.com/embed/bvUl50yMUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Student Support Programmes
