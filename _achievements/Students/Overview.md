@@ -85,7 +85,6 @@ Students are given various platforms to present their learning to the school and
 </table>
 		</div>
 		</li>  
-
   <li>  
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">CanREACH Award</label>  
@@ -159,4 +158,5 @@ Students are given various platforms to present their learning to the school and
 </tbody>
 	</div>
 </li>  
-</table>
+	
+	
