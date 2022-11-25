@@ -20,8 +20,6 @@ Secondary 2 –  Strengthening the foundation
 Secondary 3 –  Consolidation and Integration  
 Secondary 4/5 – Mastery & Continuous Learning
 
-![Mathematics Department](/images/mathematics-department-2-1024x731.jpg)
-
 ![](/images/Math-Time-Capsule-Final-1.jpg)
 
 ![](/images/MAth-Time-Capsule-Final-2.jpg)
