@@ -313,8 +313,8 @@ third_nav_title: Students
 <br>The awards are given to a maximum of 2% of Singaporean students in each school at the end of the year. </p>
 	
 <p><strong>Fund-raising</strong>
-<strong>2021</strong></p>
+<strong>2021</strong>
 <br>Raised $5220.75 for Children's Cancer Foundation from CNY collection from staff and students & sale of recyclable items collected from “KR Hands On Day - Lend a Hand, Save the Earth”
-</div>  
+</p></div>  
 </li>  
 </ul>
