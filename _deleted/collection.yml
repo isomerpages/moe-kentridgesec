@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum Support/.keep
-      - Experiential Learning Week.md
       - Kent Ridge Olympics (KRO).md
       - Curriculum Support Programmes.md
       - Travel Declaration.md
