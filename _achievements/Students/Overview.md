@@ -29,6 +29,10 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-0lax">2021</td>
+    <td class="tg-0lax">Zachary Luke Kwek Tjun Bin</td>
+  </tr>
   <tr>
     <td class="tg-0lax">2020</td>
     <td class="tg-0lax">Jeanette Liang Hui Xin</td>
@@ -76,6 +80,11 @@ Students are given various platforms to present their learning to the school and
 </tbody>
 </table>
 
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">CanREACH Award</label>  
+    <div>  
 ### CanREACH Award
 
 <style type="text/css">
@@ -96,6 +105,10 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-lm9i">2021</td>
+    <td class="tg-lm9i">Kellis Rachel Wong Rui Qi</td>
+  </tr>
   <tr>
     <td class="tg-lm9i">2020</td>
     <td class="tg-lm9i">Ng Chee Yong</td>
@@ -141,4 +154,5 @@ Students are given various platforms to present their learning to the school and
     <td class="tg-lm9i">Ng Xin Ru Samantha</td>
   </tr>
 </tbody>
+	</div>  
 </table>
