@@ -6,8 +6,6 @@ third_nav_title: Departments
 ---
 ### Overview
 
-![Student Development Team](/images/Student%20Development%20Team.png)
-
 The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning. ([Refer to the Kent Ridge Co- Curricular Framework.](/about-krss/schools-directions/cc-framework/))
 
 ### CCE Curriculum
@@ -187,10 +185,6 @@ Student Leaders are given experiential learning opportunities to develop their l
 </tbody>
 </table>
 
-4.  **Work Shadow Programme**
-
-The school collaborates with partners to seize work shadow opportunities in different industries. Interested Secondary 3 student leaders are selected to participate in the programme to learn beyond the classroom.
-
 ***(upload video on YouTube and embed video here?)***
 
 ### Student Support Programmes
@@ -207,6 +201,9 @@ The school collaborates with partners to seize work shadow opportunities in diff
 **Financial Assistance Programmes** <br>Financial needs of students are identified and supported through various schemes and bursary applications.
 
 **Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs are provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also partners stakeholders for case management and resource management discussions.
+
+<iframe width="500" height="255" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ***(upload video on YouTube and embed video here?)***
