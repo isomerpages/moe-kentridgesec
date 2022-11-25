@@ -12,54 +12,53 @@ Are presented to staff members who exemplify the school values of FITNESS, INTEG
 **The F.I.R.E. Fitness Award** <br>
 Is presented to a staff member who is resilient and cares for his personal well-being and professional development.
 
-**Mr Muhammad Iqbal Bin Rosli** <br>
-Mr Iqbal takes the time to care for students by understanding their school and home needs and maintains a regular exercise routine to keep healthy and fit. He cares deeply for the students who come to him for counselling and would do house visits when needed. He would also find time for himself by working out at the school gym, doing weights training on a regular basis.
+**Ms Jaime Lim** <br>
+Ms Lim shows resilience in the way she has attended to all her roles and responsibilities, in staff development and management, student development, programme planning and execution, to name a few. And she would continue to seek development in music, not forgetting her attention to her fitness, health & family time too.
 
-**Ms Nicole Heng Hui Lyn** <br>
-Ms Heng is constantly seeking self improvement and bringing joy to everyone she meets. She never tires of learning and trying various ways to teach better. She always carries out her duties cheerfully and brings about a positive energy in her interactions with staff and students.
+**Mr Ramish Goby** <br>
+Mr Ramish has been walking  consistently and takes care of his health. He has won top 3 for the school walk challenges. He will always come into class feeling very enthusiastic to start lessons. He encourages his students and always believe in his students.
 
-**Mr Ong Wee Kwang** <br>
-Mr Ong leads a balanced lifestyle. He exercises regularly and is a passionate learner. He puts his learning to good use. For instance, he generated self-marking exercises in Excel for students and built eco-friendly self cleaning aquariums too.
+**Mr Tay Kok Liang** <br>
+Mr Tay embraces a healthy lifestyles and strive for excellence. He helps others and many students like him as well. He always tries his best and never gives up.
 
 
 **The F.I.R.E. Integrity Award** <br>
 Is presented to a staff member who is exemplary in professional and personal conduct; dependable and an inspiring coach and mentor.
 
-**Mdm Asiah Binte Idris** <br>
-Mdm Asiah carries out her duties well with pride. She is ever ready to assist teachers and will guide them patiently when they approach her for help in issues they face in administrative tasks. She would consider all possible ways to make the most of the task and the situation.
+**Mr Hong Thin Yong** <br>
+Mr Hong is a very encouraging teacher. He encourages others and is dependable. He is resilient, passionate, and determined.
 
-**Mdm Ruby Jayanthi d/o Simmon R E** <br>
-Mdm Ruby is a teacher who is willing to try different ideas. She brings others onboard by encouraging them to explore new grounds. She challenges them to go beyond their comfort zone and would support them by seeking learning opportunities for them to grow.
+**Mr Hosea Lee** <br>
+Mr Lee is an efficient and optimistic individual who influences others with his positivity. He is approachable and tries his very best to help others to the best of his abilities. He continuously encourages the teachers in the department to develop professionally. He, himself too, seeks to learn and develop his pedagogical skills. He also cares for the well-being of his colleagues and is thoughtful in the way he handles conflicts.
 
-**Ms Tan Peck Joon** <br>
-Ms Tan shares her rich experiences in the teaching of English Language with other teachers willingly and has been very supportive of her colleagues in the creation of shared resources. In her dealings with students, she works to inculcate their joy of learning. With teachers, she has been very encouraging and will always seek to understand so as to support them to the best of her abilities.
+**Ms Vivian Tan** <br>
+Ms Tan is an exemplary role model who constantly seeks to hone her skills, is consistently encouraging others, and is open to trying new things.
 
 
 **The F.I.R.E. Respect Award** <br>
 Is presented to a staff member who is approachable, a good team player and takes pride in educating students.
 
-**Mrs Wendy Ng** <br>
-Mrs Ng’s passion in helping students with learning needs is seen in her undying search for new strategies to help them learn. She knows her students well; many would go to her whenever they are faced with challenges. She would undertake all tasks positively. When working in teams, she would take time to learn as well as share with the team her knowledge and skills.
+**Ms Dian Farhana** <br>
+Ms Farhana is a good team player in the Malay Unit, committee, Drama Club CCA, Awards Day etc. She takes pride in trying out innovation for her students. She also has a genuine rapport with all her students.
 
-**Mr Lam Yao Lun** <br>
-Mr Lam prioritises the needs of the students in all circumstances and would step up to support his team members whenever necessary, so that the students’ learning is not compromised. He is always willing to lend a helping hand despite the commitments he has across two subject disciplines.
+**Ms Hafizah** <br>
+Ms Hafizah is an excellent team player and always strives to contribute in whatever ways she can. She is enthusiastic in educating students and is always ready to explore and extract usable bits to excite students (and other teachers) in the classroom.
 
-**Ms Zannatul Nauum Moemee** <br>
-Ms Zannatul often shares authentic stories in teaching and with her innovative teaching approaches, her students are truly inspired with a love for Geography. She connects well with others, students and teachers alike, by spending quality time with them, listening to understanding their needs and going the extra mile to help them navigate challenges faced. She is a “glue” that binds people together.
+**Ms Tan Ai Lin** <br>
+Ms Tan supports the sec 3 FTs well and does her best to mentor them and coach them to be better FTs. She really is there for the students and there is trust and rapport with the students. They really open up to her and she is there whenever there are issues or crisis. She also does her best to support and guide her FTs, being there whenever they need help.
 
 
 **The F.I.R.E. Excellence Award** <br>
 Is presented to a staff member who is a role model, motivates others to do their best and nurtures in them a spirit of innovation.
 
-**Mdm Rosnah Binti Salleh** <br>
-Mdm Rosnah serves with open arms. Everytime she is approached to lend assistance, she would never say never. No matter how challenging the request, she will give her utmost best and she can be depended upon to respond promptly and in a timely manner.
+**Ms Chong Yoke Khee** <br>
+As the leader of Staff Development Committee, she tries out new and innovative pedagogies. She is creative & is not afraid to explore different ways to help her students learn. What is heartening is that she tries out various processes & practices before encouraging other teachers to try. She is always able to speak with clarity & thoughtfulness which aid those who are working with her.
 
-**Mr Zulfadhli Bin Mohamed Zain** <br>
-Mr Zulfadhli is a lab technician who not only ensures the proper setup for all practical requests from teachers, he also interacts with students and provides suggestions to improve the work environment by seeking more efficient ways to do things. He has a very positive mindset and would go to great lengths to ensure the the teachers are well-supported.
+**Mdm G Vasaki** <br>
+Mdm Vasaki learns in her own quiet and sure ways. She is prompt, humble and will constantly seek improvement. She injects laughter or a nice collegial thought - and she does it in a way that motivates others. She is innovative in her own way.
 
-**Ms Zhou Li** <br>
-Ms Zhou Li is an extremely helpful and efficient Year Head! She never fails to assist form teachers in class matters and would give excellent advice which are logical and reasonable. With foresight and a discerning mind, she approaches all situations calmly, would communicate clearly and make decisions to help others navigate through uncertainties with confidence.
-
+**Mdm Siti Hajar** <br>
+Mdm Hajar is very forthcoming in offering suggestions and sharing her point of view in work teams. She is always dependable. She would always consider the staff or students needs and has a genuine love for them.
  
 
 **The Vision Awards** <br>
@@ -70,21 +69,39 @@ Are presented to teaching staff who exemplify the school VISION of the heart of 
 **The Heart of a Saint VISION Award** <br>
 Is presented to a teaching staff member who shows care for self, community and environment; is always respectful and leads to serve others.
 
-**Mr Chan Yew Fai, Samuel** <br>
-“Mr Chan has been very encouraging and patient with our class, never giving up despite some setbacks. I have truly never met a more patient and kind teacher”. There are frequent such sharing from students about how Mr Chan has impacted them. His students feel comfortable approaching him when in doubt and strive to learn because they feel his support, his respect for them and his consistent effort in making lessons interesting.
+**Mrs Claudia Ng** <br>
+Mrs Ng is caring towards her student and goes the extra mile for them. She never give up on students who are weak and unwilling towards Math. Every time she sees anyone in distress or having a difficult time, she will ask them if their okay.
+
+**Mr Chandra** <br>
+Mr Chandra often engages with others to encourage and share his thoughts about healthy living for both the mind and the body. He is unwavering in his efforts in encouraging self-discipline amongst students and stays fit through regular exercise.
+
+**Mrs Rishabh** <br>
+Mr Rishabh is a patient, kind, caring and a great teacher. He has always encouraged us, is always been nice to us and even when we do something wrong, he gives us a second chance with a reprimanding that makes us better people in a whole.
 
  
 
 **The Passion of an Inventor VISION Award** <br>
 Is presented to a teaching staff member who is a critical thinker and a problem solver; is confident and clear in all dealings; strives to be a life-long learner.
 
-**Ms Lee En Ting** <br>
-“Ms Lee is extremely passionate about teaching us and about Literature and English. She is able to distill the learning points and has a really great way of getting it across to us”. Students attribute their learning to the way Ms Lee has diagnosed, analysed and thought of ways to make the learning environment, the learning process more relatable to her students. To her students, Ms Lee is a teacher with clarity of thought and a clear purpose of making sure that no child is left behind in the learning.
+**Mr Jeffery Chen** <br>
+Mr Chen is a kind and caring teacher and his kindness has impacted and motivated me to do better in my studies. He will make the lesson fun and lively. He will use fun methods to make us learn the topics faster.
+
+**Mr Lim Er Song** <br>
+Mr Lim is very passionate about Math. He uses many different ways of teaching to engage the students and it makes the subject more interesting and fun.
+
+**Mdm Ow Suek Yin** <br>
+Mdm Ow shows genuine concern for students who may be troubled or at-risk, she proactively looks out for them. She  works alongside the school to provide the necessary support for students with needs. She is always approachable, always ready to offer advice and dependable.
 
  
 
 **The Will of an Olympian VISION Award** <br>
 Is presented to a teaching staff member who is determined in the face of challenges; remains adaptable in a dynamic environment; embraces a healthy lifestyle; role models the way and strives for excellence.
 
-**Mr Lim Kheng Joo Vincent** <br>
-"Mr Lim is a teacher who always strives for the best and looks out for others while encouraging them to do likewise. He drives us to target beyond what we think is our personal best, teaches us that perseverance and determination is key in overcoming our thresholds and is ever supportive of us whenever we need someone to understand our troubles". Mr Lim practices what he preaches, he leads a healthy lifestyle and willingly shares his stories and knowledge of how he keeps physically and mentally fit with others.
+**Mr Chew Ying Chao** <br>
+Mr Chew is a person who looks for excellence in people's works and efforts, and always puts in his best effort when leading Media Club projects. Even when meeting lots of challenges throughout the year, he is able to navigate through them. He is a great role model and teacher, often asking us questions and challenging our beliefs to help us grow.
+
+**Mr Kevin Chow** <br>
+Mr Chow is a very encouraging teacher, he encourages us to try during our PE lessons and praises us when we are able to do something challenging. He is resilient, passionate, and determined.
+
+**Ms Tan Peck Joon** <br>
+Ms Tan is very caring towards her students. She has a positive attitude and is always ready to contribute.  She is a nurturing teacher who cares for students and who tries out different innovative teaching tools to support the student’s teaching and learning.
