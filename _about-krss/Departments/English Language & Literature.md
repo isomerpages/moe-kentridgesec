@@ -14,16 +14,13 @@ Secondary 1: Video production
 Secondary 2: Drama
 
 Secondary 3: Current Affairs Presentation
-<img src="/images/EL1.jpg" style="width:50%"><img src="/images/EL2.png" style="width:50%">
-<img src="/images/EL3.jpg" style="width:50%">
+<img src="/images/EL1.jpg" style="width:75%"><img src="/images/EL2.png" style="width:75%">
+<img src="/images/EL3.jpg" style="width:75%">
 
 
 **Student-centric Pedagogy**  
 Students learn through Writing as a Process to develop metacognitive awareness in their writing. They learn collaboratively using their Personal Learning Devices (PLDs), tapping on ICT tools including SLS, Google Classroom, Kami and Padlet.
-
-![EL_4](/images/EL4.jpg)
-
-![EL Dept](/images/english-language-and-literature-department-2-1024x731.jpg)
+<img src="/images/EL4.jpg" style="width:75%">
 
 ##### **Programmes**
 **Reading Programme**  
@@ -48,5 +45,4 @@ The first GCE ‘O’ Level Pure Literature class was set up in 2010, and since 
 **Read, Annotate, Debate! (RAD) Interschool Literature Debate**  
 The Read, Annotate, Debate! (RAD) Interschool Literature Debate competition was co-organised by KRSS and a total of 6 participating schools. Students enjoyed the experience of debating with their peers from different schools which gave them fresh insights into the texts they were 
 studying.
-<img src="/images/RAD.jpg" style="width:100%">
-
+<img src="/images/RAD.jpg" style="width:75%">
