@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - Student Learning Space.md
       - Science Talent Development Programme.md
       - e Open House 2021.md
       - 21st Annual Awards Day cum National Day Celebration.md
