@@ -88,7 +88,7 @@ Students are given various platforms to present their learning to the school and
 
   <li>  
     <input type="checkbox" id="accordion2">  
-    <label for="accordion1">CanREACH Award</label>  
+    <label for="accordion2">CanREACH Award</label>  
     <div>  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
