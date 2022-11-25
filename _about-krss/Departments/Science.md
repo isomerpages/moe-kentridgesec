@@ -38,8 +38,6 @@ img {
   
 </body>
 
-![Science Department](/images/science-department-2-1024x731.jpg)
-
 ### Programmes
 
 **1\. Learning Journeys**  
