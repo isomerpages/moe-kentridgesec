@@ -10,8 +10,6 @@ With the vision “Every Student an Inquirer’, the Humanities Department aims 
 
 Inquiry-based Learning, supported by the use of Thinking Routines and ICT, are used by the department to develop critical thinking, knowledge construction and communication skills in students. The syllabus also allows students to have a sense of empathy for real-life issues and appreciate the multiple perspectives of them.
 
-![Humanities](/images/humanities-department-2-1024x731.jpg)
-
 ### Programmes
 
 **Inquiry-based Learning and Project-Based Assessment** <br>
