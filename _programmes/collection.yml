@@ -1,0 +1,17 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Full Subject Based Banding.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Applied Learning Programme.md
+      - Distinctive Programmes/Learning for Life Programme.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Clubs and Societies.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Sports.md
+      - Co Curricular Activities/Uniformed Groups.md
+      - Overseas Learning Journeys/.keep
+      - Overseas Learning Journeys/Hanoi.md
+      - Overseas Learning Journeys/Shanghai.md
+      - Overseas Learning Journeys/Hong Kong.md

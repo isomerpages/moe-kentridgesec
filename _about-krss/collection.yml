@@ -1,0 +1,28 @@
+collections:
+  about-krss:
+    output: true
+    order:
+      - Principal's Message.md
+      - School's History.md
+      - School Mission, Vision & Values.md
+      - School Crest and Song.md
+      - School's Direction/.keep
+      - School's Direction/School Strategy & Focus.md
+      - School's Direction/Student Outcomes.md
+      - School's Direction/CC Framework.md
+      - School's Direction/T&L Framework.md
+      - School's Direction/Partnership Framework.md
+      - Departments/.keep
+      - Departments/Craft & Technology.md
+      - Departments/English Language & Literature.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education.md
+      - Departments/Principles of Accounts.md
+      - Departments/Science.md
+      - Departments/Student Development Team.md
+      - Organisational Structure/.keep
+      - Organisational Structure/Kent Ridge Executive Committee.md
+      - Organisational Structure/School Advisory Committee.md
+      - Organisational Structure/Teachers and Support Staff.md

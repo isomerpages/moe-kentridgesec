@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/KRSS logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About KRSS
+    collection: about-krss
+  - title: School Information
+    collection: school-information
+  - title: Programmes
+    collection: programmes
+  - title: Achievements
+    collection: achievements
+  - title: News & Events
+    collection: news-and-events
+  - title: Partners
+    collection: partners

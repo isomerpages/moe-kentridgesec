@@ -1,0 +1,28 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Academic Matters/.keep
+      - Academic Matters/AEP & MEP.md
+      - Academic Matters/Assessment Matters.md
+      - Academic Matters/Parents’ Briefing Slides.md
+      - Academic Matters/Timetables.md
+      - Administrative Matters/.keep
+      - Administrative Matters/Financial Assistance.md
+      - Administrative Matters/School Book List and Uniform.md
+      - Administrative Matters/School Fees.md
+      - Sec 1 Registration 2021/.keep
+      - Code of Conduct.md
+      - Direct School Admission 2022/.keep
+      - Direct School Admission 2022/Direct School Admission 2022.md
+      - Direct School Admission 2022/Main Page.md
+      - Direct School Admission 2022/Terms and Conditions.md
+      - Direct School Admission 2022/Criteria.md
+      - Direct School Admission 2022/Important Dates to Note.md
+      - Direct School Admission 2022/Application Procedure.md
+      - Direct School Admission 2022/FAQ.md
+      - MOE Sexuality Education in Schools.md
+      - National Digital Literacy Programme (NDLP).md
+      - School Based Student Health Advisor (SHA) Programme.md
+      - Frequently Asked Questions (FAQS).md
+      - Contact Us.md
