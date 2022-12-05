@@ -15,8 +15,4 @@ sections:
         - title: Quick Links
           description: To Access Useful Resources
           url: /quicklinks/
-  - infobar:
-      title: News and Updates
-      button: School Book List and Uniform
-      url: https://moe-kentridgesec-staging.netlify.app/school-information/administrative-matters/school-book-list-uniform/
 ---
