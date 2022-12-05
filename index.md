@@ -9,14 +9,10 @@ sections:
   - hero:
       background: /images/krss.gif
       key_highlights:
-        - title: For Staff
-          description: ""
-          url: /for-staff/
-        - title: For Students
-          description: ""
-          url: /for-students/
-        - title: Contact Us
-          description: ""
-          url: /school-information/contact-information/
+        - title: Annoucements
+          description: Important Updates
+          url: ""
+        - title: Quick Links
+          description: To Access Useful Resources
+          url: /quicklinks/
 ---
-
