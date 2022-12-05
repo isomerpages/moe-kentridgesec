@@ -18,5 +18,8 @@ sections:
         - title: Contact Us
           description: ""
           url: /school-information/contact-information/
+  - infobar:
+      title: News and Updates
+      button: School Book List and Uniform
+      url: https://moe-kentridgesec-staging.netlify.app/school-information/administrative-matters/school-book-list-uniform/
 ---
-
