@@ -21,28 +21,26 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 ### School Book List
 
-[KRSS Book List 2023 2EXP](/files/KRSS-Book-List-2023-2E.pdf)
+[KRSS Book List 2023 2EXP](/files/KRSS-Book-List-2023-Sec-2E.pdf)
 
-[KRSS Book List 2023 2NA](/files/KRSS-Book-List-2023-2NA.pdf)
+[KRSS Book List 2023 2NA](/files/KRSS-Book-List-2023-Sec-2NA.pdf)
 
-[KRSS Book List 2023 2NT](/files/KRSS-Book-List-2023-2NT.pdf)
+[KRSS Book List 2023 2NT](/files/KRSS-Book-List-2023-Sec-2NT.pdf)
 
-[KRSS Book List 2023 3EXP](/files/KRSS-Book-List-2023-3E.pdf)
+[KRSS Book List 2023 3EXP](/files/KRSS-Book-List-2023-Sec-3E.pdf)
 
-[KRSS Book List 2023 3NA](/files/KRSS-Book-List-2023-3NA.pdf)
+[KRSS Book List 2023 3NA](/files/KRSS-Book-List-2023-Sec-3NA.pdf)
 
-[KRSS Book List 2023 3NT](/files/KRSS-Book-List-2023-3NT.pdf)
+[KRSS Book List 2023 3NT](/files/KRSS-Book-List-2023-Sec-3NT.pdf)
 
-[KRSS Book List 2023 4EXP](/files/KRSS-Book-List-20234E.pdf)
+[KRSS Book List 2023 4EXP](/files/KRSS-Book-List-2023-Sec-4E.pdf)
 
-[KRSS Book List 2023 4NA](/files/KRSS-Book-List-2023-4NA.pdf)
+[KRSS Book List 2023 4NA](/files/KRSS-Book-List-2023-Sec-4NA.pdf)
 
-[KRSS Book List 2023 4NT](/files/KRSS-Book-List-2023-4NT.pdf)
+[KRSS Book List 2023 4NT](/files/KRSS-Book-List-2023-Sec-4NT.pdf)
 
-[KRSS Book List 2023 5N](/files/KRSS-Book-List-2023-5N.pdf)
+[KRSS Book List 2023 5N](/files/KRSS-Book-List-2023-Sec-5N.pdf)
 
 ### School Uniform
 
 [Guide for Purchase of School Uniforms](/files/Uniform_KRSS Info Sheet 2022 (27 Oct 2022).pdf) (updated 05 Dec 2022)
-
-
