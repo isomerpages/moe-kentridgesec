@@ -15,4 +15,5 @@ sections:
         - title: Quick Links
           description: To Access Useful Resources
           url: /quicklinks/
+  - resources: {}
 ---
