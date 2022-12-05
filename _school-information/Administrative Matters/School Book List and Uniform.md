@@ -43,4 +43,6 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 ### School Uniform
 
-[Guide for Purchase of School Uniforms](/files/Uniform_KRSS Info Sheet 2022 (27 Oct 2022).pdf) (updated 05 Dec 2022)
+[Guide for Purchase of School Uniforms](/files/Uniform_KRSS Info Sheet 2022 (27 Oct 2022).pdf) (updated 27 Oct 2022)
+
+
