@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Annoucements
           description: Important Updates
-          url: /announcements/
+          url: /schoolannouncements/
         - title: Quick Links
           description: To Access Useful Resources
           url: /quicklinks/
