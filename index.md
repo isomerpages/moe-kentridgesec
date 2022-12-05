@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Annoucements
           description: Important Updates
-          url: https://kentridgesec.moe.edu.sg/announcements/
+          url: /announcements/
         - title: Quick Links
           description: To Access Useful Resources
           url: /quicklinks/
