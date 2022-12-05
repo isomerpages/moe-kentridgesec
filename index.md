@@ -14,7 +14,7 @@ sections:
           url: ""
         - title: Quick Links
           description: To Access Useful Resources
-          url: ""
+          url: /quicklinks/
   - infobar:
       title: News and Updates
       button: School Book List and Uniform
