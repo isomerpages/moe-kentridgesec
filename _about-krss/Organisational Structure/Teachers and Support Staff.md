@@ -4,12 +4,11 @@ permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 table, th, td {
- border-collapse: collapse;
+border-collapse: collapse;
 }
 </style>
 </head>
@@ -314,7 +313,7 @@ table, th, td {
     <td>English</td>
     <td>Mdm Kalaimathi d/o Manikam</td>
     <td><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
-  </tr>
+ </tr>
 </table>
 </tbody>
 </html>
