@@ -70,7 +70,7 @@ table, th, td {
   <tr>
     <td>Secondary 1</td>
     <td>- Captain’s Ball<br>- Netball<br>- Softball</td>
-      <td class="tg-0lax" rowspan="4">- Muscular Strength &amp; Endurance<br>- Fitness Concepts<br>- Body Composition<br>- Flexibility<br>- Food &amp; Nutrition</td>
+      <td rowspan="4">- Muscular Strength &amp; Endurance<br>- Fitness Concepts<br>- Body Composition<br>- Flexibility<br>- Food &amp; Nutrition</td>
   </tr>
   <tr>
     <td>Secondary 2</td>
@@ -82,7 +82,7 @@ table, th, td {
     <td>- Tag Rugby<br>- Netball<br>- Softball</td>
  </tr>
  <tr>
-    <td>Secondary 4&5</td>
+    <td>Secondary 4 & 5</td>
     <td>- Tchoukball<br>- Games Creation</td>
  </tr>
 	 <tr> </tr>
