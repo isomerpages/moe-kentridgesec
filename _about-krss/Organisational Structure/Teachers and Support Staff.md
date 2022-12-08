@@ -7,11 +7,6 @@ third_nav_title: Organisational Structure
 ### Form Teachers
 
 <html>
-<style>
-table, th, td {
-  border:0.5px solid black;
-}
-</style>
 	<tbody>
 <table style="width:100%">
   <tr style="background-color:#033668">
