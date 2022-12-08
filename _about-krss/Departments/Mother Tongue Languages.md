@@ -18,7 +18,6 @@ table, th, td {
   border:0.5px solid black;
 }
 </style>
-<body>
 <table style="width:100%">
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff; text-align: center;width: 150px;">Level</th>
@@ -67,7 +66,7 @@ table, th, td {
     <td>Cultural Programme Exposure Scheme<br>Mother Tongue Language Intensive Revision</td>
   </tr>
 </table>
-</body>
+
 
 **Mother Tongue Language Fortnight (MTLFN)**:  
 To create an immersive environment for the learning of MTL, we designate two consecutive weeks each year for MTL Fortnight, during which a wide range of activities related to CL/ML/TL language and culture are conducted for students.
