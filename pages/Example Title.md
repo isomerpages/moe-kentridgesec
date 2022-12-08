@@ -1,8 +1,9 @@
 ---
 title: Example Title
-permalink: /permalink/
+permalink: /test1/
 description: ""
 ---
+
 <html>
 <style>
 table, th, td {
