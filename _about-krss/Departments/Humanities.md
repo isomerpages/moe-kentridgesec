@@ -5,16 +5,6 @@ description: ""
 third_nav_title: Departments
 ---
 ### Overview
-<html>
-<head>
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-</head>
-<body>
 With the vision “Every Student an Inquirer’, the Humanities Department aims to develop citizens of tomorrow through their understanding of the complexities of today’s dynamic world.
 
 Inquiry-based Learning, supported by the use of Thinking Routines and ICT, are used by the department to develop critical thinking, knowledge construction and communication skills in students. The syllabus also allows students to have a sense of empathy for real-life issues and appreciate the multiple perspectives of them.
@@ -39,4 +29,3 @@ img {
 
 **Overseas Learning Journey**  
 Overseas field trips provide students with authentic learning experiences. These experiences provide students with the platform to apply concepts taught in the classroom to the real world. Coupled with the objective of enriching students’ worldly perspective, these trips encourage students explore the inter-relationships of real life issues.
-	</body>
