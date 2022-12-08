@@ -325,10 +325,10 @@ table, th, td {
 	<tbody>
 <table style="width:100%">
     <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
-  <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
-		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
-		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 500px;">Email Address</th>
+  <tr>
+    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
+		<th style="font-weight:bold; text-align: center; width: 500px;">Email Address</th>
   </tr>
   <tr>
     <td>School Counsellor</td>
@@ -368,7 +368,7 @@ table, th, td {
 </table>
 </tbody>
 </html>
-
+<br>
 <html>
 <style>
 table, th, td {
@@ -378,9 +378,9 @@ table, th, td {
 	<tbody>
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
-  <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
-		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
+  <tr>
+    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
     <td>Desktop Engineer</td>
@@ -409,7 +409,7 @@ table, th, td {
 </table>
 </tbody>
 </html>
-
+<br>
 <html>
 <style>
 table, th, td {
@@ -419,9 +419,9 @@ table, th, td {
 	<tbody>
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
-  <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
-		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
+  <tr>
+    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
     <td>Operation Support Officer</td>
@@ -450,7 +450,7 @@ table, th, td {
 </table>
 </tbody>
 </html>
-
+<br>
 <html>
 <style>
 table, th, td {
@@ -460,9 +460,9 @@ table, th, td {
 	<tbody>
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
-  <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
-		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
+  <tr>
+    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
     <td>Adjunct Admin Executive</td>
