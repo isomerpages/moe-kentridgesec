@@ -13,45 +13,6 @@ Our student-centric PE curriculum is conducted through two-pronged approaches of
 ### Programmes
 
 **Explicit Teaching**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1jgz"><span style="font-weight:bold;color:#FFF">Level</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold;color:#FFF">Sports and Games Curriculum</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold;color:#FFF">Fitness &amp; Conditioning</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Secondary 1</td>
-    <td class="tg-0lax">- Captain’s Ball<br>- Netball<br>- Softball</td>
-    <td class="tg-0lax" rowspan="4">- Muscular Strength &amp; Endurance<br>- Fitness Concepts<br>- Body Composition<br>- Flexibility<br>- Food &amp; Nutrition</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Secondary 2</td>
-    <td class="tg-0lax">- Ultimate Disc<br>- Tchoukball</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Secondary 3</td>
-    <td class="tg-0lax">- Tag Rugby<br>- Netball<br>- Softball</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Secondary 4 &amp; 5</td>
-    <td class="tg-0lax">- Tchoukball<br>- Games Creation</td>
-  </tr>
-</tbody>
-</table>
-
 <html>
 <head>
 <style>
