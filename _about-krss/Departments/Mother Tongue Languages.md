@@ -71,7 +71,7 @@ table, th, td {
 
 
 **Mother Tongue Language Fortnight (MTLFN)**:  
-<br> To create an immersive environment for the learning of MTL, we designate two consecutive weeks each year for MTL Fortnight, during which a wide range of activities related to CL/ML/TL language and culture are conducted for students.
+To create an immersive environment for the learning of MTL, we designate two consecutive weeks each year for MTL Fortnight, during which a wide range of activities related to CL/ML/TL language and culture are conducted for students.
 
 ![Mother Tongue Language Fortnight (MTLFN)](/images/Mother%20Tongue%20Language%20Fortnight%20(MTLFN).jpg)
 
