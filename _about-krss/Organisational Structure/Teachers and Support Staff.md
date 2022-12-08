@@ -16,7 +16,7 @@ border-collapse: collapse;
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
@@ -269,7 +269,7 @@ border-collapse: collapse;
     <td>Ms Zannatul Nauum Moummee</td>
    <td><a href="mailto:nauum_moumee_zannatul@schools.gov.sg">nauum_moumee_zannatul@schools.gov.sg</a></td>
   </tr>
-  <tr>
+	  <tr>
     <td rowspan="2">5N1</td>
     <td>Mr Lee Shu Hsi, Tommy</td>
     <td><a href="mailto:lee_shu_hsi@schools.gov.sg">lee_shu_hsi@schools.gov.sg</a></td>
@@ -278,6 +278,8 @@ border-collapse: collapse;
     <td>Mr Lai Wei Lim</td>
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
+  <tr>
+    
 </table>
 </tbody>	
 </html>
@@ -295,9 +297,9 @@ table, th, td {
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Subject</th>
 		<th style="font-weight:bold; color:#ffffff; width: 400px;">Name of Teacher</th>
-		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Email Address</th>
   </tr>
   <tr>
     <td>Chinese</td>
