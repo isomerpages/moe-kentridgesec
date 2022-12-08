@@ -4,7 +4,7 @@ permalink: /school-information/academic-matters/aep-mep/
 description: ""
 third_nav_title: Academic Matters
 ---
-# ART/MUSIC ELECTIVE PROGRAMME (AEP/MEP) FOR SECONDARY ONE STUDENTS IN NON-AEP/MEP SCHOOLS
+# Art/Music Elective Programme (Aep/Mep) For Secondary One Students In Non-Aep/Mep Schools
 
 From 2016, in line with MOE’s approach to grow the potential and talent of students across a wider range of domains, students were given more opportunities to enrol in art and music talent development programmes at the secondary level.
 
