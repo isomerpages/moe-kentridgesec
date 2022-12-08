@@ -8,8 +8,7 @@ third_nav_title: Organisational Structure
 
 <html>
 	<style>
-table, th, td {
-  border:0.5px white;
+border-collapse: collapse;
 }
 			</style>
 	<tbody>
