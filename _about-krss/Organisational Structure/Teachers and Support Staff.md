@@ -4,6 +4,7 @@ permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
 ---
+### Form Teachers
 <html>
 <head>
 <style>
@@ -292,7 +293,6 @@ table, th, td {
 </style>
 </head>
 	<tbody>
-<table>
 <table>
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
