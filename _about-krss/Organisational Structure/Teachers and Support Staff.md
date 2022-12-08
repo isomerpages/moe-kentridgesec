@@ -310,8 +310,8 @@ table, th, td {
     <td>Mdm Kalaimathi d/o Manikam</td>
     <td><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 ### Support Staff
@@ -365,8 +365,8 @@ table, th, td {
     <td>Mr Choo Soon Heng, Damon</td>
     <td></td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 <html>
@@ -406,9 +406,10 @@ table, th, td {
     <td>Education Workshop Instructor 2</td>
     <td>Mr Abdul Wahid Bin Md Eunos</td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
+
 <html>
 <style>
 table, th, td {
@@ -446,8 +447,8 @@ table, th, td {
     <td>Operation Support Officer</td>
     <td>Mdm Saraswathi Tanggelwel</td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 <html>
@@ -483,6 +484,6 @@ table, th, td {
     <td>Library Assistant</td>
     <td>Ms Cayla</td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
