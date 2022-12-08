@@ -34,7 +34,8 @@ table, th, td {
   </tr>
 </table>
 </tbody>
-
+	</html>
+	
 **Enrichment Programmes:**
 <html>
 <style>
