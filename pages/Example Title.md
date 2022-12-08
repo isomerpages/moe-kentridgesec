@@ -3,7 +3,6 @@ title: Example Title
 permalink: /permalink/
 description: ""
 ---
-
 <html>
 <style>
 table, th, td {
