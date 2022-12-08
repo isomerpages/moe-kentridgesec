@@ -374,7 +374,7 @@ table, th, td {
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
   <tr>
-    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+    <th style="font-weight:bold; text-align: center; width: 400px;">Designation</th>
 		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
@@ -415,7 +415,7 @@ table, th, td {
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
   <tr>
-    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+    <th style="font-weight:bold; text-align: center; width: 400px;">Designation</th>
 		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
@@ -456,7 +456,7 @@ table, th, td {
 <table style="width:100%">
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
   <tr>
-    <th style="font-weight:bold; text-align: center; width: 100px;">Designation</th>
+    <th style="font-weight:bold; text-align: center; width: 400px;">Designation</th>
 		<th style="font-weight:bold;text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
