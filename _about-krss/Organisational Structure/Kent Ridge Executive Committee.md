@@ -16,9 +16,9 @@ border-collapse: collapse;
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 400px;">Designation </th>
-    <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Staff</th>
-		<th style="font-weight:bold; color:#ffffff;width:300px;">Email Address</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Designation </th>
+    <th style="font-weight:bold; color:#ffffff;width: 500px;">Name of Staff</th>
+		<th style="font-weight:bold; color:#ffffff;width:200px;">Email Address</th>
   </tr>
   <tr>
     <td>School Principal</td>
