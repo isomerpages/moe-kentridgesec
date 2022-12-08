@@ -22,7 +22,7 @@ table, th, td {
   border:0.5px solid black;
 }
 </style>
-<body>
+<tbody>
 <table style="width:100%">
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff; text-align: center;width: 150px;">Aspect of full SBB</th>
@@ -37,8 +37,9 @@ table, th, td {
     <td>Currently, secondary school students can offer <span style="font-weight:bold">English Language, Mother Tongue Languages,</span> <span style="font-weight:bold">Mathematics and Science</span> at a more demanding level from the start of Secondary One based on students’ PSLE Achievement Level (AL) for each subject. Beyond the start of Secondary 1, students may also offer these subjects at a more demanding level based on their performance in secondary school.<br><span style="font-weight:bold">Our school will also provide Secondary 2 students the opportunity to take Humanities subjects at a more demanding level, if they meet subject-specific criteria.</span><br>The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</td>
 	</tr>
 </table>
-</body>
+</tbody>
+	</html>
    
-For more information on Full SBB, visit us  [http://www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
+For more information on Full SBB, visit [http://www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
 
 For more information on how our school will be implementing Full SBB, you can contact us at [krss@moe.edu.sg](mailto:krss@moe.edu.sg).
