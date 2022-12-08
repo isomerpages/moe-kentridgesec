@@ -4,15 +4,17 @@ permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
 ---
-### Form Teachers
-
+<!DOCTYPE html>
 <html>
-	<style>
-border-collapse: collapse;
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
 }
-			</style>
+</style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
@@ -277,18 +279,22 @@ border-collapse: collapse;
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
 </table>
-</tbody>
+</tbody>	
 </html>
+
 
 ### Subject Teachers
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
+<table>
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
 		<th style="font-weight:bold; color:#ffffff; width: 400px;">Name of Teacher</th>
@@ -316,13 +322,15 @@ table, th, td {
 ### Support Staff
 
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
   <tr>
     <th style="font-weight:bold;width: 300px;">Designation</th>
@@ -369,13 +377,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
   <tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
@@ -410,13 +420,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
   <tr>
     <th style="font-weight:bold; width: 400px;">Designation</th>
@@ -451,13 +463,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
   <tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
