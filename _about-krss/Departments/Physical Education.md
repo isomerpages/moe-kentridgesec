@@ -52,6 +52,45 @@ Our student-centric PE curriculum is conducted through two-pronged approaches of
 </tbody>
 </table>
 
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
+</style>
+</head>
+	<tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 200px;">Level</th>
+		<th style="font-weight:bold; color:#ffffff; width: 400px;">Sports and Games Curriculum</th>
+		<th style="font-weight:bold; color:#ffffff;width: 500px;">Fitness & Conditioning</th>
+  </tr>
+  <tr>
+    <td>Secondary 1</td>
+    <td>- Captain’s Ball<br>- Netball<br>- Softball</td>
+      <td class="tg-0lax" rowspan="4">- Muscular Strength &amp; Endurance<br>- Fitness Concepts<br>- Body Composition<br>- Flexibility<br>- Food &amp; Nutrition</td>
+  </tr>
+  <tr>
+    <td>Secondary 2</td>
+    <td>- Ultimate Disc<br>- Tchoukball</td>
+    
+  </tr>
+  <tr>
+    <td>Secondary 3</td>
+    <td>- Tag Rugby<br>- Netball<br>- Softball</td>
+ </tr>
+ <tr>
+    <td>Secondary 4&5</td>
+    <td>- Tchoukball<br>- Games Creation</td>
+ </tr>
+	 <tr> </tr>
+</table>
+</tbody>
+</html>
+
+
 **Experiential Learning Programmes**
 
 *   Secondary 1 Sports Enrichment
