@@ -35,17 +35,17 @@ The ECG curriculum is delivered as part of the Character and Citizenship Educati
 
 Organised ECG Programmes include:
 
-     - ECG counselling by ECG counsellor
+*  ECG counselling by ECG counsellor
 
-     - Class/cohort-based ECG workshops by ECG counsellor
+*  Class/cohort-based ECG workshops by ECG counsellor
 
-     - DPA, DSA, PFP, EAE talks for graduating classes by Institutes of Higher Learning
+*  DPA, DSA, PFP, EAE talks for graduating classes by Institutes of Higher Learning
 
-     - Learning journeys to Institutes of Higher Learning
+*  Learning journeys to Institutes of Higher Learning
 
-     - Learning booths by Institutes of Higher Learning
+*  Learning booths by Institutes of Higher Learning
 
-     - Career Talks by industry professionals
+*  Career Talks by industry professionals
 
 **3\. SHINE KR! Programme**  
 SHINE KR! is a holistic student development programme which aims to _**S**_trengthen the relationship between Normal Course (NC) students and teachers through Teacher-Student Interaction, Form Teacher’s Period and Breakfast Programme. Service to school activities _**H**_ighlight the positive traits of NC students so that they develop self-confidence. There is _**I**_ntentional effort to communicate the rationale of the programmes so that there is greater buy-in amongst students. To _**N**_urture the NC students to be leaders of their own lives, opportunities are given to develop social emotional competencies and leadership skills through the Taster Elective Modules for Lower Sec,  Elective Modules for Upper Sec and responsibilities within school. To _**E**_mpower and build self esteem of NC students, they actively contribute in the school’s collaborative projects with partners such as PAP Community Foundation and the Surabaya Village School.
@@ -109,7 +109,10 @@ The programme aims to
 
 ##### **Overview**
 
-The Student Leadership Team of the Student Management Committee is guided by the philosophy “Every Kent Ridgean A Leader” as it plans for experiential learning opportunities for students to be resilient leaders who lead self, peers and school/community. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to differentiate the programmes for the different segments of students. Student Leaders are provided with explicit teaching and experiential learning opportunities to hone their leadership skills. Student leaders who go through the programmes reflect on their learning and are assessed by their peers and teachers.
+Student Leadership in KRSS is guided by the philosophy  of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. 
+
+Teachers carefully mentor students through experiential learning programmes to develop resilient leaders who lead self, peers and school/community. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to differentiate the programmes for the different segments of students. Student Leaders are provided with explicit teaching and experiential learning opportunities to hone their leadership skills. Student leaders who go through the programmes reflect on their learning and are assessed by their peers and teachers.
+
 
 ##### **Explicit Teaching**  
 Briefings, leadership training programmes and bonding activities are customised for the different tiers of student leaders to equip them with the relevant leadership knowledge and skills.
@@ -117,8 +120,6 @@ Briefings, leadership training programmes and bonding activities are customised 
 ##### **Experiential Learning Opportunities**
 
 1.  **Experiential Week**<br>Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
-
-2.  **NYAA Programme**<br>The NYAA Programme Bronze Award is offered to all Sec 2 students while Sec 3 students are given the opportunity to sign up for the Silver Award. The programme equips Kent Ridgeans with the knowledge and skills to develop personal effectiveness and peer leadership through various school-organised activities. Through their participation in the programme, Kent Ridgeans develop personal qualities of self-reliance, perseverance and responsibility to self, society and the nation.
 
 3.  **School Operations, Events and Celebrations**<br>Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
 
@@ -135,41 +136,37 @@ Briefings, leadership training programmes and bonding activities are customised 
 <thead>
   <tr>
     <th class="tg-soxn"><span style="font-weight:bold">Leadership Group</span></th>
-    <th class="tg-soxn"><span style="font-weight:bold">Experiential Learning opportunities</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">Experiential Learning Opportunities</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-lm9i">Student Councillors</td>
-    <td class="tg-lm9i">Sec 1 Orientation and Teachers’ Day Celebrations</td>
+    <td class="tg-lm9i">Sec One Orientation, Teachers’ Day celebrations, student well-being and advocacy projects (e.g. school locker project, school corporate t-shirt design)</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Sports Leaders</td>
-    <td class="tg-lm9i">Kent Ridge Olympics and Level Inter-class Games</td>
+    <td class="tg-lm9i">Kent Ridge Olympics and Level Inter-class Games, Sec One Orientation facilitation </td>
   </tr>
   <tr>
     <td class="tg-lm9i">CCA Leaders</td>
-    <td class="tg-lm9i">CCA Activities, CCA Fair and Appreciation Day</td>
+    <td class="tg-lm9i">CCA activities, CCA Fair, Sec One Orientation Campfire programme</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Student Ambassadors</td>
-    <td class="tg-lm9i">Hosting Guests, School Publicity and Sec 1 Pledge-taking</td>
+    <td class="tg-lm9i">Hosting guests and visitors, school publicity talks and school open-house</td>
   </tr>
   <tr>
     <td class="tg-lm9i">GEAR-UP Leaders</td>
-    <td class="tg-lm9i">GEAR-UP Activities and KR Gives Back</td>
+    <td class="tg-lm9i">GEAR-UP activities and KR Gives Back</td>
   </tr>
   <tr>
     <td class="tg-lm9i">School Safety Ambassadors</td>
-    <td class="tg-lm9i">Enforcement of Safety Measure in School CCA and Emergency Exercise</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">House Leaders</td>
-    <td class="tg-lm9i">House Matters and Competition during Kent Ridge Olympics</td>
+    <td class="tg-lm9i">Advocacy of school safety practices through being trained as first responders as well as advocating safety in CCA, class and school-wide activities such as emergency drills and fire safety. </td>
   </tr>
   <tr>
     <td class="tg-lm9i">Class Committee Members</td>
-    <td class="tg-lm9i">Class Administration, Circle Time and Class Activities</td>
+    <td class="tg-lm9i">Class administration and discipline, Circle Time, class activities and leading level-wide forums with school leaders</td>
   </tr>
 </tbody>
 </table>
