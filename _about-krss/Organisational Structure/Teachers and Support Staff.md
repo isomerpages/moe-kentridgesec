@@ -16,9 +16,9 @@ border-collapse: collapse;
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 200px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
-		<th style="font-weight:bold; color:#ffffff;width:400px;">Email Address</th>
+		<th style="font-weight:bold; color:#ffffff;width:300px;">Email Address</th>
   </tr>
   <tr>
     <td>1-1</td>
@@ -297,9 +297,9 @@ table, th, td {
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 200px;">Subject</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
 		<th style="font-weight:bold; color:#ffffff; width: 400px;">Name of Teacher</th>
-		<th style="font-weight:bold; color:#ffffff;width: 400px;">Email Address</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
     <td>Chinese</td>
@@ -334,9 +334,9 @@ table, th, td {
 <table>
     <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
   <tr>
-    <th style="font-weight:bold;width: 200px;">Designation</th>
+    <th style="font-weight:bold;width: 300px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
-		<th style="font-weight:bold;width: 400px;">Email Address</th>
+		<th style="font-weight:bold;width: 300px;">Email Address</th>
   </tr>
   <tr>
     <td>School Counsellor</td>
