@@ -180,5 +180,6 @@ border-collapse: collapse;
      <td>Mdm Yu Xiaoyan</td>
      <td><a href="mailto:yu_xiaoyan@schools.gov.sg">yu_xiaoyan@schools.gov.sg</a></td>
   </tr>
-</tbody>
 </table>
+</tbody>
+</html>
