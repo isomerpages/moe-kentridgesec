@@ -277,8 +277,8 @@ table, th, td {
     <td>Mr Lai Wei Lim</td>
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 **Subject Teachers**
@@ -310,8 +310,8 @@ table, th, td {
     <td>Mdm Kalaimathi d/o Manikam</td>
     <td><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 ### Support Staff
