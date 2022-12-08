@@ -279,7 +279,7 @@ border-collapse: collapse;
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
   <tr>
-    
+    </tr>
 </table>
 </tbody>	
 </html>
