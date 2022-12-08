@@ -24,7 +24,7 @@ Our aim is to provide students with an authentic experience to develop a connect
 ### Programmes
 
 **Lower Secondary Modular Coursework**  
-Through fun and age-appropriate mini projects, students gain awareness of aesthetics and experience hands-on lessons in the special rooms such as workshops kitchens and studios.
+Through fun and age-appropriate mini projects, students gain awareness of aesthetics and experience hands-on lessons in the special rooms such as workshops, kitchens and studios.
 
 **Upper Secondary Thematic Coursework**  
 Thematic coursework emphasises the development of critical thinking skills such as analysis, planning, interpretation and evaluation. Given a set theme, upper secondary students are able to see their paper ideas turn into actual prototypes.
