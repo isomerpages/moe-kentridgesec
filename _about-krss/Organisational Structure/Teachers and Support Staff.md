@@ -16,9 +16,9 @@ border-collapse: collapse;
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
-		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
+		<th style="font-weight:bold; color:#ffffff;width:400px;">Email Address</th>
   </tr>
   <tr>
     <td>1-1</td>
