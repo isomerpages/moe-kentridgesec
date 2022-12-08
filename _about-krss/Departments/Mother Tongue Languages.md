@@ -98,7 +98,7 @@ An initiative by the Committee to Promote Chinese Language Learning (CPCLL), CPE
 Students with the interest and ability are identified and trained to take part in competitions, so as to enhance and enrich their learning. These include Calligraphy and Pen Writing, Journalism, Theatre Sports and others.
 
 ![Competitions](/images/mtl-competition-1536x452.jpg)
-<p style="text-align:center;">Shanghai Twinning Programme</p>
+<p style="text-align:center;">Competitions</p>
 
 **Shanghai Twinning**:  
 This school-initiated educational exchange programme started in 2007 to build ties with Shanghai No.4 High School (D4ZX). Each year a team of about 20 students and two teachers from KRSS visit D4ZX which is hosted by students from D4ZX in October. This is followed by a visit by the D4ZX students to KRSS where they will be hosted by their KRSS counterparts in the following year.
