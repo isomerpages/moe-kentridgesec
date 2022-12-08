@@ -9,7 +9,7 @@ third_nav_title: Organisational Structure
 <html>
 	<style>
 table, th, td {
-  border:0.5px solid black;
+  border:0.5px white;
 }
 			</style>
 	<tbody>
@@ -450,7 +450,7 @@ table, th, td {
 </table>
 </tbody>
 </html>
-
+<br>
 <html>
 <style>
 table, th, td {
