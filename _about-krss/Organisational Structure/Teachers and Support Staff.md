@@ -277,11 +277,11 @@ table, th, td {
     <td>Mr Lai Wei Lim</td>
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
-</table>
 </tbody>
+</table>
 </html>
 
-**Subject Teachers**
+### Subject Teachers
 <html>
 <style>
 table, th, td {
@@ -310,219 +310,179 @@ table, th, td {
     <td>Mdm Kalaimathi d/o Manikam</td>
     <td><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
   </tr>
-</table>
 </tbody>
+</table>
 </html>
 
 ### Support Staff
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xg1o{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xg1o" colspan="3"><span style="font-weight:bold">Student Support</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">Designation</span></td>
-    <td class="tg-soxn"><span style="font-weight:bold">Name of Staff</span></td>
-    <td class="tg-soxn"><span style="font-weight:bold">Email Adress</span></td>
+	<tbody>
+<table style="width:100%">
+    <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
+		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 500px;">Email Address</th>
   </tr>
   <tr>
-    <td class="tg-lm9i">School Counsellor</td>
-    <td class="tg-lm9i">Mr Foong Zhee Hou Melvyn</td>
-    <td class="tg-lm9i"><a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Part-Time School Counsellor</td>
-    <td class="tg-lm9i">Mdm Ow Suek Yin</td>
-    <td class="tg-lm9i"><a href="mailto:ow_suek_yin@moe.edu.sg">ow_suek_yin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Allied Educator (Teaching &amp; Learning)</td>
-    <td class="tg-lm9i">Ms Nurhaslinda Binte Rohop</td>
-    <td class="tg-lm9i"><a href="mailto:nurhaslinda_rohop@moe.edu.sg">nurhaslinda_rohop@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Allied Educator (Teaching &amp; Learning)</td>
-    <td class="tg-lm9i">Mr Tan Siang Yong</td>
-    <td class="tg-lm9i"><a href="mailto:tan_siang_yong@moe.edu.sg">tan_siang_yong@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Allied Educator (Learning &amp; Behavioural Support)</td>
-    <td class="tg-lm9i">Mrs Cheryl Lim</td>
-    <td class="tg-lm9i"><a href="mailto:tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">ICT Associate</td>
-    <td class="tg-lm9i">Ms Gan Bee Yi</td>
-    <td class="tg-lm9i"></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Student Welfare Officer (SWO)</td>
-    <td class="tg-lm9i">Mr Muhammad Iqbal Bin Rosli</td>
-    <td class="tg-lm9i"></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Student Health Advisor</td>
-    <td class="tg-lm9i">Ms Fidlya Binte Kamsani</td>
-    <td class="tg-lm9i"></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Education Career Guidance (ECG) Counsellor</td>
-    <td class="tg-lm9i">Mr Choo Soon Heng, Damon</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xg1o{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xg1o" colspan="2"><span style="font-weight:bold">Technical Support</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">Designation</span></td>
-    <td class="tg-soxn"><span style="font-weight:bold">Name of Staff</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Desktop Engineer</td>
-    <td class="tg-lm9i">Mr Leonard Siau Ming Chen</td>
+    <td>School Counsellor</td>
+    <td>Mr Foong Zhee Hou Melvyn</td>
+    <td><a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-    <td class="tg-lm9i">Desktop Engineer</td>
-    <td class="tg-lm9i">Mr Ashwin Ajay Unnithan</td>
+    <td>Part-Time School Counsellor</td>
+    <td>Mdm Ow Suek Yin</td>
+    <td><a href="mailto:ow_suek_yin@moe.edu.sg">ow_suek_yin@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Science Laboratory Technician 1</td>
-    <td class="tg-lm9i">Ms Lee Siew Har</td>
+	 <tr>
+    <td>Allied Educator (Learning &amp; Behavioural Support)</td>
+    <td>Mrs Cheryl Lim</td>
+    <td><a href="mailto:tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Science Laboratory Technician 2</td>
-    <td class="tg-lm9i">Mr Zulfadhli Bin Mohd Zain</td>
+		 <tr>
+    <td>ICT Associate</td>
+    <td>Ms Gan Bee Yi</td>
+    <td></td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Education Workshop Instructor 1</td>
-    <td class="tg-lm9i">Mr Shahrunizam Bin Senawi</td>
+	  <tr>
+    <td>Student Welfare Officer (SWO)</td>
+    <td>Mr Muhammad Iqbal Bin Rosli</td>
+    <td></td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Education Workshop Instructor 2</td>
-    <td class="tg-lm9i">Mr Abdul Wahid Bin Md Eunos</td>
+	  <tr>
+    <td>Student Health Advisor</td>
+    <td>Ms Fidlya Binte Kamsani</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Education Career Guidance (ECG) Counsellor</td>
+    <td>Mr Choo Soon Heng, Damon</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
+</html>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9q2j{background-color:#033668;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9q2j" colspan="2"><span style="font-weight:bold">Operation Support</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">Designation</span></td>
-    <td class="tg-soxn"><span style="font-weight:bold">Name of Staff</span></td>
+	<tbody>
+<table style="width:100%">
+    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Mr Mahdi Bin Yusoff</td>
+    <td>Desktop Engineer</td>
+    <td>Mr Leonard Siau Ming Chen</td>
+  </tr>
+	  <tr>
+    <td>Desktop Engineer</td>
+    <td>Mr Ashwin Ajay Unnithan</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Ms G Vasaki</td>
+    <td>Science Laboratory Technician 1</td>
+    <td>Ms Lee Siew Har</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Mdm Samsad Begum</td>
+    <td>Science Laboratory Technician 2</td>
+    <td>Mr Zulfadhli Bin Mohd Zain</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Mdm Rani Kumari Das</td>
+   <td>Education Workshop Instructor 1</td>
+    <td>Mr Shahrunizam Bin Senawi</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Mdm Rosnah Binti Salleh</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Operation Support Officer</td>
-    <td class="tg-lm9i">Mdm Saraswathi Tanggelwel</td>
+    <td>Education Workshop Instructor 2</td>
+    <td>Mr Abdul Wahid Bin Md Eunos</td>
   </tr>
 </tbody>
 </table>
+</html>
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
+</style>
+	<tbody>
+<table style="width:100%">
+    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
+  </tr>
+  <tr>
+    <td>Operation Support Officer</td>
+    <td>Mr Mahdi Bin Yusoff</td>
+  </tr>
+  <tr>
+   <td>Operation Support Officer</td>
+    <td>Ms G Vasaki</td>
+  </tr>
+  <tr>
+    <td>Operation Support Officer</td>
+    <td>Mdm Samsad Begum</td>
+  </tr>
+  <tr>
+    <td>Operation Support Officer</td>
+    <td>Mdm Rani Kumari Das</td>
+  </tr>
+  <tr>
+    <td>Operation Support Officer</td>
+    <td>Mdm Rosnah Binti Salleh</td>
+  </tr>
+  <tr>
+    <td>Operation Support Officer</td>
+    <td>Mdm Saraswathi Tanggelwel</td>
+  </tr>
+</tbody>
+</table>
+</html>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xg1o{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xg1o" colspan="2"><span style="font-weight:bold">Administrative Support</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">Designation</span></td>
-    <td class="tg-soxn"><span style="font-weight:bold">Name of Staff</span></td>
+	<tbody>
+<table style="width:100%">
+    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 100px;">Designation</th>
+		<th style="font-weight:bold; color:#ffffff; text-align: center; width: 400px;">Name of Staff</th>
   </tr>
   <tr>
-    <td class="tg-lm9i">Adjunct Admin Executive</td>
-    <td class="tg-lm9i">Ms Nur Delis Sulastra</td>
+    <td>Adjunct Admin Executive</td>
+    <td>Ms Nur Delis Sulastra</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Corporate Support Officer</td>
-    <td class="tg-lm9i">Mdm Asiah Binte Idris</td>
+    <td>Corporate Support Officer</td>
+    <td>Mdm Asiah Binte Idris</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Adjunct Corporate Support Officer</td>
-    <td class="tg-lm9i">Ms June Ng</td>
+    <td>Adjunct Corporate Support Officer</td>
+    <td>Ms June Ng</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Printing Assistant</td>
-    <td class="tg-lm9i">Ms Kong Mei Choon Ann</td>
+    <td>Printing Assistant</td>
+    <td>Ms Kong Mei Choon Ann</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Library Assistant</td>
-    <td class="tg-lm9i">Ms Cayla</td>
+    <td>Library Assistant</td>
+    <td>Ms Cayla</td>
   </tr>
 </tbody>
 </table>
+</html>
