@@ -34,4 +34,4 @@ NFS Upper secondary students will be equipped with knowledge and gain hands-on p
 An out-of-classroom learning experience is created for students where they will see the connection between aesthetics and real-life applications.
 
 **Coursework Week**<br>
-Graduating students develop stronger project management skills during this period which is dedicated for national exams projects.</p>
+Graduating students develop stronger project management skills during this period which is dedicated for national exams projects.
