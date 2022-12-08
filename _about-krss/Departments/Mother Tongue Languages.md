@@ -12,73 +12,62 @@ In line with MOE’s direction, we strive to develop all Kent Ridgeans to be lea
 
 **Academic Programme:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xg1o{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xg1o"><span style="font-weight:bold">Level</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">Subjects</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lm9i">Lower Secondary</td>
-    <td class="tg-lm9i">- Higher Mother Tongue (HMTL)<br>- Mother Tongue (Express)<br>- Mother Tongue (NA)<br>- Basic Mother Tongue (BMTL)</td>
+<body>
+<table style="width:100%">
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center;width: 150px;">Level</th>
+    <th style="font-weight:bold; color:#ffffff; text-align: center;">Subjects</th>
   </tr>
   <tr>
-    <td class="tg-lm9i">Upper Secondary</td>
-    <td class="tg-lm9i">- Higher Mother Tongue (HMTL)<br>- Mother Tongue (Express)<br>- Mother Tongue (NA)<br>- MTL B Syllabus<br>- Basic Mother Tongue (BMTL)</td>
+    <td>Lower Secondary</td>
+    <td>- Higher Mother Tongue (HMTL)<br>- Mother Tongue (Express)<br>- Mother Tongue (NA)<br>- Basic Mother Tongue (BMTL)</td>
   </tr>
-</tbody>
+  <tr>
+    <td>Upper Secondary</td>
+    <td>- Higher Mother Tongue (HMTL)<br>- Mother Tongue (Express)<br>- Mother Tongue (NA)<br>- MTL B Syllabus<br>- Basic Mother Tongue (BMTL)</td>
+  </tr>
 </table>
+</body>
 
 **Enrichment Programmes:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9q2j{background-color:#033668;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9q2j"><span style="font-weight:bold">Level</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">Subjects</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lm9i">Secondary 1</td>
-    <td class="tg-lm9i">CL: Enrichment and Movie Appreciation<br><br>ML: Traditional Wedding Culture<br>Conversational Chinese/ Malay (CCM)<br>Cultural Programme Exposure Scheme<br><br>Shanghai Twinning</td>
+<body>
+<table style="width:100%">
+	
+
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff; text-align: center; width: 150px;">Level</th>
+    <th style="font-weight:bold; color:#ffffff; text-align: center;">Subjects</th>
   </tr>
   <tr>
-    <td class="tg-lm9i">Secondary 2</td>
-    <td class="tg-lm9i">CL: Cultural Camp and Movie Appreciation<br><br>ML: Traditional Wedding Culture<br>Cultural Programme Exposure Scheme<br><br>Shanghai Twinning</td>
+    <td>Secondary 1</td>
+    <td>CL: Enrichment and Movie Appreciation<br><br>ML: Traditional Wedding Culture<br>Conversational Chinese/ Malay (CCM)<br>Cultural Programme Exposure Scheme<br><br>Shanghai Twinning</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Secondary 3</td>
-    <td class="tg-lm9i">CL: Sec 3 Learning Journey (Local) and Movie Appreciation<br><br>ML: Traditional Music, Instruments and Dikir Barat<br>Cultural Programme Exposure Scheme</td>
+    <td>Secondary 2</td>
+    <td>CL: Cultural Camp and Movie Appreciation<br><br>ML: Traditional Wedding Culture<br>Cultural Programme Exposure Scheme<br><br>Shanghai Twinning</td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Secondary 4</td>
-    <td class="tg-lm9i">Cultural Programme Exposure Scheme<br>Mother Tongue Language Intensive Revision</td>
+	 <tr>
+    <td>Secondary 3</td>
+    <td>CL: Sec 3 Learning Journey (Local) and Movie Appreciation<br><br>ML: Traditional Music, Instruments and Dikir Barat<br>Cultural Programme Exposure Scheme</td>
   </tr>
-</tbody>
+	 <tr>
+    <td>Secondary 4</td>
+    <td>Cultural Programme Exposure Scheme<br>Mother Tongue Language Intensive Revision</td>
+  </tr>
 </table>
+</body>
 
 **Mother Tongue Language Fortnight (MTLFN)**:  
 To create an immersive environment for the learning of MTL, we designate two consecutive weeks each year for MTL Fortnight, during which a wide range of activities related to CL/ML/TL language and culture are conducted for students.
