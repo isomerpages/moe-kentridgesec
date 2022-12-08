@@ -18,6 +18,7 @@ table, th, td {
   border:0.5px solid black;
 }
 </style>
+	<tbody>
 <table style="width:100%">
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff; text-align: center;width: 150px;">Level</th>
@@ -32,20 +33,17 @@ table, th, td {
     <td>- Higher Mother Tongue (HMTL)<br>- Mother Tongue (Express)<br>- Mother Tongue (NA)<br>- MTL B Syllabus<br>- Basic Mother Tongue (BMTL)</td>
   </tr>
 </table>
-</body>
+</tbody>
 
 **Enrichment Programmes:**
-<br>
 <html>
 <style>
 table, th, td {
   border:0.5px solid black;
 }
 </style>
-<body>
+<tbody>
 <table style="width:100%">
-	
-
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff; text-align: center; width: 150px;">Level</th>
     <th style="font-weight:bold; color:#ffffff; text-align: center;">Subjects</th>
@@ -67,6 +65,7 @@ table, th, td {
     <td>Cultural Programme Exposure Scheme<br>Mother Tongue Language Intensive Revision</td>
   </tr>
 </table>
+	</tbody>
 
 
 **Mother Tongue Language Fortnight (MTLFN)**:  
@@ -94,5 +93,3 @@ This school-initiated educational exchange programme started in 2007 to build ti
 
 **Conversational Chinese/ Malay (CCM)**:  
 CCM is introduced as an enrichment programme for non-Chinese / non-Malay students who are interested in learning Chinese / Malay Language and its culture. Communication through languages enhances social interaction. CCM provides these students with the platform to communicate with their counterparts, and to better understand and appreciate Chinese / Malay cultures and values. It will also help students to enhance their rapport with Chinese- / Malay-speaking friends.
-	
-	</body>
