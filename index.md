@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/krss.gif
       key_highlights:
-        - title: Annoucements
+        - title: Announcement
           description: Important Updates
           url: /announcements/
         - title: Quick Links
