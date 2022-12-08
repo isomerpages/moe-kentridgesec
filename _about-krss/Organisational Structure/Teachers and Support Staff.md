@@ -272,8 +272,8 @@ third_nav_title: Organisational Structure
     <td>Mr Lai Wei Lim</td>
    <td><a href="mailto:lai_wei_lim@schools.gov.sg">lai_wei_lim@schools.gov.sg</a></td>
   </tr>
-</tbody>
 </table>
+</tbody>
 </html>
 
 ### Subject Teachers
