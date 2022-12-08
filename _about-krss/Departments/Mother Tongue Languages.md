@@ -65,7 +65,8 @@ table, th, td {
     <td>Cultural Programme Exposure Scheme<br>Mother Tongue Language Intensive Revision</td>
   </tr>
 </table>
-	</tbody>
+</tbody>
+	</html>
 
 
 **Mother Tongue Language Fortnight (MTLFN)**:  
