@@ -4,7 +4,7 @@ permalink: /school-information/academic-matters/assessment-matters/
 description: ""
 third_nav_title: Academic Matters
 ---
-### **Criteria for Promotion**
+### Criteria for Promotion
 
 **NORMAL TECHNICAL**
 
