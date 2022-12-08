@@ -238,7 +238,7 @@ table, th, td {
   </tr>
   <tr>
     <td rowspan="2">4E4</td>
-    <td>>Ms Kalpana d/o Kaleselvan</td>
+    <td>Ms Kalpana d/o Kaleselvan</td>
     <td><a href="mailto:kalpana_kaleselvan@schools.gov.sg">kalpana_kaleselvan@schools.gov.sg</a></td>
   </tr>
   <tr>
