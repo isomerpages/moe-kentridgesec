@@ -21,7 +21,7 @@ We believe every student has the ability to make connections, think critically, 
 Besides providing understanding of visual elements, aesthetics, and skills in handling various media and conceptual tools, our Art students in KRSS are also actively involved in using their art skills to improve the community by using Arts & Crafts to raise awareness and instill a sense of responsibility to protect and preserve the environment.
 
 **Nutrition Food Science Unit**  
-Our aim is to nurture concerned citizens who take an active role in bettering the lives of those around them through their knowledge in nutrition and health, food literacy and food science.</p>
+Our aim is to nurture concerned citizens who take an active role in bettering the lives of those around them through their knowledge in nutrition and health, food literacy and food science.
 
 **Design and Technology Unit**  
 Our aim is to have confident and creative student-designers through application of technology.
@@ -33,7 +33,7 @@ Our aim is to provide students with an authentic experience to develop a connect
 ### Programmes
 
 **Lower Secondary Modular Coursework**  
-Through fun and age-appropriate mini projects, students gain awareness of aesthetics and experience hands-on lessons in the special rooms such as workshops, kitchens and studios.<
+Through fun and age-appropriate mini projects, students gain awareness of aesthetics and experience hands-on lessons in the special rooms such as workshops, kitchens and studios.
 
 **Upper Secondary Thematic Coursework**  
 Thematic coursework emphasises the development of critical thinking skills such as analysis, planning, interpretation and evaluation. Given a set theme, upper secondary students are able to see their paper ideas turn into actual prototypes.
