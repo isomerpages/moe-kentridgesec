@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NDLP.jpg" alt="NATIONAL DIGITAL LITERACY PROGRAMME (NDLP)" style="width:65%;">  
+<body><img src="/images/NDLP_1.jpg" alt="NATIONAL DIGITAL LITERACY PROGRAMME (NDLP)" style="width:65%;">  
   
 </body>
 
