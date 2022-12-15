@@ -216,13 +216,13 @@ Should you have any queries, please contact the following officers:
 						<tr>
 	 <td>Purchase of Books and Uniforms</td>
     <td>Online ordering with our vendors are available as follows:
+<br><br>
+Bookshop Vendor: <a href="https://www.annkev.com/">https://www.annkev.com</a>
 <br>
-Bookshop Vendor: [www.annkev.com](https://www.annkev.com/)
-<br>
-*   [2022 Sec 1E Book List](/files/KRSS-Book-List-2022-1E.pdf)<br>
-*   [2022 Sec 1NA Book List](/files/KRSS-Book-List-2022-1NA.pdf)<br>
-*   [2022 Sec 1NT Book List](/files/KRSS-Book-List-2022-1NT.pdf)<br>
-Uniform Vendor: [www.khuniform.com](https://khuniform.com/)
+*   [2022 Sec 1 Book List](/files/KRSS-Book-List-2022-1E.pdf)
+			<br>
+			
+Uniform Vendor: <a href="https://khuniform.com/">https://khuniform.com</a><br>
 <br>
 *   [Sec 1 Guide to Online Purchase (22 Dec 2021)](/files/Sec-1-Guide-to-Online-Purchase_Uniforms-22-Dec-2021.pdf)
 <br><br>
