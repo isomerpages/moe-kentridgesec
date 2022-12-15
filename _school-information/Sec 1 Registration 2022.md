@@ -34,7 +34,7 @@ Appeals will only be considered on exceptional basis for students with:
 <br>
 *  <span style="font-weight:bold">Serious medical conditions</span>, such as chronic heart conditions or kidney problems. <br>
 *  <span style="font-weight:bold">Severe physical impairments</span>, such as those requiring permanent use of a wheelchair.
-<br>
+<br><br>
 All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
 <br><br>
 The appeal results will be released in early January.
@@ -89,7 +89,7 @@ Dismissal Time: 1:00 pm<br>
 <br>
 • Full KRSS school uniform, with all-white socks and all-white school shoes; <br>
 • Or primary school uniform if child is awaiting a transfer request outcome from another school.<br>
-
+<br>
 <span style="font-weight:bold">Things to bring:</span>
 <br>
 • Writing Materials  <br>
@@ -100,7 +100,7 @@ Dismissal Time: 1:00 pm<br>
 
 <p><strong><u>IMPORTANT</u></strong></p>
 
-• Daily reporting time is<span style="font-weight:bold">7:30am** in classroom.  <br>
+			• Daily reporting time is<span style="font-weight:bold">7:30am</span> in classroom.  <br>
 • We seek parents’/guardians’ co-operation to ensure that your child/ward attends school <span style="font-weight:bold">punctually</span> and<span style="font-weight:bold">regularly</span>.   <br>
 • As good practice, all students are to have the following <span style="font-weight:bold">4 items</span> with them <span style="font-weight:bold">every day</span>: <br>
 
@@ -115,7 +115,7 @@ Dismissal Time: 1:00 pm<br>
  <br> <br>
 Please refer to the HPB letter and access the Child Consent Portal link below to provide consent for HPB to deliver health and dental services and update of medical information.
  <br> <br>
-Kindly submit the consent by **31st January 2022, Monday**.
+			Kindly submit the consent by <span style="font-weight:bold">31st January 2022, Monday</span>.
  <br> <br>
 More details of the health visits and HPV vaccination (for girls only) will be provided at a later date.
  <br>
@@ -133,9 +133,9 @@ Link: [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)</td>
 		<tr>
 	 <td>Arrangements for Students with Special Educational Needs (SEN)</td>
     <td>For parents of students with SEN, the school's Senior Allied Educator (Learning & Behavioural Support) \[Senior AED(LBS)\] will be reaching out to you via Parents Gateway.
-<br>
+<br><br>
 For urgent enquiries, you can also contact her:
-foong_zhee_hou_melvyn@moe.edu.sg
+<br>
 *  Mrs Cheryl Lim  <br>
     Email: tan_seok_gek@moe.edu.sg<br>
     Tel: 6773 1127 Ext 171
@@ -208,7 +208,7 @@ Should you have any queries, please contact the following officers:
 <br><br>
 *  Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
     Email: lim_hwee_fung_jaime@moe.edu.sg<br>
-    Tel: 6773 1127 (ext 141)<br> 
+    Tel: 6773 1127 (ext 141)<br> <br>
 *  Mr Kevin Chow, SH/PE <br> 
     Email: chow_kok_wei_kevin@moe.edu.sg
     Tel: 6733 1127 (ext 130)</td>
