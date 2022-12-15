@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Sec 1 Registration 2022.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
@@ -12,6 +11,7 @@ collections:
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/School Book List and Uniform.md
       - Administrative Matters/School Fees.md
+      - Sec 1 Registration 2022.md
       - Sec 1 Registration 2021/.keep
       - Code of Conduct.md
       - Direct School Admission 2022/.keep
