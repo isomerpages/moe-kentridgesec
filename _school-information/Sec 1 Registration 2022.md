@@ -3,7 +3,6 @@ title: Sec 1 Registration 2022
 permalink: /permalink/
 description: ""
 ---
-
 <html>
 <style>
 table, th, td {
@@ -19,75 +18,79 @@ table, th, td {
 	<tr>
 	 <td>Appeals for Transfer IN</td>
     <td><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
-
-For non-medical reasons, please submit your appeal via this [online form](https://go.gov.sg/krss2021sec1-appeal) by 28 December 2021, 12pm.
-
+<br>
+For non-medical reasons, please submit your appeal via this [online form] (https://go.gov.sg/krss2021sec1-appeal) by 28 December 2021, 12pm.
+<br>
+<br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.</td>
   </tr>
 	<tr>
 	 <td>Appeals for Transfer OUT</td>
-    <td>**Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)**
-
+    <td><span style="font-weight:bold">Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
+<br>
 If you assess that Kent Ridge Secondary School is unable to accommodate your child’s physical health needs, you may appeal for a transfer. Appeals can be filed at the school’s general office in person by 12pm on Thursday, 23 December 2021.
-
+<br>
 Appeals will only be considered on exceptional basis for students with:
 
 *   **Serious medical conditions**, such as chronic heart conditions or kidney problems.
 *   **Severe physical impairments**, such as those requiring permanent use of a wheelchair.
-
+<br>
 All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
-
+<br>
 The appeal results will be released in early January.
-
-**Students who are posted to KRSS but would like to seek a transfer OUT due to other (non-medical) reasons**
-
+<br>
+<span style="font-weight:bold">Students who are posted to KRSS but would like to seek a transfer OUT due to other (non-medical) reasons</span>
+<br>
 *   Refer to your preferred school’s website for more information.
+	<br>
 *   You should still report to KRSS on 4 Jan 2022 if you do not hear from your preferred school by then
+	<br>
 *   While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books</td>
 	</tr>
 		<tr>
 	 <td>Secondary One Students using Primary Level School Smart Card (SSC)</td>
-    <td>All students entering Secondary One in January 2022 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by  <span style="font-weight:bold"> April 2022</span>.
-
-While Secondary One students are waiting for their Secondary Level SSCs to be ready, they can continue to use their Primary Level SSCs for concessionary travel till <span style="font-weight:bold">end-April 2022</span>. Students can still purchase the Bus Concession Pass (BCP) using their Primary Level SSCs but they would need to purchase the BCP for Secondary School students.</td>
+    <td>All students entering Secondary One in January 2022 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by  <span style="font-weight:bold">April 2022</span>.
+<br>
+While Secondary One students are waiting for their Secondary Level SSCs to be ready, they can continue to use their Primary Level SSCs for concessionary travel till <span style="font-weight:bold">end-April 2022</span>. <br>
+Students can still purchase the Bus Concession Pass (BCP) using their Primary Level SSCs but they would need to purchase the BCP for Secondary School students.</td>
 	</tr>
 		<tr>
-	 <td>**2022 Sec 1 Orientation Programme**</td>
-    <td>**Day/Date:** **Tuesday 4 January 2022  
-Time:** 7:30 am – 1:00 pm  
-**Attire / Remarks:** Report in full KRSS school uniform
+	 <td>2022 Sec 1 Orientation Programme</td>
+    <td>Day/Date: Tuesday 4 January 2022  
+Time: 7:30 am – 1:00 pm  
+Attire / Remarks: Report in full KRSS school uniform
 
-**Day/Date:** **Wednesday 5 January 2022  
-Time:** 7:30 am – 3:30 pm  
-**Attire / Remarks:** Report in half uniform (KRSS PE attire with bermudas/skirt)
+Day/Date: Wednesday 5 January 2022  
+Time: 7:30 am – 3:30 pm  
+Attire / Remarks: Report in half uniform (KRSS PE attire with bermudas/skirt)
 
-**Day/Date:** **Thursday 6 January 2022  
-Time:** 7:30 am – 3:30 pm  
-**Attire / Remarks:** Report in half uniform (KRSS PE attire with bermudas/skirt)
+Day/Date: Thursday 6 January 2022  
+Time: 7:30 am – 3:30 pm  
+Attire / Remarks: Report in half uniform (KRSS PE attire with bermudas/skirt)
 
-**Day/Date:** **Friday 7 January 2022  
-Time:** 7:30 am – 12:30 pm  
-**Attire / Remarks:** Report in full KRSS school uniform
+Day/Date: Friday 7 January 2022  
+Time: 7:30 am – 12:30 pm  
+Attire / Remarks: Report in full KRSS school uniform
 
-**Things to bring:**
+<span style="font-weight:bold">Things to bring:</span>
 
-1.  Writing Materials
-2.  Water bottle
-3.  Thermometer
-4.  TraceTogether Token
+1.  Writing Materials<br>
+2.  Water bottle<br>
+3.  Thermometer<br>
+4.  TraceTogether Token<br>
 5.  Money for recess and lunch</td>
 	</tr>
 		<tr>
-	 <td>**First Day of School**</td>
-    <td>Reporting Time: **7:30 am** <br>
-Date: **Tuesday, 4 January 2022**  
-Venue: **Classrooms** (Student Leaders will guide the new Sec 1 students to their respective classrooms)  
-Dismissal Time: **1:00 pm**
+	 <td>First Day of School</td>
+    <td>Reporting Time: 7:30 am<br>
+Date: Tuesday, 4 January 2022 <br>
+Venue: Classrooms(Student Leaders will guide the new Sec 1 students to their respective classrooms)  <br>
+Dismissal Time: 1:00 pm<br>
 
-<p><strong><u>Attire</u></strong></p>
-
+<span style="font-weight:bold">Attire</span>
+<br>
 • Full KRSS school uniform, with all-white socks and all-white school shoes; <br>
-• Or primary school uniform if child is awaiting a transfer request outcome from another school.
+• Or primary school uniform if child is awaiting a transfer request outcome from another school.<br>
 
 <p><strong><u>Things to bring:</u></strong></p>
 
