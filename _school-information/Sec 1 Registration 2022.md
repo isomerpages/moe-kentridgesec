@@ -18,8 +18,8 @@ table, th, td {
 	<tr>
 	 <td>Appeals for Transfer IN</td>
     <td><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
-<br>
-For non-medical reasons, please submit your appeal via this [online form] (https://go.gov.sg/krss2021sec1-appeal) by 28 December 2021, 12pm.
+<br><br>
+For non-medical reasons, please submit your appeal via this [online form](https://go.gov.sg/krss2021sec1-appeal) by 28 December 2021, 12pm.
 <br>
 <br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.</td>
@@ -27,18 +27,18 @@ Please note that your PSLE score should meet the school's cut-off point of the p
 	<tr>
 	 <td>Appeals for Transfer OUT</td>
     <td><span style="font-weight:bold">Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
-<br>
+<br><br>
 If you assess that Kent Ridge Secondary School is unable to accommodate your child’s physical health needs, you may appeal for a transfer. Appeals can be filed at the school’s general office in person by 12pm on Thursday, 23 December 2021.
-<br>
+<br><br>
 Appeals will only be considered on exceptional basis for students with:
-
-*   **Serious medical conditions**, such as chronic heart conditions or kidney problems.
-*   **Severe physical impairments**, such as those requiring permanent use of a wheelchair.
+<br>
+*  <span style="font-weight:bold">Serious medical conditions</span>, such as chronic heart conditions or kidney problems. <br>
+*  <span style="font-weight:bold">Severe physical impairments</span>, such as those requiring permanent use of a wheelchair.
 <br>
 All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
-<br>
+<br><br>
 The appeal results will be released in early January.
-<br>
+<br><br>
 <span style="font-weight:bold">Students who are posted to KRSS but would like to seek a transfer OUT due to other (non-medical) reasons</span>
 <br>
 *   Refer to your preferred school’s website for more information.
@@ -71,7 +71,7 @@ Day/Date: Friday 7 January 2022  <br>
 Time: 7:30 am – 12:30 pm  <br>
 Attire / Remarks: Report in full KRSS school uniform<br>
 <br>
-<span style="font-weight:bold">Things to bring:</span>
+<span style="font-weight:bold">Things to bring:</span><br>
 1. Writing Materials<br>
 2. Water bottle<br>
 3. Thermometer<br>
@@ -84,30 +84,30 @@ Attire / Remarks: Report in full KRSS school uniform<br>
 Date: Tuesday, 4 January 2022 <br>
 Venue: Classrooms(Student Leaders will guide the new Sec 1 students to their respective classrooms)  <br>
 Dismissal Time: 1:00 pm<br>
-
+<br>
 <span style="font-weight:bold">Attire</span>
 <br>
 • Full KRSS school uniform, with all-white socks and all-white school shoes; <br>
 • Or primary school uniform if child is awaiting a transfer request outcome from another school.<br>
 
-<p><strong><u>Things to bring:</u></strong></p>
-
-• Writing Materials  
-• Water bottle  
-• Thermometer  
-• TraceTogether Token  
-• Money for recess and lunch
+<span style="font-weight:bold">Things to bring:</span>
+<br>
+• Writing Materials  <br>
+• Water bottle  <br>
+• Thermometer  <br>
+• TraceTogether Token  <br>
+• Money for recess and lunch<br>
 
 <p><strong><u>IMPORTANT</u></strong></p>
 
-• Daily reporting time is **7:30am** in classroom.  <br>
-• We seek parents’/guardians’ co-operation to ensure that your child/ward attends school **punctually** and **regularly**.   <br>
-• As good practice, all students are to have the following **4 items** with them **every day**: <br>
+• Daily reporting time is<span style="font-weight:bold">7:30am** in classroom.  <br>
+• We seek parents’/guardians’ co-operation to ensure that your child/ward attends school <span style="font-weight:bold">punctually</span> and<span style="font-weight:bold">regularly</span>.   <br>
+• As good practice, all students are to have the following <span style="font-weight:bold">4 items</span> with them <span style="font-weight:bold">every day</span>: <br>
 
-1.  **Student Handbook** (to be issued when school starts) <br>
-2.  **English Language story book** <br>
-3.  **An oral digital thermometer (ODT)** in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
-4.  **TraceTogether Token.** As contact tracing is TT-based for primary, secondary and JCCI, students are to carry their TT tokens with them in school at all times. Parents can collect TT tokens for their children from any Community Centre/Club. Singaporeans and Permanent Residents who are collecting their tokens for the first time can also request for the TT token to be delivered via post. Details can be found at [https://token.gowhere.gov.sg/](https://token.gowhere.gov.sg/) .</td>
+1.  <span style="font-weight:bold">Student Handbook</span>(to be issued when school starts) <br>
+2.  <span style="font-weight:bold">English Language story book</span> <br>
+3.  <span style="font-weight:bold">An oral digital thermometer (ODT)</span>in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+</td>
 	</tr>
 		<tr>
 	 <td>HPB School Health and Dental Services</td>
@@ -125,9 +125,9 @@ Link: [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)</td>
 		<tr>
 	 <td>School Counselling Support</td>
     <td>Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
- <br>
-*   Mr Melvyn Foong   <br>
-    Email: [foong_zhee_hou_melvyn@moe.edu.sg](foong_zhee_hou_melvyn@moe.edu.sg)<br>
+ <br><br>
+*  Mr Melvyn Foong   <br>
+    Email: foong_zhee_hou_melvyn@moe.edu.sg<br>
     Tel: 6773 1127 Ext 124</td>
 	</tr>
 		<tr>
@@ -135,12 +135,12 @@ Link: [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)</td>
     <td>For parents of students with SEN, the school's Senior Allied Educator (Learning & Behavioural Support) \[Senior AED(LBS)\] will be reaching out to you via Parents Gateway.
 <br>
 For urgent enquiries, you can also contact her:
-
-*   Mrs Cheryl Lim  <br>
-    Email: [tan_seok_gek@moe.edu.sg](tan_seok_gek@moe.edu.sg)<br>
+foong_zhee_hou_melvyn@moe.edu.sg
+*  Mrs Cheryl Lim  <br>
+    Email: tan_seok_gek@moe.edu.sg<br>
     Tel: 6773 1127 Ext 171
 <br><br>
-There will be an **online SEN Parents Briefing** on Thursday, **6 Jan 2022, 6:30pm.** More details will be provided closer to the date.</td>
+			There will be an <span style="font-weight:bold">online SEN Parents Briefing</span> on Thursday, <span style="font-weight:bold">6 Jan 2022, 6:30pm.</span> More details will be provided closer to the date.</td>
 	</tr>
 			<tr>
 	 <td>National Digital Literacy Programme (NDLP)</td>
@@ -156,9 +156,9 @@ Thank you.</td>
 	 <td>Art & Music Elective Programmes (AEP and MEP)</td>
     <td>Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP Centres:
 <br>
-*   AEP: National Junior College<br>
-*   MEP: Anglo-Chinese School (Independent)<br>
-*   MEP: Dunman High School<br>
+*  AEP: National Junior College<br>
+*  MEP: Anglo-Chinese School (Independent)<br>
+*  MEP: Dunman High School<br>
 <br>
 The online application is open from 4-17 January 2022.
 <br><br>
@@ -183,10 +183,10 @@ For more information, parents can also refer to the following link to the FAQs:
 	 <td>Mother Tongue Languages (MTL) Matters</td>
     <td>For the following groups of students, please see the [slides](/files/2022-Sec-1_MTL-Matters.pdf) for more details:
 <br>
-*   Eligibility for Higher Chinese Language (HCL) & Higher Malay Language (HML)<br>
-*   Students not taking Chinese Language (CL) or Malay Language (ML)<br>
-*   Students offered 3rd Language<br>
-*   Students who are exempted or intend to apply for exemption from MTL<br>
+*  Eligibility for Higher Chinese Language (HCL) & Higher Malay Language (HML)<br>
+*  Students not taking Chinese Language (CL) or Malay Language (ML)<br>
+*  Students offered 3rd Language<br>
+*  Students who are exempted or intend to apply for exemption from MTL<br>
 <br>
 For more information on Mother Tongue Languages, please refer to these [slides](/files/Mother-Tongue-Languages.pdf).</td>
 	</tr>
@@ -205,19 +205,19 @@ Please complete the [Survey on Primary School CCA Involvement](https://go.gov.s
 </html>
 <br>
 Should you have any queries, please contact the following officers:
-<br>
-*   Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
-    Email: [lim_hwee_fung_jaime@moe.edu.sg](lim_hwee_fung_jaime@moe.edu.sg)<br>
-    Tel: 6773 1127 (ext 141)
-*   Mr Kevin Chow, SH/PE <br> 
-    Email: [chow_kok_wei_kevin@moe.edu.sg](chow_kok_wei_kevin@moe.edu.sg)g
+<br><br>
+*  Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
+    Email: lim_hwee_fung_jaime@moe.edu.sg<br>
+    Tel: 6773 1127 (ext 141)<br> 
+*  Mr Kevin Chow, SH/PE <br> 
+    Email: chow_kok_wei_kevin@moe.edu.sg
     Tel: 6733 1127 (ext 130)</td>
 	</tr>
 					<tr>
 	 <td>Purchase of PE T Shirt (House Colours)</td>
-    <td>**The Kent Ridge House System**
+    <td><span style="font-weight:bold">The Kent Ridge House System</span>
 <br>
-At Kent Ridge Secondary School, students are divided into **Houses** represented by **different colours**.
+At Kent Ridge Secondary School, students are divided into <span style="font-weight:bold">Houses</span> represented by<span style="font-weight:bold">different colours</span>.
 <br>
 *  <span style="font-weight:bold">Auriga (The Charioteer) – Yellow</span><br>
 *   <span style="font-weight:bold">Cassiopeia (The Queen) – Red</span><br>
@@ -242,10 +242,10 @@ Uniform Vendor: [www.khuniform.com](https://khuniform.com/)
 <br><br>
 Parents are encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 <br><br>
-**Books: School Bookshop (Canteen, Level 3)  
-Uniforms: Classroom (Block C Level 1)**
+<span style="font-weight:bold">Books: School Bookshop (Canteen, Level 3)  
+	Uniforms: Classroom (Block C Level 1)</span>
 <br><br>
-**Book for an appointment slot** [here](http://www.picktime.com/krss2021) to buy/collect your books and uniforms.
+<span style="font-weight:bold">Book for an appointment slot</span> [here](http://www.picktime.com/krss2021) to buy/collect your books and uniforms.
 <br><br>
 Please show the confirmation email at school entry.</td>
 	</tr>
@@ -255,13 +255,13 @@ Please show the confirmation email at school entry.</td>
 <br><br>
 A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!
 <br><br>
-Please note that in view of the COVID-19 situation, posted students **do not need** to physically report to the school on 23 December 2021.
+Please note that in view of the COVID-19 situation, posted students <span style="font-weight:bold">do not need</span> to physically report to the school on 23 December 2021.
 <br><br>
 			The school will be using <span style="font-weight:bold">Parents Gateway (PG)</span> to communicate with you useful information on how to prepare your child/ward for the first day of school.
 <br><br>
 For parents who are not onboard PG, please refer to this [link](/school-information/parents-gateway/onboarding/) for onboarding instructions. For parents who are unable to onboard PG (eg. not eligible for Singpass), the school will reach out to you via email.
-<br>
-			For your child's/ward's <span style="font-weight:bold">2022 Sec 1 Class allocation</span>, you will be able to check via **Parents Gateway** from 23 December 2021.
+<br><br>
+			For your child's/ward's <span style="font-weight:bold">2022 Sec 1 Class allocation</span>, you will be able to check via <span style="font-weight:bold">Parents Gateway</span> from 23 December 2021.
 <br><br>
 To find out more about the school, you may also like to visit our [e-OPEN HOUSE 2021](https://kentridgesec.moe.edu.sg/news-events/e-open-house-2021/) webpage and view a school tour video on our school [Facebook page](https://www.facebook.com/kentridgesec).
 
