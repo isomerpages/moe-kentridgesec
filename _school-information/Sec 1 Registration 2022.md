@@ -213,20 +213,6 @@ Should you have any queries, please contact the following officers:
     Email: chow_kok_wei_kevin@moe.edu.sg
     Tel: 6733 1127 (ext 130)</td>
 	</tr>
-					<tr>
-	 <td>Purchase of PE T Shirt (House Colours)</td>
-    <td><span style="font-weight:bold">The Kent Ridge House System</span>
-<br>
-At Kent Ridge Secondary School, students are divided into <span style="font-weight:bold">Houses</span> represented by<span style="font-weight:bold">different colours</span>.
-<br>
-*  <span style="font-weight:bold">Auriga (The Charioteer) – Yellow</span><br>
-*   <span style="font-weight:bold">Cassiopeia (The Queen) – Red</span><br>
-*   <span style="font-weight:bold">Lyra (The Harp) – Purple</span><br>
-*   <span style="font-weight:bold">Orion (The Giant Hunter) – Blue</span><br>
-			*  <span style="font-weight:bold">Pegasus (The Winged Horse) – Green</span><br>
-<br>
-Parents have been informed on 23 Dec 2021 of the students’ Sec 1 class and house (colour) allocation via PG, for purchase of PE T-shirts according to their house colours.</td>
-	</tr>
 						<tr>
 	 <td>Purchase of Books and Uniforms</td>
     <td>Online ordering with our vendors are available as follows:
