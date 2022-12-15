@@ -12,8 +12,8 @@ table, th, td {
 <tbody>
 <table style="width:100%">
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff; text-align: center;width: 200px;">Aspect of full SBB</th>
-    <th style="font-weight:bold; color:#ffffff; text-align: center;">How will this aspect be implemented?</th>
+    <th style="font-weight:bold; color:#ffffff; text-align: center;width: 200px;"></th>
+    <th style="font-weight:bold; color:#ffffff; text-align: center;"></th>
   </tr>
 	<tr>
 	 <td>Appeals for Transfer IN</td>
