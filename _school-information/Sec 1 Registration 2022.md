@@ -87,7 +87,7 @@ Please note that your PSLE score should meet the school's cut-off point of the p
 <br><br>
 The application is deemed to be unsuccessful if you do not hear from the school by 6 January 2023.
 </p>  
-
+		</div>
 </li>  
 <html>
 <style>
