@@ -89,7 +89,7 @@ Email: <a href="lim_hwee_fung_jaime@moe.edu.sg">lim_hwee_fung_jaime@moe.edu.sg</
 Tel: 6773 1127 (ext 141)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
-	Email:<a href="chow_kok_wei_kevin@moe.edu.sg">chow_kok_wei_kevin@moe.edu.sg</a><br>
+	Email: <a href="chow_kok_wei_kevin@moe.edu.sg">chow_kok_wei_kevin@moe.edu.sg</a><br>
 Tel: 6733 1127 (ext 130)<br>
 </p> 
     </div>
