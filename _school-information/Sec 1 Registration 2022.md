@@ -80,9 +80,9 @@ For more information, parents can refer to the following <a href="https://www.mo
     <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
     <div>  
 <p>
-Please refer to the \[KRSS CCA Information Letter\](/files/KRSS-CCA-Information-Letter-2022.pdf) for more details.
+Please refer to the KRSS CCA Information Letter for more details.
 <br><br>
-Please complete the \[Survey on Primary School CCA Involvement\]([https://go.gov.sg/2022sec1cca](https://go.gov.sg/2022sec1cca)) by 4 January 2023 (Wed).
+Please complete the Survey on Primary School CCA by 4 January 2023 (Wed).
 <br><br>
 Should you have any queries, please contact the following officers:
 <br><br>
@@ -156,7 +156,7 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
 <span style="font-weight:bold">Mr Melvyn Foong</span><br>
-	Email:<a href=" foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
+	Email: <a href=" foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
 Tel: 6773 1127 Ext 124
 </p> 
     </div>
@@ -243,4 +243,4 @@ Please note that your PSLE score should meet the school's cut-off point of the p
 The application is deemed to be unsuccessful if you do not hear from the school by 6 January 2023.
 </p>  
 		</div>
-</li>  
+</li>
