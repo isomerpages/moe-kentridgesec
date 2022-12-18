@@ -64,7 +64,7 @@ Please note that you are to book an appointment slot at <a href="http://www.pick
 <br><br>
 For students who would like to apply for FAS, please do any one of the following:
 <br><br>
-Download and complete the <a href="files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a> 
+Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a> 
 <br><br>
 Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a> 
 <br><br>
@@ -87,11 +87,11 @@ Please complete the \[Survey on Primary School CCA Involvement\]([https://go.go
 Should you have any queries, please contact the following officers:
 <br><br>
 Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
-Email: lim\_hwee\_fung\_jaime@moe.edu.sg<br> 
+Email: lim_hwee_fung_jaime@moe.edu.sg<br> 
 Tel: 6773 1127 (ext 141)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
-Email: chow\_kok\_wei\_kevin@moe.edu.sg<br>
+Email: chow_kok_wei_kevin@moe.edu.sg<br>
 Tel: 6733 1127 (ext 130)<br>
 </p> 
     </div>
