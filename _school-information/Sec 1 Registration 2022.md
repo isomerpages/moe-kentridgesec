@@ -73,6 +73,7 @@ Application forms for financial assistance are also available at the school’s 
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a> 
 </p> 
     </div>
+	</li>
 		<span style="font-weight:bold"><ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
