@@ -54,7 +54,7 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 </li>  
 <ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion1">  
+    <input type="checkbox" id="accordion2">  
     <label for="accordion1">MOE Financial Assistance Scheme (FAS)</label>  
     <div>  
 <p>
@@ -76,7 +76,7 @@ For more information, parents can refer to the following <a href="https://www.mo
 	</li>
 		<ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion1">  
+    <input type="checkbox" id="accordion3">  
     <label for="accordion1">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
