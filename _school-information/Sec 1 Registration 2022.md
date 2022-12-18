@@ -25,37 +25,29 @@ For further clarification, please [Contact Us](www.kentridgesec.moe.edu.sg/scho
 Bookshop Vendor: <a href="https://www.annkev.com/">https://www.annkev.com</a>
 <br>
 Uniform Vendor: <a href="https://khuniform.com">https://khuniform.com</a>
-<br>
-
+<br><br>
 School Book List
 <br>
 <a href="files/KRSS-Book-List-2023-Sec-1.pdf">Secondary 1 (2023)</a>
 <br>
-
-
-
-Insert link to Sec 1 book list here
-
 School Uniform
-
-KRSS Sec 1 Uniform Infosheet (21 Dec 2022)
-
-Insert link to file here
-
+<br>
+<a href="filesKRSS-Sec1-Uniform-Infosheet(21-Dec-2022).pdf">KRSS Sec 1 Uniform Infosheet (21 Dec 2022)</a>
+<br><br>
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
-
+<br><br>
 Books: School Bookshop (Canteen, Level 3)
-
+<br><br>
 Uniforms: Classroom (Block C Level 1)
-
-Book for an appointment slot here to buy/collect your books and uniforms: [http://www.picktime.com/krss2022](http://www.picktime.com/krss2022) 
-
-**Please show the confirmation email at school entry.**
-
+<br><br>
+Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a> 
+<br><br>
+	<span style="font-weight:bold">Please show the confirmation email at school entry.</span>
+<br><br>
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
-
+<br><br>
 1.      Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no coloured hair)
-
+<br><br>
 2.      Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
 </p>  
     </div>  
@@ -67,23 +59,18 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
     <div>  
 <p>
 For students whose 2023 FAS applications have been approved by their primary schools, please bring the letter of approval to the KRSS school general office for further assistance.
-
-Please note that you are to book an appointment slot at http://www.picktime.com/krss2022  before you visit the school with the letter of FAS approval to collect books and uniforms.
-
- 
-
+<br><br>
+Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a> before you visit the school with the letter of FAS approval to collect books and uniforms.
+<br><br>
 For students who would like to apply for FAS, please do any one of the following:
-
-Download and complete the application form [here] [Insert link to file]
-Submit the MOE eFAS application online at this link [ https://go.gov.sg/moe-efas ]
- 
-
+<br><br>
+Download and complete the <a href="files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a> 
+<br><br>
+Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a> 
+<br><br>
 Application forms for financial assistance are also available at the school’s general office.
- 
-
-For more information, parents can refer to the following MOE FAS website
-
-https://www.moe.gov.sg/financial-matters/financial-assistance
+<br><br>
+For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a> 
 </p>  
     </div>  
 </li>  
