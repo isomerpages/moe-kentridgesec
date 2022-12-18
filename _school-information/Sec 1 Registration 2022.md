@@ -3,8 +3,6 @@ title: Sec 1 Registration 2022
 permalink: /Sec-1-Registration-2022/
 description: ""
 ---
-
-
 Dear Parents/Guardians,  
   
 A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
@@ -209,7 +207,7 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
 </p> 
     </div>
 	</li>
-										<ul class="jekyllcodex_accordion">  
+		<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion10">  
     <label for="accordion10">Appeals for Transfer OUT</label>  
@@ -246,4 +244,4 @@ The application is deemed to be unsuccessful if you do not hear from the school 
 </p>  
 		</div>
 </li>
-											</ul>
+</ul>
