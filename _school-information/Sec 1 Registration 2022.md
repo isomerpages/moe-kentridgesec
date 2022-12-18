@@ -71,8 +71,22 @@ Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/m
 Application forms for financial assistance are also available at the school’s general office.
 <br><br>
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a> 
+</p> 
+    </div>
+		<span style="font-weight:bold"><ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">Appeals for Transfer IN</label>  
+    <div>  
+<p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
+<br><br>
+	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this [online form](https://go.gov.sg/krss2022-sec1appeal by 27 December 2022, 12pm.
+<br><br>
+Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
+<br><br>
+The application is deemed to be unsuccessful if you do not hear from the school by 6 January 2023.
 </p>  
-    </div>  
+
 </li>  
 <html>
 <style>
