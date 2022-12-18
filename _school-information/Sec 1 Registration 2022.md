@@ -52,7 +52,6 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 </p>  
     </div>  
 </li>  
-<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">MOE Financial Assistance Scheme (FAS)</label>  
@@ -74,7 +73,6 @@ For more information, parents can refer to the following <a href="https://www.mo
 </p> 
     </div>
 	</li>
-	<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
@@ -96,7 +94,6 @@ Tel: 6733 1127 (ext 130)<br>
 </p> 
     </div>
 	</li>
-		<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion4">  
     <label for="accordion4">Subject Based Banding (Secondary)</label>  
@@ -113,8 +110,7 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p> 
     </div>
-	</li>
-		<ul class="jekyllcodex_accordion">  
+	</li> 
   <li>  
     <input type="checkbox" id="accordion5">  
     <label for="accordion5">Mother Tongue Languages (MTL) Matters</label>  
@@ -130,7 +126,6 @@ For more information on Mother Tongue Languages, please refer to these <a href="
 </p> 
     </div>
 	</li>
-				<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion6">  
     <label for="accordion6">Arrangements for Students with Special Educational Needs (SEN)</label>  
@@ -149,7 +144,6 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 	</li>
 					<ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion7">  
     <label for="accordion7">School Counselling Support</label>  
     <div>  
 <p>
@@ -161,7 +155,6 @@ Tel: 6773 1127 Ext 124
 </p> 
     </div>
 	</li>
-						<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion8">  
     <label for="accordion8">First Day of School</label>  
@@ -195,7 +188,6 @@ IMPORTANT
 </p> 
     </div>
 	</li>
-								<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion9">  
     <label for="accordion9">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
@@ -229,7 +221,6 @@ The appeal results will be released in early January 2023.
 </p> 
     </div>
 	</li>
-		<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion11">  
     <label for="accordion11">Appeals for Transfer IN</label>  
