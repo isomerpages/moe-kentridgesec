@@ -21,13 +21,18 @@ For further clarification, please [Contact Us](www.kentridgesec.moe.edu.sg/scho
     <label for="accordion1">Purchase of Books and Uniforms</label>  
     <div>  
 <p>Online ordering with our vendors are available as follows:  
-  
-Bookshop Vendor: [https://www.annkev.com](https://www.annkev.com/)  
-Uniform Vendor: [https://khuniform.com](https://khuniform.com/)
+ <br><br>
+Bookshop Vendor: <a href="https://www.annkev.com/">https://www.annkev.com</a>
+<br>
+Uniform Vendor: <a href="https://khuniform.com">https://khuniform.com</a>
+<br>
 
 School Book List
+<br>
+<a href="files/KRSS-Book-List-2023-Sec-1.pdf">Secondary 1 (2023)</a>
+<br>
 
-Secondary 1 (2023)
+
 
 Insert link to Sec 1 book list here
 
