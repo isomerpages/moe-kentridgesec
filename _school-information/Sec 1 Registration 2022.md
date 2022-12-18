@@ -3,7 +3,19 @@ title: Sec 1 Registration 2022
 permalink: /permalink/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">  
+Dear Parents/Guardians,  
+  
+A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
+  
+Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
+  
+The school will be using **Parents Gateway (PG)** to communicate with you useful information on how to prepare your child/ward for the first day of school.  
+  
+For your child's/ward's **2023 Sec 1 Class allocation**, you will be able to check via **Parents Gateway** from 22 December 2022.
+
+For further clarification, please contact us.
+
+[https://www.kentridgesec.moe.edu.sg/school-information/contact-information/](https://www.kentridgesec.moe.edu.sg/school-information/contact-information/)<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Information for Incoming 2023 Secondary 1 Students</label>  
