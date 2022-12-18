@@ -142,7 +142,6 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 </p> 
     </div>
 	</li>
-					<ul class="jekyllcodex_accordion">  
   <li>  
     <label for="accordion7">School Counselling Support</label>  
     <div>  
@@ -199,7 +198,6 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
 </p> 
     </div>
 	</li>
-		<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion10">  
     <label for="accordion10">Appeals for Transfer OUT</label>  
