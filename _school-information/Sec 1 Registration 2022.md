@@ -74,7 +74,7 @@ For more information, parents can refer to the following <a href="https://www.mo
 </p> 
     </div>
 	</li>
-		<span style="font-weight:bold"><ul class="jekyllcodex_accordion">  
+		<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Appeals for Transfer IN</label>  
