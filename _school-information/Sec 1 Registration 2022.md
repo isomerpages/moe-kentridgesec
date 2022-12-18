@@ -87,11 +87,11 @@ Please complete the \[Survey on Primary School CCA Involvement\]([https://go.go
 Should you have any queries, please contact the following officers:
 <br><br>
 Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
-Email: lim_hwee_fung_jaime@moe.edu.sg<br> 
+Email: <a href="lim_hwee_fung_jaime@moe.edu.sg">lim_hwee_fung_jaime@moe.edu.sg</a><br> 
 Tel: 6773 1127 (ext 141)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
-Email: chow_kok_wei_kevin@moe.edu.sg<br>
+	Email:<a href="chow_kok_wei_kevin@moe.edu.sg">chow_kok_wei_kevin@moe.edu.sg</a><br>
 Tel: 6733 1127 (ext 130)<br>
 </p> 
     </div>
@@ -140,7 +140,7 @@ For parents of students with Special Educational Needs (SEN), the school's Senio
 <br><br>
 For urgent enquiries, you can also contact her:<br>
 <span style="font-weight:bold">Mrs Cheryl Lim</span><br>
-Email: tan_seok_gek@moe.edu.sg<br>
+	Email: <a href="tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a><br>
 Tel: 6773 1127 Ext 171
 <br><br>
 There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">6 Jan 2023</span>. More details will be provided closer to the date.
@@ -156,7 +156,7 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
 <span style="font-weight:bold">Mr Melvyn Foong</span><br>
-Email: foong_zhee_hou_melvyn@moe.edu.sg<br>
+	Email:<a href=" foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
 Tel: 6773 1127 Ext 124
 </p> 
     </div>
@@ -170,7 +170,7 @@ Tel: 6773 1127 Ext 124
 Reporting Time: 7:30 am<br>
 Date: Tuesday, 3 January 2023 <br>
 Venue: Classrooms(Student Leaders will guide the new Sec 1 students to their respective classrooms)  <br>
-Dismissal Time: 1:00 pm<br>
+Dismissal Time: 1:00 pm
 <br><br>
 Attire
 <br>
@@ -222,7 +222,7 @@ All appeals must be accompanied by relevant supporting documents, such as medica
 The appeal results will be released in early January 2023.
 <br><br>
 <span style="font-weight:bold">Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
-<br>
+<br><br>
 * Refer to your <u>preferred school’s</u> website for more information.<br>
 * You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
 * While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
@@ -236,7 +236,7 @@ The appeal results will be released in early January 2023.
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
-	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2022-sec1appealf"> online form</a> by 27 December 2022, 12pm.
+	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2022-sec1appeal"> online form</a> by 27 December 2022, 12pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 <br><br>
