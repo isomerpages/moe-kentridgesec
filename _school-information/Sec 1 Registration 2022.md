@@ -142,7 +142,7 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 </p> 
     </div>
 	</li>
-  <li>  
+  <li>  <input type="checkbox" id="accordion7">  
     <label for="accordion7">School Counselling Support</label>  
     <div>  
 <p>
