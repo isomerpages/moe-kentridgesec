@@ -55,7 +55,7 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion2">  
-    <label for="accordion1">MOE Financial Assistance Scheme (FAS)</label>  
+    <label for="accordion2">MOE Financial Assistance Scheme (FAS)</label>  
     <div>  
 <p>
 For students whose 2023 FAS applications have been approved by their primary schools, please bring the letter of approval to the KRSS school general office for further assistance.
@@ -71,6 +71,46 @@ Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/m
 Application forms for financial assistance are also available at the school’s general office.
 <br><br>
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a> 
+</p> 
+    </div>
+	</li>
+	<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
+    <div>  
+<p>
+Please refer to the \[KRSS CCA Information Letter\](/files/KRSS-CCA-Information-Letter-2022.pdf) for more details.
+<br><br>
+Please complete the \[Survey on Primary School CCA Involvement\]([https://go.gov.sg/2022sec1cca](https://go.gov.sg/2022sec1cca)) by 4 January 2023 (Wed).
+<br><br>
+Should you have any queries, please contact the following officers:
+<br><br>
+Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
+Email: lim\_hwee\_fung\_jaime@moe.edu.sg<br> 
+Tel: 6773 1127 (ext 141)
+<br> <br>
+Mr Kevin Chow, SH/PE <br>
+Email: chow\_kok\_wei\_kevin@moe.edu.sg<br>
+Tel: 6733 1127 (ext 130)<br>
+</p> 
+    </div>
+	</li>
+		<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">Subject Based Banding (Secondary)</label>  
+    <div>  
+<p>
+Students eligible to apply for SBB (Sec) will be informed by the school via Parents Gateway.
+<br><br>
+You may buy books for the relevant subjects after the decision is made.
+<br><br>
+Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration.pdf">slide</a> for more information.
+<br><br>
+For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
+	<br>
+	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p> 
     </div>
 	</li>
