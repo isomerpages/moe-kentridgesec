@@ -13,25 +13,72 @@ The school will be using **Parents Gateway (PG)** to communicate with you usef
   
 For your child's/ward's **2023 Sec 1 Class allocation**, you will be able to check via **Parents Gateway** from 22 December 2022.
 
-For further clarification, please contact us.
+For further clarification, please [Contact Us](www.kentridgesec.moe.edu.sg/school-information/contact-information).
 
-[https://www.kentridgesec.moe.edu.sg/school-information/contact-information/](https://www.kentridgesec.moe.edu.sg/school-information/contact-information/)<ul class="jekyllcodex_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Information for Incoming 2023 Secondary 1 Students</label>  
+    <label for="accordion1">Purchase of Books and Uniforms</label>  
     <div>  
-<p>Dear Parents/Guardians,
+<p>Online ordering with our vendors are available as follows:  
+  
+Bookshop Vendor: [https://www.annkev.com](https://www.annkev.com/)  
+Uniform Vendor: [https://khuniform.com](https://khuniform.com/)
 
-A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!
+School Book List
 
-Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
+Secondary 1 (2023)
 
-The school will be using Parents Gateway (PG) to communicate with you useful information on how to prepare your child/ward for the first day of school.
+Insert link to Sec 1 book list here
 
-For your child's/ward's 2023 Sec 1 Class allocation, you will be able to check via Parents Gateway from 22 December 2022.
+School Uniform
+
+KRSS Sec 1 Uniform Infosheet (21 Dec 2022)
+
+Insert link to file here
+
+Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
+
+Books: School Bookshop (Canteen, Level 3)
+
+Uniforms: Classroom (Block C Level 1)
+
+Book for an appointment slot here to buy/collect your books and uniforms: [http://www.picktime.com/krss2022](http://www.picktime.com/krss2022) 
+
+**Please show the confirmation email at school entry.**
+
+In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
+
+1.      Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no coloured hair)
+
+2.      Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
+</p>  
+    </div>  
+</li>  
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">MOE Financial Assistance Scheme (FAS)</label>  
+    <div>  
+<p>
+For students whose 2023 FAS applications have been approved by their primary schools, please bring the letter of approval to the KRSS school general office for further assistance.
+
+Please note that you are to book an appointment slot at http://www.picktime.com/krss2022  before you visit the school with the letter of FAS approval to collect books and uniforms.
+
  
-For further clarification, please contact us.
-https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
+
+For students who would like to apply for FAS, please do any one of the following:
+
+Download and complete the application form [here] [Insert link to file]
+Submit the MOE eFAS application online at this link [ https://go.gov.sg/moe-efas ]
+ 
+
+Application forms for financial assistance are also available at the school’s general office.
+ 
+
+For more information, parents can refer to the following MOE FAS website
+
+https://www.moe.gov.sg/financial-matters/financial-assistance
 </p>  
     </div>  
 </li>  
