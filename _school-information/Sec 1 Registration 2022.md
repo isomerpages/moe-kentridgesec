@@ -130,14 +130,113 @@ For more information on Mother Tongue Languages, please refer to these <a href="
 </p> 
     </div>
 	</li>
+				<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion6">  
+    <label for="accordion6">Arrangements for Students with Special Educational Needs (SEN)</label>  
+    <div>  
+<p>
+For parents of students with Special Educational Needs (SEN), the school's Senior SEN Officer will be reaching out to you via Parents Gateway.
+<br><br>
+For urgent enquiries, you can also contact her:<br>
+<span style="font-weight:bold">Mrs Cheryl Lim</span><br>
+Email: tan_seok_gek@moe.edu.sg<br>
+Tel: 6773 1127 Ext 171
+<br><br>
+There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">6 Jan 2023</span>. More details will be provided closer to the date.
+</p> 
+    </div>
+	</li>
+					<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">School Counselling Support</label>  
+    <div>  
+<p>
+Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
+<br><br>
+<span style="font-weight:bold">Mr Melvyn Foong</span><br>
+Email: foong_zhee_hou_melvyn@moe.edu.sg<br>
+Tel: 6773 1127 Ext 124
+</p> 
+    </div>
+	</li>
+						<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion8">  
+    <label for="accordion8">First Day of School</label>  
+    <div>  
+<p>
+Reporting Time: 7:30 am<br>
+Date: Tuesday, 3 January 2023 <br>
+Venue: Classrooms(Student Leaders will guide the new Sec 1 students to their respective classrooms)  <br>
+Dismissal Time: 1:00 pm<br>
+<br><br>
+Attire
+<br>
+• Full KRSS school uniform, with all-white socks and all-white school shoes; <br>
+• Or primary school uniform if child is awaiting a transfer request outcome from another school.
+<br><br>
+Things to bring:
+<br>
+• Writing Materials  <br>
+• Water bottle  <br>
+• Thermometer  <br>
+• Money for recess and lunch
+<br><br>
+IMPORTANT
+<br>
+• Daily reporting time is 7:30am in classroom.  <br>
+• We seek parents’/guardians’ co-operation to ensure that your child/ward attends school punctually and regularly.   <br>
+• As good practice, all students are to have the following 4 items with them every day: <br>
+1.  Student Handbook(to be issued when school starts) <br>
+2.  English Language story book <br>
+3.  An oral digital thermometer (ODT)working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+</p> 
+    </div>
+	</li>
+								<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion9">  
+    <label for="accordion9">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
+    <div>  
+<p>
+All students entering Secondary One in January 2023 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by April 2023.
+<br><br>
+While Secondary One students are waiting for their Secondary Level SSCs to be ready, they can continue to use their Primary Level SSCs for concessionary travel till end-April 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary Level SSCs but they would need to purchase the BCP for Secondary School students.
+</p> 
+    </div>
+	</li>
+										<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion10">  
+    <label for="accordion10">Appeals for Transfer OUT</label>  
+    <div>  
+<p>
+<span style="font-weight:bold">Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
+<br><br>
+If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person by 12pm on Thursday, 22 December 2022.
+<br><br>
+All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
+<br><br>
+The appeal results will be released in early January 2023.
+<br><br>
+<span style="font-weight:bold">Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
+<br>
+* Refer to your <u>preferred school’s</u> website for more information.<br>
+* You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
+* While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
+</p> 
+    </div>
+	</li>
 		<ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion1">Appeals for Transfer IN</label>  
+    <input type="checkbox" id="accordion11">  
+    <label for="accordion11">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
-	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this [online form](https://go.gov.sg/krss2022-sec1appeal by 27 December 2022, 12pm.
+	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2022-sec1appealf"> online form</a> by 27 December 2022, 12pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 <br><br>
