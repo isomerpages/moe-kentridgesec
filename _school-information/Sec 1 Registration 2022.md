@@ -28,11 +28,11 @@ Uniform Vendor: <a href="https://khuniform.com">https://khuniform.com</a>
 <br><br>
 School Book List
 <br>
-<a href="files/KRSS-Book-List-2023-Sec-1.pdf">Secondary 1 (2023)</a>
-<br>
+<a href="/files/KRSS-Book-List-2023-Sec-1.pdf">Secondary 1 (2023)</a>
+	<br>
 School Uniform
 <br>
-<a href="filesKRSS-Sec1-Uniform-Infosheet(21-Dec-2022).pdf">KRSS Sec 1 Uniform Infosheet (21 Dec 2022)</a>
+<a href="/files/KRSS%20Sec%201%20Uniform%20Infosheet%20(21%20Dec%202022).pdf">KRSS Sec 1 Uniform Infosheet (21 Dec 2022)</a>
 <br><br>
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 <br><br>
