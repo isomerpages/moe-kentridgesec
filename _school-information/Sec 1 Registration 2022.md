@@ -67,11 +67,10 @@ Please note that you are to book an appointment slot at <a href="http://www.pick
 <br><br>
 For students who would like to apply for FAS, please do any one of the following:
 <br><br>
-Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a>&nbsp;
-<br><br>
-Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
-<br><br>
-Application forms for financial assistance are also available at the school’s general office.
+• Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a><br>
+• Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>
+<br>
+• Application forms for financial assistance are also available at the school’s general office.
 <br><br>
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>&nbsp;
 </p> 
