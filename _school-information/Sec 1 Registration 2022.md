@@ -301,13 +301,10 @@ border-collapse: collapse;
 </tr>
 	<tr>
 <td><span style="font-weight:bold">Remarks</span></td>
-    <td colspan="3">
-    </td><td>Please note that dinner will be catered.</td>
+    <td colspan="3"></td>
+		<td>Please note that dinner will be catered.</td>
  </tr>
- 
 </tbody></table>
-
-
     </div>
 	</li>
 <li>  
