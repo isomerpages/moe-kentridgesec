@@ -114,10 +114,10 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 <br><br>
 For any queries, please may call the school 6773 1127 or contact the following officers:
 <br><br>
-	<span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
-	Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
+<span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
+Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
 <br><br>
-	<span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
+<span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 </p> 
     </div>
