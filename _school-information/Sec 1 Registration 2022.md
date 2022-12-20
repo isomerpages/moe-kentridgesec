@@ -235,7 +235,7 @@ Things to bring:
 • Being punctual and having proper attire and grooming is an outward expression of students being ready to learn and grow.<br>
 • Parents/Guardians are encouraged to support their child/ward to be responsible for their own grooming and punctuality.<br>
 • Please note that students are not allowed to use their handphones within curriculum hours. Should you wish to contact your child/ward, please call the School General Office at 6773 1127. <br>
-• All students are to have the following 4 items with them <span style="font-weight:bold">every day</span>: <br>
+• All students are to have the following items with them <span style="font-weight:bold">every day</span>: <br>
 	1.  <span style="font-weight:bold">Student Handbook</span>(to be issued when school starts) <br>
 	2.  <span style="font-weight:bold">English Language story book</span> <br>
 	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span>working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
