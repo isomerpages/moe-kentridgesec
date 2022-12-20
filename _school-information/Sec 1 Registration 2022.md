@@ -90,7 +90,7 @@ Should you have any queries, please contact the following officers:
 <br><br>
 Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
 Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br> 
-Tel: 6773 1127 (ext 141)
+Tel: 6773 1127 (ext 116)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
 	Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a><br>
@@ -188,7 +188,7 @@ For parents of students with Special Educational Needs (SEN), the school's Senio
 <br><br>
 For urgent enquiries, you can also contact her:<br>
 <span style="font-weight:bold">Mrs Cheryl Lim</span><br>
-	Email: <a href="mailto:tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a><br>
+	Email: <a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a><br>
 Tel: 6773 1127 Ext 171
 <br><br>
 There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">6 Jan 2023</span>. More details will be provided closer to the date.
@@ -202,7 +202,7 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
 <span style="font-weight:bold">Mr Melvyn Foong</span><br>
-	Email: <a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
+	Email: <a href="mailto:foong_zhee_hou_melvyn@schools.gov.sg">foong_zhee_hou_melvyn@schools.gov.sg</a><br>
 Tel: 6773 1127 Ext 126
 </p> 
     </div>
