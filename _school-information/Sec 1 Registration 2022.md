@@ -243,6 +243,14 @@ Things to bring:
 </p> 
     </div>
 	</li>
+	<li>  
+    <input type="checkbox" id="accordion11">  
+    <label for="accordion11">2023 Secondary  1 Orientation Programme</label>  
+    <div>  
+<p>
+	</p> 
+    </div>
+	</li>
 <li>  
     <input type="checkbox" id="accordion12">  
     <label for="accordion12">Important Information regarding COVID-19 Vaccination / Boosters</label>  
