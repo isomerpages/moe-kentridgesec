@@ -173,8 +173,8 @@ Do refer to important details in web links provided below.
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
 <br><br>
 You can also contact:  <br>
-<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span>
-	Email:&nbsp;<a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
+<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span><br>
+	Email:<a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext&nbsp;116)
 </p> 
     </div>
