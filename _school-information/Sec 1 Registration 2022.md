@@ -50,9 +50,9 @@ Book for an appointment slot here to buy/collect your books and uniforms: <a hre
 <br><br>
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
 <br><br>
-1.      Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no coloured hair)
+1. Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no coloured hair)
 <br><br>
-2.      Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
+2. Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
 </p>  
     </div>  
 </li>  
@@ -160,9 +160,9 @@ Details on the purchase of PLDs will be shared on a later date.
 <p>
 Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP Centres:
 <br><br>
-*   AEP: National Junior College<br>
-*   MEP: Anglo-Chinese School (Independent)<br>
-*   MEP: Dunman High School<br>
+• AEP: National Junior College<br>
+• MEP: Anglo-Chinese School (Independent)<br>
+• MEP: Dunman High School<br>
 <br>
 The online application is open from 3-16 January 2023.
 <br><br>
@@ -173,7 +173,7 @@ Do refer to important details in web links provided below.
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
 <br><br>
 You can also contact:  <br>
-	<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics & CCA </span>
+<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics & CCA </span>
 	Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 116)
 </p> 
@@ -231,7 +231,7 @@ Things to bring:
 <br><br>
 <u>IMPORTANT</u>
 <br>
-• Daily reporting time is 7:30am.  <br>
+• Daily reporting time is<span style="font-weight:bold"> 7:30am</span>.  <br>
 • Being punctual and having proper attire and grooming is an outward expression of students being ready to learn and grow.<br>
 • Parents/Guardians are encouraged to support their child/ward to be responsible for their own grooming and punctuality.<br>
 • Please note that students are not allowed to use their handphones within curriculum hours. Should you wish to contact your child/ward, please call the School General Office at 6773 1127. <br>
@@ -280,9 +280,9 @@ The appeal results will be released in early January 2023.
 <br><br>
 <span style="font-weight:bold">(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
 <br><br>
-* Refer to your <u>preferred school’s</u> website for more information.<br>
-* You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
-* While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
+• Refer to your <u>preferred school’s</u> website for more information.<br>
+• You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
+• While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
 </p> 
     </div>
 	</li>
