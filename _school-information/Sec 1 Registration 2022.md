@@ -9,15 +9,15 @@ A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!
   
 Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
   
-The school will be using **Parents Gateway (PG)** to communicate with you useful information on how to prepare your child/ward for the first day of school.  
+The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with you useful information on how to prepare your child/ward for the first day of school.  
   
-For your child's/ward's **2023 Sec 1 Class allocation**, you will be able to check via **Parents Gateway** from 22 December 2022.
+For your child's/ward's&nbsp;**2023 Sec 1 Class allocation**, you will be able to check via&nbsp;**Parents Gateway**&nbsp;from 22 December 2022.
 
-For further clarification, please <a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
+For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
 
 <ul class="jekyllcodex_accordion">  
   <li>  
-    <input type="checkbox" id="accordion1">  
+    <input id="accordion1" type="checkbox">  
     <label for="accordion1">Purchase of Books and Uniforms</label>  
     <div>  
 <p>Online ordering with our vendors are available as follows:  
@@ -32,7 +32,7 @@ School Book List
 	<br>
 School Uniform
 <br>
-<a href="/files/KRSS%20Sec%201%20Uniform%20Infosheet%20(21%20Dec%202022).pdf">KRSS Sec 1 Uniform Infosheet (21 Dec 2022)</a>
+<a href="/files/KRSS%20Sec%201%20Uniform%20Infosheet%20(21%20Dec%202022).pdf">KRSS Sec 1 Uniform&nbsp;Infosheet&nbsp;(21 Dec 2022)</a>
 <br><br>
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 <br><br>
@@ -44,51 +44,51 @@ Dates of Sales: December 22, 23, 27, 28, 29, 30
 <br>
 Operation Hours: 9.00 AM to 3.00 PM
 	<br><br>
-Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a> 
+Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a>&nbsp;
 <br><br>
 	<span style="font-weight:bold">Please show the confirmation email at school entry.</span>
 <br><br>
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
 <br><br>
-1. Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no coloured hair)
+1. Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no&nbsp;coloured&nbsp;hair)
 <br><br>
-2. Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
+2.&nbsp;Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
 </p>  
     </div>  
 </li>  
   <li>  
-    <input type="checkbox" id="accordion2">  
+    <input id="accordion2" type="checkbox">  
     <label for="accordion2">MOE Financial Assistance Scheme (FAS)</label>  
     <div>  
 <p>
 For students whose 2023 FAS applications have been approved by their primary schools, please bring the letter of approval to the KRSS school general office for further assistance.
 <br><br>
-Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a> before you visit the school with the letter of FAS approval to collect books and uniforms.
+Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a>&nbsp;before you visit the school with the letter of FAS approval to collect books and uniforms.
 <br><br>
 For students who would like to apply for FAS, please do any one of the following:
 <br><br>
-Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a> 
+Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a>&nbsp;
 <br><br>
-Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a> 
+Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
 <br><br>
 Application forms for financial assistance are also available at the school’s general office.
 <br><br>
-For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a> 
+For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>&nbsp;
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
+    <input id="accordion3" type="checkbox">  
+    <label for="accordion3">KRSS&nbsp;Co Curricular&nbsp;Activities (CCA) Information</label>  
     <div>  
 <p>
-Please refer to the <a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a> for more details.
+Please refer to the&nbsp;<a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
 <br><br>
-Please complete the <a href="https://go.gov.sg/2023sec1cca">Survey on Primary School CCA</a> by 4 January 2023 (Wed).
+Please complete the&nbsp;<a href="https://go.gov.sg/2023sec1cca">Survey on Primary School CCA</a> by 4 January 2023 (Wed).
 <br><br>
 Should you have any queries, please contact the following officers:
 <br><br>
-Ms Jaime Lim, HOD/Aesthetics & CCA  <br>
+Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
 Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br> 
 Tel: 6773 1127 (ext 141)
 <br> <br>
@@ -99,13 +99,13 @@ Tel: 6733 1127 (ext 130)<br>
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion4">  
+    <input id="accordion4" type="checkbox">  
     <label for="accordion4">Subject Based Banding (Secondary)</label>  
     <div>  
 <p>
-Kent Ridge Secondary School is implementing Full Subject-Based Banding from 2023.  Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
+Kent Ridge Secondary School is implementing Full Subject-Based Banding from 2023.&nbsp; Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
 <br><br>
-Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.  Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration%202022.pdf">slide</a> for more information.
+Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration%202022.pdf">slide</a> for more information.
 <br><br>
 For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
 	<br>
@@ -118,18 +118,18 @@ For any queries, please may call the school 6773 1127 or contact the following o
 Mrs Sherine Ang, Year Head<br>
 Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br> 
 <br> <br>
-Ms Tan Siew Hui, HOD/English Language & Literature <br>
+Ms Tan Siew Hui, HOD/English Language &amp; Literature <br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 </p> 
     </div>
 	</li> 
   <li>  
-    <input type="checkbox" id="accordion5">  
+    <input id="accordion5" type="checkbox">  
     <label for="accordion5">Mother Tongue Languages (MTL) Matters</label>  
     <div>  
 <p>
 For the following groups of students, please see the <a href="/files/2023-Sec-1_MTL-Matters.pdf">slides</a> for more details:<br>
-• Eligibility for Higher Chinese Language (HCL) & Higher Malay Language (HML)<br>
+• Eligibility for Higher Chinese Language (HCL) &amp; Higher Malay Language (HML)<br>
 • Students not taking Chinese Language (CL) or Malay Language (ML)<br>
 • Students offered 3rd Language<br>
 • Students who are exempted or intend to apply for exemption from MTL<br>
@@ -139,30 +139,30 @@ For more information on Mother Tongue Languages, please refer to these <a href="
     </div>
 	</li>
 	<li>  
-    <input type="checkbox" id="accordion6">  
+    <input id="accordion6" type="checkbox">  
     <label for="accordion6">National Digital Literacy Programme (NDLP)</label>  
     <div>  
 <p>
 Through the National Digital Literacy Programme (NDLP), all secondary school students will own a school-prescribed Personal Learning Device (PLD). Secondary one students would be invited to purchase a school-prescribed PLD. Singapore Citizen students can use their Edusave Account to pay for the PLD.
 <br><br>
-The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
+The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to&nbsp;personalise&nbsp;and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
 <br><br>
-For more information on Kent Ridge Secondary’s NDLP, please refer to <a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+For more information on Kent Ridge Secondary’s NDLP, please refer to&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
 <br><br>
 Details on the purchase of PLDs will be shared on a later date.
 </p> 
     </div>
 	</li>
 	<li>  
-    <input type="checkbox" id="accordion7">  
+    <input id="accordion7" type="checkbox">  
     <label for="accordion7">Art/Music Elective Programme (AEP/MEP)</label>  
     <div>  
 <p>
-Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP Centres:
+Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP&nbsp;Centres:
 <br><br>
 • AEP: National Junior College<br>
 • MEP: Anglo-Chinese School (Independent)<br>
-• MEP: Dunman High School<br>
+• MEP:&nbsp;Dunman&nbsp;High School<br>
 <br>
 The online application is open from 3-16 January 2023.
 <br><br>
@@ -173,14 +173,14 @@ Do refer to important details in web links provided below.
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
 <br><br>
 You can also contact:  <br>
-<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics & CCA </span>
-	Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
-Tel: 6773 1127 (ext 116)
+<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span>
+	Email:&nbsp;<a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
+Tel: 6773 1127 (ext&nbsp;116)
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion8">  
+    <input id="accordion8" type="checkbox">  
     <label for="accordion8">Arrangements for Students with Special Educational Needs (SEN)</label>  
     <div>  
 <p>
@@ -195,20 +195,20 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 </p> 
     </div>
 	</li>
-  <li>  <input type="checkbox" id="accordion9">  
+  <li>  <input id="accordion9" type="checkbox">  
     <label for="accordion9">School Counselling Support</label>  
     <div>  
 <p>
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
 <span style="font-weight:bold">Mr Melvyn Foong</span><br>
-	Email: <a href=" mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
+	Email: <a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
 Tel: 6773 1127 Ext 126
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion10">  
+    <input id="accordion10" type="checkbox">  
     <label for="accordion10">First Day of School</label>  
     <div>  
 <p>
@@ -244,26 +244,85 @@ Things to bring:
     </div>
 	</li>
 	<li>  
-    <input type="checkbox" id="accordion11">  
-    <label for="accordion11">2023 Secondary  1 Orientation Programme</label>  
-    <div>  
-<p>
-	</p> 
+    <input id="accordion11" type="checkbox">  
+    <label for="accordion11">2023 Secondary&nbsp; 1 Orientation Programme</label>  
+    <div> 
+
+<style>
+table, th, td {
+border-collapse: collapse;
+}
+</style>
+
+	
+<table>
+  <tbody><tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Date:</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">3 Jan (Tues)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">4 Jan (Wed)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">5 Jan (Thurs)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">6 Jan (Fri)</th>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">Programme:</span></td>
+    <td>Orientation Day 1</td>
+    <td>Orientation Day 2</td>
+    <td>Orientation Day 3</td>
+     <td>Orientation Day 4<br>[MTL fortnight, CCA Fair, Secondary 1 Parents’ Briefing and Campfire]</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">Reporting time: </span></td>
+    <td>7:30am</td>
+     <td>7:30am</td>
+      <td>7:30am</td>
+       <td>7:30am</td>
+  </tr>
+   <tr>
+    <td><span style="font-weight:bold">Dismissal time: </span></td>
+    <td>1pm</td>
+     <td>3:30pm</td>
+      <td>3:30pm</td>
+       <td>9:00pm</td>
+        </tr><tr>
+    <td><span style="font-weight:bold">What to wear:</span></td>
+    <td>Report to school in full KRSS school uniform.</td>
+     <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
+      <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
+       <td>Report to school in full KRSS school uniform.</td>
+ </tr>
+ <tr>
+    <td><span style="font-weight:bold">What to bring:</span></td>
+    <td style="text-align: center;" colspan="4">1.English-language story book<br>
+2. Writing materials<br>
+3. School Handbook<br>
+4. Water bottle<br>
+5. Thermometer<br>
+6. Money for recess and lunch</td>
+</tr>
+	<tr>
+<td><span style="font-weight:bold">Remarks</span></td>
+    <td colspan="3">
+    </td><td>Please note that dinner will be catered.</td>
+ </tr>
+ 
+</tbody></table>
+
+
     </div>
 	</li>
 <li>  
-    <input type="checkbox" id="accordion12">  
+    <input id="accordion12" type="checkbox">  
     <label for="accordion12">Important Information regarding COVID-19 Vaccination / Boosters</label>  
     <div>  
 <p>
 All Secondary 1 students will be involved in Orientation 2023. Some activities such as games, mass dance etc. are physical in nature.
 <br><br>
-If you are planning to take your child/ward for the COVID-19 vaccination or booster shot, please do so <u>before 22nd December 2022</u> so that your child/ward can participate fully in the activities planned.
+If you are planning to take your child/ward for the COVID-19 vaccination or booster shot, please do so&nbsp;<u>before 22nd December 2022</u> so that your child/ward can participate fully in the activities planned.
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion13">  
+    <input id="accordion13" type="checkbox">  
     <label for="accordion13">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
     <div>  
 <p>
@@ -274,7 +333,7 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion14">  
+    <input id="accordion14" type="checkbox">  
     <label for="accordion14">Appeals for Transfer OUT</label>  
     <div>  
 <p>
@@ -295,7 +354,7 @@ The appeal results will be released in early January 2023.
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion15">  
+    <input id="accordion15" type="checkbox">  
     <label for="accordion15">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
