@@ -13,7 +13,7 @@ The school will be using **Parents Gateway (PG)** to communicate with you usef
   
 For your child's/ward's **2023 Sec 1 Class allocation**, you will be able to check via **Parents Gateway** from 22 December 2022.
 
-For further clarification, please [Contact Us](www.kentridgesec.moe.edu.sg/school-information/contact-information).
+For further clarification, please <a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
 
 <ul class="jekyllcodex_accordion">  
   <li>  
