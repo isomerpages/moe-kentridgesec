@@ -148,7 +148,7 @@ Through the National Digital Literacy Programme (NDLP), all secondary school stu
 <br><br>
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 <br><br>
-For more information on Kent Ridge Secondary’s NDLP, please refer to [/school-information/national-digital-literacy-programme-ndlp/](https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/)
+For more information on Kent Ridge Secondary’s NDLP, please refer to <a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
 <br><br>
 Details on the purchase of PLDs will be shared on a later date.
 </p> 
@@ -175,7 +175,7 @@ Do refer to important details in web links provided below.
 <br><br>
 You can also contact:  <br>
 	<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics & CCA </span>
-	Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a>
+	Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 116)
 </p> 
     </div>
