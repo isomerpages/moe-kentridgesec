@@ -82,8 +82,7 @@ For more information, parents can refer to the following <a href="https://www.mo
     <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
     <div>  
 <p>
-Please refer to the KRSS CCA Information Letter for more details.<br>
-	<a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a> 
+Please refer to the <a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a> for more details.
 <br><br>
 Please complete the <a href="https://go.gov.sg/2023sec1cca">Survey on Primary School CCA</a> by 4 January 2023 (Wed).
 <br><br>
