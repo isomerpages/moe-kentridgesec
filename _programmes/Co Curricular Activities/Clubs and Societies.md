@@ -18,18 +18,7 @@ third_nav_title: Co Curricular Activities
 </li>  
 <li>  
     <input type="checkbox" id="accordion2">  
-    <label for="accordion2">eARTh Club</label>  
-    <div>  
-      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS<br>THURSDAY: 1530 - 1815 HRS</p>
-<p>Established in 2016, eARTh Club continues to march on in our mission to raise awareness to promote respect and care for our environment with the infusion of Art elements. Our members serve as advocates for the environment and gain opportunities to get in touch with nature through learning journeys to locations such as Siloso Beach Resort, Gardens by the Bay and Tuas Incineration Plant. Our club also works closely with external partners such as NEA, Southwest CDC and MINDS Lee Kong Chian Gardens School in coming up with exciting programmes and activities for our members. Our members also get to hone their creativity and artistic talents in designing educational posters to raise awareness on contemporary environmental issues. Our club aspires to continue to be the change we want to see in this world!</p>
-<p><em><strong>Achievements</strong></em><br>2022 – Extravangaza (Merit)<br>2021 – Green Schools @ South West – Gold Award<br>2019 – Green Schools @ South West – Gold Award<br>2018 – Green Schools @ South West – Gold Award<br>2017 – Green Schools @ South West – Gold Award<br>2016 – Green Schools @ South West – Gold Award</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Kenneth Pek<br>Mr Hong Thin Yong</p>
-<p><img src="/images/eARTH%20Club.png" alt="eARTH Club"></p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Infocomm Club</label>  
+    <label for="accordion2">Infocomm Club</label>  
     <div>  
       <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>In line with the School’s Applied Learning Programme (ALP) in “<strong>Computational Thinking through Robotics</strong>”, Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs. </p>
@@ -103,8 +92,8 @@ third_nav_title: Co Curricular Activities
     </div>  
 </li>  
 <li>  
-    <input type="checkbox" id="accordion4">  
-    <label for="accordion4">Media Club</label>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">Media Club</label>  
     <div>  
       <p><strong>Day / Time:</strong><p style="text-align: justify;"><u>CCA TRAINING DATES: </u>
 <br>MONDAY: 1530 - 1800 HRS
