@@ -6,6 +6,7 @@ description: ""
 
 
 
+
 Dear Parents/Guardians,  
   
 A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
