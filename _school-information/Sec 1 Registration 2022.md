@@ -1,8 +1,9 @@
 ---
 title: Sec 1 Registration 2022
-permalink: /Sec-1-Registration-2022/
+permalink: /school-information/Sec-1-Registration-2022/
 description: ""
 ---
+
 Dear Parents/Guardians,  
   
 A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
