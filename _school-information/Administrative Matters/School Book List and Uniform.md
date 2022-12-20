@@ -21,6 +21,8 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 ### School Book List
 
+[KRSS Book List 2023 Sec 1](/files/KRSS-Book-List-2023-Sec-1.pdf)
+
 [KRSS Book List 2023 2EXP](/files/KRSS-Book-List-2023-Sec-2E.pdf)
 
 [KRSS Book List 2023 2NA](/files/KRSS-Book-List-2023-Sec-2NA.pdf)
@@ -44,5 +46,3 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 ### School Uniform
 
 [Guide for Purchase of School Uniforms](/files/Uniform_KRSS Info Sheet 2022 (27 Oct 2022).pdf) (updated 27 Oct 2022)
-
-

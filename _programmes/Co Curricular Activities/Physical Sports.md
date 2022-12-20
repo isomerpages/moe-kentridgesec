@@ -1,9 +1,11 @@
 ---
-title: Sports
-permalink: /programmes/co-curricular-activities/sports/
+title: Physical Sports
+permalink: /programmes/co-curricular-activities/physical-sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
+
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
