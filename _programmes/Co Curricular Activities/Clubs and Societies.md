@@ -90,6 +90,14 @@ third_nav_title: Co Curricular Activities
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Xu Kaibin<br>Mr Ong Wee Kwang<br>Ms Michelle Cheong<br>Mrs Tan Jiayi</p>
 <p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
     </div>  
+</li> 
+	<li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">International Chess Club</label>  
+    <div>  
+      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS (All Students)<br>TUESDAY: 1430 - 1630 HRS (Recreational)<br>THURSDAY: 1530 - 1800 HRS (All Students)</p>
+<p>International Chess is a newly established CCA in 2023. It was formerly a special interest group and had about 30 students playing regularly and taking part in school competitions.  The objectives of International Chess are to build character, team spirit and responsibility. Playing chess helps students in developing problem-solving skills, critical thinking and creativity. It also helps improve students’ memory and concentration. We will train students to take part in internal and external chess competitions.</p>
+    </div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion3">  
