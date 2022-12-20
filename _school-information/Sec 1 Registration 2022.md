@@ -116,8 +116,8 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 For any queries, please may call the school 6773 1127 or contact the following officers:
 <br><br>
 Mrs Sherine Ang, Year Head<br>
-Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br> 
-<br> <br>
+Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
+<br><br>
 Ms Tan Siew Hui, HOD/English Language &amp; Literature <br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 </p> 
@@ -168,7 +168,7 @@ The online application is open from 3-16 January 2023.
 <br><br>
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
 <br><br>
-Do refer to important details in web links provided below.  
+Do refer to important details in web links provided below. <br>
 	<a href="https://moe.gov.sg/aep">https://moe.gov.sg/aep</a><br>
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
 <br><br>
