@@ -44,7 +44,7 @@ Dates of Sales: December 22, 23, 27, 28, 29, 30
 <br>
 Operation Hours: 9.00 AM to 3.00 PM
 	<br><br>
-Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a>&nbsp;
+Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a>
 <br><br>
 	<span style="font-weight:bold">Please show the confirmation email at school entry.</span>
 <br><br>
