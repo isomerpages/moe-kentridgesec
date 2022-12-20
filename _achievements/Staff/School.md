@@ -75,7 +75,7 @@ Mrs Ng is caring towards her student and goes the extra mile for them. She never
 **Mr Chandra** <br>
 Mr Chandra often engages with others to encourage and share his thoughts about healthy living for both the mind and the body. He is unwavering in his efforts in encouraging self-discipline amongst students and stays fit through regular exercise.
 
-**Mrs Rishabh** <br>
+**Mr Rishabh** <br>
 Mr Rishabh is a patient, kind, caring and a great teacher. He has always encouraged us, is always been nice to us and even when we do something wrong, he gives us a second chance with a reprimanding that makes us better people in a whole.
 
  
