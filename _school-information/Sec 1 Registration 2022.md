@@ -112,13 +112,13 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 	<br>
 	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
-<br>
+<br><br>
 For any queries, please may call the school 6773 1127 or contact the following officers:
 <br><br>
-Mrs Sherine Ang, Year Head<br>
-Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
+<span style="font-weight:bold">Mrs Sherine Ang, Year Head<br>
+	Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</span></a>
 <br><br>
-Ms Tan Siew Hui, HOD/English Language &amp; Literature <br>
+	<span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 </p> 
     </div>
