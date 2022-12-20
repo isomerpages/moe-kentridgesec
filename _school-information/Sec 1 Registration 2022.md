@@ -40,6 +40,10 @@ Books: School Bookshop (Canteen, Level 3)
 <br>
 Uniforms: Classroom (Block C Level 1)
 <br><br>
+Dates of Sales: December 22, 23, 27, 28, 29, 30
+<br>
+Operation Hours: 9.00 AM to 3.00 PM
+	<br><br>
 Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a> 
 <br><br>
 	<span style="font-weight:bold">Please show the confirmation email at school entry.</span>
@@ -78,9 +82,10 @@ For more information, parents can refer to the following <a href="https://www.mo
     <label for="accordion3">KRSS Co Curricular Activities (CCA) Information</label>  
     <div>  
 <p>
-Please refer to the KRSS CCA Information Letter for more details.
+Please refer to the KRSS CCA Information Letter for more details.<br>
+	<a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a> 
 <br><br>
-Please complete the Survey on Primary School CCA by 4 January 2023 (Wed).
+Please complete the <a href="https://go.gov.sg/2023sec1cca">Survey on Primary School CCA</a> by 4 January 2023 (Wed).
 <br><br>
 Should you have any queries, please contact the following officers:
 <br><br>
@@ -99,15 +104,23 @@ Tel: 6733 1127 (ext 130)<br>
     <label for="accordion4">Subject Based Banding (Secondary)</label>  
     <div>  
 <p>
-Students eligible to apply for SBB (Sec) will be informed by the school via Parents Gateway.
+Kent Ridge Secondary School is implementing Full Subject-Based Banding from 2023.  Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
 <br><br>
-You may buy books for the relevant subjects after the decision is made.
-<br><br>
-Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration.pdf">slide</a> for more information.
+Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.  Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration%202022.pdf">slide</a> for more information.
 <br><br>
 For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
 	<br>
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+	<br>
+	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<br>
+For any queries, please may call the school 6773 1127 or contact the following officers:
+<br><br>
+Mrs Sherine Ang, Year Head<br>
+Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br> 
+<br> <br>
+Ms Tan Siew Hui, HOD/English Language & Literature <br>
+	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 </p> 
     </div>
 	</li> 
@@ -126,9 +139,50 @@ For more information on Mother Tongue Languages, please refer to these <a href="
 </p> 
     </div>
 	</li>
-  <li>  
+	<li>  
     <input type="checkbox" id="accordion6">  
-    <label for="accordion6">Arrangements for Students with Special Educational Needs (SEN)</label>  
+    <label for="accordion6">National Digital Literacy Programme (NDLP)</label>  
+    <div>  
+<p>
+Through the National Digital Literacy Programme (NDLP), all secondary school students will own a school-prescribed Personal Learning Device (PLD). Secondary one students would be invited to purchase a school-prescribed PLD. Singapore Citizen students can use their Edusave Account to pay for the PLD.
+<br><br>
+The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
+<br><br>
+For more information on Kent Ridge Secondary’s NDLP, please refer to [/school-information/national-digital-literacy-programme-ndlp/](https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/)
+<br><br>
+Details on the purchase of PLDs will be shared on a later date.
+</p> 
+    </div>
+	</li>
+	<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">Art/Music Elective Programme (AEP/MEP)</label>  
+    <div>  
+<p>
+Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP Centres:
+<br><br>
+*   AEP: National Junior College<br>
+*   MEP: Anglo-Chinese School (Independent)<br>
+*   MEP: Dunman High School<br>
+<br>
+The online application is open from 3-16 January 2023.
+<br><br>
+Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
+<br><br>
+Do refer to important details in web links provided below.  
+	<a href="https://moe.gov.sg/aep">https://moe.gov.sg/aep</a><br>
+	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
+<br><br>
+You can also contact:  <br>
+	<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics & CCA </span>
+	Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a>
+Tel: 6773 1127 (ext 116)
+</p> 
+    </div>
+	</li>
+  <li>  
+    <input type="checkbox" id="accordion8">  
+    <label for="accordion8">Arrangements for Students with Special Educational Needs (SEN)</label>  
     <div>  
 <p>
 For parents of students with Special Educational Needs (SEN), the school's Senior SEN Officer will be reaching out to you via Parents Gateway.
@@ -142,26 +196,26 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 </p> 
     </div>
 	</li>
-  <li>  <input type="checkbox" id="accordion7">  
-    <label for="accordion7">School Counselling Support</label>  
+  <li>  <input type="checkbox" id="accordion9">  
+    <label for="accordion9">School Counselling Support</label>  
     <div>  
 <p>
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
 <span style="font-weight:bold">Mr Melvyn Foong</span><br>
 	Email: <a href=" mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a><br>
-Tel: 6773 1127 Ext 124
+Tel: 6773 1127 Ext 126
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion8">  
-    <label for="accordion8">First Day of School</label>  
+    <input type="checkbox" id="accordion10">  
+    <label for="accordion10">First Day of School</label>  
     <div>  
 <p>
 Reporting Time: 7:30 am<br>
 Date: Tuesday, 3 January 2023 <br>
-Venue: Classrooms(Student Leaders will guide the new Sec 1 students to their respective classrooms)  <br>
+Venue: Multi-purpose Hall (Level 3) <br>
 Dismissal Time: 1:00 pm
 <br><br>
 Attire
@@ -176,20 +230,34 @@ Things to bring:
 • Thermometer  <br>
 • Money for recess and lunch
 <br><br>
-IMPORTANT
+<u>IMPORTANT</u>
 <br>
-• Daily reporting time is 7:30am in classroom.  <br>
-• We seek parents’/guardians’ co-operation to ensure that your child/ward attends school punctually and regularly.   <br>
-• As good practice, all students are to have the following 4 items with them every day: <br>
-1.  Student Handbook(to be issued when school starts) <br>
-2.  English Language story book <br>
-3.  An oral digital thermometer (ODT)working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+• Daily reporting time is 7:30am.  <br>
+• Being punctual and having proper attire and grooming is an outward expression of students being ready to learn and grow.<br>
+• Parents/Guardians are encouraged to support their child/ward to be responsible for their own grooming and punctuality.<br>
+• Please note that students are not allowed to use their handphones within curriculum hours. Should you wish to contact your child/ward, please call the School General Office at 6773 1127. <br>
+• All students are to have the following 4 items with them <span style="font-weight:bold">every day</span>: <br>
+	1.  <span style="font-weight:bold">Student Handbook</span>(to be issued when school starts) <br>
+	2.  <span style="font-weight:bold">English Language story book</span> <br>
+	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span>working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+• Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.<br>
+</p> 
+    </div>
+	</li>
+<li>  
+    <input type="checkbox" id="accordion12">  
+    <label for="accordion12">Important Information regarding COVID-19 Vaccination / Boosters</label>  
+    <div>  
+<p>
+All Secondary 1 students will be involved in Orientation 2023. Some activities such as games, mass dance etc. are physical in nature.
+<br><br>
+If you are planning to take your child/ward for the COVID-19 vaccination or booster shot, please do so <u>before 22nd December 2022</u> so that your child/ward can participate fully in the activities planned.
 </p> 
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion9">  
-    <label for="accordion9">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
+    <input type="checkbox" id="accordion13">  
+    <label for="accordion13">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
     <div>  
 <p>
 All students entering Secondary One in January 2023 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by April 2023.
@@ -199,11 +267,11 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion10">  
-    <label for="accordion10">Appeals for Transfer OUT</label>  
+    <input type="checkbox" id="accordion14">  
+    <label for="accordion14">Appeals for Transfer OUT</label>  
     <div>  
 <p>
-<span style="font-weight:bold">Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
+<span style="font-weight:bold">(A) Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
 <br><br>
 If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person by 12pm on Thursday, 22 December 2022.
 <br><br>
@@ -211,7 +279,7 @@ All appeals must be accompanied by relevant supporting documents, such as medica
 <br><br>
 The appeal results will be released in early January 2023.
 <br><br>
-<span style="font-weight:bold">Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
+<span style="font-weight:bold">(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
 <br><br>
 * Refer to your <u>preferred school’s</u> website for more information.<br>
 * You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
@@ -220,8 +288,8 @@ The appeal results will be released in early January 2023.
     </div>
 	</li>
   <li>  
-    <input type="checkbox" id="accordion11">  
-    <label for="accordion11">Appeals for Transfer IN</label>  
+    <input type="checkbox" id="accordion15">  
+    <label for="accordion15">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
