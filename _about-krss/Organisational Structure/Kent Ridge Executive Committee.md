@@ -53,7 +53,7 @@ border-collapse: collapse;
   <tr>
      <td>HOD / Aesthetics &amp; CCA</td>
      <td>Ms Jaime Lim Hwee Fung</td>
-     <td><a href="mailto:im_hwee_fung_jaime@schools.gov.sg">im_hwee_fung_jaime@schools.gov.sg</a></td>
+     <td><a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">im_hwee_fung_jaime@schools.gov.sg</a></td>
   </tr>
   <tr>
      <td>HOD / CCE</td>
