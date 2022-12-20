@@ -112,7 +112,7 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 	<br>
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 	<br>
-	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
 <br>
 For any queries, please may call the school 6773 1127 or contact the following officers:
 <br><br>
@@ -148,7 +148,7 @@ Through the National Digital Literacy Programme (NDLP), all secondary school stu
 <br><br>
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 <br><br>
-For more information on Kent Ridge Secondary’s NDLP, please refer to <a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+For more information on Kent Ridge Secondary’s NDLP, please refer to <a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
 <br><br>
 Details on the purchase of PLDs will be shared on a later date.
 </p> 
