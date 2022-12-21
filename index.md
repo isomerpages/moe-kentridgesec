@@ -12,6 +12,9 @@ sections:
         - title: Announcement
           description: Important Updates
           url: /announcements/
+        - title: Sec 1 Registration 2022
+          description: ""
+          url: /school-information/sec-1-registration-2022/
         - title: Quick Links
           description: To Access Useful Resources
           url: /quicklinks/
