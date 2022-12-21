@@ -3,10 +3,6 @@ title: Sec 1 Registration 2022
 permalink: /school-information/sec-1-registration-2022/
 description: ""
 ---
-
-
-
-
 Dear Parents/Guardians,  
   
 A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
@@ -82,7 +78,7 @@ For more information, parents can refer to the following <a href="https://www.mo
 	</li>
   <li>  
     <input id="accordion3" type="checkbox">  
-    <label for="accordion3">KRSS&nbsp;Co Curricular&nbsp;Activities (CCA) Information</label>  
+    <label for="accordion3">KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</label>  
     <div>  
 <p>
 Please refer to the&nbsp;<a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
@@ -97,7 +93,7 @@ Tel: 6773 1127 (ext 116)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
 	Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a><br>
-Tel: 6733 1127 (ext 130)<br>
+Tel: 6773 1127 (ext 130)<br>
 </p> 
     </div>
 	</li>
