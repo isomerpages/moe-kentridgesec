@@ -100,8 +100,8 @@ third_nav_title: Co Curricular Activities
     </div>  
 </li>  
 <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Media Club</label>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">Media Club</label>  
     <div>  
       <p><strong>Day / Time:</strong><p style="text-align: justify;"><u>CCA TRAINING DATES: </u>
 <br>MONDAY: 1530 - 1800 HRS
