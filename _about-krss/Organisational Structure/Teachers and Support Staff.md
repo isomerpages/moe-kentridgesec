@@ -271,9 +271,9 @@ table, th, td {
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
-    <td>Mathemetics</td>
-    <td>Ms Wong Huia Lee, Shirley</td>
-    <td><a href="mailto:wong_huia_lee@schools.gov.sg">wong_huia_lee@schools.gov.sg</a></td>
+    <td>Chinese</td>
+    <td>Mr Chang Khang En</td>
+    <td><a href="mailto:chang_khang_en@schools.gov.sg">chang_khang_en@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>English</td>
