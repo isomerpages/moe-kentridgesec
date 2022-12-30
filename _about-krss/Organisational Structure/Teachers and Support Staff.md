@@ -5,22 +5,23 @@ description: ""
 third_nav_title: Organisational Structure
 ---
 ### Form Teachers
+
 <html>
 <head>
 <style>
 table, th, td {
-border-collapse: collapse;
+ border-collapse: collapse;
 }
 </style>
 </head>
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 100px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
-		<th style="font-weight:bold; color:#ffffff;width:300px;">Email Address</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
-	 <tr>
+  <tr>
     <td rowspan="2">1-1</td>
     <td>Ms Kalpana d/o Kaleselvan</td>
     <td><a href="mailto:kalpana_kaleselvan@schools.gov.sg">kalpana_kaleselvan@schools.gov.sg</a></td>
@@ -249,25 +250,26 @@ border-collapse: collapse;
     <td>5N1</td>
     <td>Mr Rishabh Gurunath Talwalkar</td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
-</tr>
+  </tr>
 </table>
-</tbody>
+</tbody>	
 </html>
+
 
 ### Subject Teachers
 <html>
 <head>
 <style>
 table, th, td {
-border-collapse: collapse;
+ border-collapse: collapse;
 }
 </style>
 </head>
 	<tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
-		<th style="font-weight:bold; color:#ffffff; width: 400px;">Name of Teacher</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
