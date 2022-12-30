@@ -33,11 +33,11 @@ table, th, td {
   <tr>
     <td rowspan="2">1-2</td>
     <td>Mr Mohammad Helmy Bin Sadon</td>
-    <td><a href="mailto:mohammad_helmy_sadon@schools.gov.sgg">mohammad_helmy_sadon@schools.gov.sg</a></td>
+    <td><a href="mailto:mohammad_helmy_sadon@schools.gov.sg">mohammad_helmy_sadon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms Wong Li Xin</td>
-    <td><a href="mailto:wong_li_xin@schools.gov.sgg">wong_li_xin@schools.gov.sg</a></td>
+    <td><a href="mailto:wong_li_xin@schools.gov.sg">wong_li_xin@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">1-3</td>
@@ -160,7 +160,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Ms Chong Jieting, Jasmine</td>
-    <td><a href="mailto:chong_jieting_jasmine@schools.gov.sg">chong_jieting_jasmine@schools.gov.sg</a>
+    <td><a href="mailto:chong_jieting_jasmine@schools.gov.sg">chong_jieting_jasmine@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">3N3</td>
