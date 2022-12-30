@@ -14,7 +14,7 @@ table, th, td {
 }
 </style>
 </head>
-	<tbody>
+	 <tbody>
 <table>
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
@@ -251,54 +251,49 @@ table, th, td {
     <td>Mr Rishabh Gurunath Talwalkar</td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
   </tr>
-
+	<tr></tr>
 </table>
 </tbody>	
 </html>
 
 ### Subject Teachers
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">Subject</th>
-		<th style="font-weight:bold; color:#ffffff; width: 400px;">Name of Teacher</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
-    <td>Chinese</td>
-    <td>Mr Chang Khang En</td>
-    <td><a href="mailto:chang_khang_en@schools.gov.sg">chang_khang_en@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>English</td>
-    <td>Ms Tan Peck Joon</td>
-    <td><a href="mailto:tan_peck_joon@schools.gov.sg">tan_peck_joon@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>English</td>
-    <td>Mdm Kalaimathi d/o Manikam</td>
-    <td><a href="mailto:Kalaimathi_Manikam@schools.gov.sg">Kalaimathi_Manikam@schools.gov.sg</a></td>
-  </tr>
+    <td>Mathematics</td>
+    <td>Ms Wong Huia Lee, Shirley</td>
+    <td><a href="mailto:wong_huia_lee@schools.gov.sg">wong_huia_lee@schools.gov.sg</a></td>
+</tr>
 </table>
 </tbody>
 </html>
 
+
 ### Support Staff
 
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
   <tr>
     <th style="font-weight:bold;width: 300px;">Designation</th>
@@ -345,13 +340,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
   <tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
@@ -386,13 +383,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
   <tr>
     <th style="font-weight:bold; width: 400px;">Designation</th>
@@ -427,13 +426,15 @@ table, th, td {
 </html>
 <br>
 <html>
+<head>
 <style>
 table, th, td {
-  border:0.5px solid black;
+ border-collapse: collapse;
 }
 </style>
+</head>
 	<tbody>
-<table style="width:100%">
+<table>
     <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
   <tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
