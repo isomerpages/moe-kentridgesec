@@ -260,7 +260,7 @@ border-collapse: collapse;
 <head>
 <style>
 table, th, td {
- border-collapse: collapse;
+border-collapse: collapse;
 }
 </style>
 </head>
