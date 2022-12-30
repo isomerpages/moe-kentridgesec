@@ -3,8 +3,7 @@ title: test
 permalink: /permalink/
 description: ""
 ---
-### Form Teachers
-
+### Subject Teachers
 <html>
 <head>
 <style>
@@ -13,7 +12,7 @@ table, th, td {
 }
 </style>
 </head>
-	 <tbody>
+	<tbody>
 <table>
   <tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
@@ -21,7 +20,7 @@ table, th, td {
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
-    <td rowspan="2">1-1</td>
+        <td rowspan="2">1-1</td>
     <td>Ms Kalpana d/o Kaleselvan</td>
     <td><a href="mailto:kalpana_kaleselvan@schools.gov.sg">kalpana_kaleselvan@schools.gov.sg</a></td>
   </tr>
@@ -250,7 +249,6 @@ table, th, td {
     <td>Mr Rishabh Gurunath Talwalkar</td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
   </tr>
-	<tr></tr>
 </table>
-</tbody>	
+</tbody>
 </html>
