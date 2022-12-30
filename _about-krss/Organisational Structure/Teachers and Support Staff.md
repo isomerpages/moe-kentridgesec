@@ -4,7 +4,7 @@ permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
 ---
-### Form Teachers
+### Form Teacher
 
 <html>
 <head>
@@ -147,7 +147,7 @@ table, th, td {
   <tr>
     <td rowspan="2">3N1</td>
    <td>Mdm Yu Xiaoyan</td>
-    <td><a href="mailto:yu_xiaoyan@schools.gov.sg">yu_xiaoyan@schools.gov.sg</a>
+		<td><a href="mailto:yu_xiaoyan@schools.gov.sg">yu_xiaoyan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Mr Lai Wei Lim</td>
@@ -178,8 +178,8 @@ table, th, td {
   </tr>
   <tr>
     <td>3E5</td>
-    <td class="tg-lm9i">Mr Kevin Nicholas Fonseka</td>
-    <td class="tg-lm9i"><a href="mailto:kevin_nicholas_fonseka@schools.gov.sg">kevin_nicholas_fonseka@schools.gov.sg</a></td>
+    <td>Mr Kevin Nicholas Fonseka</td>
+    <td><a href="mailto:kevin_nicholas_fonseka@schools.gov.sg">kevin_nicholas_fonseka@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">3E6</td>
