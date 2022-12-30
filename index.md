@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/krss.gif
       key_highlights:
-        - title: Announcement
+        - title: Announcements
           description: Important Updates
           url: /announcements/
         - title: Sec 1 Registration 2022
