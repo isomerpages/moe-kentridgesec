@@ -4,7 +4,7 @@ permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
 ---
-### Form Teachers
+### Form Teacher
 
 <html>
 <head>
