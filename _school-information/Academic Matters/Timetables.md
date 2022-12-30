@@ -4,7 +4,7 @@ permalink: /school-information/academic-matters/timetables/
 description: ""
 third_nav_title: Academic Matters
 ---
-**Class Time-tables (Semester 1,2023)** <br>
+**Class Time-tables (Semester 1, 2023)** <br>
 Updated 30 December 2022
 
 [Secondary 1](/files/KRSS%20Timetable%20Semester%201%202023_Class%20Timetable_Sec%201.pdf)<br>
