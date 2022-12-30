@@ -3,54 +3,27 @@ title: test
 permalink: /permalink/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
-    <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+### Subject Teachers
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
+</style>
+</head>
+	<tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
+    <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
+  </tr>
+  <tr>
+    <td>Mathematics</td>
+    <td>Ms Wong Huia Lee, Shirley</td>
+    <td><a href="mailto:wong_huia_lee@schools.gov.sg">wong_huia_lee@schools.gov.sg</a></td>
+</tr>
+</table>
+</tbody>
+</html>
