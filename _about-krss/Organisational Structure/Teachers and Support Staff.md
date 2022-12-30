@@ -246,12 +246,12 @@ border-collapse: collapse;
     <td><a href="mailto:lim_bee_leng_b@schools.gov.sg">lim_bee_leng_b@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">5N1</td>
+    <td>5N1</td>
     <td>Mr Rishabh Gurunath Talwalkar</td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
-  </tr>
+</tr>
 </table>
-</tbody>	
+</tbody>
 </html>
 
 
@@ -275,7 +275,7 @@ table, th, td {
     <td>Mathematics</td>
     <td>Ms Wong Huia Lee, Shirley</td>
     <td><a href="mailto:wong_huia_lee@schools.gov.sg">wong_huia_lee@schools.gov.sg</a></td>
-  </tr>
+</tr>
 </table>
 </tbody>
 </html>
