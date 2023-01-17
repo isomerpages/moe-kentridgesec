@@ -303,26 +303,31 @@ table, th, td {
   <tr>
     <td>School Counsellor</td>
     <td>Mr Foong Zhee Hou Melvyn</td>
-    <td><a href="mailto:foong_zhee_hou_melvyn@moe.edu.sg">foong_zhee_hou_melvyn@moe.edu.sg</a></td>
+    <td><a href="mailto:foong_zhee_hou_melvyn@schools.gov.sg">foong_zhee_hou_melvyn@schools.gov.sg</a></td>
   </tr>
 	  <tr>
     <td>Part-Time School Counsellor</td>
     <td>Mdm Ow Suek Yin</td>
-    <td><a href="mailto:ow_suek_yin@moe.edu.sg">ow_suek_yin@moe.edu.sg</a></td>
+    <td><a href="mailto:ow_suek_yin@schools.gov.sg">ow_suek_yin@schools.gov.sg</a></td>
   </tr>
 	 <tr>
-    <td>Allied Educator (Learning &amp; Behavioural Support)</td>
+    <td>Senior SEN Officer</td>
     <td>Mrs Cheryl Lim</td>
-    <td><a href="mailto:tan_seok_gek@moe.edu.sg">tan_seok_gek@moe.edu.sg</a></td>
-  </tr>
-		 <tr>
-    <td>ICT Associate</td>
-    <td>Ms Gan Bee Yi</td>
-    <td></td>
+    <td><a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a></td>
   </tr>
 	  <tr>
     <td>Student Welfare Officer (SWO)</td>
     <td>Mr Muhammad Iqbal Bin Rosli</td>
+    <td><a href="mailto:muhammad_iqbal_b_rosli@schools.gov.sg">muhammad_iqbal_b_rosli@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <td>Student Welfare Officer</td>
+    <td>Mdm Ma Jing</td>
+    <td><a href="mailto:ma_jing_a@moe.edu.sg">ma_jing_a@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <td>ICT Associate</td>
+    <td>Ms Gan Bee Yi</td>
     <td></td>
   </tr>
 	  <tr>
