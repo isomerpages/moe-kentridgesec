@@ -58,7 +58,7 @@ table, th, td {
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Lesson Title / Duration</th>
 		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Overview</th>
 		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Objectives</th>
-		<th style="font-weight:bold; color:#ffffff;width: 80px;">Time Period </th>
+		<th style="font-weight:bold; color:#ffffff;width: 100px;">Time Period </th>
   </tr>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
