@@ -54,11 +54,11 @@ table, th, td {
 	 <tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 200px;">Unit</th>
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Unit</th>
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Lesson Title / Duration</th>
-		<th style="font-weight:bold; color:#ffffff;width: 300px;">Lesson Overview</th>
-		<th style="font-weight:bold; color:#ffffff;width: 300px;">Lesson Objectives</th>
-		<th style="font-weight:bold; color:#ffffff;width: 300px;">Time Period </th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Overview</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Objectives</th>
+		<th style="font-weight:bold; color:#ffffff;width: 200px;">Time Period </th>
   </tr>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
