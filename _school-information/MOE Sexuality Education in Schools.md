@@ -61,7 +61,7 @@ table, th, td {
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Time Period </th>
   </tr>
   <tr>
-    <td rowspan="2">Respectful Relationships & Safety</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
     <td>Steady or Not<br>
 Lesson 1<br>
 (60 mins)</td>
