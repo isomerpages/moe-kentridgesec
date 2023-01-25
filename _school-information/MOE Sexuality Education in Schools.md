@@ -138,31 +138,32 @@ Lesson 2B<br>
 
 <p style="text-align:center;"> <strong>Secondary 3</strong></p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
+</head>
+	 <tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Unit</th>
+    <th style="font-weight:bold; color:#ffffff;width: 200px;">Lesson Title / Duration</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Overview</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Objectives</th>
+		<th style="font-weight:bold; color:#ffffff;width: 100px;">Time Period </th>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-baqh" rowspan="4">Respectful Relationships &amp; Safety</td>
-    <td class="tg-0lax">1A<br>(60 mins)</td>
-    <td class="tg-0lax">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
+    <td>Levelling the Ground<br>Lesson 1<br>
+(60 mins)</td>
+		<td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
+ <td>•	understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br>
+•	understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations
+•	know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided <br>
+</td>
     <td class="tg-0lax">Term 3<br>Week 1</td>
   </tr>
   <tr>
