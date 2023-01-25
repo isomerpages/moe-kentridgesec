@@ -89,45 +89,51 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 <p style="text-align:center;"> <strong>Secondary 2</strong></p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-yy4y"><span style="font-weight:bold">UNIT</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">LESSONS / DURATION</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">LESSON OBJECTIVES</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">TIME PERIOD</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-e404" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-lm9i">1<br>(60 mins)</td>
-    <td class="tg-lm9i">Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails</td>
-    <td class="tg-lm9i">Term 3<br>Week 1</td>
+</head>
+	 <tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Unit</th>
+    <th style="font-weight:bold; color:#ffffff;width: 200px;">Lesson Title / Duration</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Overview</th>
+		<th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Objectives</th>
+		<th style="font-weight:bold; color:#ffffff;width: 100px;">Time Period </th>
   </tr>
   <tr>
-    <td class="tg-lm9i">2A<br>(60 mins)</td>
-    <td class="tg-lm9i">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-    <td class="tg-lm9i">Term 3<br>Week 2</td>
+    <td rowspan="3">Respectful Relationships & Safety</td>
+    <td>A Role for Everyone<br>Lesson 1
+<br>(60 mins)</td>
+		  <td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
+</td>
+    <td>- know that one’s understanding of gender roles should not be limited by gender stereotypes<br>- develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>- understand what sexual orientation entails</td>
+    <td>Term 3<br>Week 6</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">2B<br>(60 mins)</td>
-    <td class="tg-lm9i">Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-lm9i">Term 3<br>Week 3</td>
+    <td>Online Safety Challenge <br> Lesson 2A<br>
+(60 mins)
+</td>
+		<td>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
+    <td>- recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td>Term 3<br>Week 9</td>
   </tr>
-</tbody>
+  <tr>
+    <td>Do I or Don’t I<br>
+Lesson 2B<br>
+(60 mins)</td>
+		 <td>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
+    <td>- recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>- recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td>Term 4<br>Week 1</td>
+	</tr>
 </table>
+</tbody>	
+</html>
 
 <p style="text-align:center;"> <strong>Secondary 3</strong></p>
 
