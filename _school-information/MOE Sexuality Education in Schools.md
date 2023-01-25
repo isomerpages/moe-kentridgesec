@@ -171,13 +171,24 @@ table, th, td {
 Lesson 2 <br>
 (60 mins)
 </td>
-		 <td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.
-</td>
-    <td>•	know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br>
-•	know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br>
-•	understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage </td>
-    <td>Term 3<br>Week 9</td>
+		 <td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship. </td>
+    <td>•	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br>
+•	recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims <br>
+•	understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br>
+•	understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship </td>
+    <td>Term 3<br>Week 6</td>
   </tr>
+	 <tr>
+    <td>For Better or For Worse <br>Lesson 3<br>
+(60 mins)
+</td>
+    <td>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.  </td>
+<td>•	know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br>
+•	know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br>
+•	understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage 
+</td>
+    <td>Term 3<br>Week 8</td>
+	</tr>
   <tr>
     <td>There’s Always More to a Story <br>
 Lesson 4<br>
