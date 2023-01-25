@@ -66,7 +66,7 @@ table, th, td {
 Lesson 1<br>
 (60 mins)</td>
 		<td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
-    <td>- recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>- recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>- understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td>- recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>- recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>- understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
     <td>Term 3 Week 1</td>
   </tr>
   <tr>
