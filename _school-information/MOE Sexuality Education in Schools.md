@@ -43,46 +43,42 @@ b.  Character and Citizenship Education (CCE)
   
 <p style="text-align:center;"> <strong>Secondary 1</strong></p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-yy4y{background-color:#033668;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-yy4y"><span style="font-weight:bold">Unit</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">Lesson Title / Duration</span></th>
-		<th class="tg-1jgz"><span style="font-weight:bold">Lesson Overview</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">Lesson Objectives</span><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">Time Period </span></th>
+</head>
+	 <tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">Unit</th>
+    <th style="font-weight:bold; color:#ffffff;width: 400px;">Lesson Title / Duration</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Lesson Overview</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Lesson Objectives</th>
+		<th style="font-weight:bold; color:#ffffff;width: 300px;">Time Period </th>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-e404" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-lm9i">Steady or Not<br>
+    <td rowspan="2">Respectful Relationships & Safety</td>
+    <td>Steady or Not<br>
 Lesson 1<br>
 (60 mins)</td>
-		<td class="tg-lm9i">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
-    <td class="tg-lm9i"><li>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li><br><li>recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li><br>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li><br><li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></td>
-    <td class="tg-e404">Term 3<br>Week 1</td>
+		<td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+    <td>- recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>- recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>- understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td>Term 3 Week 1</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">2<br>(60 mins)</td>
-    <td class="tg-lm9i">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-e404">Term 3<br>Week 8</td>
+    <td>Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
+		 <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>- understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td>Term 3<br>Week 3</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">3<br>(60 mins)</td>
-    <td class="tg-lm9i">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-    <td class="tg-lm9i">Term 3<br>Week 9</td>
+    <td>3<br>(60 mins)</td>
+    <td>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td>Term 3<br>Week 9</td>
   </tr>
 </tbody>
 </table>
