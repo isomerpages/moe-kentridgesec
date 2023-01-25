@@ -83,6 +83,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td>- understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br> -recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
     <td>Term 3<br>Week 8</td>
 	</tr>
+	<tr></tr>
 </table>
 </tbody>	
 </html>
@@ -130,7 +131,7 @@ Lesson 2B<br>
 		 <td>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
     <td>- recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>- recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
     <td>Term 4<br>Week 1</td>
-	</tr>
+	</tr><tr></tr>
 </table>
 </tbody>	
 </html>
