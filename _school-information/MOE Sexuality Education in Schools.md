@@ -288,32 +288,42 @@ table, th, td {
 </tbody>
 </table>
 
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
-
 **_eTeens_** **Programme**:
 
 8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Kent Ridge Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Kent Ridge Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1jgz{background-color:#033668;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+<html>
+<head>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1jgz"><span style="font-weight:bold">TOPICS/LESSONS</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">PROGRAMME LEARNING OBJECTIVES</span></th>
-    <th class="tg-1jgz"><span style="color:#FFF">TIME PERIOD</span></th>
+</head>
+	 <tbody>
+<table>
+  <tr style="background-color:#033668">
+    <th style="font-weight:bold; color:#ffffff;width: 100px;">Topics / Lessons</th>
+    <th style="font-weight:bold; color:#ffffff;width: 600px;">Programme Learning Objectives</th>
+<th style="font-weight:bold; color:#ffffff;width: 200px;">Time Period</th>
   </tr>
+  <tr>
+    <td>Mass Talk by HPB appointed vendor </td>
+		<td>
+		•	Awareness of the different STIs and HIV/AIDS<br>
+•	Modes of transmission<br>
+•	Modes of protection, specifically on how the condom is used<br>
+•	Consequences and impact of STIs/HIV
+		</td>
+		<td>Term 3 Week 10<td>
+  </tr><tr>
+	<td>Classroom-based Lesson</td>
+<td>•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+	<td>Term 4 Week 2</td>
+	</tr><tr></tr>
 </thead>
 <tbody>
   <tr>
@@ -332,7 +342,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 **Information for Parents**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022-MOE-The-Growing-Years-Programme.pdf). The completed form is to be submitted by 11/02/2022.
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf) . The completed form is to be submitted by 11/02/2022.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022-MOE-The-Growing-Years-Programme.pdf). The completed form is to be submitted by 07/02/2023.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf) . The completed form is to be submitted by 07/02/2023.
 13.  Parents can contact the school at 6773 1127 or [krss@moe.edu.sg](mailto:krss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
