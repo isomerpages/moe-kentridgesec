@@ -306,9 +306,9 @@ table, th, td {
 	 <tbody>
 <table>
   <tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 100px;">Topics / Lessons</th>
+    <th style="font-weight:bold; color:#ffffff;width: 200px;">Topics / Lessons</th>
     <th style="font-weight:bold; color:#ffffff;width: 600px;">Programme Learning Objectives</th>
-<th style="font-weight:bold; color:#ffffff;width: 200px;">Time Period</th>
+<th style="font-weight:bold; color:#ffffff;width: 100px;">Time Period</th>
   </tr>
   <tr>
     <td>Mass Talk by HPB appointed vendor </td>
