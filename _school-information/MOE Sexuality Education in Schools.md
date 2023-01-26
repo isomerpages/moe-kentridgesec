@@ -156,20 +156,20 @@ table, th, td {
   </tr>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td>Levelling the Ground<br>Lesson 1<br>
+    <td>Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
-		<td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
- <td>•	understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br>
-•	understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br>
-•	know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided <br>
+		<td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </td>
+ <td>•	know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline 
+•	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
+•	recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
 </td>
-    <td>Term 3<br>Week 4</td>
+    <td>Term 3<br>Week 2</td>
   </tr>
   <tr>
     <td>Mending a Broken Heart<br>Lesson 1B<br>
 (60 mins)</td>
 		 <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. </td>
- <td>•	know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br>
+ <td>• know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br>
 •	know that a decision to end a relationship will have consequences on oneself and others<br>
 •	know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience <br>
 •	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support  </td>
