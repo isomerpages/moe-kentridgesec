@@ -128,7 +128,7 @@ table, th, td {
 Lesson 2B<br>
 (60 mins)</td>
 		 <td>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
-    <td>• recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td>• recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
     <td>Term 4<br>Week 1</td>
 	</tr><tr></tr>
 </table>
@@ -323,20 +323,9 @@ table, th, td {
 <td>•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
 	<td>Term 4 Week 2</td>
 	</tr><tr></tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-0lax">Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV</td>
-    <td class="tg-0lax">Term 3<br>Week 6</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Classroom-based Lesson</td>
-    <td class="tg-0lax">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-0lax">Term 3<br>Week 7</td>
-  </tr>
-</tbody>
 </table>
+</tbody>	
+</html>
 
 **Information for Parents**
 
