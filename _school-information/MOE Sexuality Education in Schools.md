@@ -112,7 +112,7 @@ table, th, td {
 <br>(60 mins)</td>
 		  <td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
-    <td>• know that one’s understanding of gender roles should not be limited by gender stereotypes<br>• develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>• understand what sexual orientation entails</td>
+    <td>• know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>• develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>• understand what sexual orientation entails</td>
     <td>Term 3<br>Week 6</td>
   </tr>
   <tr>
@@ -159,8 +159,8 @@ table, th, td {
     <td>Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
 		<td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </td>
- <td>•	know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline 
-•	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
+ <td>•	know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline <br><br>
+•	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br><br>
 •	recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
 </td>
     <td>Term 3<br>Week 2</td>
@@ -169,9 +169,9 @@ table, th, td {
     <td>Mending a Broken Heart<br>Lesson 1B<br>
 (60 mins)</td>
 		 <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. </td>
- <td>• know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br>
-•	know that a decision to end a relationship will have consequences on oneself and others<br>
-•	know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience <br>
+ <td>• know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br><br>
+•	know that a decision to end a relationship will have consequences on oneself and others<br><br>
+•	know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience <br><br>
 •	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support  </td>
     <td>Term 3<br>Week 3</td>
   </tr>
@@ -181,12 +181,12 @@ Lesson 2<br>
 (60 mins)
 </td>
     <td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need. </td>
-<td>•	recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br>
+<td>•	recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br><br>
 •	understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs 
 </td>
     <td>Term 3<br>Week 9</td>
 	</tr>
-	</tr><tr></tr>
+	<tr></tr>
 </table>
 </tbody>	
 </html>
@@ -215,8 +215,8 @@ table, th, td {
     <td>Levelling the Ground<br>Lesson 1<br>
 (60 mins)</td>
 		<td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
- <td>•	understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br>
-•	understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br>
+ <td>•	understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br><br>
+•	understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br><br>
 •	know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided <br>
 </td>
     <td>Term 3<br>Week 4</td>
@@ -227,9 +227,9 @@ Lesson 2 <br>
 (60 mins)
 </td>
 		 <td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship. </td>
-    <td>•	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br>
-•	recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims <br>
-•	understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br>
+    <td>•	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br><br>
+•	recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims <br><br>
+•	understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br><br>
 •	understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship </td>
     <td>Term 3<br>Week 6</td>
   </tr>
@@ -238,8 +238,8 @@ Lesson 2 <br>
 (60 mins)
 </td>
     <td>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.  </td>
-<td>•	know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br>
-•	know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br>
+<td>•	know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br><br>
+•	know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br><br>
 •	understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage 
 </td>
     <td>Term 3<br>Week 8</td>
