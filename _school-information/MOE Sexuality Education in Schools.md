@@ -318,7 +318,7 @@ table, th, td {
 •	Modes of protection, specifically on how the condom is used<br>
 •	Consequences and impact of STIs/HIV
 		</td>
-		<td>Term 3 Week 10<td>
+		<td>Term 3 Week 10</td>
   </tr><tr>
 	<td>Classroom-based Lesson</td>
 <td>•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
