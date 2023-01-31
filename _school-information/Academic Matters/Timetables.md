@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Matters
 ---
 **Class Time-tables (Semester 1, 2023)** <br>
-Updated 06 January 2023
+Updated 31 January 2023
 
 [Secondary 1](/files/KRSS%20Timetable%20Sem%201_Sec%201.pdf)<br>
 [Secondary 2](/files/KRSS%20Timetable%20Sem%201_Sec%202.pdf) <br>
