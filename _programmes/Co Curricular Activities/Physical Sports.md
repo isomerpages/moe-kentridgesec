@@ -4,8 +4,6 @@ permalink: /programmes/co-curricular-activities/physical-sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
@@ -56,7 +54,7 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion5">  
     <label for="accordion5">Outdoor Adventure Club</label>  
     <div>  
-      <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
+      <p><strong>Day / Time:</strong><br>MONDAY: 1515 - 1800 HRS (1830HRS bus arrival back in KRSS)<br>FRIDAY: 1300 - 1600 HRS (1630HRS bus arrival back in KRSS)</p>
 <p>VISION: O.D.A.C  
 Open-minded. Disciplined. Adaptable. Confident. <br>KRSS ODAC aims to provide students with exposure to various outdoor activities both on land and water. KRSS Outdoor Adventure Club (ODAC) exposes our members to various water sports such as sailing, snorkelling and kayaking as well as camping and hiking activities. Students will go through certification courses such as Orienteering Level One and Kayaking One Star. During regular CCA sessions, members will also be taught various outdoor-related skills such as Camp craft and Outdoor Cooking.</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mrs Teo Wee Leng<br>Ms Hafizah Beevi<br>Ms Shirley Wong<br>Ms Hong Yunfang</p>  
