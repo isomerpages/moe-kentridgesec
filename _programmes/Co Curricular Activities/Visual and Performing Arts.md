@@ -4,8 +4,6 @@ permalink: /programmes/co-curricular-activities/visual-performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 <ul class="jekyllcodex_accordion">  
 	<li>  
     <input type="checkbox" id="accordion1">  
@@ -15,7 +13,7 @@ third_nav_title: Co Curricular Activities
 <p>The Kent Ridge Choir – “Kent Ridge Voices” – was formed when the school started in January 2000. Under the guidance of our conductor, Ms Ong Chiak Yin, it aims to be a dynamic group as it strives for choral excellence. To achieve this, the choir has undergone intensive training of music theory and voice enrichment under voice specialists. The Kent Ridge Voices takes part in the Singapore Youth Festival Arts Presentation and the school&#39;s biennial Vivace! concert. Over the years, the Kent Ridge Voices has also performed for the Voices of Singapore Festival.</p>
 <p><strong><em>Achievements</em></strong><br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
 <p><strong><em>Overseas Learning Journeys / Competitions</em></strong><br>2010 – Winter Choral Festival, Hong Kong (Bronze Award)</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Nicole Tay<br>Ms Lim Bee Leng<br>Ms Hamizah<br>Ms Nurhaslinda<br>Ms Wong Li Xin</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Lim Bee Leng<br>Ms Wong Li Xin<br>Wong Weng Han</p>  
     </div>  
 </li>  
 <li>  
@@ -40,7 +38,7 @@ third_nav_title: Co Curricular Activities
       <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and enthusiastic team of students, teachers and instructors. Our programme’s objectives are to create a conducive, safe and collaborative environment for students to appreciate and explore a variety of dance genres consisting mainly of contemporary and jazz along with hip-hop, ballroom and ballet. To develop their confidence and stage presence, students are exposed to school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as external platforms like the Singapore Youth Festival Arts Presentation, Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the scenes, the dancers build their skills through holiday workshops and inter-school exchanges. We welcome you to the Modern Dance Club, a family that braves challenges together and where everyone is allowed to grow at their own pace.</p>
 <p><strong><em>Achievements</em></strong><br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Kalpana<br>Ms Arfah Lubis<br>Ms Tew Yu Chan</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Kalpana<br>Ms Arfah Lubis<br>Ms Hong Yunfang</p>
     </div>  
 </li>  
 <li>  
