@@ -13,7 +13,7 @@ third_nav_title: Co Curricular Activities
 <p>The Kent Ridge Choir – “Kent Ridge Voices” – was formed when the school started in January 2000. Under the guidance of our conductor, Ms Ong Chiak Yin, it aims to be a dynamic group as it strives for choral excellence. To achieve this, the choir has undergone intensive training of music theory and voice enrichment under voice specialists. The Kent Ridge Voices takes part in the Singapore Youth Festival Arts Presentation and the school&#39;s biennial Vivace! concert. Over the years, the Kent Ridge Voices has also performed for the Voices of Singapore Festival.</p>
 <p><strong><em>Achievements</em></strong><br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
 <p><strong><em>Overseas Learning Journeys / Competitions</em></strong><br>2010 – Winter Choral Festival, Hong Kong (Bronze Award)</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Lim Bee Leng<br>Ms Wong Li Xin<br>Wong Weng Han</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Lim Bee Leng<br>Ms Wong Li Xin<br>Mdm Wong Weng Han</p>  
     </div>  
 </li>  
 <li>  
