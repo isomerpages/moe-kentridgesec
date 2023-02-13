@@ -4,8 +4,6 @@ permalink: /programmes/co-curricular-activities/clubs-societies/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
@@ -14,7 +12,7 @@ third_nav_title: Co Curricular Activities
       <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS (Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p>
 <p>The Debate Society, formerly a special interest group, is a newly-established CCA in 2017. The CCA aims to develop student-debaters who are able to think critically and speak skilfully. We train our students in the art of debating, focusing on the domains of research, speech, and working together in a team. We take part in debate competitions such as the Singapore Secondary Schools Debating Championships, Youth Debate Open and Raffles Debate Academy Under-14 Debating Championship. Every year, the students embark on VIA projects to pass on their debating skills and knowledge to the community by organising public speaking workshops or mentoring sessions for other youths or children from various organisations. In this CCA, the debaters are not only trained to be quick-witted and articulate speakers, but the many opportunities to work in teams also teach them the value of camaraderie and friendship.</p>
 <p><em><strong>Achievements</strong></em><br>2021: Debate Association Debating Championships Semi-finalists (Gold Division), 2nd Under-14 Best Speaker<br>2021: ACJC Orator’s Trophy Semi-finalist<br>2019: SSSDC (Division 1) 7th and 15th Overall Best Speakers<br>2018: SSSDC Champions (Division 2)<br>2017: SSSDC Semi-finalists (Division 2), Top breaking team, 2nd and 12th Overall Best Speakers<br>2017: Raffles Debate Academy Under-14 Debating Championship 10th and 12th Overall Best Speakers (Silver division)<br>2016: SSSDC Quarter-finalists (Division 2), Top breaking team, 2nd Overall Best Speaker<br>2016: Youth Debate Open, 1st Runner-Up (Silver Division)<br>2015: SSSDC Champions (Division 3), Grand Finals Best Speaker, 10th and 15th Overall Best Speakers</p>
-<p><strong><em>Teachers-in- charge:</em></strong><br>Ms Nicole Heng<br>Mr Lok Sin Min<br>Mdm Kalaimathi</p>
+<p><strong><em>Teachers-in- charge:</em></strong><br>Ms Nicole Heng<br>Mr Lok Sin Min<br>Ms Maimunah Binte Ithnin</p>
 <p><img src="/images/debate%20society.png" alt="debate society"></p>  
     </div>  
 </li>  
@@ -89,7 +87,7 @@ third_nav_title: Co Curricular Activities
 </ul>
 </li>
 </ul>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Xu Kaibin<br>Mr Ong Wee Kwang<br>Ms Michelle Cheong<br>Mrs Tan Jiayi</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Xu Kaibin<br>Ms Michelle Cheong<br>Mr Tan Puay Eng</p>
 <p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
     </div>  
 </li> 
@@ -99,7 +97,8 @@ third_nav_title: Co Curricular Activities
     <div>  
       <p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS (All Students)<br>TUESDAY: 1430 - 1630 HRS (Recreational)<br>THURSDAY: 1530 - 1800 HRS (All Students)</p>
 <p>International Chess is a newly established CCA in 2023. It was formerly a special interest group and had about 30 students playing regularly and taking part in school competitions.  The objectives of International Chess are to build character, team spirit and responsibility. Playing chess helps students in developing problem-solving skills, critical thinking and creativity. It also helps improve students’ memory and concentration. We will train students to take part in internal and external chess competitions.</p>
-    </div>  
+			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mdm Ow Suek Yin<br></p>
+		</div>  
 </li>  
 <li>  
     <input type="checkbox" id="accordion4">  
@@ -124,7 +123,7 @@ third_nav_title: Co Curricular Activities
 <p>Note: All students will learn to operate basic AV equipment to support school operations.</p>
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
 <p><strong><em>Achievements</em></strong><br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021: #ClickArt S2 Cluster Showcase 2021 - 2 Distinctions<br>2020: N.E.mation!2021 - Top 10<br>2020: Our Schools, Our Storiees - Best Photo Story<br>2019: CNB #DrugFreeSG - 2nd<br>2019: N.E.mation!2020 - Top 10<br>2018: Hear and Now - Listen (A video on Dementia) - Special Commendation<br>2017 : N.E.mation! 11 – Top 10</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic<br>Mr Yang Kuangji</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
     </div>  
 </li>  
