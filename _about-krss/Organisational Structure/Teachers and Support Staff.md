@@ -274,7 +274,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Mathematics</td>
-    <td>Tiong Kian Yoon, Betty</td>
+    <td>Ms Tiong Kian Yoon, Betty</td>
     <td><a href="mailto:tiong_kian_yoon@schools.gov.sg">tiong_kian_yoon@schools.gov.sg</a></td>
 </tr>
 </table>
