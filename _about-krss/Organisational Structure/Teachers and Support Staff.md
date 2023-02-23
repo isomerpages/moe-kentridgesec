@@ -140,9 +140,12 @@ table, th, td {
     <td><a href="mailto:foo_shuan_chou@schools.gov.sg">foo_shuan_chou@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>2-8</td>
+    <td rowspan="2">2-8</td>
     <td>Mr Mohammad Basheer Bin Adrian</td>
     <td><a href="mailto:mohammad_basheer_adrian@schools.gov.sg">mohammad_basheer_adrian@schools.gov.sg</a></td>
+  </tr>
+	 <td>Mrs Loke Wenyi</td>
+    <td><a href="mailto:chua_boon_yee@schools.gov.sg">chua_boon_yee@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">3N1</td>
@@ -163,13 +166,9 @@ table, th, td {
     <td><a href="mailto:chong_jieting_jasmine@schools.gov.sg">chong_jieting_jasmine@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">3N3</td>
+    <td>3N3</td>
     <td>Mr Ong Wee Kwang</td>
     <td><a href="mailto:ong_wee_kwang@schools.gov.sg">ong_wee_kwang@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mrs Loke Wenyi</td>
-    <td><a href="mailto:chua_boon_yee@schools.gov.sg">chua_boon_yee@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>3E4</td>
