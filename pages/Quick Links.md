@@ -3,9 +3,9 @@ title: Quick Links
 permalink: /quicklinks/
 description: ""
 ---
-
 **For Staff**
 
+*   [All Ears](https://forms.moe.edu.sg/)
 *   [Human Resource Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
 *   [iCON](https://workspace.google.com/dashboard)
 *   [MIMS](http://portal.mims.moe.gov.sg/)
@@ -21,6 +21,3 @@ description: ""
 *   [iCON](https://workspace.google.com/dashboard)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/)
 *   [School Library](https://schoolibrary.moe.edu.sg/kentridgesec)
-
-
-
