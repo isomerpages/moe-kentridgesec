@@ -274,8 +274,8 @@ table, th, td {
   </tr>
   <tr>
     <td>Mathematics</td>
-    <td>Ms Wong Huia Lee, Shirley</td>
-    <td><a href="mailto:wong_huia_lee@schools.gov.sg">wong_huia_lee@schools.gov.sg</a></td>
+    <td>Ms Tiong Kian Yoon, Betty</td>
+    <td><a href="mailto:tiong_kian_yoon@schools.gov.sg">tiong_kian_yoon@schools.gov.sg</a></td>
 </tr>
 </table>
 </tbody>
@@ -368,12 +368,8 @@ table, th, td {
     <td>Mr Ashwin Ajay Unnithan</td>
   </tr>
   <tr>
-    <td>Science Laboratory Technician 1</td>
+    <td>Science Laboratory Technician </td>
     <td>Ms Lee Siew Har</td>
-  </tr>
-  <tr>
-    <td>Science Laboratory Technician 2</td>
-    <td>Mr Zulfadhli Bin Mohd Zain</td>
   </tr>
   <tr>
    <td>Education Workshop Instructor 1</td>
@@ -448,6 +444,10 @@ table, th, td {
   <tr>
     <td>Adjunct Admin Executive</td>
     <td>Ms Nur Delis Sulastra</td>
+  </tr>
+	  <tr>
+    <td>Adjunct Admin Executive</td>
+    <td>Ms Quah Hui Shan</td>
   </tr>
   <tr>
     <td>Corporate Support Officer</td>
