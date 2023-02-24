@@ -144,6 +144,7 @@ table, th, td {
     <td>Mr Mohammad Basheer Bin Adrian</td>
     <td><a href="mailto:mohammad_basheer_adrian@schools.gov.sg">mohammad_basheer_adrian@schools.gov.sg</a></td>
   </tr>
+	<tr>
 	 <td>Mrs Loke Wenyi</td>
     <td><a href="mailto:chua_boon_yee@schools.gov.sg">chua_boon_yee@schools.gov.sg</a></td>
   </tr>
