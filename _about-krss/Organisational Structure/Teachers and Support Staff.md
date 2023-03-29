@@ -175,16 +175,18 @@ table, th, td {
       <td rowspan="2">3E4</td>
     <td>Mr Chan Kar Hong</td>
     <td><a href="mailto:chan_kar_hong@schools.gov.sg">chan_kar_hong@schools.gov.sg</a></td>
-  </tr>  <tr>
+  </tr>  
+	<tr>
 	 <td>Mr Ang Swee Huat</td>
    <td><a href="mailto:ang_swee_huat@schools.gov.sg">ang_swee_huat@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td rowspan="2">3E5</td>
+    <td rowspan="2">3E5</td>
     <td>Mr Kevin Nicholas Fonseka</td>
     <td><a href="mailto:kevin_nicholas_fonseka@schools.gov.sg">kevin_nicholas_fonseka@schools.gov.sg</a></td>
-  </tr>  <tr>
-		  <td>Mr Seto Yi Kang Marcus</td>
+  </tr> 
+	<tr>
+		 <td>Mr Seto Yi Kang Marcus</td>
     <td><a href="mailto: seto_yi_kang_marcus@schools.gov.sg"> seto_yi_kang_marcus@schools.gov.sg</a></td>
   </tr>
   <tr>
@@ -200,7 +202,8 @@ table, th, td {
     <td rowspan="2">3E7</td>
     <td>Mr Lok Sin Min</td>
    <td><a href="mailto:lok_sin_min@schools.gov.sg">lok_sin_min@schools.gov.sg</a></td>
-  </tr>  <tr>
+  </tr>  
+	<tr>
 	 <td>Mr Koh Guang Wei</td>
    <td><a href="mailto:koh_guang_wei@schools.gov.sg">koh_guang_wei@schools.gov.sg</a></td>
   </tr>
