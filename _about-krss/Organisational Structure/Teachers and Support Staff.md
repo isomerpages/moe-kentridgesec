@@ -6,17 +6,17 @@ third_nav_title: Organisational Structure
 ---
 ### Form Teachers
 
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	 <tbody>
+
+	 
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
@@ -264,22 +264,22 @@ table, th, td {
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
   </tr>
 	<tr></tr>
-</table>
-</tbody>	
-</html>
+</tbody></table>
+	
+
 
 ### Subject Teachers
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
@@ -289,25 +289,25 @@ table, th, td {
     <td>Ms Tiong Kian Yoon, Betty</td>
     <td><a href="mailto:tiong_kian_yoon@schools.gov.sg">tiong_kian_yoon@schools.gov.sg</a></td>
 </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 
 
 ### Support Staff
 
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-    <th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
-  <tr>
+    <tbody><tr><th colspan="3" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
+  </tr><tr>
     <th style="font-weight:bold;width: 300px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
 		<th style="font-weight:bold;width: 300px;">Email Address</th>
@@ -335,7 +335,7 @@ table, th, td {
 	<tr>
     <td>Student Welfare Officer</td>
     <td>Mdm Ma Jing</td>
-    <td><a href="mailto:ma_jing_a@moe.edu.sg">ma_jing_a@schools.gov.sg</a></td>
+    <td><a href="mailto:ma_jing@schools.gov.sg">ma_jing@schools.gov.sg</a></td>
   </tr>
 	 <tr>
     <td>ICT Associate</td>
@@ -352,22 +352,22 @@ table, th, td {
     <td>Mr Choo Soon Heng, Damon</td>
     <td></td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 <br>
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
-  <tr>
+    <tbody><tr><th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Technical Support</th>
+  </tr><tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
@@ -391,22 +391,22 @@ table, th, td {
     <td>Education Workshop Instructor 2</td>
     <td>Mr Abdul Wahid Bin Md Eunos</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 <br>
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
-  <tr>
+    <tbody><tr><th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Operation Support</th>
+  </tr><tr>
     <th style="font-weight:bold; width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
@@ -434,22 +434,22 @@ table, th, td {
     <td>Operation Support Officer</td>
     <td>Mdm Saraswathi Tanggelwel</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 <br>
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-    <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
-  <tr>
+    <tbody><tr><th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Administrative Support</th>
+  </tr><tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
@@ -477,6 +477,4 @@ table, th, td {
     <td>Library Assistant</td>
     <td>Ms Cayla</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
