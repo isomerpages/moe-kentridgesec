@@ -15,6 +15,10 @@ The CCA-Basketball programme has proven to be an effective way to develop our �
 
 1\. Team
 
+2022
+
+*   National School Games South Zone 'C' Division Boys – Quarter Finalist
+
 2019
 
 *   South Zone 'B' Division Inter-School Basketball Championship (Girls) 2019 – Fairplay Award
@@ -64,7 +68,7 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
 <thead>
   <tr>
     <th class="tg-9fr9">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>2. The Basketball selection trials will consist of the following:<br><br>Physical Assessment<br>Individual Technical Skills Assessment<br>Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>2. The Basketball selection trials will consist of the following:<br><br>- Physical Assessment<br>- Individual Technical Skills Assessment<br>- Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
@@ -83,9 +87,6 @@ DSA - Sports and Games (Basketball):
 
 Mr Lim Kheng Joo Vincent  
 Email: [lim_kheng_joo_vincent@schools.gov.sg](mailto:lim_kheng_joo_vincent@schools.gov.sg)
-
-SH/PE: Mr Kevin Chow  
-Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
 
 HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
