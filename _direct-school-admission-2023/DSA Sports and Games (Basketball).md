@@ -68,7 +68,12 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
 <thead>
   <tr>
     <th class="tg-9fr9">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>2. The Basketball selection trials will consist of the following:<br>&nbsp;&nbsp;&nbsp;- Physical Assessment<br>&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
+2. The Basketball selection trials will consist of the following:<br>
+&nbsp;&nbsp;&nbsp;- Physical Assessment<br>
+&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
+&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>
+3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
@@ -100,26 +105,3 @@ Fax: 67735119
 Email: [krss@moe.edu.sg](mailto:krss@moe.edu.sg)
 
 ![DSA Basketball](/images/dsa%20basketball.png)
-
-
-<style>
-table, th, td {
- border-collapse: collapse;
-}
-</style><table>
-    <tbody>
-  <tr>
-    <td>Performance Tasks</td>
-    <td>1. Shortlisted applicants will be invited for an in-person trial.
-2. The STEM (Computational Thinking Skills) trial will consist of the following: <br>
-      &nbsp; - Block-based Programming Assessment<br>
-     &nbsp; - Computational Thinking Skills Assessment<br>
-3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</td>
-  </tr>
-
-  <tr>
-    <td>Interview</td>
-    <td>Shortlisted applicants will be invited for an in-person interview. <br>
-The applicants’ suitability and aptitude in computational thinking and ability to communicate their ideas confidently will be assessed by a panel of teachers.</td>
-  </tr>
-</tbody></table>
