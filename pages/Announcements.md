@@ -3,6 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Direct School Admission 2023** <br>
 [Direct School Admission 2023](https://www.kentridgesec.moe.edu.sg/school-information/direct-school-admission-2023/)<br>
 
 
