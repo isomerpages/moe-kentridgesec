@@ -112,8 +112,8 @@ table, th, td {
     <td>Performance Tasks</td>
     <td>1. Shortlisted applicants will be invited for an in-person trial.
 2. The STEM (Computational Thinking Skills) trial will consist of the following: <br>
-      &nbsp; Block-based Programming Assessment<br>
-     &nbsp; Computational Thinking Skills Assessment<br>
+      &nbsp; - Block-based Programming Assessment<br>
+     &nbsp; - Computational Thinking Skills Assessment<br>
 3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</td>
   </tr>
 
