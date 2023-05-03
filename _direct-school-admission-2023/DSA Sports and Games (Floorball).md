@@ -33,7 +33,7 @@ KR Floorball started in 2008 with a humble cohort of 36 enthusiastic students, a
 
 The CCA-Floorball programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills. Both our boys’ and girls’ teams compete in the National ‘B’ and ‘C’ Division competitions. Our players are trained by professional coaches, supported by a strong group of dedicated alumni, who are passionate about raising the standard of the sport in the school.
 
-**Achievements**&nbsp;
+**Achievements**
 
 2022
 
