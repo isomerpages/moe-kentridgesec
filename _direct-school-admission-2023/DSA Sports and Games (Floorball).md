@@ -37,7 +37,7 @@ The CCA-Floorball programme has proven to be an effective way to help our studen
 
 2022
 
-*   Sportsmanship Award - National School Games Floorball Championship 2022
+*  4 Students with Sportsmanship Award - National School Games Floorball Championship 2022
 
 2019
 
