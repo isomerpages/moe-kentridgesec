@@ -85,21 +85,25 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-0f7f{color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">Performance Tasks</th>
-    <th class="tg-0lax">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br><br>2. The Badminton selection trials will consist of the following:<br>**&nbsp;**- Physical Assessment<br>**&nbsp;**- Individual Technical Skills Assessment<br>**&nbsp;**- Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-0lax">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br><br>2. The Badminton selection trials will consist of the following:<br>
+&nbsp;&nbsp;&nbsp;- Physical Assessment<br>
+&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
+&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>
+3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">Interview</td>
-    <td class="tg-0lax">1. Each applicant will be asked questions related to their experiences in the sport.<br>2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
+    <td class="tg-0lax">1. Each applicant will be asked questions related to their experiences in the sport.<br>
+2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
     <td class="tg-0f7f" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
