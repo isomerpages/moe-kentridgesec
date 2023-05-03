@@ -4,10 +4,9 @@ title: DSA Science, Technology, Engineering and Mathematics (Computational
 permalink: /school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/
 description: ""
 ---
-
 **Background**
 
-Kent Ridge Secondary School offers its [Applied Learning Programme (ALP)](/programmes/distinctive-programmes/applied-learning-programme/) under the Science, Technology, Engineering and Mathematics (STEM) strand and is focused on developing computational thinking through robotics. Kent Ridge Secondary School will offer the DSA-Sec to eligible students via Computational Thinking Skills. Students who show aptitude in computational thinking and are passionate and committed to develop this strength should apply.
+Kent Ridge Secondary School offers its&nbsp;[Applied Learning Programme (ALP)](/programmes/distinctive-programmes/applied-learning-programme/)&nbsp;under the Science, Technology, Engineering and Mathematics (STEM) strand and is focused on developing computational thinking through robotics. Kent Ridge Secondary School will offer the DSA-Sec to eligible students via Computational Thinking Skills. Students who show aptitude in computational thinking and are passionate and committed to develop this strength should apply.
 
 **Selection Criteria**
 
@@ -34,7 +33,8 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
 <thead>
   <tr>
     <th class="tg-lm9i">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for an in-person trial.<br>2. The STEM (Computational Thinking Skills) trial will consist of the following:<br><br>Block-based Programming Assessment<br>Computational Thinking Skills Assessment<br>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for an in-person trial.<br>2. The STEM (Computational Thinking Skills) trial will consist of the following:<br><ul>
+			<li>Block-based Programming Assessment</li><li>Computational Thinking Skills Assessment</li></ul>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
@@ -43,7 +43,8 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
     <td class="tg-lm9i">Shortlisted applicants will be invited for an in-person interview.<br>The applicants’ suitability and aptitude in computational thinking and ability to communicate their ideas confidently will be assessed by a panel of teachers.</td>
   </tr>
   <tr>
-    <td class="tg-xaiy" colspan="2">Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted and/or given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
+		
   </tr>
 </tbody>
 </table>
@@ -51,11 +52,11 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
 **Contact Person**  
 DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills):
 
-Ms Sally Chow, HOD/ICT  
-Email: [chow_sally@schools.gov.sg](mailto:chow_sally@schools.gov.sg)
-
-Mrs Tan Jiayi, SH/ICT  
+Mrs Tan Jiayi, HOD/ICT  
 Email: [low_jiayi@schools.gov.sg](mailto:low_jiayi@schools.gov.sg)
+
+Mr Rishabh Talwalkar, SH/ICT (int)
+Email: [rishabh_talwalkar@schools.gov.sg](mailto:rishabh_talwalkar@schools.gov.sg)
 
 **School Contact**  
 Kent Ridge Secondary School  
