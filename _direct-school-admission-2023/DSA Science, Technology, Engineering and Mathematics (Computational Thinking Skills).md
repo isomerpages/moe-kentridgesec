@@ -29,12 +29,12 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
 .tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
 .tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-lm9i">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for an in-person trial.<br>2. The STEM (Computational Thinking Skills) trial will consist of the following:<br><ul>
-			<li>Block-based Programming Assessment</li><li>Computational Thinking Skills Assessment</li></ul>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i"><p>1. Shortlisted applicants will be invited for an in-person trial.<br>2. The STEM (Computational Thinking Skills) trial will consist of the following:</p><ul>
+<li>Block-based Programming Assessment</li><li>Computational Thinking Skills Assessment</li></ul>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
@@ -55,7 +55,7 @@ DSA - Science, Technology, Engineering and Mathematics (Computational Thinking S
 Mrs Tan Jiayi, HOD/ICT  
 Email: [low_jiayi@schools.gov.sg](mailto:low_jiayi@schools.gov.sg)
 
-Mr Rishabh Talwalkar, SH/ICT (int)
+Mr Rishabh Talwalkar, SH/ICT (int)<br>
 Email: [rishabh_talwalkar@schools.gov.sg](mailto:rishabh_talwalkar@schools.gov.sg)
 
 **School Contact**  
