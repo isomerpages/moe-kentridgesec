@@ -109,9 +109,6 @@ DSA - Sports and Games (Badminton):
 Mr Chan Kar Hong  
 Email: [chan_kar_hong@schools.gov.sg](mailto:chan_kar_hong@schools.gov.sg)
 
-SH/PE: Mr Kevin Chow  
-Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
-
 HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
