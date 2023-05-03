@@ -17,13 +17,17 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 1\. Team
 
+2022
+
+*   National School Games "C"(Girls) Division 2022 - Quarter Finalists
+
 2021
 
 *   National School Games "B"(Boys) Division 2021 - Quarter Finalists
 
 2020
 
-*   National School Games "B"(Boys) Division 2021 - Quarter Finalists
+*   National School Games "B"(Boys) Division 2020 - Quarter Finalists
 *   SBA National Ranking System: U17 Girls Double – Ranked 6th
 *   SBA National Ranking System: U17 Boys Double – Ranked 5th&nbsp;to 16th&nbsp;\[4 students\]
 
