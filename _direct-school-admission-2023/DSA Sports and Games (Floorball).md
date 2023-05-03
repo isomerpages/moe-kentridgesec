@@ -13,22 +13,22 @@ KR Floorball started in 2008 with a humble cohort of 36 enthusiastic students, a
 
 The CCA-Floorball programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills. Both our boys’ and girls’ teams compete in the National ‘B’ and ‘C’ Division competitions. Our players are trained by professional coaches, supported by a strong group of dedicated alumni, who are passionate about raising the standard of the sport in the school.
 
-**Achievements** 
+**Achievements**&nbsp;
 
 2019
 
-*   Girls – 2nd placing for SFA ‘B’ Division Floorball Competition (Plate Category)
+*   Girls – 2nd&nbsp;placing for SFA ‘B’ Division Floorball Competition (Plate Category)
 
 2018
 
-*   Boys – 3rd placing for SFA ‘B’ Division Competition (Plate Category)
+*   Boys – 3rd&nbsp;placing for SFA ‘B’ Division Competition (Plate Category)
 *   Girls – National ‘B’ Division Floorball Competition – National Top 12
 
 **Training Programmes**
 
 1\. Elementary Training Programme
 
-This programme introduces the students to the basic Floorball methodology, e.g. principles and skills to dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
+This programme introduces the students to the basic Floorball methodology, e.g. principles and skills to&nbsp;dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
 
 Additional training sessions are organised in preparation for competitions. Regular friendly matches are also arranged to help our players to gain more game experience. The school supports students who are keen on participating in external 3v3 competitions to give them further exposure to the sport.
 
@@ -71,7 +71,7 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
     <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
-    <td class="tg-xaiy" colspan="2">Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted and/or given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
   </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ Email: [jitendra_khashaba_bhilare@schools.gov.sg](mailto:jitendra_khashaba_bhila
 SH/PE: Mr Kevin Chow  
 Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
 
-HOD Aesthetics & CCA: Ms Jaime Lim  
+HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
 **School Contact**  
