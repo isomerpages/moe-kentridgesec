@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-[Direct School Admission 2023](https://staging.dsvnzzthjhdgz.amplifyapp.com/school-information/direct-school-admission-2023/)<br>
+[Direct School Admission 2023](https://www.kentridgesec.moe.edu.sg/school-information/direct-school-admission-2023/)<br>
 
 
 **Class Time-tables (Semester 1, 2023)** <br>
