@@ -60,11 +60,10 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9fr9{background-color:#FFF;border-color:inherit;color:#808080;text-align:left;vertical-align:top}
 .tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
 .tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-9fr9">Performance Tasks</th>
