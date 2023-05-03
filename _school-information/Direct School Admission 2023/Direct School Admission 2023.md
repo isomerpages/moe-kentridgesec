@@ -26,7 +26,7 @@ We offer the following DSA talent areas in 2023:
 *   [DSA - Sports and Games (Basketball)](/school-information/dsa/sports-and-games-basketball/)
 *   [DSA - Sports and Games (Floorball)](/school-information/dsa/sports-and-games-basketball/)
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to&nbsp;[MOE website](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Thursday, 4 May 2023, 11am to Wednesday, 31 May 2023, 3pm. For more details, please refer to&nbsp;[MOE website](http://www.moe.gov.sg/dsa-sec).
 
 Thank you.
 
