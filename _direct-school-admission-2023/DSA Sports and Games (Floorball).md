@@ -3,7 +3,27 @@ title: DSA Sports and Games (Floorball)
 permalink: /school-information/dsa/sports-and-games-floorball/
 description: ""
 ---
-Kent Ridge Secondary School will offer DSA to eligible students via Floorball, Badminton and Basketball. This is in line with our Learning for Life Programme which harnesses the philosophy of Olympism to develop our students through the interaction of mind, body and will.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<p></p><table class="tg">
+<thead>
+  <tr><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+</tr></thead></table>Kent Ridge Secondary School will offer DSA to eligible students via Floorball, Badminton and Basketball. This is in line with our Learning for Life Programme which harnesses the philosophy of Olympism to develop our students through the interaction of mind, body and will.
 
 **Background**
 
@@ -49,20 +69,16 @@ Applicants should preferably be/have
 
 Shortlisted DSA applicants will be notified of the date for trial and interview by email. The trial and interview will be conducted on the same day.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-.tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-lm9i">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>2. The Floorball selection trials will consist of the following:<br><br>Physical Assessment<br>Individual Technical Skills Assessment<br>Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
+	2. The Floorball selection trials will consist of the following:<br>
+			&nbsp;&nbsp;&nbsp;- Physical Assessment<br>
+			&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
+			&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>
+			3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
