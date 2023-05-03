@@ -52,11 +52,12 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
     <tbody>
   <tr>
     <td>Performance Tasks</td>
-    <td>1. Shortlisted applicants will be invited for an in-person trial.<br>
-2. The STEM (Computational Thinking Skills) trial will consist of the following: <ul>
+    <td><p>1. Shortlisted applicants will be invited for an in-person trial.<br>
+			2. The STEM (Computational Thinking Skills) trial will consist of the following: </p><ul>
   <li>Block-based Programming Assessment</li>
   <li>Computational Thinking Skills Assessment</li>
-</ul>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</td>
+</ul><p>3. Each applicant will be assessed by a panel of teachers with a set of rubrics. The set of assessment rubrics is the same for all applicants.</p>
+		</td>
   </tr>
   <tr>
     <td>Interview</td>
