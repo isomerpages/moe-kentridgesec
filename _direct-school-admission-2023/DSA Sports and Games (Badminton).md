@@ -112,7 +112,6 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
   </tr>
 </tbody>
 </table>
-
 **Contact Persons**  
 DSA - Sports and Games (Badminton):
 
