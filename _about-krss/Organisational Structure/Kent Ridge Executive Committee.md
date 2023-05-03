@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Organisational Structure
 ---
 ![Kent Ridge Executive Committee](/images/kent-ridge-executive-committee-2-1024x512.jpg)
-<html>
-<head>
+
+
 <style>
 table, th, td {
 border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Designation </th>
     <th style="font-weight:bold; color:#ffffff;width: 500px;">Name of Staff</th>
 		<th style="font-weight:bold; color:#ffffff;width:200px;">Email Address</th>
@@ -186,11 +186,4 @@ border-collapse: collapse;
      <td>Mr Chia Tai-Yu</td>
      <td><a href="mailto:Chia_Tai-Yu@schools.gov.sg">Chia_Tai-Yu@schools.gov.sg</a></td>
   </tr>
-	<tr>
-    <td>Senior Teacher / Science</td>
-     <td>Mr Tan Puay Eng</td>
-     <td><a href="mailto:tan_puay_eng@schools.gov.sg">tan_puay_eng@schools.gov.sg</a></td>
-  </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>

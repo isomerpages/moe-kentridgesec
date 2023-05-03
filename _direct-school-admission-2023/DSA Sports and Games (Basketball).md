@@ -9,11 +9,15 @@ Kent Ridge Secondary School will offer DSA to eligible students via Floorball, B
 
 Basketball is a sport that can be played in indoors and outdoors. Basketball has player positions where all players complement each other to outperform their opponents. It is a fast-paced and exciting game where there are many individual techniques for displaying skills such as ball-handling, shooting, passing, dribbling, shot-blocking and rebounding. All players are required to possess speed, agility, excellent dribbling and shooting skills.
 
-The CCA-Basketball programme has proven to be an effective way to develop our ‘B’ and ‘C’ division players (boys and girls) to become determined, resilient and confident individuals. The provision of opportunities for our players to hone their leadership and game skills further complements the programme to develop 21st century competencies in our players. The Basketball programme also exposes students to different level of challenges and provides guidance from our dedicated, experienced and professional coaches.
+The CCA-Basketball programme has proven to be an effective way to develop our ‘B’ and ‘C’ division players (boys and girls) to become determined, resilient and confident individuals. The provision of opportunities for our players to hone their leadership and game skills further complements the programme to develop 21st&nbsp;century competencies in our players. The Basketball programme also exposes students to different level of challenges and provides guidance from our dedicated, experienced and professional coaches.
 
 **Achievements**
 
 1\. Team
+
+2022
+
+*   National School Games South Zone 'C' Division Boys – Quarter Finalist
 
 2019
 
@@ -22,14 +26,14 @@ The CCA-Basketball programme has proven to be an effective way to develop our �
 2018
 
 *   South Zone 'B' Division Inter-School Basketball Championship (Girls) 2018 – Fairplay Award
-*   ActiveSG-BAS Developmental League (Girls) 2018 – 3rd Runner-Up
-*   Outram Invitational Cup ('C' Division Boys) 2018  – 1st   Runner-Up
+*   ActiveSG-BAS Developmental League (Girls) 2018 – 3rd&nbsp;Runner-Up
+*   Outram Invitational Cup ('C' Division Boys) 2018&nbsp; – 1st&nbsp; &nbsp;Runner-Up
 
 **Training Programmes**
 
 1\. Elementary Training Programme
 
-This programme introduces the students to basic Basketball techniques e.g. principles and skills to dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
+This programme introduces the students to basic Basketball techniques e.g. principles and skills to&nbsp;dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
 
 Additional training sessions are organised in preparation for competitions. Regular friendly matches are also arranged to help our players gain more game experience.
 
@@ -56,24 +60,30 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9fr9{background-color:#FFF;border-color:inherit;color:#808080;text-align:left;vertical-align:top}
 .tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
 .tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
-    <th class="tg-9fr9">Performance Tasks</th>
-    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>2. The Basketball selection trials will consist of the following:<br><br>Physical Assessment<br>Individual Technical Skills Assessment<br>Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">Performance Tasks</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
+2. The Basketball selection trials will consist of the following:<br>
+&nbsp;&nbsp;&nbsp;- Physical Assessment<br>
+&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
+&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>
+3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-lm9i">Interview</td>
-    <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
+   <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>
+2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
-    <td class="tg-xaiy" colspan="2">Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted and/or given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
+		
   </tr>
 </tbody>
 </table>
@@ -84,10 +94,7 @@ DSA - Sports and Games (Basketball):
 Mr Lim Kheng Joo Vincent  
 Email: [lim_kheng_joo_vincent@schools.gov.sg](mailto:lim_kheng_joo_vincent@schools.gov.sg)
 
-SH/PE: Mr Kevin Chow  
-Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
-
-HOD Aesthetics & CCA: Ms Jaime Lim  
+HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
 **School Contact**  

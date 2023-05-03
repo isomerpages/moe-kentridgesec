@@ -7,38 +7,42 @@ Kent Ridge Secondary School will offer DSA to eligible students via Floorball, B
 
 **Background**
 
-KR Badminton is a racquet sport played indoors. Although it may be played with larger teams, the most common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). It is a sport that demands excellent fitness where players require aerobic stamina, agility, strength, speed, and precision. It is also a technical sport, requiring good motor coordination and the development of sophisticated racquet movements
+KR Badminton is a racquet sport played indoors. Although it may be played with larger teams, the most common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). It is a sport that demands excellent fitness where players require&nbsp;aerobic stamina,&nbsp;agility, strength, speed, and precision. It is also a technical sport, requiring good&nbsp;motor coordination&nbsp;and the development of sophisticated racquet movements
 
 Our CCA-Badminton curriculum is designed to nurture our students’ talents and potential to the fullest. This will encourage our students to develop a lifelong interest and passion that will sustain a healthy lifestyle.
 
-Apart from building up the physical fitness, mental fortitude and game skills of our students, the badminton training sessions and co-curricular activities undergirded by the school values, are also good platforms for our students to develop positive character traits which will strengthen their 21st century competency skills and translate into positive attitudes and self-expressions.
+Apart from building up the physical fitness, mental fortitude and game skills of our students, the badminton training sessions and co-curricular activities undergirded by the school values, are also good platforms for our students to develop positive character traits which will strengthen their 21st&nbsp;century competency skills and translate into positive attitudes and self-expressions.
 
 **Latest Achievements**
 
 1\. Team
 
+2022
+
+*   National School Games 'C'(Girls) Division 2022 - Quarter Finalists
+
 2021
 
-*   National School Games "B"(Boys) Division 2021 - Quarter Finalists
+*   National School Games 'B'(Boys) Division 2021 - Quarter Finalists
 
 2020
 
-*   National School Games "B"(Boys) Division 2021 - Quarter Finalists
+*   National School Games 'B'(Boys) Division 2020 - Quarter Finalists
 *   SBA National Ranking System: U17 Girls Double – Ranked 6th
-*   SBA National Ranking System: U17 Boys Double – Ranked 5th to 16th \[4 students\]
+*   SBA National Ranking System: U17 Boys Double – Ranked 5th&nbsp;to 16th&nbsp;\[4 students\]
 
 2019
 
 *   Yonex Cup Carnival (Boys) – 1st Runner-Up (U17)
-*   Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd Runner-Up (U15)
-*   14th Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd Runner-Up & Top 8 (U17)
-*   14th Chinese Swimming Club Age Group (Invitational) Tournament (Girls) – 2nd Runner-Up (U17)
+*   Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd&nbsp;Runner-Up (U15)
+*   14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd&nbsp;Runner-Up &amp; Top 8 (U17)
+*   14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Girls) –&nbsp;2nd&nbsp;Runner-Up (U17)
 
 2\. Individual
 
 2020
 
-*   SBA National Ranking System: U17 Boys Singles – Ranked 20th to 51st \[5 students\]
+*   SBA National Ranking System: U17 Boys Singles – Ranked 20th&nbsp;to 51st&nbsp;\[5 students\]
 
 2019
 
@@ -46,7 +50,7 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 2018
 
-*   Wee Kim Wee Badminton Challenge Trophy (Boys) 2018 – 2nd Runner-Up
+*   Wee Kim Wee Badminton Challenge Trophy (Boys) 2018 –&nbsp;2nd&nbsp;Runner-Up
 
 **Training Programmes**
 
@@ -81,38 +85,40 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-0f7f{color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-xaiy{background-color:#FFF;color:#F00;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Performance Tasks</th>
-    <th class="tg-0lax">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br><br>2. The Badminton selection trials will consist of the following:<br>Physical Assessment<br>Individual Technical Skills Assessment<br>Game Situation Skills Assessment<br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
+    <th class="tg-lm9i">Performance Tasks</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
+2. The Badminton selection trials will consist of the following:<br>
+&nbsp;&nbsp;&nbsp;- Physical Assessment<br>
+&nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
+&nbsp;&nbsp;&nbsp;- Game Situation Skills Assessment<br>
+3. Each applicant will be assessed by a panel of teacher(s) and coach(es) with a set of rubrics. The set of assessment rubrics is the same for all applicants.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Interview</td>
-    <td class="tg-0lax">1. Each applicant will be asked questions related to their experiences in the sport.<br>2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
+    <td class="tg-lm9i">Interview</td>
+   <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>
+2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
-    <td class="tg-0f7f" colspan="2">Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted and/or given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
+		
   </tr>
 </tbody>
 </table>
-
 **Contact Persons**  
 DSA - Sports and Games (Badminton):
 
 Mr Chan Kar Hong  
 Email: [chan_kar_hong@schools.gov.sg](mailto:chan_kar_hong@schools.gov.sg)
 
-SH/PE: Mr Kevin Chow  
-Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
-
-HOD Aesthetics & CCA: Ms Jaime Lim  
+HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
 **School Contact**  

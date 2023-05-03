@@ -87,7 +87,7 @@ third_nav_title: Co Curricular Activities
 </ul>
 </li>
 </ul>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong<br>Mr Tan Puay Eng</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong</p>
 <p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li> 
