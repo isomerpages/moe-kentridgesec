@@ -4,4 +4,4 @@ permalink: /school-information/direct-school-admission-2022/important-dates-to-n
 description: ""
 third_nav_title: Direct School Admission 2023
 ---
-![Important Dates to Note](/images/important%20dates%20dsa%202023.PNG)
+![Important Dates to Note](/images/important%20-dates-dsa-2023.PNG)
