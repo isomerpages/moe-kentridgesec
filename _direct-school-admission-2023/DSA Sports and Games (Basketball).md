@@ -9,7 +9,7 @@ Kent Ridge Secondary School will offer DSA to eligible students via Floorball, B
 
 Basketball is a sport that can be played in indoors and outdoors. Basketball has player positions where all players complement each other to outperform their opponents. It is a fast-paced and exciting game where there are many individual techniques for displaying skills such as ball-handling, shooting, passing, dribbling, shot-blocking and rebounding. All players are required to possess speed, agility, excellent dribbling and shooting skills.
 
-The CCA-Basketball programme has proven to be an effective way to develop our ‘B’ and ‘C’ division players (boys and girls) to become determined, resilient and confident individuals. The provision of opportunities for our players to hone their leadership and game skills further complements the programme to develop 21st century competencies in our players. The Basketball programme also exposes students to different level of challenges and provides guidance from our dedicated, experienced and professional coaches.
+The CCA-Basketball programme has proven to be an effective way to develop our ‘B’ and ‘C’ division players (boys and girls) to become determined, resilient and confident individuals. The provision of opportunities for our players to hone their leadership and game skills further complements the programme to develop 21st&nbsp;century competencies in our players. The Basketball programme also exposes students to different level of challenges and provides guidance from our dedicated, experienced and professional coaches.
 
 **Achievements**
 
@@ -22,14 +22,14 @@ The CCA-Basketball programme has proven to be an effective way to develop our �
 2018
 
 *   South Zone 'B' Division Inter-School Basketball Championship (Girls) 2018 – Fairplay Award
-*   ActiveSG-BAS Developmental League (Girls) 2018 – 3rd Runner-Up
-*   Outram Invitational Cup ('C' Division Boys) 2018  – 1st   Runner-Up
+*   ActiveSG-BAS Developmental League (Girls) 2018 – 3rd&nbsp;Runner-Up
+*   Outram Invitational Cup ('C' Division Boys) 2018&nbsp; – 1st&nbsp; &nbsp;Runner-Up
 
 **Training Programmes**
 
 1\. Elementary Training Programme
 
-This programme introduces the students to basic Basketball techniques e.g. principles and skills to dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
+This programme introduces the students to basic Basketball techniques e.g. principles and skills to&nbsp;dribble, pass, shoot and defend, as well as fitness training to improve stamina and footwork.
 
 Additional training sessions are organised in preparation for competitions. Regular friendly matches are also arranged to help our players gain more game experience.
 
@@ -73,7 +73,7 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
     <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
-    <td class="tg-xaiy" colspan="2">Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted and/or given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
   </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ Email: [lim_kheng_joo_vincent@schools.gov.sg](mailto:lim_kheng_joo_vincent@schoo
 SH/PE: Mr Kevin Chow  
 Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
 
-HOD Aesthetics & CCA: Ms Jaime Lim  
+HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
 **School Contact**  
