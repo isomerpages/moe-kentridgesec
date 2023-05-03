@@ -82,9 +82,6 @@ DSA - Sports and Games (Floorball):
 Mr Jitendra Bhilare  
 Email: [jitendra_khashaba_bhilare@schools.gov.sg](mailto:jitendra_khashaba_bhilare@schools.gov.sg)
 
-SH/PE: Mr Kevin Chow  
-Email: [chow_kok_wei_kevin@schools.gov.sg](mailto:chow_kok_wei_kevin@schools.gov.sg)
-
 HOD Aesthetics &amp; CCA: Ms Jaime Lim  
 Email: [lim_hwee_fung_jaime@schools.gov.sg](mailto:lim_hwee_fung_jaime@schools.gov.sg)
 
