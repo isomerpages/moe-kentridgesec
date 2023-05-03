@@ -35,6 +35,10 @@ The CCA-Floorball programme has proven to be an effective way to help our studen
 
 **Achievements**&nbsp;
 
+2022
+
+*   Sportsmanship Award - National School Games Floorball Championship 2022
+
 2019
 
 *   Girls – 2nd&nbsp;placing for SFA ‘B’ Division Floorball Competition (Plate Category)
