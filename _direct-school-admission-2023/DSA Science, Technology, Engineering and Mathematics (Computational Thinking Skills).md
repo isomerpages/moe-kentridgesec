@@ -43,7 +43,8 @@ Shortlisted DSA applicants will be notified of the date for in-person trial and 
 <tbody>
   <tr>
     <td class="tg-lm9i">Interview</td>
-    <td class="tg-lm9i">Shortlisted applicants will be invited for an in-person interview.<br>The applicants’ suitability and aptitude in computational thinking and ability to communicate their ideas confidently will be assessed by a panel of teachers.</td>
+    <td class="tg-lm9i">1. Shortlisted applicants will be invited for an in-person interview.<br>
+			2. The applicants’ suitability and aptitude in computational thinking and ability to communicate their ideas confidently will be assessed by a panel of teachers.</td>
   </tr>
   <tr>
     <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
