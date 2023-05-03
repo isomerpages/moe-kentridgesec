@@ -91,8 +91,8 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
 <p></p><table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Performance Tasks</th>
-    <th class="tg-0lax">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
+    <th class="tg-lm9i">Performance Tasks</th>
+    <th class="tg-lm9i">1. Shortlisted applicants will be invited for a face-to-face selection trial.<br>
 2. The Badminton selection trials will consist of the following:<br>
 &nbsp;&nbsp;&nbsp;- Physical Assessment<br>
 &nbsp;&nbsp;&nbsp;- Individual Technical Skills Assessment<br>
@@ -102,12 +102,13 @@ Shortlisted DSA applicants will be notified of the date for trial and interview 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Interview</td>
-    <td class="tg-0lax">1. Each applicant will be asked questions related to their experiences in the sport.<br>
+    <td class="tg-lm9i">Interview</td>
+   <td class="tg-lm9i">1. Each applicant will be asked questions related to their experiences in the sport.<br>
 2. The applicant’s suitability and aptitude will be assessed by a panel of teacher(s) and coach(es).</td>
   </tr>
   <tr>
-    <td class="tg-0f7f" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
+    <td class="tg-xaiy" colspan="2">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</td>
+		
   </tr>
 </tbody>
 </table>
