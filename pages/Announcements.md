@@ -3,6 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**School Canteen Advertisement** <br>
+[School Canteen Advertisement](https://www.kentridgesec.moe.edu.sg/school-canteen-advertisement/)<br>
+
 **Direct School Admission 2023** <br>
 [Direct School Admission 2023](https://www.kentridgesec.moe.edu.sg/school-information/direct-school-admission-2023/)<br>
 
