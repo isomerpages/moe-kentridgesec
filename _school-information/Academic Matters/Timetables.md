@@ -4,10 +4,11 @@ permalink: /school-information/academic-matters/timetables/
 description: ""
 third_nav_title: Academic Matters
 ---
-**Class Time-tables (Semester 1, 2023)** <br>
-Updated 16 March 2023
+**Preliminary Examination Timetables (Semester 2, 2023)** <br>
+Updated 25 May 2023
 <br>
-[Secondary 1](/files/2023_Sec%201_Term%202_13%20Mar.pdf)<br>
-[Secondary 2](/files/2023_Sec%202_Term%202_13%20Mar.pdf)<br>
-[Secondary 3](/files/2023_Sec%203_Term%202_13%20Mar.pdf) <br>
-[Secondary 4 &amp; 5](/files/2023_Sec%2045_Term%202_13%20Mar.pdf)
+[Secondary 4NA](/files/4na%20prelim%202023.pdf)
+<br>
+[Secondary 4NT](/files/4nt%20prelim%202023.pdf)
+<br>
+[Secondary 4E &amp; 5N](/files/4e&amp;5n%20prelim%202023.pdf)
