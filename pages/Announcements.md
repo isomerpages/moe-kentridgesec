@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**CCA Schedule** <br>
+Updated 30 May 2023
+<br>
+[June Holidays](/files/cca%20schedule%20-%20june%20holiday%202023.pdf)
+
 **Preliminary Examination Timetables (Semester 2, 2023)** <br>
 Updated 25 May 2023
 <br>
@@ -14,5 +19,3 @@ Updated 25 May 2023
 
 **School Canteen Advertisement** <br>
 [School Canteen Advertisement](https://www.kentridgesec.moe.edu.sg/news-events/school-canteen-advertisement/)<br>
-
-
