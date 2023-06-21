@@ -7,8 +7,10 @@ third_nav_title: Academic Matters
 **Class Time-tables (Semester 2,2023)** <br>
 Updated 21 June 2023
 <br>
-[Secondary 1](/files/sec%201_class%20timetable_sem%202_2023.pdf)<br>
-[Secondary 2](/files/sec%202_class%20timetable_sem%202_2023.pdf)<br>[Secondary 3](/files/sec%203_class%20timetable_sem%202_2023.pdf)<br>[Secondary 4 &amp; 5](/files/sec%204%205_class%20timetable_sem%202_2023.pdf)
+[Secondary 1](/files/2023%20sem%202_class%20timetable_sec%201.pdf)<br>
+[Secondary 2](/files/2023%20sem%202_class%20timetable_sec%202.pdf)<br>
+[Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
+[Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)
 
 **Preliminary Examination Timetables (Semester 2, 2023)** <br>
 Updated 25 May 2023
