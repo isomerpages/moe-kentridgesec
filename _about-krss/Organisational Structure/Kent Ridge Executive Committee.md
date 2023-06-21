@@ -85,11 +85,6 @@ border-collapse: collapse;
      <td>Ms Tan Siew Eng Vivian</td>
      <td><a href="mailto:tan_siew_eng_vivian@schools.gov.sg">tan_siew_eng_vivian@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>HOD / Mother Tongue Languages</td>
-     <td>Mr Lee Fook Yew</td>
-     <td><a href="mailto:lee_fook_yew@schools.gov.sg">lee_fook_yew@schools.gov.sg</a></td>
-  </tr>
 	<tr>
      <td>School Staff Developer</td>
      <td>Mdm Ruby Jayanthi d/o Simmon R E</td>
@@ -175,6 +170,11 @@ border-collapse: collapse;
      <td>Lead Teacher / CCE</td>
      <td>Ms Lim Chye Ling</td>
      <td><a href="mailto:lim_chye_ling@schools.gov.sg">lim_chye_ling@schools.gov.sg</a></td>
+  </tr>
+		 <tr>
+     <td>Senior Teacher / Chinese Language</td>
+     <td>Mr Lee Fook Yew</td>
+   <td><a href="mailto:lee_fook_yew@schools.gov.sg">lee_fook_yew@schools.gov.sg</a></td>
   </tr>
   <tr>
      <td>Senior Teacher / Chinese Language</td>
