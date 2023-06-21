@@ -3,10 +3,13 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**CCA Schedule** <br>
-Updated 30 May 2023
+**Class Time-tables (Semester 2,2023)** <br>
+Updated 21 June 2023
 <br>
-[June Holidays](/files/cca%20schedule%20-%20june%20holiday%202023.pdf)
+[Secondary 1](/files/2023%20sem%202_class%20timetable_sec%201.pdf)<br>
+[Secondary 2](/files/2023%20sem%202_class%20timetable_sec%202.pdf)<br>
+[Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
+[Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)
 
 **Preliminary Examination Timetables (Semester 2, 2023)** <br>
 Updated 25 May 2023
