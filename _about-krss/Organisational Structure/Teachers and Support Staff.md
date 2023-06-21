@@ -84,11 +84,15 @@ table, th, td {
     <td>Ms Siti Fadzilah Binte Subto</td>
     <td><a href="mailto:siti_fadzilah_subto@schools.gov.sg">siti_fadzilah_subto@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>2-1</td>
-    <td>Mr Lim Kheng Joo Vincent</td>
+		<tr>
+    <td rowspan="2">2-1</td>
+  <td>Mr Lim Kheng Joo Vincent</td>
     <td><a href="mailto:lim_kheng_joo_vincent@schools.gov.sg">lim_kheng_joo_vincent@schools.gov.sg</a></td>
   </tr>
+  <tr>
+    <td>Ms Wong Sue Jin</td>
+    <td><a href="mailto:Wong_Sue_Jin@schools.gov.sg">Wong_Sue_Jin@schools.gov.sg</a></td>
+		</tr>
   <tr>
     <td>2-2</td>
     <td>Mr Pek Hwee Lee, Kenneth</td>
