@@ -45,8 +45,8 @@ table, th, td {
    <td><a href="mailto:lai_yanqing_eve@schools.gov.sg">lai_yanqing_eve@schools.gov.sg</a></td>
   </tr>
   <tr>
-   <td>Mrs Teo Wee Leng</td>
-   <td><a href="mailto:ng_wee_leng@schools.gov.sg">ng_wee_leng@schools.gov.sg</a></td>
+   <td>Mr Smithy Methias @ Yusoef Adam</td>
+   <td><a href="mailto:smithy_methiasyusoef_adam@schools.gov.sg">smithy_methiasyusoef_adam@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">1-4</td>
@@ -226,11 +226,13 @@ table, th, td {
     <td><a href="mailto:tay_kok_liang@schools.gov.sg">tay_kok_liang@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>4N3</td>
+   <td rowspan="2">4N3</td>
     <td>Mrs Roszana Teo</td>
     <td><a href="mailto:chu_ying_sin_roszana@schools.gov.sg">chu_ying_sin_roszana@schools.gov.sg</a></td>
   </tr>
-  <tr>
+		 <tr><td>Mr Lee Fook Yew</td>
+    <td><a href="mailto:lee_fook_yew@schools.gov.sg">lee_fook_yew@schools.gov.sg</a></td>
+  </tr><tr>
    <td>4E4</td>
     <td>Mr Hong Thin Yong</td>
     <td><a href="mailto:hong_thin_yong@schools.gov.sg">hong_thin_yong@schools.gov.sg</a></td>
