@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**Class Time-tables (Semester 2,2023)** <br>
+**Class Time-tables (Semester 2, 2023)** <br>
 Updated 21 June 2023
 <br>
 [Secondary 1](/files/2023%20sem%202_class%20timetable_sec%201.pdf)<br>
