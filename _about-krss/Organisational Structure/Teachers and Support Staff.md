@@ -194,13 +194,9 @@ table, th, td {
     <td><a href="mailto: seto_yi_kang_marcus@schools.gov.sg"> seto_yi_kang_marcus@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">3E6</td>
+    <td>3E6</td>
    <td>Ms Hafizah Beevi Abdul Hamid</td>
     <td><a href="mailto:hafizah_beevi_abdul_hamid@schools.gov.sg">hafizah_beevi_abdul_hamid@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-   <td>Mr Tan Puay Eng</td>
-   <td><a href="mailto:tan_puay_eng@schools.gov.sg">tan_puay_eng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">3E7</td>
