@@ -18,7 +18,7 @@ third_nav_title: Co Curricular Activities
 <li>U17 Boys Singles (5 students ranked 20th&nbsp;to 51st)</li>
 </ul>
 <p>3. Yonex Cup Carnival (Boys) – 1st&nbsp;Runner-Up (U17)<br>4. Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd&nbsp;Runner-Up (U15)<br>5. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd&nbsp;Runner-Up &amp;&nbsp;Quarter-finalist (U17)<br>6. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Girls) – 2nd&nbsp;Runner-Up (U17)</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mdm Yu Xiaoyan<br>Ms Foo Shuan Chou</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mr Lee Fook Yew<br>Ms Foo Shuan Chou</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -47,7 +47,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1530 - 1800 HRS ('C' DIVISION)<br>MONDAY &amp; WEDNESDAY: 1530 - 1800 HRS ('B' DIVISION)</p>
 <p>The Kent Ridge Football Team takes part in training sessions and tournaments regularly, from which they learn valuable lessons in discipline, commitment and teamwork. As a result, many of the players have moved on to compete at the Singapore League as well as in the National level. In addition, these boys are committed to serving the society and caring for the less fortunate through various Community Involvement Projects. The Football Team has consistently achieved top placings in the South Zone Football Championship since 2006.</p>
 <p><strong><em>Achievements</em></strong><br>2017 – South Zone Inter-School Soccer Championship 'B' Division (Champion)</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Rishabh<br>Mr Mohd Helmy<br>Mr Chia Tai-Yu</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Rishabh<br>Mr Mohd Helmy<br>Mr Chia Tai-Yu<br>Mr Smithy Methias @ Yusoef Adam</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
