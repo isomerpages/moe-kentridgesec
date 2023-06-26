@@ -18,7 +18,7 @@ third_nav_title: Co Curricular Activities
 <li>U17 Boys Singles (5 students ranked 20th&nbsp;to 51st)</li>
 </ul>
 <p>3. Yonex Cup Carnival (Boys) – 1st&nbsp;Runner-Up (U17)<br>4. Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd&nbsp;Runner-Up (U15)<br>5. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd&nbsp;Runner-Up &amp;&nbsp;Quarter-finalist (U17)<br>6. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Girls) – 2nd&nbsp;Runner-Up (U17)</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mdm Yu Xiaoyan<br>Ms Foo Shuan Chou</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mr Lee Fook Yew<br>Ms Foo Shuan Chou</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
