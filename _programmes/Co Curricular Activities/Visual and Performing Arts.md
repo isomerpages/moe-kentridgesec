@@ -27,7 +27,7 @@ third_nav_title: Co Curricular Activities
 <p> <img src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg" alt="Singapore Youth Festival 2021"></p>
 <p>Serenading the school during school events like CCA Fair and Awards Day cum National Day Celebration, members of the Band have multiple chances to perform for the school. Through this CCA, members become more musically inclined, while learning to cherish the bonds of friendships built during their journey with the Band. Come join us and be a part of “One Band, One Sound”!</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Lam Yao Lun<br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka<br>Ms Kang Yue</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Lam Yao Lun<br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka</p>
 <p><img src="/images/concert%20band.png" alt="Concert Band"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -38,7 +38,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and enthusiastic team of students, teachers and instructors. Our programme’s objectives are to create a conducive, safe and collaborative environment for students to appreciate and explore a variety of dance genres consisting mainly of contemporary and jazz along with hip-hop, ballroom and ballet. To develop their confidence and stage presence, students are exposed to school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as external platforms like the Singapore Youth Festival Arts Presentation, Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the scenes, the dancers build their skills through holiday workshops and inter-school exchanges. We welcome you to the Modern Dance Club, a family that braves challenges together and where everyone is allowed to grow at their own pace.</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment<br>2019 - SYF Arts Presentation – Certificate of Accomplishment<br>2017 - SYF Arts Presentation – Certificate of Accomplishment<br>2015 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Kalpana<br>Ms Arfah Lubis<br>Ms Hong Yunfang<br>Ms Chua Arielle Elise</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Kalpana<br>Ms Arfah Lubis<br>Ms Hong Yunfang</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
