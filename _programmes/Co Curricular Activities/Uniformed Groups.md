@@ -12,7 +12,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 <p>The 74th Boys' Brigade Company started in 2000 with seven boys and now stands at about 35 members strong. Our programme is run with the help of Volunteer Adult Officers. We have a wide range of activities such as character and leadership development, drills, Lifeskills, first aid, kayaking, rock wall climbing, archery, cycling and yearly camps that help our boys learn values to develop a character of Obedience, Discipline, Self-Respect, Integrity and Humility. They can attain the rank of Staff Sergeant by Sec 4 or Sec 5 in their leadership journey, with numerous leadership opportunities for the Boys. The Boys form a close sense of camaraderie and a bond of brotherhood during their time in the company. We aim to be the Uniformed Group of choice in Kent Ridge Secondary School. Over the years, the Boys have grown in maturity and character and two of them were recently the valedictorians of the Secondary 4N and 5N streams in 2020.</p>
 <p><strong><em>Achievements</em></strong><br>2021 - Unit Overall Proficiency Award&nbsp; - Bronze<br>2019 - Best Unit Competition - Bronze<br>2019 - Character Quest - Silver<br>2017 - Character Quest - Silver<br>2016 - BB Blaze - Silver<br>2015 - Unit Overall Profiency Award – Silver</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Jeffery Chen<br>Mrs Teo Wee Leng</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Jeffery Chen<br>Mrs Teo Wee Leng<br>Ms Meena</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -46,7 +46,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Secondary School's National Police Cadet Core (NPCC) develops our students to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe. NPCC aims to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world. Our programmes and activities are designed to develop leaders with good character and values, to build bonds with the Singpaore Police Force, and to show care and concern to those who are in need. We want our cadets to be resilient and to be able to face challenges and turn them to opportunities while striving for excellence. NPCC cadets discover themselves by stepping out and interacting with others in their lower secondary years. The cadets progress to have experiences of being leaders as they take charge of their juniors and events, with the ultimate goal of leading the Unit.</p>
 <p><strong><em>Achievements</em></strong><br>2022 - Unit Overall Proficiency Award - Participation<br>2021 - Unit Overall Proficiency Award - Gold<br>2019 - Unit Overall Proficiency Award - Silver<br>2018 - Unit Overall Proficiency Award - Silver<br>2017 - Unit Overall Proficiency Award - Silver<br>2016 - Unit Overall Proficiency Award - Silver<br>2015 - Unit Overall Proficiency Award - Bronze</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin<br>Ms Vivien Tan</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin<br>Ms Vivien Tan<br>Mr Ng Chen Jun Eugene</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 </ul>
