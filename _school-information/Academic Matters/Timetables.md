@@ -13,10 +13,10 @@ Updated 21 June 2023
 [Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)
 
 **Preliminary Examination Timetables (Semester 2, 2023)** <br>
-Updated 25 May 2023
+Updated 27 June 2023
 <br>
 [Secondary 4NA](/files/4na%20prelim%202023.pdf)
 <br>
 [Secondary 4NT](/files/4nt%20prelim%202023.pdf)
 <br>
-[Secondary 4E &amp; 5N](/files/4e&amp;5n%20prelim%202023.pdf)
+[Secondary 4E &amp; 5N](/files/4e5nprelim_time_table_2023_v5.pdf)
