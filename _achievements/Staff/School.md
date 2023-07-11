@@ -13,10 +13,10 @@ Are presented to staff members who exemplify the school values of FITNESS, INTEG
 Is presented to a staff member who is resilient and cares for his personal well-being and professional development.
 
 **Ms Jaime Lim** <br>
-Ms Lim shows resilience in the way she has attended to all her roles and responsibilities, in staff development and management, student development, programme planning and execution, to name a few. And she would continue to seek development in music, not forgetting her attention to her fitness, health & family time too.
+Ms Lim shows resilience in the way she has attended to all her roles and responsibilities, in staff development and management, student development, programme planning and execution, to name a few. And she would continue to seek development in music, not forgetting her attention to her fitness, health &amp; family time too.
 
 **Mr Ramish Goby** <br>
-Mr Ramish has been walking  consistently and takes care of his health. He has won top 3 for the school walk challenges. He will always come into class feeling very enthusiastic to start lessons. He encourages his students and always believe in his students.
+Mr Ramish has been walking&nbsp; consistently and takes care of his health. He has won top 3 for the school walk challenges. He will always come into class feeling very enthusiastic to start lessons. He encourages his students and always believe in his students.
 
 **Mr Tay Kok Liang** <br>
 Mr Tay embraces a healthy lifestyles and strive for excellence. He helps others and many students like him as well. He always tries his best and never gives up.
@@ -52,7 +52,7 @@ Ms Tan supports the sec 3 FTs well and does her best to mentor them and coach th
 Is presented to a staff member who is a role model, motivates others to do their best and nurtures in them a spirit of innovation.
 
 **Ms Chong Yoke Khee** <br>
-As the leader of Staff Development Committee, she tries out new and innovative pedagogies. She is creative & is not afraid to explore different ways to help her students learn. What is heartening is that she tries out various processes & practices before encouraging other teachers to try. She is always able to speak with clarity & thoughtfulness which aid those who are working with her.
+As the leader of Staff Development Committee, she tries out new and innovative pedagogies. She is creative &amp; is not afraid to explore different ways to help her students learn. What is heartening is that she tries out various processes &amp; practices before encouraging other teachers to try. She is always able to speak with clarity &amp; thoughtfulness which aid those who are working with her.
 
 **Mdm G Vasaki** <br>
 Mdm Vasaki learns in her own quiet and sure ways. She is prompt, humble and will constantly seek improvement. She injects laughter or a nice collegial thought - and she does it in a way that motivates others. She is innovative in her own way.
@@ -83,14 +83,14 @@ Mr Rishabh is a patient, kind, caring and a great teacher. He has always encoura
 **The Passion of an Inventor VISION Award** <br>
 Is presented to a teaching staff member who is a critical thinker and a problem solver; is confident and clear in all dealings; strives to be a life-long learner.
 
-**Mr Jeffery Chen** <br>
-Mr Chen is a kind and caring teacher and his kindness has impacted and motivated me to do better in my studies. He will make the lesson fun and lively. He will use fun methods to make us learn the topics faster.
+**Mr Jeffrey Chen** <br>
+Mr Chen is a kind and caring teacher and his kindness has impacted and motivated me to do better in my studies.&nbsp;He will make the lesson fun and lively. He will use fun methods to make us learn the topics faster.
 
 **Mr Lim Er Song** <br>
 Mr Lim is very passionate about Math. He uses many different ways of teaching to engage the students and it makes the subject more interesting and fun.
 
 **Mdm Ow Suek Yin** <br>
-Mdm Ow shows genuine concern for students who may be troubled or at-risk, she proactively looks out for them. She  works alongside the school to provide the necessary support for students with needs. She is always approachable, always ready to offer advice and dependable.
+Mdm Ow shows genuine concern for students who may be troubled or at-risk, she proactively looks out for them. She&nbsp; works alongside the school to provide the necessary support for students with needs. She is always approachable, always ready to offer advice and dependable.
 
  
 
@@ -104,4 +104,4 @@ Mr Chew is a person who looks for excellence in people's works and efforts, and 
 Mr Chow is a very encouraging teacher, he encourages us to try during our PE lessons and praises us when we are able to do something challenging. He is resilient, passionate, and determined.
 
 **Ms Tan Peck Joon** <br>
-Ms Tan is very caring towards her students. She has a positive attitude and is always ready to contribute.  She is a nurturing teacher who cares for students and who tries out different innovative teaching tools to support the student’s teaching and learning.
+Ms Tan is very caring towards her students. She has a positive attitude and is always ready to contribute.&nbsp; She is a nurturing teacher who cares for students and who tries out different innovative teaching tools to support the student’s teaching and learning.

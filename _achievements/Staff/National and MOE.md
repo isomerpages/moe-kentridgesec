@@ -6,14 +6,14 @@ third_nav_title: Staff
 ---
 **MOE Service Excellence Award 2022 (Plantinum)**
 
-*   Ms Nur Delis Sulastra Binte Rasid
+*   Ms&nbsp;Nur Delis Sulastra Binte Rasid
 
 **MOE Service Excellence Award 2022 (Gold)**
 
 *   Ms Hafizah Beevi Binte Abdul Hamid
-*   Mrs Tan Jiayi
+*   Mrs&nbsp;Tan Jiayi
 
-**MOE Service Excellence Award 2022 (Sliver)**
+**MOE Service Excellence Award 2022 (Silver)**
 
 *   Mr Chan Yew Fei Samuel
 *   Mr Chandra S/O Karumanan
@@ -40,11 +40,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/PAT-20201.png" alt="Mr Vincent Heng Swee Chye" style="width:80%;">  
+<img src="/images/PAT-20201.png" alt="Mr Vincent Heng Swee Chye" style="width:80%;">  
   
-</body>
 
-The President’s Award for Teachers (PAT) recognises excellent educators for their role in moulding the future of our nation. In recognition of his inspiration to his students and peers, Mr Vincent Heng was a finalist of the PAT 2020. He is a caring educator and is committed to developing his students to the fullest potential. Mr Heng started his journey in Kent Ridge in 2005. He believes in developing the leadership potential in his students and started the Sports Leadership Programme, Kent Ridge Olympics and Vivace! Mr Heng is a firm believer of discipline but does not believe in meting out punishments. He believes in turning moments of wrong-doing into opportunities to explain what went wrong and to provide students with better routines to follow. Mr Heng holds the idea of ‘caring is discipline’ close to his heart. He takes every opportunity available to inculcate the right values in students. Mr Heng heads the Department of PE & CCA. Educators like him constantly adopt innovative approaches in their lessons, and are lifelong learners and mentors to their peers. Through their words and deeds, these educators are an inspiration to their students and colleagues.
+
+The President’s Award for Teachers (PAT) recognises excellent educators for their role in moulding the future of our nation. In recognition of his inspiration to his students and peers, Mr Vincent Heng was a finalist of the PAT 2020. He is a caring educator and is committed to developing his students to the fullest potential. Mr Heng started his journey in Kent Ridge in 2005. He believes in developing the leadership potential in his students and started the Sports Leadership Programme, Kent Ridge Olympics and Vivace! Mr Heng is a firm believer of discipline but does not believe in meting out punishments. He believes in turning moments of wrong-doing into opportunities to explain what went wrong and to provide students with better routines to follow. Mr Heng holds the idea of ‘caring is discipline’ close to his heart. He takes every opportunity available to inculcate the right values in students. Mr Heng heads the Department of PE &amp; CCA. Educators like him constantly adopt innovative approaches in their lessons, and are lifelong learners and mentors to their peers. Through their words and deeds, these educators are an inspiration to their students and colleagues.
 
 **Caring Teacher Awards (School Level)**
 
@@ -57,7 +57,7 @@ The President’s Award for Teachers (PAT) recognises excellent educators for th
 **MOE Service Excellence Award 2014  
 Mr Liew Seng Mun (Admin Manager 1)**
 
-Mr Liew Seng Mun, Administration Manager 1, received the MSEA 2014 which recognises deserving MOE staff as one of MOE’s service role models who demonstrate performance and personal attributes which directly amplify service excellence, aligned with the Service Principles in the Framework for Public Service Delivery  - public service of people centricity, mutual courtesy and respect and shared responsibility for the public good.
+Mr Liew Seng Mun, Administration Manager 1, received the MSEA 2014 which recognises deserving MOE staff as one of MOE’s service role models who demonstrate performance and personal attributes which directly amplify service excellence, aligned with the Service Principles in the Framework for Public Service Delivery&nbsp; - public service of people centricity, mutual courtesy and respect and shared responsibility for the public good.
 
 Mr Liew has an outstanding record of offering consistent and excellent service to students, staff and parents and partners. As the proponent of creative and innovative practices, he supports the Key Personnel in his efforts in highlighting opportunities to showcase their departments’ and even students’ innovations. Mr Liew is always available to support Form Teachers and advise parents on the various financial support schemes available. His willingness to help his fellow colleagues, his responsible attitude, in particular his commitment to the vision and mission of Kent Ridge Secondary School are commendable. He is a good role model of professionalism and definitely has great influence towards improving the school culture of service excellence.
 
