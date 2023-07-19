@@ -44,11 +44,13 @@ Each year, the PSG committee plans activities for parents, students and teachers
 
 II.	Their areas of involvement include reaching out to the community through Values-In-Action (VIA) projects, as well as supporting the school at the Kent Ridge Olympics (KRO), Experiential week, Sec 4/5 Self-Study Programme and Graduation Ceremony.
 
-![KRO2023_PSG](/images/kro%202023_psg.jpg)![KRO2023_PSG1](/images/kro%202023_psg_1.jpg)
+<img src="/images/kro%202023_psg.jpg" alt="KRO_PSG" style="width:80%;">
+<br>
+<img src="/images/kro%202023_psg_1.jpg" alt="KRO_PSG1" style="width:80%;">
 
 <p style="text-align:center;"><em><strong>PSG team to support our students and also battling, with the teachers, against students in a friendly game of Captain’s Ball in KRO 2023!</strong></em></p><strong>
+<img src="/images/psg_cny.jpg" alt="PSG_CNY" style="width:80%;">
 
-![PSG_CNY](/images/psg_cny.jpg)
 <p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong>&nbsp;– Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
 
 <style>
@@ -93,9 +95,10 @@ img {
 
 **Signing Up As A PV**
 
-Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup) .
-![PSG_Signup](/images/psg_qr%20code.png)
+Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup)
 
+<img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:80%;">
+	<br>
 Some frequently asked questions (FAQ):
 
 Q1: Do I have to commit a certain amount of time to be a PV, as I am working full-time?  
