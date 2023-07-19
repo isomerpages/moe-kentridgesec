@@ -176,6 +176,30 @@ third_nav_title: Students
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-lm9i">National School Games Basketball – ‘C’ Division Boys</td>
+    <td class="tg-lm9i">Quarter Finalist</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National School Games Badminton – ‘B’ Division Girls</td>
+    <td class="tg-lm9i">Quarter Finalist</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National School Games Badminton – ‘C’ Division Boys</td>
+    <td class="tg-lm9i">Quarter Finalist</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National School Games Taekwondo Championship 2023 (Kyorugi) – ‘B’ Division Male Black Belt Under 68 kg</td>
+    <td class="tg-lm9i">Bronze</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">‘B’ Division Tchoukball Competition by Tchoukball Association of Singapore</td>
+    <td class="tg-lm9i">2nd Runner Up</td>
+  </tr>
+	 <tr>
+    <td class="tg-lm9i">Singapore Lion City Woodball Open Championship 2022</td>
+    <td class="tg-lm9i">1st, 2nd, 3rd, 4th – Youth-Men Category<br>2nd, 3rd – Youth-Ladies Category</td>
+  </tr>
   <tr>
     <td class="tg-lm9i">National B’ Division Plate and Bowl Competition 2019</td>
     <td class="tg-lm9i">Sliver</td>
