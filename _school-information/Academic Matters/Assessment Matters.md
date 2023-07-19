@@ -8,17 +8,17 @@ third_nav_title: Academic Matters
 
 **NORMAL TECHNICAL**
 
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Level</th>
 		<th style="font-weight:bold; color:#ffffff;  width: 600px;">Minimum Attainment Level</th>
   </tr>
@@ -38,22 +38,22 @@ table, th, td {
     <td class="tg-lm9i">Sec 4 N(T) to Sec 4 N(A)</td>
     <td class="tg-lm9i">A mean grade of 2 or better for all N(T) subjects in the GCE N(T)-Level Examination</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 
 **NORMAL ACADEMIC**
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Level</th>
 		<th style="font-weight:bold; color:#ffffff;  width: 600px;">Minimum Attainment Level</th>
   </tr>
@@ -73,22 +73,22 @@ table, th, td {
     <td>Sec 4 N(A) to Sec 5 N(A)</td>
     <td>Grade 5 or better in EL<br>Aggregate score of EL, Mathematics and 3 other best subjects at GCE N-Level Examination less than or equal to 19 points</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 
 **EXPRESS**
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Level</th>
 		<th style="font-weight:bold; color:#ffffff;  width: 600px;">Minimum Attainment Level</th>
   </tr>
@@ -104,29 +104,29 @@ table, th, td {
     <td>Sec 3E</td>
     <td>Grade 6 or better in EL and 2 other subjects</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 
 **School Assessment** <br>
 School-based assessment includes the following:
 
 *   Weighted Assessment (WA) e.g. class tests, projects, assignments
-*   Semestral Examinations e.g. Mid-Year Examination (MYE) and End-of-Year Examination (EYE)
+*   Semestral Examinations e.g. End-of-Year Examination (EYE)
 
 The following table shows the computation of marks for most subjects in the Express, Normal (Academic) and Normal (Technical) streams.
 
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Term</th>
 		<th style="font-weight:bold; color:#ffffff;  width: 400px;">Assessment</th>
 		<th style="font-weight:bold;color:#ffffff;width: 300px;">Secondary 1 to 3</th>
@@ -151,6 +151,4 @@ table, th, td {
     <td>EYE</td>
     <td>55%</td>
   </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
