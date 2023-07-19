@@ -44,44 +44,12 @@ Each year, the PSG committee plans activities for parents, students and teachers
 
 II.	Their areas of involvement include reaching out to the community through Values-In-Action (VIA) projects, as well as supporting the school at the Kent Ridge Olympics (KRO), Experiential week, Sec 4/5 Self-Study Programme and Graduation Ceremony.
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+![KRO2023_PSG](/images/kro%202023_psg.jpg)![KRO2023_PSG1](/images/kro%202023_psg_1.jpg)
 
+<p style="text-align:center;"><em><strong>PSG team to support our students and also battling, with the teachers, against students in a friendly game of Captain’s Ball in KRO 2023!</strong></em></p><strong>
 
-<img src="/images/kro%20psg.png" alt="Kent Ridge Olympics (KRO)" style="width:90%;">
-<p style="text-align:center;"><em><strong>Kent Ridge Olympics (KRO)</strong>&nbsp;– PSG team out in full force to support our students and also battling it out with the teachers in a friendly game of Captain’s Ball in KRO 2019!</em></p>
-
-
-
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-
-<img src="/images/cny%20psg.png" alt="Chinese New Year Celebrations" style="width:90%;">
+![PSG_CNY](/images/psg_cny.jpg)
 <p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong>&nbsp;– Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
-
-
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<img src="/images/rhd%20psg.png" alt="Racial Harmony Day" style="width:90%;">
-<p style="text-align:center;"><em><strong>Racial Harmony Day</strong>&nbsp;– Celebrating Racial Harmony Day where the PSG team dress up and prepare food from our various cultures in Singapore for our students</em></p>
-
 
 <style>
 img {
@@ -95,7 +63,6 @@ img {
 <p style="text-align:center;"><em><strong>Careers’ Talk</strong></em>&nbsp;- Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students</p>
 
 
-
 <style>  
 img {  
   display: block;  
@@ -105,8 +72,6 @@ img {
 </style>  
 <img src="/images/PSG-9.jpg" alt="We Want You!" style="width:35%;">  
   
-
-
 
 **Parent Volunteers**
 
@@ -126,32 +91,10 @@ img {
 <p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong>&nbsp;– The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
 
 
-
-
 **Signing Up As A PV**
 
-Typically, PVs sign up to join the PSG during the Secondary 1 Orientation. However, with the current COVID-19 situation, parents/guardians are encouraged to register digitally for their interest to join the PSG as a PV at the following link:&nbsp;[PSG PV Registration Form](https://forms.gle/c8N2Xtr9zU8C4BNe8)
-
-**KR20-20 Limited Edition Commemorative Mask**
-
-**About the Masks**
-
-Presenting the KR20-20 Limited Edition Commemorative Mask which was launched in conjunction with the school’s 20th Anniversary Celebration. These Limited Edition masks feature the design of the school’s official 20th Anniversary logo and are available in white and black.&nbsp;Contact us for more information if you are interested to own a piece of the history of Kent Ridge Secondary School.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/About%20the%20Masks.png" alt="About the Masks" style="width:80%;">  
-  
-
-
-Please click the following link to place orders for the KR20-20 Limited Edition Commemorative Mask
-
-[**https://tinyurl.com/Krssmaskorder**](https://tinyurl.com/Krssmaskorder)
+Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup) .
+![PSG_Signup](/images/psg_qr%20code.png)
 
 Some frequently asked questions (FAQ):
 
@@ -170,4 +113,4 @@ Instagram:&nbsp;[@krsspsgevents](https://www.instagram.com/krsspsgevents/)
 
 Facebook:&nbsp;[Kent Ridge Secondary School – Parent Support Group](https://www.facebook.com/krss.psg.sg/)
 
-Email:&nbsp;[psgkrss@gmail.com](mailto:psgkrss@gmail.com)
+Email:&nbsp;[psgkrss@gmail.com](mailto:psgkrss@gmail.com)</strong>
