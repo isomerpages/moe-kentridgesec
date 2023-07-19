@@ -89,7 +89,7 @@ img {
 </style>
 
 
-<img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:90%;">
+<img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:70%;">
 <p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong>&nbsp;– The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
 
 
