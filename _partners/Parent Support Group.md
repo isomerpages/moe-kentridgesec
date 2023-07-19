@@ -61,7 +61,7 @@ img {
 }
 </style>
 
-<img src="/images/Careers’%20Talk%20psg.jpg" alt="Careers’ Talk" style="width:90%;">
+<img src="/images/Careers’%20Talk%20psg.jpg" alt="Careers’ Talk" style="width:80%;">
 <p style="text-align:center;"><em><strong>Careers’ Talk</strong></em>&nbsp;- Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students</p>
 
 
@@ -97,7 +97,7 @@ img {
 
 Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup)
 
-<img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:80%;">
+<img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:60%;">
 	<br>
 Some frequently asked questions (FAQ):
 
