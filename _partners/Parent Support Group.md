@@ -89,7 +89,7 @@ img {
 
 **Signing Up As A PV**
 <br>
-Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](www.go.gov.sg/krsspsgsignup)
+Change to Parents who are interested to join the PSG as PV can register via the following link: go.gov.sg/krsspsgsignup
 
 <img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:50%;">
 	<br>
