@@ -7,7 +7,7 @@ description: ""
 The Kent Ridge Secondary School Parent Support Group (PSG) was started in January 2004 to partner parents in the organisation of school programmes and activities as they offer their expertise and resources to support the holistic development of our students.
 
 **PSG Objectives**
-1.  To be partners in education with the school to enhance the holistic development of our children.
+1. To be partners in education with the school to enhance the holistic development of our children.
 2.  To tap on the expertise and resources of parents to assist in organizing/supporting school programmes and activities.
 
 **PSG LOGO**
@@ -89,7 +89,7 @@ img {
 
 **Signing Up As A PV**
 <br>
-Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](www.go.gov.sg/krsspsgsignup)
+Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](http://www.go.gov.sg/krsspsgsignup)
 
 <img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:50%;">
 	<br>
