@@ -71,7 +71,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/PSG-9.jpg" alt="We Want You!" style="width:35%;">  
+<img src="/images/PSG-9.jpg" alt="We Want You!" style="width:25%;">  
   
 
 **Parent Volunteers**
@@ -87,7 +87,6 @@ img {
 }
 </style>
 
-
 <img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:70%;">
 <p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong>&nbsp;– The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
 
@@ -96,7 +95,7 @@ img {
 
 Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup)
 
-<img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:60%;">
+<img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:50%;">
 	<br>
 Some frequently asked questions (FAQ):
 
