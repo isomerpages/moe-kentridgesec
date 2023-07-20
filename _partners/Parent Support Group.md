@@ -48,7 +48,7 @@ II.	Their areas of involvement include reaching out to the community through Val
 <br>
 <img src="/images/kro%202023_psg_1.jpg" alt="KRO_PSG1" style="width:80%;">
 
-<p style="text-align:center;"><em><strong>PSG team to support our students and also battling, with the teachers, against students in a friendly game of Captain’s Ball in KRO 2023!</strong></em></p><strong>
+<p style="text-align:center;"><em><strong>PSG team to support our students and also battling, with the teachers, against students in a friendly game of Captain’s Ball in KRO 2023!</strong></em></p>
 <img src="/images/psg_cny.jpg" alt="PSG_CNY" style="width:80%;">
 
 <p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong>&nbsp;– Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
@@ -112,4 +112,8 @@ A3: Perhaps it is more likely that you will have better access to resources from
 
 Follow us on our social media for more updates on our events and activities:
 
-</strong>
+Instagram:&nbsp;[@krsspsgevents](https://www.instagram.com/krsspsgevents/)
+
+Facebook:&nbsp;[Kent Ridge Secondary School – Parent Support Group](https://www.facebook.com/krss.psg.sg/)
+
+Email:&nbsp;[psgkrss@gmail.com](mailto:psgkrss@gmail.com)
