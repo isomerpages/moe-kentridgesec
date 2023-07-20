@@ -3,12 +3,10 @@ title: Parent Support Group
 permalink: /partners/parent-support-group/
 description: ""
 ---
-**Overview**
-
+**Overview**<br>
 The Kent Ridge Secondary School Parent Support Group (PSG) was started in January 2004 to partner parents in the organisation of school programmes and activities as they offer their expertise and resources to support the holistic development of our students.
 
 **PSG Objectives**
-
 1.  To be partners in education with the school to enhance the holistic development of our children.
 2.  To tap on the expertise and resources of parents to assist in organizing/supporting school programmes and activities.
 
@@ -26,19 +24,19 @@ img {
 
 
 The circle represents our school working as a family. Circle represents Family and School
-
+<br>
 The image of the people represents our efforts to work as a community.
-
+<br>
 The yellow flame represents our passion, enthusiasm and perseverance.
-
+<br>
 The 3 red hearts represent our stakeholders – namely parents, teachers and students.
 
 **THE PSG EXCO**
-
+<br>
 The PSG Exco team meets regularly with the school to plan information and activities which involve the PSG, which would then be shared amongst PSG members.
 
 **PSG Activities**
-
+<br>
 Each year, the PSG committee plans activities for parents, students and teachers to complement the school’s curriculum so as to enrich the student’s school life and build stronger bonds and partnership between teachers and parents.
 
 II.	Their areas of involvement include reaching out to the community through Values-In-Action (VIA) projects, as well as supporting the school at the Kent Ridge Olympics (KRO), Experiential week, Sec 4/5 Self-Study Programme and Graduation Ceremony.
@@ -63,7 +61,6 @@ img {
 <img src="/images/Careers’%20Talk%20psg.jpg" alt="Careers’ Talk" style="width:80%;">
 <p style="text-align:center;"><em><strong>Careers’ Talk</strong></em>&nbsp;- Tapping on the diverse background of the PSG, parent volunteers share some of their work experiences and advice to our students</p>
 
-
 <style>  
 img {  
   display: block;  
@@ -75,9 +72,8 @@ img {
   
 
 **Parent Volunteers**
-
+<br>
 The PSG relies on the team of Parent Volunteers (PV) to help organise and participate in many of our activities. Coming from various backgrounds, the skills and resources available from our PVs help in many ways, from sourcing for items required to run events to simply volunteering time and effort to participate in activities. Registered PVs are regularly updated on current and upcoming activities in the school. As a KRSS family, we also support each other by sharing information and advice.
-
 
 <style>
 img {
@@ -92,7 +88,7 @@ img {
 
 
 **Signing Up As A PV**
-
+<br>
 Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup)
 
 <img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:50%;">
@@ -109,9 +105,9 @@ Q3: Does joining the PSG as a PV mean that I will have better access to the scho
 A3: Perhaps it is more likely that you will have better access to resources from your peers, some of whom may have more experience as a parent/guardian in the school having had children enrolled before. As a PSG family, we can help to guide you to the appropriate channel to help address some of your queries or concerns related to the school matters.
 
 Follow us on our social media for more updates on our events and activities:
-
+<br>
 Instagram:&nbsp;[@krsspsgevents](https://www.instagram.com/krsspsgevents/)
-
+<br>
 Facebook:&nbsp;[Kent Ridge Secondary School – Parent Support Group](https://www.facebook.com/krss.psg.sg/)
-
+<br>
 Email:&nbsp;[psgkrss@gmail.com](mailto:psgkrss@gmail.com)
