@@ -20,7 +20,7 @@ img {
 }
 </style>
 
-<img src="/images/psg3.jpg" alt="PSG LOGO" style="width:35%;">
+<img src="/images/psg3.jpg" alt="PSG LOGO" style="width:30%;">
 
 
 The circle represents our school working as a family. Circle represents Family and School
@@ -89,7 +89,7 @@ img {
 
 **Signing Up As A PV**
 <br>
-Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](go.gov.sg/krsspsgsignup)
+Change to Parents who are interested to join the PSG as PV can register via the following link: [go.gov.sg/krsspsgsignup](www.go.gov.sg/krsspsgsignup)
 
 <img src="/images/psg_qr%20code.png" alt="PSG_SIGNUP" style="width:50%;">
 	<br>
