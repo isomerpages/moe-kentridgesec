@@ -112,8 +112,4 @@ A3: Perhaps it is more likely that you will have better access to resources from
 
 Follow us on our social media for more updates on our events and activities:
 
-Instagram:&nbsp;[@krsspsgevents](https://www.instagram.com/krsspsgevents/)
-
-Facebook:&nbsp;[Kent Ridge Secondary School – Parent Support Group](https://www.facebook.com/krss.psg.sg/)
-
-Email:&nbsp;[psgkrss@gmail.com](mailto:psgkrss@gmail.com)</strong>
+</strong>
