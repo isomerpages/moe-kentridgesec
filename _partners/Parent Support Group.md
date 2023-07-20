@@ -14,7 +14,6 @@ The Kent Ridge Secondary School Parent Support Group (PSG) was started in Januar
 
 **PSG LOGO**
 
-
 <style>
 img {
   display: block;
