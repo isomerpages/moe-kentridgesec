@@ -4,6 +4,10 @@ permalink: /achievements/staff/national-moe/
 description: ""
 third_nav_title: Staff
 ---
+**Outstanding Youth in Education Award (OYEA)**
+* Lim Bee Leng<br>
+[She turned a chat about hooliganism into a discussion on the importance of learning](https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning)
+
 **MOE Service Excellence Award 2022 (Plantinum)**
 
 *   Ms&nbsp;Nur Delis Sulastra Binte Rasid
