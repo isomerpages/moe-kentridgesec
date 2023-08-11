@@ -10,10 +10,10 @@ Students are given various platforms to present their learning to the school and
 ![Masterplan](/images/masterplan.jpg)
 
 <ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Kent Ridgean of the Year</label>  
-    <div>  
+&nbsp;&nbsp;<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Kent Ridgean of the Year</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,10 +29,14 @@ Students are given various platforms to present their learning to the school and
 <thead>
   <tr>
     <th class="tg-xg1o"><span style="font-weight:bold">Year</span></th>
-    <th class="tg-1jgz"><span style="font-weight:bold">CanREACH Award</span></th>
+    <th class="tg-1jgz"><span style="font-weight:bold">Kent Ridgean of the Year</span></th>
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-0lax">2022</td>
+    <td class="tg-0lax">Cadence Toh</td>
+  </tr>
 	<tr>
     <td class="tg-0lax">2021</td>
     <td class="tg-0lax">Zachary Luke Kwek Tjun Bin</td>
@@ -85,10 +89,10 @@ Students are given various platforms to present their learning to the school and
 </table>
 		</div>
 		</li>  
-  <li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">CanREACH Award</label>  
-    <div>  
+&nbsp;&nbsp;<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">CanREACH Award</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -107,6 +111,10 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </thead>
 <tbody>
+		 <tr>
+    <td class="tg-lm9i">2022</td>
+    <td class="tg-lm9i">Muhammad Taufiq Bin Mohamed Abdul Jalil</td>
+  </tr>
 	 <tr>
     <td class="tg-lm9i">2021</td>
     <td class="tg-lm9i">Kellis Rachel Wong Rui Qi</td>
@@ -156,4 +164,4 @@ Students are given various platforms to present their learning to the school and
     <td class="tg-lm9i">Ng Xin Ru Samantha</td>
   </tr>
 
-</tbody>
+</tbody></table></div></li></ul>
