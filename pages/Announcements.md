@@ -16,6 +16,3 @@ Updated 24 July 2023
 [Secondary 2](/files/2023%20sem%202_class%20timetable_sec%202.pdf)<br>
 [Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
 [Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)<br>
-
-**School Canteen Advertisement** <br>
-[School Canteen Advertisement](https://www.kentridgesec.moe.edu.sg/news-events/school-canteen-advertisement/)<br>
