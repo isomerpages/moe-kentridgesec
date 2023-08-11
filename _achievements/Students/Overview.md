@@ -125,11 +125,11 @@ Students are given various platforms to present their learning to the school and
   </tr>
   <tr>
     <td class="tg-lm9i">2019</td>
-    <td class="tg-lm9i">Chua Jia En<br><br>Tan Weijun, Ryan</td>
+    <td class="tg-lm9i">Chua Jia En<br>Tan Weijun, Ryan</td>
   </tr>
   <tr>
     <td class="tg-lm9i">2018</td>
-    <td class="tg-lm9i">Nabila Ayunda Yunita<br><br>Abel Lai See Qun</td>
+    <td class="tg-lm9i">Nabila Ayunda Yunita<br>Abel Lai See Qun</td>
   </tr>
   <tr>
     <td class="tg-lm9i">2017</td>
@@ -141,7 +141,7 @@ Students are given various platforms to present their learning to the school and
   </tr>
   <tr>
     <td class="tg-lm9i">2015</td>
-    <td class="tg-lm9i">Muhammad Nor Indrawan b M<br><br>Ng Tse Siong Harold</td>
+    <td class="tg-lm9i">Muhammad Nor Indrawan b M<br>Ng Tse Siong Harold</td>
   </tr>
   <tr>
     <td class="tg-lm9i">2014</td>
