@@ -12,11 +12,12 @@ Updated 24 July 2023
 [Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
 [Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)<br>
 
-**Preliminary Examination Timetables (Semester 2, 2023)** <br>
-Updated 27 June 2023
+**End-of-Year Examination Timetables** <br>
+Updated 31 August 2023
 <br>
-[Secondary 4NA](/files/4na%20prelim%202023.pdf)
+[Secondary 1(G1)](/files/sec%201(g1)_eye_time_table_2023.pdf)<br>
+[Secondary 1(G2)](/files/sec%201(g2)_eye_time_table_2023.pdf)<br>
+[Secondary 1(G3)](/files/sec%201(g3)_eye_time_table_2023.pdf)
 <br>
-[Secondary 4NT](/files/4nt%20prelim%202023.pdf)
-<br>
-[Secondary 4E &amp; 5N](/files/4e5nprelim_time_table_2023_v5.pdf)
+[Secondary 2E](/files/sec%202e_eye_time_table_2023.pdf)<br>[Secondary 2NA](/files/sec%202na_eye_time_table_2023.pdf)<br>
+[Secondary 2NT](/files/sec%202nt_eye_time_table_2023.pdf)<br>[Secondary 3E](/files/sec%203e_eye_time_table_2023.pdf)<br>[Secondary 3NA](/files/sec%203na_eye_time_table_2023.pdf)<br>[Secondary 3NT](/files/sec%203nt_eye_time_table_2023.pdf)
