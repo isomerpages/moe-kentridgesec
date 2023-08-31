@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**End-of-Year Examination Timetables (Semester 2, 2023)** <br>
+**End-of-Year Examination Timetables** <br>
 Updated 31 August 2023
 <br>
 [Secondary 1(G1)](/files/sec%201(g1)_eye_time_table_2023.pdf)<br>
