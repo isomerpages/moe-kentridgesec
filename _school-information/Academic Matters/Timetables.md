@@ -12,7 +12,7 @@ Updated 24 July 2023
 [Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
 [Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)<br>
 
-**End-of-Year Examination Timetables (Semester 2, 2023)** <br>
+**End-of-Year Examination Timetables** <br>
 Updated 31 August 2023
 <br>
 [Secondary 1(G1)](/files/sec%201(g1)_eye_time_table_2023.pdf)<br>
