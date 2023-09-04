@@ -16,6 +16,7 @@ Updated 24 July 2023
 Updated 31 August 2023
 <br>
 [CCA Schedule September Holiday 2023](/files/cca_schedule_september_holiday_2023.pdf)
+<br>
 
 **End-of-Year Examination Timetables** <br>
 Updated 31 August 2023
