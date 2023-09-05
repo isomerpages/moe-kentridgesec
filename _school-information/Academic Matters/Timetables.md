@@ -13,9 +13,9 @@ Updated 24 July 2023
 [Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)<br>
 
 **Co-Curricular Schedule - September Holiday 2023**<br>
-Updated 31 August 2023
+Updated 5 September 2023
 <br>
-[CCA Schedule September Holiday 2023](/files/cca_schedule_september_holiday_2023.pdf)
+[CCA Schedule September Holiday 2023](/files/cca_ip_schedule_september_holiday_2023_5sept23.pdf)
 <br>
 
 **End-of-Year Examination Timetables** <br>
