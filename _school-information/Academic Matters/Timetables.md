@@ -15,7 +15,7 @@ Updated 24 July 2023
 **Co-Curricular Schedule - September Holiday 2023**<br>
 Updated 5 September 2023
 <br>
-[CCA Schedule September Holiday 2023](/files/cca_ip%20schedule_september_holiday_2023_5sept23.pdf)
+[CCA Schedule September Holiday 2023](/files/cca_ip_schedule_september_holiday_2023_5sept23.pdf)
 <br>
 
 **End-of-Year Examination Timetables** <br>
