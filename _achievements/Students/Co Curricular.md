@@ -25,7 +25,15 @@ third_nav_title: Students
 </thead>
 <tbody>
 	 <tr>
-    <td class="tg-lm9i">DrCT 2023</td>
+    <td class="tg-lm9i">20th Singapore Lion City Cup International Woodball Championship 2023</td>
+    <td class="tg-lm9i">Youth Ladies - Rank 2 and 3 <br>Youth Men – Rank 6, 7 and 8</td>
+  </tr>
+	 <tr>
+    <td class="tg-lm9i">Singapore School Sports Council National School Games</td>
+    <td class="tg-lm9i"> Sportmanship Award - Basketball and Sailing</td>
+  </tr>
+	 <tr>
+    <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2023</td>
     <td class="tg-lm9i">Gold - 1 <br>Silver – 14<br>Bronze – 21 <br>Honorable Mention – 17</td>
   </tr>
 	<tr>
