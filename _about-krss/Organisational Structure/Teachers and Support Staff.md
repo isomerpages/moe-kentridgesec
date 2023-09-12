@@ -22,11 +22,7 @@ table, th, td {
 		<th style="font-weight:bold; color:#ffffff;width: 300px;">Email Address</th>
   </tr>
   <tr>
-    <td rowspan="2">1-1</td>
-    <td>Ms Kalpana d/o Kaleselvan</td>
-    <td><a href="mailto:kalpana_kaleselvan@schools.gov.sg">kalpana_kaleselvan@schools.gov.sg</a></td>
-  </tr>
-	<tr>
+    <td>1-1</td>
     <td>Mr Chua Chau Lee</td>
     <td><a href="mailto:chua_chau_lee@schools.gov.sg">chua_chau_lee@schools.gov.sg</a></td>
   </tr>
