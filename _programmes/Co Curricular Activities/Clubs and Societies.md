@@ -50,14 +50,11 @@ third_nav_title: Co Curricular Activities
 </ul>
 <p>Design Thinking with robotics and Computational Thinking Competition</p>
 <ul>
+<li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
 <li>2022: 2 Gold, 2 Silver, 5 Bronze and 9 Honorable Mention</li>
 <li>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</li>
 <li>2020: 3 Gold, 6 Silver and 5 Bronze</li>
 <li>2019: 2 Gold, 6 Sliver&nbsp;and 10 Bronze</li>
-</ul>
-	<p>DrCT</p>
-<ul>
-<li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
 </ul>
 <p>Game Jam 1 (Video Game Coding Competition)</p>
 <ul>
