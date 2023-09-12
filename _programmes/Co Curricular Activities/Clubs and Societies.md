@@ -63,7 +63,7 @@ third_nav_title: Co Curricular Activities
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul>
 <li>2023: RoboMission Junior - Certificate of Participation</li>
-	<li>2023: RoboSports - 1st and 3rd</li>
+<li>2023: RoboSports - 1st and 3rd</li>
 <li>2020: 1 Distinction, 1 Merit</li>
 </ul>
 <p>National Software Competition</p>
