@@ -24,6 +24,10 @@ third_nav_title: Students
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-lm9i">Lion City Cup (Singapore National Development Centre Under-15 team)</td>
+    <td class="tg-lm9i"></td>
+  </tr>
 	 <tr>
     <td class="tg-lm9i">20th Singapore Lion City Cup International Woodball Championship 2023</td>
     <td class="tg-lm9i">Youth Ladies - Rank 2 and 3 <br>Youth Men – Rank 6, 7 and 8</td>
