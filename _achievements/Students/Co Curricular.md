@@ -25,6 +25,18 @@ third_nav_title: Students
 </thead>
 <tbody>
 	 <tr>
+    <td class="tg-lm9i">DrCT 2023</td>
+    <td class="tg-lm9i">Gold - 1 <br>Silver – 14<br>Bronze – 21 <br>Honorable Mention – 17</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National Robotics Competition (World Robot Olympiad)</td>
+    <td class="tg-lm9i">RoboMission Junior - Certificate of Participation<br>RoboSports - 1st and 3rd</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">Singapore Secondary Schools Debating Championships 2023 (Div 1)</td>
+    <td class="tg-lm9i">19th Best Speaker</td>
+  </tr>
+	<tr>
     <td class="tg-lm9i">Singapore Secondary Schools Debating Championships 2023 (Div 1)</td>
     <td class="tg-lm9i">19th Best Speaker</td>
   </tr>

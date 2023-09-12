@@ -55,12 +55,18 @@ third_nav_title: Co Curricular Activities
 <li>2020: 3 Gold, 6 Silver and 5 Bronze</li>
 <li>2019: 2 Gold, 6 Sliver&nbsp;and 10 Bronze</li>
 </ul>
+	<p>DrCT</p>
+<ul>
+<li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
+</ul>
 <p>Game Jam 1 (Video Game Coding Competition)</p>
 <ul>
 <li>2021: 1 Top Game Award</li>
 </ul>
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul>
+<li>2023: RoboMission Junior - Certificate of Participation</li>
+	<li>2023: RoboSports - 1st and 3rd</li>
 <li>2020: 1 Distinction, 1 Merit</li>
 </ul>
 <p>National Software Competition</p>
