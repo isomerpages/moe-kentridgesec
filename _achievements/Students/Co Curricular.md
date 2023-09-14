@@ -25,7 +25,7 @@ third_nav_title: Students
 </thead>
 <tbody>
 	 <tr>
-    <td class="tg-lm9i">DrCT 2023</td>
+    <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2023</td>
     <td class="tg-lm9i">Gold - 1 <br>Silver – 14<br>Bronze – 21 <br>Honorable Mention – 17</td>
   </tr>
 	<tr>
@@ -33,24 +33,24 @@ third_nav_title: Students
     <td class="tg-lm9i">RoboMission Junior - Certificate of Participation<br>RoboSports - 1st and 3rd</td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">Singapore Secondary Schools Debating Championships 2023 (Div 1)</td>
-    <td class="tg-lm9i">19th Best Speaker</td>
+    <td class="tg-lm9i">IDE (Innovation, Design and Engineering) Robotics Competition 2023</td>
+    <td class="tg-lm9i">7th Place</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">Singapore Secondary Schools Debating Championships 2023 (Div 1)</td>
     <td class="tg-lm9i">19th Best Speaker</td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">74th National Schools’ Individual Championship 2023</td>
+    <td class="tg-lm9i">74th National Schools’ Individual Chess Championship 2023</td>
     <td class="tg-lm9i">1st – U16 Division <br> 9th – U14 Division<br> 1st and 6th in South Zone</td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">JPJC Chess Tournament 2023 (Secondary School Category – Team)</td>
-    <td class="tg-lm9i">Champion</td>
+    <td class="tg-lm9i">JPJC Chess Tournament 2023</td>
+    <td class="tg-lm9i">Champion - Secondary School Category – Team <br> 1st and 5th - Overall Individual Category</td>
   </tr>
 		<tr>
-    <td class="tg-lm9i">JPJC Chess Tournament 2023 (Overall Individual Category)</td>
-    <td class="tg-lm9i">1st and 5th</td>
+    <td class="tg-lm9i">National Cashflow Competition 2023</td>
+    <td class="tg-lm9i">Final Round</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">Green Schools @ South West 2022</td>
@@ -189,6 +189,14 @@ third_nav_title: Students
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-lm9i">Lion City Cup (Singapore National Development Centre Under-15 team)</td>
+    <td class="tg-lm9i">Participation</td>
+  </tr>
+	 <tr>
+    <td class="tg-lm9i">Singapore School Sports Council National School Games</td>
+    <td class="tg-lm9i"> Sportmanship Award - Basketball and Sailing</td>
+  </tr>
+	<tr>
     <td class="tg-lm9i">National School Games Basketball – ‘C’ Division Boys</td>
     <td class="tg-lm9i">Quarter Finalist</td>
   </tr>
@@ -200,42 +208,10 @@ third_nav_title: Students
     <td class="tg-lm9i">National School Games Badminton – ‘C’ Division Boys</td>
     <td class="tg-lm9i">Quarter Finalist</td>
   </tr>
-	<tr>
-    <td class="tg-lm9i">National School Games Taekwondo Championship 2023 (Kyorugi) – ‘B’ Division Male Black Belt Under 68 kg</td>
-    <td class="tg-lm9i">Bronze</td>
-  </tr>
-	<tr>
-    <td class="tg-lm9i">‘B’ Division Tchoukball Competition by Tchoukball Association of Singapore</td>
-    <td class="tg-lm9i">2nd Runner Up</td>
-  </tr>
-	 <tr>
-    <td class="tg-lm9i">Singapore Lion City Woodball Open Championship 2022</td>
-    <td class="tg-lm9i">1st, 2nd, 3rd, 4th – Youth-Men Category<br>2nd, 3rd – Youth-Ladies Category</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">National B’ Division Plate and Bowl Competition 2019</td>
-    <td class="tg-lm9i">Sliver</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">National C’ Division Plate and Bowl Competition 2019</td>
-    <td class="tg-lm9i">Champion</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Tchoukball Competition 2019</td>
-    <td class="tg-lm9i">2nd</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Kent Ridge Cup 2018 (C' Division)</td>
-    <td class="tg-lm9i">4th</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">ActiveSG-BAS Basketball Development League 2018</td>
-    <td class="tg-lm9i">4th</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">National School Games South Zone C’ Division Girls</td>
-    <td class="tg-lm9i">Best Sportsmanship Award</td>
-  </tr>
+
+	
+	
+
 </tbody>
 </table>
 
@@ -254,14 +230,30 @@ third_nav_title: Students
     <th class="tg-w1zq" colspan="2"><span style="font-weight:bold">Self-Interest Group</span></th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-lm9i">National School Games (Trampoline) 2019</td>
-    <td class="tg-lm9i">1st</td>
+<tbody> 
+		<tr>
+    <td class="tg-lm9i">3rd Beach Woodball World Cup Championship</td>
+    <td class="tg-lm9i">Participation</td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">National School Games (Wushu 1st International 32 Style Tajiquan)</td>
-    <td class="tg-lm9i">3rd</td>
+	 <tr>
+    <td class="tg-lm9i">20th Singapore Lion City Cup International Woodball Championship 2023</td>
+    <td class="tg-lm9i">Youth Ladies - Rank 2 and 3 <br>Youth Men – Rank 6, 7 and 8</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">Singapore Lion City Woodball Open Championship 2022</td>
+    <td class="tg-lm9i">1st, 2nd, 3rd, 4th – Youth-Men Category<br>2nd, 3rd – Youth-Ladies Category</td>
+  </tr>
+		<tr>
+    <td class="tg-lm9i">National School Games Taekwondo Championship 2023 (Kyorugi) – ‘B’ Division Male Black Belt Under 68 kg</td>
+    <td class="tg-lm9i">Bronze</td>
+  </tr>
+ <tr>
+    <td class="tg-lm9i">‘B’ Division Girls Tchoukball Competition by SG Active &amp; Tchoukball Association of Singapore</td>
+    <td class="tg-lm9i">2nd Runner Up</td>
+  </tr>
+<tr>
+    <td class="tg-lm9i">Lions Singapore Aquathlon 2023 - Inter-School U17 (13-14 Years Old)</td>
+    <td class="tg-lm9i">2nd Runner Up</td>
   </tr>
 </tbody>
 </table>    

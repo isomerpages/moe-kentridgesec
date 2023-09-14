@@ -11,13 +11,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY -THURSDAY: 1530 - 1800 HRS </p>
 <p>Kent Ridge Secondary School Badminton Team's curriculum is designed&nbsp;to give a consistent and systematic training structure to develop the talents of our students&nbsp;as well as to nurture their talents and potential to the fullest. This will encourage our students to develop a lifelong interest and passion that will sustain a healthy lifestyle. Apart from building up the physical fitness, mental fortitude and game skills of our students, the badminton training sessions and co-curricular activities, undergirded by the school values, are also good platforms for our students to develop positive character traits which will strengthen their 21st&nbsp;Century Competency skills and translate them into positive attitudes and self-expressions.&nbsp;Our&nbsp;boys and girls take part in sanctioned competitions and achieve credible results and rankings.</p>
-<p><strong><em>Achievements</em></strong><br>1. 2022 South Zone B Division Boys Badminton Competition – Quarter Finals<br>2. 2022 South Zone C Division Girls Badminton Competition – Quarter Finals<br>3. 2021 South Zone B Division Boys Badminton Competition – Quarter Finals<br>4. 2020 (B Division Boys - quarterfinals before Covid-19 suspended tournament)<br>5. 2020&nbsp;<a href="https://sba.tournamentsoftware.com/ranking/ranking.aspx?rid=266">SBA National Ranking System</a>&nbsp;(as of 16/01/2020)</p>
-<ul>
-<li>U17 Girls Doubles (1 student ranked 6th)</li>
-<li>U17 Boys Doubles (4 students ranked&nbsp;5th&nbsp;to 16th)</li>
-<li>U17 Boys Singles (5 students ranked 20th&nbsp;to 51st)</li>
-</ul>
-<p>3. Yonex Cup Carnival (Boys) – 1st&nbsp;Runner-Up (U17)<br>4. Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd&nbsp;Runner-Up (U15)<br>5. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd&nbsp;Runner-Up &amp;&nbsp;Quarter-finalist (U17)<br>6. 14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Girls) – 2nd&nbsp;Runner-Up (U17)</p>
+<p><strong><em>Achievements</em></strong><br>1. 2022 South Zone B Division Boys Badminton Competition – Quarter Finals<br>2. 2022 South Zone C Division Girls Badminton Competition – Quarter Finals<br>3. 2021 South Zone B Division Boys Badminton Competition – Quarter Finals<br></p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mr Lee Fook Yew<br>Ms Foo Shuan Chou</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -36,7 +30,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>KRSS Floorball Team was established in 2008 with a pioneer cohort of 36 enthusiastic Kent Ridgeans. Growing in strength over the last 12 years, the CCA now comprises of more than 100 dedicated players. Floorball was introduced to students as a team sport to allow learning beyond the classroom. Besides developing physical fitness, our CCA programme aims to help students develop personal qualities such as teamwork, discipline and leadership skills. Floorball is an indoor sport and is usually played with 16 players in a competition team. It is fast gaining popularity in our school and Singapore as it is easy to pick up and fun to play. Skills trainings are conducted in indoor venues with fibreglass panel boards to build up our skills and game strategies. To give our players greater exposure, friendly matches are arranged to let them gain experience and increase their confidence level during competitions.</p>
-<p><strong><em>Achievements</em></strong><br>2020 - No National Competition was conducted by the Ministry due to the Health Pandemic.<br>2019 - SFA 'C' Div Floorball Plate &amp; Bowl Competition (Boys Plate Category) - Champion<br>2019 - SFA 'B' Div Floorball Plate &amp; Bowl Competition (Girls Bowl Category) - Silver<br>2017 - SFA ‘B’ Div Floorball Plate &amp; &nbsp;Bowl Competition (Boys Bowl Category) - Champion<br>2017 - SFA ‘B’ Div Floorball Plate &amp; Bowl Competition (Girls Bowl Category) - 4th&nbsp;Place</p>
+
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Jitendra<br>Ms Siti Fadzilah<br>Mdm Siti Hajar<br>Mr Ang Swee Huat</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -46,7 +40,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1530 - 1800 HRS ('C' DIVISION)<br>MONDAY &amp; WEDNESDAY: 1530 - 1800 HRS ('B' DIVISION)</p>
 <p>The Kent Ridge Football Team takes part in training sessions and tournaments regularly, from which they learn valuable lessons in discipline, commitment and teamwork. As a result, many of the players have moved on to compete at the Singapore League as well as in the National level. In addition, these boys are committed to serving the society and caring for the less fortunate through various Community Involvement Projects. The Football Team has consistently achieved top placings in the South Zone Football Championship since 2006.</p>
-<p><strong><em>Achievements</em></strong><br>2017 – South Zone Inter-School Soccer Championship 'B' Division (Champion)</p>
+
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Rishabh<br>Mr Mohd Helmy<br>Mr Chia Tai-Yu<br>Mr Smithy Methias @ Yusoef Adam</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  

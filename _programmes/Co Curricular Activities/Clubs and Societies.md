@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS&nbsp;(Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p>
 <p>The Debate Society, formerly a special interest group, is a newly-established CCA in 2017. The CCA aims to develop student-debaters who are able to think critically and speak skilfully. We train our students in the art of debating, focusing on the domains of research, speech, and working together in a team. We take part in debate competitions such as the Singapore Secondary Schools Debating Championships, Youth Debate Open and Raffles Debate Academy Under-14 Debating Championship. Every year, the students embark on VIA projects to pass on their debating skills and knowledge to the community by organising public speaking workshops or mentoring sessions for other youths or children from various organisations. In this CCA, the debaters are not only trained to be quick-witted and articulate speakers, but the many opportunities to work in teams also teach them the value of camaraderie and friendship.</p>
-<p><em><strong>Achievements</strong></em><br>2023: SSSDC (Division 1)19th Best Speaker<br>2021: Debate Association Debating Championships Semi-finalists (Gold Division), 2nd Under-14 Best Speaker<br>2021: ACJC Orator’s Trophy Semi-finalist<br>2019: SSSDC (Division 1) 7th&nbsp;and 15th&nbsp;Overall Best Speakers<br>2018: SSSDC Champions (Division 2)<br>2017: SSSDC Semi-finalists (Division 2), Top breaking team, 2nd&nbsp;and 12th&nbsp;Overall Best Speakers<br>2017: Raffles Debate Academy Under-14 Debating Championship 10th&nbsp;and 12th&nbsp;Overall Best Speakers (Silver division)<br>2016: SSSDC Quarter-finalists (Division 2), Top breaking team, 2nd&nbsp;Overall Best Speaker<br>2016: Youth Debate Open, 1st&nbsp;Runner-Up (Silver Division)<br>2015: SSSDC Champions (Division 3), Grand Finals Best Speaker, 10th&nbsp;and 15th&nbsp;Overall Best Speakers</p>
+<p><em><strong>Achievements</strong></em><br>2023: SSSDC (Division 1)19th Best Speaker<br>2021: Debate Association Debating Championships Semi-finalists (Gold Division), 2nd Under-14 Best Speaker<br>2021: ACJC Orator’s Trophy Semi-finalist</p>
 <p><strong><em>Teachers-in- charge:</em></strong><br>Ms Nicole Heng<br>Mr Lok Sin Min<br>Ms Maimunah Binte Ithnin</p>
 <p><img src="/images/debate%20society.png" alt="debate society"></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
@@ -27,76 +27,43 @@ third_nav_title: Co Curricular Activities
 <p>Students also apply their skills to help others during community projects e.g. prior to the pandemic, Sec 1s introduced robotics to pre-schoolers from a PCF kindergarten by guiding them through different games based on Scratch and mBots that are designed by themselves. Sec 2s and 3s supported the NYAA Gold Award Holders’ Alumni’s effort to raise awareness among the residents at Clementi West, West Coast GRC on e-waste recycling. Students were also invited to participate in a collaboration with ACS (I), where students from ACS (I) shared their expertise in Vex Robotics.</p>
 <p><em><strong>Competitions</strong></em></p>
 <ul>
-<li>Asia Pacific Youth Robotics Competition</li>
-<li>Bebras Computational Thinking Challenge</li>
 <li>Design Thinking with robotics and Computational Thinking Competition</li>
-<li>Hackathon</li>
+<li>IDE (Innovation, Design and Engineering) Robotics Competition</li>
 <li>National Robotics Competition</li>
 <li>National Software Competition</li>
-<li>Robotics Fiesta – Sumo Challenge</li>
 <li>Spark IT Competition</li>
-<li>Underwater Robotics Olympiad</li>
 <li>World Robo Tournament</li>
 </ul>
 <p><em><strong>Achievements</strong></em></p>
-<p>Asia Pacific Youth Robotics Competition</p>
-<ul>
-<li>2019: Champion in Sumo Senior (doubles)<br>2018: 1st&nbsp;Runner Up, 2nd&nbsp;Runner Up</li>
-</ul>
-<p>Bebras Computational Thinking Challenge</p>
-<ul>
-<li>2018: 1 Gold, 2 Sliver&nbsp;and 7 Bronze</li>
-<li>2017: 1 Gold, 5 Sliver&nbsp;and 6 Bronze</li>
-</ul>
 <p>Design Thinking with robotics and Computational Thinking Competition</p>
 <ul>
+<li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
 <li>2022: 2 Gold, 2 Silver, 5 Bronze and 9 Honorable Mention</li>
 <li>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</li>
-<li>2020: 3 Gold, 6 Silver and 5 Bronze</li>
-<li>2019: 2 Gold, 6 Sliver&nbsp;and 10 Bronze</li>
-</ul>
-	<p>DrCT</p>
-<ul>
-<li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
 </ul>
 <p>Game Jam 1 (Video Game Coding Competition)</p>
 <ul>
 <li>2021: 1 Top Game Award</li>
 </ul>
+<p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
+<ul>
+<li>7th Place - Team “Sparkling Claws”</li>
+</ul>
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul>
 <li>2023: RoboMission Junior - Certificate of Participation</li>
-	<li>2023: RoboSports - 1st and 3rd</li>
-<li>2020: 1 Distinction, 1 Merit</li>
+<li>2023: RoboSports - 1st and 3rd</li>
 </ul>
 <p>National Software Competition</p>
 <ul>
 <li>2021: 1 Gold, 2 Bronze</li>
 </ul>
-<p>Underwater Robotics Olympiad</p>
-<ul>
-<li>2018: Best Instagram Photo,&nbsp;Top 12 Placing in terms of speed</li>
-</ul>
-<p>World Robo Tournament</p>
-<ul>
-<li>2019:<ul>
-<li>1st&nbsp;Place (Aerodynamic Award)</li>
-<li>1st&nbsp;Place (Best Mechanical Design)</li>
-<li>1st&nbsp;Place (Best Robot Performance)</li>
-<li>1st&nbsp;Place (Fastest Area 1)</li>
-<li>2nd&nbsp;Place (Best Mechanical Design)</li>
-<li>2nd&nbsp;Place (Best Robot Construction)</li>
-<li>2nd&nbsp;Place (Fastest Area 1)</li>
-<li>3rd&nbsp;Place (Fastest Area 1)</li>
-<li>3rd&nbsp;Place (Fastest Area 2)</li>
-<li>3rd&nbsp;Place (Fastest Racer Award)</li>
-</ul>
-</li>
+</div></li>
 </ul>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong<br>Ms Nur Hidayah binte Mohmed Nor</p>
 <p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li> 
+&nbsp;&nbsp;&nbsp;&nbsp;  
+ 
 	<li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">International Chess Club</label>  
@@ -145,9 +112,8 @@ third_nav_title: Co Curricular Activities
 <p><u>Advanced Videography</u>&nbsp;– training in shooting of video genres such as visual documentaries, interviews, video logs, dramas, advertisements, video editing using special particle effects and green screen effects e.t.c.</p>
 <p>Note: All students will learn to operate basic AV equipment to support school operations.</p>
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
-<p><strong><em>Achievements</em></strong><br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions<br>2020: N.E.mation!2021 - Top 10<br>2020: Our Schools, Our Storiees - Best Photo Story<br>2019: CNB #DrugFreeSG - 2nd<br>2019: N.E.mation!2020 - Top 10<br>2018: Hear and Now - Listen (A video on Dementia) - Special Commendation<br>2017 : N.E.mation! 11 – Top 10</p>
+<p><strong><em>Achievements</em></strong><br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
-</ul>
