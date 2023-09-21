@@ -24,6 +24,38 @@ third_nav_title: Students
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-lm9i">National Digital Explorer 2023</td>
+    <td class="tg-lm9i">Silver – 1<br>Bronze – 2</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">Live On Festival 2023 Design Competition</td>
+    <td class="tg-lm9i">2nd</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National Schools Literature Festival 2023</td> 
+    <td class="tg-lm9i">Lower Secondary Book Trailer Competition - Top 10 <br>Upper Secondary Flash Fiction – Bronze</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National University of Singapore Geography Challenge 2023</td>
+    <td class="tg-lm9i">Bronze – 2</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National University of Singapore Geography Challenge 2023</td>
+    <td class="tg-lm9i">Bronze – 2</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National Malay Writing Competition 2023</td>
+    <td class="tg-lm9i">Category D (Secondary 2): Bronze – 5<br>Category E (Secondary 3): Gold -1, Silver – 1, Bronze – 3</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">All Singapore Secondary Mathematics Competition for Normal Course Students 2023</td>
+    <td class="tg-lm9i">Lower Secondary Normal Academic – 6th<br>Upper Secondary Normal Technical – 7th</td>
+  </tr>
+		<tr>
+    <td class="tg-lm9i">Central Narcotics Bureau DrugFreeSG Video Competiiton</td>
+    <td class="tg-lm9i">3rd<br>Merit Award</td>
+  </tr>
 	 <tr>
     <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2023</td>
     <td class="tg-lm9i">Gold - 1 <br>Silver – 14<br>Bronze – 21 <br>Honorable Mention – 17</td>
