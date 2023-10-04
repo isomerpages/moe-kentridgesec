@@ -346,9 +346,9 @@ table, th, td {
     <td></td>
   </tr>
 	<tr>
-    <td>Education Career Guidance (ECG) Counsellor</td>
+    <td>Senior Education Career Guidance (SECGC)</td>
     <td>Mr Choo Soon Heng, Damon</td>
-    <td></td>
+     <td><a href="mailto:choo_soon_heng@schools.gov.sg">choo_soon_heng@schools.gov.sg</a><br>Link to make appointment: <a href="Go.gov.sg/krsecg">Go.gov.sg/krssecg</a></td>
   </tr>
 </tbody></table>
 

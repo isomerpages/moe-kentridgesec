@@ -34,11 +34,7 @@ third_nav_title: Students
   </tr>
 	<tr>
     <td class="tg-lm9i">National Schools Literature Festival 2023</td> 
-    <td class="tg-lm9i">Lower Secondary Book Trailer Competition - Top 10 <br>Upper Secondary Flash Fiction – Bronze</td>
-  </tr>
-	<tr>
-    <td class="tg-lm9i">National University of Singapore Geography Challenge 2023</td>
-    <td class="tg-lm9i">Bronze – 2</td>
+    <td class="tg-lm9i">Lower Secondary Book Trailer Competition - Top 10 <br>Upper Secondary Flash Fiction – Bronze<br>Upper Secondary Unseen Debate (Poetry) – Winner<br>Upper Secondary Poetry PitchIN’ - Winner</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">National University of Singapore Geography Challenge 2023</td>
