@@ -10,16 +10,16 @@ Singapore 127368
 
 Tel: 67731127  
 Fax: 67735119
-
-Email: krss@moe.edu.sg
+<br>
+Email: [krss@moe.edu.sg](mailto:krss@moe.edu.sg)
 
 ##### Accessibility
 **Nearest MRT Station:**
-
+<br>
 Clementi MRT Buses: 30, 51, 143, 175, 201, 282
 
 **Simple Ways to Get Here:**
-
+<br>
 *   Clementi MRT: Take bus 201 at bus stop in front of Block 324
 *   Clementi Bus Interchange: Take bus 282 or 175 at the bus interchange
 *   Jurong East MRT/Bus Interchange: Take bus 51 or 143 at the bus interchange
