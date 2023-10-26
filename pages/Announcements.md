@@ -20,7 +20,7 @@ Please Note:
 5.	For transfer to Secondary 3, please refer to the available Sec 3 Course Options in the form. 
 6.	Incomplete applications will be rejected. 
 
-Should you require any clarification, please contact the school’s General Office at Tel: 6773 1127 or email [krss@moe.edu.sg ](krss@moe.edu.sg )  
+Should you require any clarification, please contact the school’s General Office at Tel: 6773 1127 or email [krss@moe.edu.sg](mailto:krss@moe.edu.sg) 
 
 Thank you.
 
