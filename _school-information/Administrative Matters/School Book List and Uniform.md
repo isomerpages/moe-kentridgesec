@@ -11,7 +11,7 @@ Dear parents and students, please refer to the [attached letter (updated 26 Oct 
  <tbody>
   <tr><td rowspan="2">Level</td>
   <td></td>  
-  <td>Allocated Schedule</td>
+  <td style="text-align:center">Allocated Schedule</td>
  </tr>
  <tr>
   <td>Books</td>
@@ -59,11 +59,8 @@ Parents who wish to pick up their purchases physically are still encouraged to p
 
 Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2023](http://www.picktime.com/krss2023)&nbsp;(booking starts from 1 Nov 2023 onwards)
 
-In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br><br><br><br><table>
-  <tbody><tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff">Level</th>
-    <th style="font-weight:bold; color:#ffffff">Allocated Schedule</th></tr></tbody></table>
-•	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) 
+In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
+•	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) <br>
 •	Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.
 
 **Please show the confirmation email at school entry.**
