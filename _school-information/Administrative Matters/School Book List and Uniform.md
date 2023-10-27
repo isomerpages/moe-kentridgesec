@@ -59,7 +59,7 @@ Parents who wish to pick up their purchases physically are still encouraged to p
 Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2023](http://www.picktime.com/krss2023)&nbsp;(booking starts from 1 Nov 2023 onwards)
 
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
-•	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) <br>
+•	Students coming to the school should be in **proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair)** <br>
 •	Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.
 
 **Please show the confirmation email at school entry.**
