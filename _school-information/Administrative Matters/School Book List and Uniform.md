@@ -4,18 +4,22 @@ permalink: /school-information/administrative-matters/school-book-list-uniform/
 description: ""
 third_nav_title: Administrative Matters
 ---
-**PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2023**
+**PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2024**
 
-The school is putting in place safe management measures for the sale of books and uniforms for the 2022 year-end school holidays. Parents and students, **please refer to the [attached letter (updated 26 Oct 2022)](/files/Letter to Parents_Year-End Sales for Academic Year 2023 (26 Oct 2022).pdf)** for details of the measures that the school has taken before you plan your purchase. Thank you.
+Dear parents and students, please refer to the attached letter (updated 26 Oct 2023) for details on the purchase of books and uniforms during the 2023 year-end school holidays, according to the schedule as follows:
 
-**We strongly encourage all parents to opt for online ordering and delivery** to minimize the risk of infection due to intermingling. The information for our vendors are as follows:
+**We strongly encourage all parents to opt for online ordering and delivery.** The information for our vendors are as follows:
 
-Bookshop Vendor: [https://www.annkev.com](https://www.annkev.com/)  
-Uniform Vendor: [https://khuniform.com](https://khuniform.com/)
+Bookshop Vendor:&nbsp;[https://www.annkev.com](https://www.annkev.com/)  
+Uniform Vendor:&nbsp;[https://khuniform.com](https://khuniform.com/)
 
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 
-Book for an appointment slot here to buy/collect your books and uniforms: [http://www.picktime.com/krss2022](http://www.picktime.com/krss2022) (booking starts from 1 Nov 2022 onwards)
+Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2022](http://www.picktime.com/krss2022)&nbsp;(booking starts from 1 Nov 2023 onwards)
+
+In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
+•	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) <br>
+•	Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.<br>
 
 **Please show the confirmation email at school entry.**
 
@@ -45,4 +49,12 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 ### School Uniform
 
-[Guide for Purchase of School Uniforms](/files/Uniform_KRSS Info Sheet 2022 (27 Oct 2022).pdf) (updated 27 Oct 2022)
+[Guide for Purchase of School Uniforms](/files/uniform_krss%20info%20sheet%202023%20(26%20oct%202023).pdf) (updated 27 Oct 2023)
+
+### Survey on School Uniform Requirements for 2024
+
+Kent Ridge Secondary School is gathering the School Uniform Requirements for 2024 from our current student cohort. This will help us to work with the vendor in estimating the requirements for school uniforms and PE attire during the year-end uniform sales. Please visit the link or scan the QR code below:<br>
+
+[https://go.gov.sg/krss-uniform](https://go.gov.sg/krss-uniform)https://go.gov.sg/krss-uniform  
+![](/images/survey%20on%20school%20uniform%20requirements%20for%202024.jpg)
+
