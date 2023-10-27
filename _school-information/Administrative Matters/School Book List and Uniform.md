@@ -30,17 +30,17 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3EXP     |[KRSS Book List 2024 Sec 3 EXP](/files/krss%20book%20list%202024%203exp.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)  |
-| Sec 3NA     |[KRSS Book List 2024 Sec 3 NA](/files/krss%20book%20list%202024%203na.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)   |
-| Sec 3NT     |[KRSS Book List 2024 Sec 3 NT](/files/krss%20book%20list%202024%203nt.pdf)   | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)    |
+| Sec 3 EXP     |[KRSS Book List 2024 Sec 3 EXP](/files/krss%20book%20list%202024%203exp.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)  |
+| Sec 3 NA     |[KRSS Book List 2024 Sec 3 NA](/files/krss%20book%20list%202024%203na.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)   |
+| Sec 3 NT     |[KRSS Book List 2024 Sec 3 NT](/files/krss%20book%20list%202024%203nt.pdf)   | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)    |
 
 **Secondary 4**
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 4EXP     |[KRSS Book List 2024 Sec 4 EXP](/files/krss%20book%20list%202024%204exp.pdf) |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
-| Sec 4NA     |[KRSS Book List 2024 Sec 4 NA](/files/krss%20book%20list%202024%204na.pdf)  |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
-| Sec 4NT     |[KRSS Book List 2024 Sec 4 NT](/files/krss%20book%20list%202024%204nt.pdf)   | [KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
+| Sec 4 EXP     |[KRSS Book List 2024 Sec 4 EXP](/files/krss%20book%20list%202024%204exp.pdf) |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
+| Sec 4 NA     |[KRSS Book List 2024 Sec 4 NA](/files/krss%20book%20list%202024%204na.pdf)  |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
+| Sec 4 NT     |[KRSS Book List 2024 Sec 4 NT](/files/krss%20book%20list%202024%204nt.pdf)   | [KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
 
 
 ### School Uniform
