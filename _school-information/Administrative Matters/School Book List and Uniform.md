@@ -10,7 +10,7 @@ Dear parents and students, please refer to the [attached letter (updated 26 Oct 
 <table>
  <tbody>
   <tr><th rowspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff">Level</th>
-  <th style="background-color:#033668; font-weight:bold; color:#ffffff">Allocated Schedule</th>
+  <th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align:center">Allocated Schedule</th>
  </tr>
  <tr>
   <td style="background-color:#033668; font-weight:bold; color:#ffffff">Books</td>
