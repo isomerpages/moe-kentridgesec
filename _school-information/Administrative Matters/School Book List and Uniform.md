@@ -9,13 +9,12 @@ third_nav_title: Administrative Matters
 Dear parents and students, please refer to the [attached letter (updated 26 Oct 2023)](/files/letter%20to%20parents_year-end%20sales%20for%20ay2024_26-oct-2023.pdf) for details on the purchase of books and uniforms during the 2023 year-end school holidays, according to the schedule as follows:
 <table>
  <tbody>
-  <tr><td rowspan="2">Level</td>
-  <td></td>  
-  <td style="text-align:center">Allocated Schedule</td>
+  <tr><th rowspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff">Level</th>
+  <th style="background-color:#033668; font-weight:bold; color:#ffffff">Allocated Schedule</th>
  </tr>
  <tr>
-  <td>Books</td>
-  <td>Uniforms</td>
+  <td style="background-color:#033668; font-weight:bold; color:#ffffff">Books</td>
+  <td style="background-color:#033668; font-weight:bold; color:#ffffff">Uniforms</td>
  </tr>
  <tr>
   <td>Sec 3 (2023)</td>
