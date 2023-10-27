@@ -57,7 +57,7 @@ Uniform Vendor:&nbsp;[https://khuniform.com](https://khuniform.com/)
 
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 
-Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2022](http://www.picktime.com/krss2022)&nbsp;(booking starts from 1 Nov 2023 onwards)
+Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2023](http://www.picktime.com/krss2023)&nbsp;(booking starts from 1 Nov 2023 onwards)
 
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br><br><br><br><table>
   <tbody><tr style="background-color:#033668">
