@@ -24,7 +24,6 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 **Secondary 2**
 
 | |Textbook | Stationery |
-| -------- | -------- | -------- |
 | Sec 2     |[KRSS Book List 2024 Sec 2](/files/krss%20book%20list%202024%20sec2.pdf)    |  [KRSS Stationery List 2024 Sec 2](/files/krss%20stationery%20list%202024%20sec2.pdf)  |
 
 **Secondary 3**
