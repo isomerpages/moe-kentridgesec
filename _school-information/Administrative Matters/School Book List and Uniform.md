@@ -97,4 +97,4 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 Kent Ridge Secondary School is gathering the School Uniform Requirements for 2024 from our current student cohort. This will help us to work with the vendor in estimating the requirements for school uniforms and PE attire during the year-end uniform sales. Please visit the link or scan the QR code below:
 
 [https://go.gov.sg/krss-uniform](https://go.gov.sg/krss-uniform)
-<img src="/images/survey%20on%20school%20uniform%20requirements%20for%202024.jpg" alt="uniform_survey" style="width:50%;">
+<img src="/images/survey%20on%20school%20uniform%20requirements%20for%202024.jpg" alt="uniform_survey" style="width:30%;">
