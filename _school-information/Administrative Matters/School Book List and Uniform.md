@@ -35,8 +35,6 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http
 
 [KRSS Book List 2024 Sec 4NT](/files/krss%20book%20list%202024%204nt.pdf)
 
-[KRSS Book List 2024 Sec 5N](/files/krss%20book%20list%202024%205n.pdf)
-
 
 ### School Uniform
 
