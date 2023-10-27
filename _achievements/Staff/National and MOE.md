@@ -10,31 +10,28 @@ third_nav_title: Staff
 
 The OYEA is a national award that recognises and honours the achievements of young educators who&nbsp;have shown admirable passion for teaching, and commitment to inspiring and nurturing their students.&nbsp;Launched in 1999, it seeks to recognise excellent younger teachers for their youthful idealism, enthusiasm, energy, and serving as inspiring role models for the fraternity.
 
-**MOE Service Excellence Award 2022 (Plantinum)**
+**MOE Service Excellence Award**<br>
+The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognises staff who demonstrate desired qualities for service excellence.
 
-*   Ms&nbsp;Nur Delis Sulastra Binte Rasid
+**MOE Service Excellence Award 2023 (Plantinum)**
+*   Ms Tan Seok Gek
 
-**MOE Service Excellence Award 2022 (Gold)**
+**MOE Service Excellence Award 2023 (Gold)**
+*  Ms Tan Seok Gek 
+*  Mr Chandra S/O Karumanan 
+*  Mr Chen Weixiong Jeffrey
+*  Ms Gan Bee Yi 
+*  Ms Kalpana D/O Kaleselvan 
+*  Mr Mahdi Bin Yusoff
+*  Ramish Goby 
+*  Mdm Rosnah Binti Salleh 
 
-*   Ms Hafizah Beevi Binte Abdul Hamid
-*   Mrs&nbsp;Tan Jiayi
-
-**MOE Service Excellence Award 2022 (Silver)**
-
-*   Mr Chan Yew Fei Samuel
-*   Mr Chandra S/O Karumanan
-*   Mr Chen Weixiong Jeffrey
-*   Ms Chow Sally
-*   Mr Foong Zhee Hou Melvyn
-*   Ms Gan Bee Yi
-*   Ms Kalpana D/O Kaleselvan
-*   Mr Kevin Nicholas Fonseka
-*   Mr Lee Hoe Sheng Hosea
-*   Mr Ong Wee Kwang
-*   Mr Ramish Goby
-*   Mdm Rosnah Binti Salleh
-*   Mdm W.K. Sujeetha Margarita Brampy
-*   Ms Zhou Li
+**MOE Service Excellence Award 2023 (Silver)**
+* Mdm Asiah Binte Idris
+* Ms G Vasaki 
+* Mdm Kalaivani Paneer Selvam 
+* Ms Lai Yanqing Eve
+* Mdm Samsad Begum Binte Abdul Salam
 
 **President’s Award For Teachers 2020, Finalist  
 Mr Vincent Heng Swee Chye**
