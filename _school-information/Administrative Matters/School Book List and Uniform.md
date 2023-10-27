@@ -47,7 +47,7 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-* Please note there will be **no sales** after 15 Dec 2023 to prepare for incoming 2024 Sec 1.
+*Please note there will be **no sales** after 15 Dec 2023 to prepare for incoming 2024 Sec 1.*
 
 
 **We strongly encourage all parents to opt for online ordering and delivery.** The information for our vendors are as follows:
