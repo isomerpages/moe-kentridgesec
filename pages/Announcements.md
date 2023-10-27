@@ -24,25 +24,8 @@ Should you require any clarification, please contact the school’s General Offi
 
 Thank you.
 
-**School Book List**
 
-[KRSS Book List 2024 Sec 2](/files/krss%20book%20list%202024%20sec2.pdf)
-
-[KRSS Book List 2024 Sec 3EXP](/files/krss%20book%20list%202024%203exp.pdf)
-
-[KRSS Book List 2024 Sec 3NA](/files/krss%20book%20list%202024%203na.pdf)
-
-[KRSS Book List 2024 Sec 3NT](/files/krss%20book%20list%202024%203nt.pdf)
-
-[KRSS Book List 2024 Sec 4EXP](/files/krss%20book%20list%202024%204exp.pdf)
-
-[KRSS Book List 2024 Sec 4NA](/files/krss%20book%20list%202024%204na.pdf)
-
-[KRSS Book List 2024 Sec 4NT](/files/krss%20book%20list%202024%204nt.pdf)
-
-[KRSS Book List 2024 Sec 5N](/files/krss%20book%20list%202024%205n.pdf)
-
-
+[**2024 Textbook and Stationery List**](https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/school-book-list-uniform/)
 
 
 **Outstanding Youth in Education Award (OYEA)**
