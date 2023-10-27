@@ -25,7 +25,8 @@ Should you require any clarification, please contact the school’s General Offi
 Thank you.
 
 
-[**2024 Textbook and Stationery List**](https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/school-book-list-uniform/)
+**2024 Textbook and Stationery List**<br>
+[2024 Textbook and Stationery List](https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/school-book-list-uniform/)
 
 
 **Outstanding Youth in Education Award (OYEA)**
