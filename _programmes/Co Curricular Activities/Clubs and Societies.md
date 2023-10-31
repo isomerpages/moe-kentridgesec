@@ -58,12 +58,10 @@ third_nav_title: Co Curricular Activities
 <ul>
 <li>2021: 1 Gold, 2 Bronze</li>
 </ul>
-</div>
-</li></ul>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong<br>Ms Nur Hidayah binte Mohmed Nor</p>
 <p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;  
- 
+ </div></li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">International Chess Club</label>  
@@ -116,4 +114,4 @@ third_nav_title: Co Curricular Activities
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li>
+</li></ul>
