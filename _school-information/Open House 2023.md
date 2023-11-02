@@ -20,6 +20,7 @@ Gear-Ups programmes, SEN in lighthouse  |
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
+| 0930 – 1000 |Visual Performing Arts CCA performance / Workshops| Refer to schedule below  |
 | 1000	|Dialogue with School Leaders &amp; Key Personnels|	Library|
 |1030 – 1100	| Workshops	|Refer to schedule below|
 |1100 – 1130|Visual Performing Arts CCA performance |	Refer to schedule below|
