@@ -15,7 +15,7 @@ The Mathematics Department aims to develop every Kent Ridgean as a confident and
 
  <tr>
   <td>The Study Buddy Programme</td>
-  <td><img src="/images/math_1.png" alt="uniform_survey" style="width:100%;">Our students opt in to this programme to gain more confidence in mathematical problem solving by engaging in online discussions with mentors from institutes of higher learning</td>
+  <td><img src="/images/math_1.png" alt="uniform_survey" style="width:70%;">Our students opt in to this programme to gain more confidence in mathematical problem solving by engaging in online discussions with mentors from institutes of higher learning</td>
 	 
  </tr>
 	 <tr>
