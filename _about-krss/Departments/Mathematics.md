@@ -6,50 +6,31 @@ third_nav_title: Departments
 ---
 ### Overview
 
-In Kent Ridge Secondary School, our Mathematics curriculum is crafted with the vision that every Kent Ridgean will be confident and competent in problem solving.
+The Mathematics Department aims to develop every Kent Ridgean as a confident and competent problem solver. We seek to provide windows of opportunities for students to plan, act, reflect and grow in their problem-solving competencies both during formal lessons as well as through enrichment programmes and alternative assessments such as:
 
-We offer a differentiated curriculum that enables each student to develop interest in Mathematics and strengthen their foundation for higher learning.
 
-The department has several platforms such as Mathematics Mentoring, Financial Literacy workshops, learning trails, online learning platforms, competitions, and alternative assessments put in place to provide our students with a more holistic and customised learning experience.
+<table>
+ <tbody>
 
-**Outcomes & Goals**  
-To equip students with skills and strategies in critical thinking, effective communication and self-directed learning.
 
-Secondary 1 –  Habits of Mind and Building of Foundation  
-Secondary 2 –  Strengthening the foundation  
-Secondary 3 –  Consolidation and Integration  
-Secondary 4/5 – Mastery & Continuous Learning
+ <tr>
+  <td>The Study Buddy Programme</td>
+  <td><img src="/images/math_1.png" alt="uniform_survey" style="width:100%;">Our students opt in to this programme to gain more confidence in mathematical problem solving by engaging in online discussions with mentors from institutes of higher learning</td>
+	 
+ </tr>
+	 <tr>
+  <td>Mathematics Competitions</td>
+  <td><img src="/images/math_6.png" alt="uniform_survey" style="width:100%;">Our students seek challenges by participating in competitions at national level</td>
+ </tr>
+	 <tr>
+  <td>Alternative Assessments</td>
+  <td><img src="/images/math_2.png" alt="uniform_survey" style="width:100%;">Our students exercise creativity in problem solving as they partake in alternative assessments focusing on application and integration of knowledge to address problems situated in real world context</td>
+  </tr>
+</tbody></table>
+<style>
+table, th, td {
+ border-collapse: collapse;
+}
+</style>
 
-![](/images/Math-Time-Capsule-Final-1.jpg)
-
-![](/images/MAth-Time-Capsule-Final-2.jpg)
-
-### Programmes
-
-**Mathematics Mentoring Programme**
-
-This is in collaboration between Kent Ridge Secondary School and tertiary institutions where a group of students coach selected Kent Ridge students in Mathematics on a weekly basis. It aims to provide additional support to students who are weak in the subject and demonstrate a desire to improve. For this programme, Kent Ridge has collaborated with Hwa Chong Institution, National University of Singapore and Singapore Management University.
-
-**Bridging Programme for Foundation Mathematics students**
-
-Foundation Mathematics students are given additional support in the form of small group teaching on a weekly basis on top of the normal curriculum.
-
-**Pi Programme**
-
-High Progress students are given opportunities to represent the school in external competitions/enrichment activities. Training will be provided and these learning experiences will augment well with their learning of mathematics.
-
-**Mathematics Trail**
-
-To make Mathematics more alive and relevant, every student in KRSS will have the opportunity to go to one Mathematics Trail in their four or five years of Secondary School education.
-
-The Trail will also hone their collaboration, problem-solving and communication skills.
-
-**Financial Literacy**
-
-*   Sec 1s – To be an Entrepreneur
-
-The programme teaches the students the four key characteristics of successful entrepreneurs: believing in themselves, filling a need, knowing their customers and products and being creative and innovative.
-
-*   Sec 3 – Personal Financial Skills
-
-This program introduces students to the importance of planning for their financial future – budgeting, investing, credit and insurance for financial stability.
+Through the development of sound habits of mind, a strong foundation, a reflective mindset towards application and integration of learning and a focus on continual learning, our students persevere through their learning years in Kent Ridge to emerge a better problem solver with solutions to their future world.
