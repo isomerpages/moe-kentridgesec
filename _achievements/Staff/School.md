@@ -11,7 +11,8 @@ Are presented to staff members who exemplify the school values of FITNESS, INTEG
 Is presented to a staff member who is resilient and cares for his personal well-being and professional development.
 
 **Mrs Cheryl Lim (Tan Seok Gek)** <br>
-**Mr Jitendra Bhilare** **Mdm Quah Hui Shan** 
+**Mr Jitendra Bhilare**<br>
+**Mdm Quah Hui Shan** 
 
 ***The F.I.R.E. Integrity Award***<br>
 Is presented to a staff member who is exemplary in professional and personal conduct; dependable and an inspiring coach and mentor.
