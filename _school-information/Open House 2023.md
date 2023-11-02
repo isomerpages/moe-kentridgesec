@@ -45,3 +45,6 @@ description: ""
 | 1110-1115 |Choir| 
 | 1120-1125 |Dance| 
 | 1125-1130|Drama|
+
+Visitors who are driving, please park at the nearest HDB carpark at the West Coast market or
+Block 601. Kindly note that parking is not available in the school.
