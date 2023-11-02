@@ -24,7 +24,7 @@ The Mathematics Department aims to develop every Kent Ridgean as a confident and
  </tr>
 	 <tr>
   <td>Alternative Assessments</td>
-  <td>Our students exercise creativity in problem solving as they partake in alternative assessments focusing on application and integration of knowledge to address problems situated in real world context</td>
+  <td>![](/images/math_6.png)Our students exercise creativity in problem solving as they partake in alternative assessments focusing on application and integration of knowledge to address problems situated in real world context</td>
   </tr>
 </tbody></table>
 <style>
