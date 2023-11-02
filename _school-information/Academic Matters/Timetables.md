@@ -4,10 +4,8 @@ permalink: /school-information/academic-matters/timetables/
 description: ""
 third_nav_title: Academic Matters
 ---
-**Class Time-tables (Semester 2, 2023)** <br>
-Updated 24 July 2023
+**CCA Schedule (November-December Holiday 2023)** <br>
+Updated 2 Nov 2023
 <br>
-[Secondary 1](/files/2023%20sem%202_class%20timetable_sec%201.pdf)<br>
-[Secondary 2](/files/2023%20sem%202_class%20timetable_sec%202.pdf)<br>
-[Secondary 3](/files/2023%20sem%202_class%20timetable_sec%203.pdf)<br>
-[Secondary 4 &amp; 5](/files/2023%20sem%202_class%20timetable_sec%204_5.pdf)<br>
+[November 2023](/files/cca%20schedule%20for%20nov%202023-final.pdf)<br>
+[December 2023](/files/cca%20schedule%20for%20dec%202023-final.pdf)
