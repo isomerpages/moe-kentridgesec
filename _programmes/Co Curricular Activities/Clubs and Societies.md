@@ -49,6 +49,11 @@ third_nav_title: Co Curricular Activities
 <ul>
 <li>7th Place - Team “Sparkling Claws”</li>
 </ul>
+	<p>National Onilne Coding Competition</p>
+<ul>
+<li>2023: Hack@Code (Lego Robotics)  - 1st, 3rd</li>
+<li>2023: Hack@Code (Scratch) - Most Interactive Design, Merit</li>
+</ul>
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul>
 <li>2023: RoboMission Junior - Certificate of Participation</li>
@@ -110,7 +115,8 @@ third_nav_title: Co Curricular Activities
 <p><u>Advanced Videography</u>&nbsp;– training in shooting of video genres such as visual documentaries, interviews, video logs, dramas, advertisements, video editing using special particle effects and green screen effects e.t.c.</p>
 <p>Note: All students will learn to operate basic AV equipment to support school operations.</p>
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
-<p><strong><em>Achievements</em></strong><br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
+<p><strong><em>Achievements</em></strong><br>
+	2023:CNB #DrugFreeSG Competition 2023 - Bronze, Merit <br>2023: #ClickArt S2 Cluster Showcase 2023 - 3 Distinctions, 8 Accomplishments<br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit<br>Mr Ng Chong Hern Bennedic</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
