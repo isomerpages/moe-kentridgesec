@@ -25,8 +25,36 @@ third_nav_title: Students
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-lm9i">CNB #DrugFreeSG Competition 2023</td>
+    <td class="tg-lm9i">Bronze, Merit</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">#ClickArt S2 Cluster Showcase 2023</td>
+    <td class="tg-lm9i">Distinctions – 3<br>Accomplishments – 8</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National Online Coding Competition 2023</td>
+    <td class="tg-lm9i">Hack@Code (Lego Robotics)  - 1st, 3rd<br>Hack@Code (Scratch) - Most Interactive Design, Merit</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">All Singapore Secondary Mathematics Competition for Normal Course Students 2023</td>
+    <td class="tg-lm9i">6th in individual Lower Secondary Normal Academic category<br>7th in individual Upper Secondary Normal Technical category</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">National Malay Writing Competition </td>
+    <td class="tg-lm9i">5 Bronze in Secondary 2 category<br> 1 Gold, 1 Silver, 3 Bronze in Secondary 3 category</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">The Queen's Commonwealth Essay Competition 2023</td>
+    <td class="tg-lm9i"> 1 Gold<br>12 Silver<br>13 Bronze<br>17 Participation</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">Lower Secondary Reading Portfolio Star Readers</td>
+    <td class="tg-lm9i">1 Platinum<br>1 Gold<br>1 Silver</td>
+  </tr>
+	<tr>
     <td class="tg-lm9i">National Digital Explorer 2023</td>
-    <td class="tg-lm9i">Silver – 1<br>Bronze – 2</td>
+    <td class="tg-lm9i">1 Silver<br>2 Bronze </td>
   </tr>
 	<tr>
     <td class="tg-lm9i">Live On Festival 2023 Design Competition</td>
@@ -38,11 +66,11 @@ third_nav_title: Students
   </tr>
 	<tr>
     <td class="tg-lm9i">National University of Singapore Geography Challenge 2023</td>
-    <td class="tg-lm9i">Bronze – 2</td>
+    <td class="tg-lm9i">2 Bronze</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">National Malay Writing Competition 2023</td>
-    <td class="tg-lm9i">Category D (Secondary 2): Bronze – 5<br>Category E (Secondary 3): Gold -1, Silver – 1, Bronze – 3</td>
+    <td class="tg-lm9i">Category D (Secondary 2): 5 Bronze<br>Category E (Secondary 3): 1 Gold, 1 Silver, 3 Bronze</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">All Singapore Secondary Mathematics Competition for Normal Course Students 2023</td>
@@ -54,7 +82,7 @@ third_nav_title: Students
   </tr>
 	 <tr>
     <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2023</td>
-    <td class="tg-lm9i">Gold - 1 <br>Silver – 14<br>Bronze – 21 <br>Honorable Mention – 17</td>
+    <td class="tg-lm9i">1 Gold<br>14 Silver<br>21 Bronze <br>17 Honorable Mention</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">National Robotics Competition (World Robot Olympiad)</td>
@@ -86,11 +114,11 @@ third_nav_title: Students
   </tr>
 	<tr>
     <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2022</td>
-    <td class="tg-lm9i">Gold – 2<br>Silver – 2 <br>Bronze – 5</td>
+    <td class="tg-lm9i">2 Gold<br>2 Silver<br>5 Bronze</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">National Digital Explorer 2022</td>
-    <td class="tg-lm9i">Silver – 1 <br>Bronze – 2</td>
+    <td class="tg-lm9i">1 Silver<br>2 Bronze</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">Earth Alive Inter-School Challenge 2022</td>
@@ -110,7 +138,7 @@ third_nav_title: Students
   </tr>
   <tr>
     <td class="tg-lm9i">Singapore Junior Chemistry Olympiad 2021</td>
-    <td class="tg-lm9i">Gold - 1<br>Silver - 3<br>Bronze - 1</td>
+    <td class="tg-lm9i">1 Gold<br>3 Silver<br>1 Bronze</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Orator’s Trophy 2021</td>
@@ -126,11 +154,11 @@ third_nav_title: Students
   </tr>
   <tr>
     <td class="tg-lm9i">National Software Competition 2021</td>
-    <td class="tg-lm9i">Gold -1<br>Bronze - 2</td>
+    <td class="tg-lm9i">1 Gold<br>2 Bronze</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Design Thinking with Robotics and Computational Thinking International Competition 2021</td>
-    <td class="tg-lm9i">Gold -2<br>Silver - 3<br>Bronze - 8<br>Special Mention - 8</td>
+    <td class="tg-lm9i">2 Gold<br>3 Silver<br>8 Bronze<br>8 Special Mention</td>
   </tr>
   <tr>
     <td class="tg-lm9i">N.E.mation! 2021 (Youth Category)</td>
@@ -142,7 +170,7 @@ third_nav_title: Students
   </tr>
   <tr>
     <td class="tg-lm9i">42nd International C.B. Paul Science Quiz 2021</td>
-    <td class="tg-lm9i">Silver - 1<br>Honourable Mention - 1</td>
+    <td class="tg-lm9i">1 Silver<br>1 Honourable Mention</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Debate Association Debating Championship 2021</td>
