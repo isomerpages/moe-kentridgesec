@@ -6,6 +6,12 @@ description: ""
 **Open House 2023**<br>
 [Open House 2023](https://kentridgesec.moe.edu.sg/school-information/open-house-2023/)
 
+**CCA Schedule (November-December Holiday 2023)** <br>
+Updated 2 Nov 2023
+<br>
+[November 2023](/files/cca%20schedule%20for%20nov%202023-final.pdf)<br>
+[December 2023](/files/cca%20schedule%20for%20dec%202023-final.pdf)
+
 
 **Request to Transfer to Kent Ridge Secondary School for 2024**
 
