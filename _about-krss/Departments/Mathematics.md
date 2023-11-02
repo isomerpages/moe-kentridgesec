@@ -15,16 +15,16 @@ The Mathematics Department aims to develop every Kent Ridgean as a confident and
 
  <tr>
   <td>The Study Buddy Programme</td>
-  <td>Our students opt in to this programme to gain more confidence in mathematical problem solving by engaging in online discussions with mentors from institutes of higher learning</td>
+  <td><img src="/images/math_1.png" alt="uniform_survey" style="width:100%;">Our students opt in to this programme to gain more confidence in mathematical problem solving by engaging in online discussions with mentors from institutes of higher learning</td>
 	 
  </tr>
 	 <tr>
   <td>Mathematics Competitions</td>
-  <td>Our students seek challenges by participating in competitions at national level</td>
+  <td><img src="/images/math_6.png" alt="uniform_survey" style="width:100%;">Our students seek challenges by participating in competitions at national level</td>
  </tr>
 	 <tr>
   <td>Alternative Assessments</td>
-  <td>![](/images/math_6.png)Our students exercise creativity in problem solving as they partake in alternative assessments focusing on application and integration of knowledge to address problems situated in real world context</td>
+  <td><img src="/images/math_2.png" alt="uniform_survey" style="width:100%;">Our students exercise creativity in problem solving as they partake in alternative assessments focusing on application and integration of knowledge to address problems situated in real world context</td>
   </tr>
 </tbody></table>
 <style>
