@@ -44,8 +44,4 @@ Gear-Ups programmes, SEN in lighthouse  |
 | 1100-1105 |Band| 
 | 1110-1115 |Choir| 
 | 1120-1125 |Dance| 
-| 1125-1130|Drama| 
-
-
-
-
+| 1125-1130|Drama|
