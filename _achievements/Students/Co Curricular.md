@@ -212,17 +212,21 @@ third_nav_title: Students
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-soxn" colspan="2"><span style="font-weight:bold">Inter-School Competition</span></th>
+    <th class="tg-soxn" colspan="2"><span style="font-weight:bold"></span></th>
   </tr>
 </thead>
 <tbody>
+		<tr>
+    <td class="tg-lm9i">Singapore School Sports Council National School Games</td>
+    <td class="tg-lm9i">Sportmanship Award - 2 Sailing, 2 Basketball, 2 Floorball</td>
+  </tr>
+		<tr>
+    <td class="tg-lm9i">Singapore School Sports Council Colours Award</td>
+    <td class="tg-lm9i">1 Taekwondo (Kyorugi) National ‘B’ Div Boys (Individual Under 68kg)</td>
+  </tr>
 	<tr>
     <td class="tg-lm9i">Lion City Cup (Singapore National Development Centre Under-15 team)</td>
     <td class="tg-lm9i">Participation</td>
-  </tr>
-	 <tr>
-    <td class="tg-lm9i">Singapore School Sports Council National School Games</td>
-    <td class="tg-lm9i"> Sportmanship Award - Basketball and Sailing</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">National School Games Basketball – ‘C’ Division Boys</td>
