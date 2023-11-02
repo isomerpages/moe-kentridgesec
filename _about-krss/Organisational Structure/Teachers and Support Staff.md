@@ -378,19 +378,19 @@ table, th, td {
     <td>Mr Ashwin Ajay Unnithan</td>
   </tr>
   <tr>
-    <td>Science Laboratory Technician 1</td>
+    <td>Science Laboratory Technician</td>
     <td>Ms Lee Siew Har</td>
   </tr>
 			<tr>
-    <td>Science Laboratory Technician 2</td>
+    <td>Science Laboratory Technician</td>
     <td>Mr Muhammad Haziq Bin Abdul Halim</td>
   </tr>
   <tr>
-   <td>Education Workshop Instructor 1</td>
+   <td>Education Workshop Instructor</td>
     <td>Mr Shahrunizam Bin Senawi</td>
   </tr>
   <tr>
-    <td>Education Workshop Instructor 2</td>
+    <td>Education Workshop Instructor</td>
     <td>Mr Abdul Wahid Bin Md Eunos</td>
   </tr>
 </tbody></table>
