@@ -18,8 +18,11 @@ Gear-Ups programmes, SEN in lighthouse  |
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Time | Programme | 	Remarks |
 | -------- | -------- | -------- |
+| 0830    |Start of Open House   | CCA booths in Hall
+EL &amp; MTL booths in 2-1 Classroom 
+Gear-Ups programmes, SEN in lighthouse  |
 | 0930 – 1000 |Visual Performing Arts CCA performance / Workshops| Refer to schedule below  |
 | 1000	|Dialogue with School Leaders &amp; Key Personnels|	Library|
 |1030 – 1100	| Workshops	|Refer to schedule below|
