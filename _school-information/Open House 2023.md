@@ -20,7 +20,7 @@ Gear-Ups programmes, SEN in lighthouse  |
 
 | Time | Programme |Remarks |
 | -------- | -------- | -------- |
-| 0830  |Start of Open House| Refer to schedule below  |
+| 0830    |Start of Open House   |  |
 | 0930 – 1000 |Visual Performing Arts CCA performance / Workshops| Refer to schedule below  |
 | 1000	|Dialogue with School Leaders &amp; Key Personnels|	Library|
 |1030 – 1100	| Workshops	|Refer to schedule below|
