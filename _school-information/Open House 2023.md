@@ -17,6 +17,17 @@ Gear-Ups programmes, SEN in lighthouse  |
 |1130|	Dialogue with School Leaders &amp; Key Personnels|Library |
 
 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| 1000	|Dialogue with School Leaders &amp; Key Personnels|	Library|
+|1030 – 1100	| Workshops	|Refer to schedule below|
+|1100 – 1130|Visual Performing Arts CCA performance |	Refer to schedule below|
+|1130|	Dialogue with School Leaders &amp; Key Personnels|Library |
+
+
+
+
 **Workshop Schedule** <br> Please refer to [https://go.gov.sg/krssopenhouse2023](https://go.gov.sg/krssopenhouse2023) for the synopsis and sign-up! 
 
 
