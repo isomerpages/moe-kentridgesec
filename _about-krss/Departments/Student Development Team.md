@@ -128,10 +128,10 @@ On top of the job specific training, Kent Ridge provide leadership training deve
 
 | Level | Programmes | 
 | -------- | -------- | 
-| Secondary 1 Students | Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader) |
-| Secondary 2 Student Leaders | Peer Support Leaders Training<br> Level 1 Facilitation Strategies |
-|Secondary 3 Student Leaders  | Level 2 Facilitation Strategies <br> Cultural Immersion Exchange Programme<br> KRSS Student Leaders Retreat |
-| Secondary 4 Student Leaders  | Mentorship Programme |
+| Secondary 1 Students | -Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader) |
+| Secondary 2 Student Leaders | -Peer Support Leaders Training<br> -Level 1 Facilitation Strategies |
+|Secondary 3 Student Leaders  | -Level 2 Facilitation Strategies <br> -Cultural Immersion Exchange Programme<br> -KRSS Student Leaders Retreat |
+| Secondary 4 Student Leaders  | -Mentorship Programme |
 
 Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br><br>
 **Examples of Authentic Leadership Development Platforms**
