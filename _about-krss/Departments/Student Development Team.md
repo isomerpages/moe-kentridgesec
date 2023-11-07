@@ -110,7 +110,7 @@ The programme aims to
 
 ##### **Overview**
 
-Student Leadership and Discipline in KRSS is guided by the philosophy of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to develop a comprehensive leadership programme, targeted at the general school population while providing specialized training for student leaders throughout their journey in Kent Ridge. With this end in mind, the student leadership and discipline structure serves:<br>
+Student Leadership and Discipline in KRSS is guided by the philosophy of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to develop a comprehensive leadership programme, targeted at the general school population while providing specialized training for student leaders throughout their journey in Kent Ridge. With this end in mind, the student leadership and discipline structure serves:<br><br>
 •	To provide a platform for all Kent Ridgeans to develop self-management skills<br>
 •	To provide necessary training for all KRSS student leaders to complement the job specific training so that they will attain the progression, espoused in the student leadership and discipline framework<br>
 •	To provide opportunities for all KRSS student leaders to apply what they have learnt <br>
