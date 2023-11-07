@@ -128,6 +128,12 @@ Various leadership opportunities are provided for Kent Ridgeans who are interest
 
 On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
 
+
+| Level | Programmes | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
 | Level | Programmes| 
 | -------- | -------- | 
 | Secondary 1 Students | • Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader)  | 
