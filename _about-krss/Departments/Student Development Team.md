@@ -122,8 +122,9 @@ Various leadership opportunities are provided for Kent Ridgeans who are interest
 
 | Safety and Security | School Culture and Student Agency | Student Well-being |
 | -------- | -------- | -------- |
-| •	School Safety and Security Ambassadors   | •	Student Councillors
-•	CCA Leaders	•  | •	Class Committeeb•	Sports Leaders•	Gear Up Leaders |
+| •	School Safety and Security Ambassadors   | •	Student Councillors<br>
+•	CCA Leaders	•  |
+|•	Class Committeeb<br>•	Sports Leaders•	<br>Gear Up Leaders |
 
 On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
 
@@ -137,9 +138,8 @@ On top of the job specific training, Kent Ridge provide leadership training deve
 •	KRSS Student Leaders Retreat |
 | Secondary 4 Student Leaders  | •	Mentorship Programme |
 
-Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br>
+Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br><br>
 **Examples of Authentic Leadership Development Platforms**
-
 | Platforms|	Description| 
 | -------- | -------- | 
 | Orientation Week |Orientation Week provides an opportunity for student leaders to apply their facilitation strategies to lead in welcoming the Secondary 1 students. They plan and implement the orientation programme for the Secondary 1 students. | 
@@ -159,7 +159,7 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 
 **Social and Emotional Well-being** <br>Student support structures in this aspect include Counselling Support, Secondary 1 Transition &amp; Engagement Programme and Secondary 4 Stress Management Programme.
 
-**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:
+**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:<br>
 
 *   Providing health advice for individuals or small groups of students who approach the SHA directly or are referred to by authorised school personnel.
 *   Advising/Counselling students with existing chronic medical conditions.
