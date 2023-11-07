@@ -3,7 +3,7 @@ title: Student Development Team
 permalink: /about-krss/departments/student-development-team/
 description: ""
 third_nav_title: Departments
-variant: tiptap
+variant: markdown
 ---
 ### Overview
 The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning.&nbsp;([Refer to the Kent Ridge Co- Curricular Framework.](/about-krss/schools-directions/cc-framework/))
@@ -110,69 +110,50 @@ The programme aims to
 
 ##### **Overview**
 
-Student Leadership in KRSS is guided by the philosophy  of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. 
+Student Leadership and Discipline in KRSS is guided by the philosophy of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to develop a comprehensive leadership programme, targeted at the general school population while providing specialized training for student leaders throughout their journey in Kent Ridge. With this end in mind, the student leadership and discipline structure serves:<br>
+•	To provide a platform for all Kent Ridgeans to develop self-management skills<br>
+•	To provide necessary training for all KRSS student leaders to complement the job specific training so that they will attain the progression, espoused in the student leadership and discipline framework<br>
+•	To provide opportunities for all KRSS student leaders to apply what they have learnt <br>
+•	To drive school culture and student agency through leadership development<br>
 
-Teachers carefully mentor students through experiential learning programmes to develop resilient leaders who lead self, peers and school/community. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to differentiate the programmes for the different segments of students. Student Leaders are provided with explicit teaching and experiential learning opportunities to hone their leadership skills. Student leaders who go through the programmes reflect on their learning and are assessed by their peers and teachers.
+Kent Ridge Secondary School believes in equipping all Kent Ridgeans with broad-based leadership development to develop self-leadership skills, required for **reflective leader**. This will allow all Kent Ridgeans to develop self-management skills to manage their behaviour and lead themselves according to the expectations set forth for all Kent Ridgeans. This development is achieved through various co-curricular platforms such as CCE lessons, student well-being programmes and cohort experiences such as Experiential Week and Orientation Week.<br>
+
+Various leadership opportunities are provided for Kent Ridgeans who are interested in developing their leadership competencies in different areas. This will allow them to discover their aspirations and work towards being an **aspirational leader**.<br>
+
+| Safety and Security | School Culture and Student Agency | Student Well-being |
+| -------- | -------- | -------- |
+| •	School Safety and Security Ambassadors   | •	Student Councillors
+•	CCA Leaders	•  | •	Class Committeeb•	Sports Leaders•	Gear Up Leaders |
+
+On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
+
+| Level | Programmes| 
+| -------- | -------- | 
+| Secondary 1 Students | • Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader)  | 
+| Secondary 2 Student Leaders |Peer Support Leaders Training
+•	Level 1 Facilitation Strategies |
+| Secondary 3 Student Leaders  | • Level 2 Facilitation Strategies
+•	Cultural Immersion Exchange Programme
+•	KRSS Student Leaders Retreat |
+| Secondary 4 Student Leaders  | •	Mentorship Programme |
+
+Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br>
+**Examples of Authentic Leadership Development Platforms**
+
+| Platforms|	Description| 
+| -------- | -------- | 
+| Orientation Week |Orientation Week provides an opportunity for student leaders to apply their facilitation strategies to lead in welcoming the Secondary 1 students. They plan and implement the orientation programme for the Secondary 1 students. | 
+| Experiential Week | Experiential Week provides every student with the opportunity to acquire leadership skills. An example will  be during the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students. |
+| School Operations, Events and Celebrations | Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge. |
 
 
-##### **Explicit Teaching**  
-Briefings, leadership training programmes and bonding activities are customised for the different tiers of student leaders to equip them with the relevant leadership knowledge and skills.
+### Discipline Committee
+As part of the broad-based leadership development for all Kent Ridgeans, discipline is seen as a means to an end to understand the required expectations. This will allow all Kent Ridgeans to understand and internalize the expectations as to allow them to manage themselves accordingly. <br>
+With this intent, Kent Ridge Secondary adopts positive discipline and restorative practice as the whole school approach to setting expectations for all Kent Ridgeans. This drives the school in developing the following discipline philosophy:<br>
+•	Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.<br>
+•	Discipline is an educative process, and the goal is to instil self-discipline and good character in students.<br>
+•	Disciplinary measures serve as a proxy for consequences of the poor choices made. It is not punishment, and must be meted out fairly, firmly, and appropriately.
 
-##### **Experiential Learning Opportunities**
-
-1.  **Experiential Week**<br>Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
-
-3.  **School Operations, Events and Celebrations**<br>Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-soxn"><span style="font-weight:bold">Leadership Group</span></th>
-    <th class="tg-soxn"><span style="font-weight:bold">Experiential Learning Opportunities</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lm9i">Student Councillors</td>
-    <td class="tg-lm9i">Sec One Orientation, Teachers’ Day celebrations, student well-being and advocacy projects (e.g. school locker project, school corporate t-shirt design)</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Sports Leaders</td>
-    <td class="tg-lm9i">Kent Ridge Olympics and Level Inter-class Games, Sec One Orientation facilitation </td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">CCA Leaders</td>
-    <td class="tg-lm9i">CCA activities, CCA Fair, Sec One Orientation Campfire programme</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Student Ambassadors</td>
-    <td class="tg-lm9i">Hosting guests and visitors, school publicity talks and school open-house</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">GEAR-UP Leaders</td>
-    <td class="tg-lm9i">GEAR-UP activities and KR Gives Back</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">School Safety Ambassadors</td>
-    <td class="tg-lm9i">Advocacy of school safety practices through being trained as first responders as well as advocating safety in CCA, class and school-wide activities such as emergency drills and fire safety. </td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Class Committee Members</td>
-    <td class="tg-lm9i">Class administration and discipline, Circle Time, class activities and leading level-wide forums with school leaders</td>
-  </tr>
-</tbody>
-</table>
-
-<iframe width="850" height="478" src="https://www.youtube.com/embed/bvUl50yMUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Student Support Programmes
 
