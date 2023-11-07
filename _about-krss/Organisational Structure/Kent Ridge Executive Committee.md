@@ -3,10 +3,8 @@ title: Kent Ridge Executive Committee
 permalink: /about-krss/organisational-structure/kent-ridge-executive-committee/
 description: ""
 third_nav_title: Organisational Structure
+variant: markdown
 ---
-![Kent Ridge Executive Committee](/images/kent-ridge-executive-committee-2-1024x512.jpg)
-
-
 <style>
 table, th, td {
 border-collapse: collapse;
