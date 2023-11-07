@@ -122,9 +122,7 @@ Various leadership opportunities are provided for Kent Ridgeans who are interest
 
 | Safety and Security | School Culture and Student Agency | Student Well-being |
 | -------- | -------- | -------- |
-| •	School Safety and Security Ambassadors   | 
-|•	Student Councillors<br>•	CCA Leaders	•  |
-|•	Class Committeeb<br>•	Sports Leaders•	<br>Gear Up Leaders |
+| •	School Safety and Security Ambassadors   | •	Student Councillors<br>•	CCA Leaders	•  | •	Class Committeeb<br>•	Sports Leaders•	<br>Gear Up Leaders |
 
 On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
 
@@ -162,7 +160,7 @@ Student Leaders will be offered opportunities to sign up for external programmes
 
 ### Discipline Committee
 As part of the broad-based leadership development for all Kent Ridgeans, discipline is seen as a means to an end to understand the required expectations. This will allow all Kent Ridgeans to understand and internalize the expectations as to allow them to manage themselves accordingly. <br>
-With this intent, Kent Ridge Secondary adopts positive discipline and restorative practice as the whole school approach to setting expectations for all Kent Ridgeans. This drives the school in developing the following discipline philosophy:<br>
+With this intent, Kent Ridge Secondary adopts positive discipline and restorative practice as the whole school approach to setting expectations for all Kent Ridgeans. This drives the school in developing the following discipline philosophy:<br><br>
 •	Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.<br>
 •	Discipline is an educative process, and the goal is to instil self-discipline and good character in students.<br>
 •	Disciplinary measures serve as a proxy for consequences of the poor choices made. It is not punishment, and must be meted out fairly, firmly, and appropriately.
