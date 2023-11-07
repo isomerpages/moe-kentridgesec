@@ -140,7 +140,10 @@ On top of the job specific training, Kent Ridge provide leadership training deve
 
 | Level 1 | Programmes | 
 | -------- | -------- | 
-| Text     | Text     | 
+| Secondary 1 Students | Text     | 
+| Secondary 2 Student Leaders | Text     | 
+| Secondary 3 Student Leaders | Text     | 
+| Secondary 4 Student Leaders | Text     | 
 
 
 
