@@ -152,6 +152,7 @@ On top of the job specific training, Kent Ridge provide leadership training deve
 
 Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br><br>
 **Examples of Authentic Leadership Development Platforms**
+
 | Platforms|	Description| 
 | -------- | -------- | 
 | Orientation Week |Orientation Week provides an opportunity for student leaders to apply their facilitation strategies to lead in welcoming the Secondary 1 students. They plan and implement the orientation programme for the Secondary 1 students. | 
