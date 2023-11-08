@@ -3,25 +3,26 @@ title: Student Development Team
 permalink: /about-krss/departments/student-development-team/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### Overview
-The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning. ([Refer to the Kent Ridge Co- Curricular Framework.](/about-krss/schools-directions/cc-framework/))
+The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning.&nbsp;([Refer to the Kent Ridge Co- Curricular Framework.](/about-krss/schools-directions/cc-framework/))
 
 ### CCE Curriculum
 
 ##### **Character and Citizenship Education Curriculum <br>Explicit Teaching**
 
-**1.** **Character and Citizenship Education Lessons**  
-Lessons are taught weekly with the aim of achieving the **four** enduring CCE 2021 goals. With CCE 2021, we aim to develop our students with:
+**1.**&nbsp;**Character and Citizenship Education Lessons**  
+Lessons are taught weekly with the aim of achieving the&nbsp;**four**&nbsp;enduring CCE 2021 goals. With CCE 2021, we aim to develop our students with:
 
 *   Good Character: anchored in sound values, be able to think critically, ethically and to make discerning judgments and take responsibility for choices and actions
 *   Resilience and Well-Being: to remain resilient when facing challenges and are able to form healthy relationships and have a sense of gratitude which will contribute to their well-being
 *   Active Citizenship: students stepping up to contribute to people around them and the nation as well as
 *   Future Readiness: students having a sense of purpose in their lives and to be equipped to take on the challenges of the future
 
-The CCE Curriculum Content is based on the **three** big ideas of Identity, Relationships and Choices. It comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students. These fundamentals are woven across content areas of National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), in ways that are age-appropriate and meaningful for our students.
+The CCE Curriculum Content is based on the&nbsp;**three**&nbsp;big ideas of Identity, Relationships and Choices. It comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students. These fundamentals are woven across content areas of National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), in ways that are age-appropriate and meaningful for our students.
 
-**2.** **Education and Career Guidance**  
+**2.**&nbsp;**Education and Career Guidance**  
 Education and Career Guidance is a developmental process which facilitates the acquisition of knowledge, skills and values needed to make informed decisions at key education stages to successfully transit from school to further education or work. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the demands of the future workplace. The ECG curriculum focuses on exploration and helps students understand themselves better and guide their exploration of different education and career pathways.
 
 Students learn to:
@@ -48,7 +49,7 @@ Organised ECG Programmes include:
 *  Career Talks by industry professionals
 
 **3\. SHINE KR! Programme**  
-SHINE KR! is a holistic student development programme which aims to _**S**_trengthen the relationship between Normal Course (NC) students and teachers through Teacher-Student Interaction, Form Teacher’s Period and Breakfast Programme. Service to school activities _**H**_ighlight the positive traits of NC students so that they develop self-confidence. There is _**I**_ntentional effort to communicate the rationale of the programmes so that there is greater buy-in amongst students. To _**N**_urture the NC students to be leaders of their own lives, opportunities are given to develop social emotional competencies and leadership skills through the Taster Elective Modules for Lower Sec,  Elective Modules for Upper Sec and responsibilities within school. To _**E**_mpower and build self esteem of NC students, they actively contribute in the school’s collaborative projects with partners such as PAP Community Foundation and the Surabaya Village School.
+SHINE KR! is a holistic student development programme which aims to&nbsp;_**S**_trengthen the relationship between Normal Course (NC) students and teachers through Teacher-Student Interaction, Form Teacher’s Period and Breakfast Programme. Service to school activities&nbsp;_**H**_ighlight the positive traits of NC students so that they develop self-confidence. There is&nbsp;_**I**_ntentional effort to communicate the rationale of the programmes so that there is greater buy-in amongst students. To&nbsp;_**N**_urture the NC students to be leaders of their own lives, opportunities are given to develop social emotional competencies and leadership skills through the Taster Elective Modules for Lower Sec, &nbsp;Elective Modules for Upper Sec and responsibilities within school. To&nbsp;_**E**_mpower and build self esteem of NC students, they actively contribute in the school’s collaborative projects with partners such as PAP Community Foundation and the Surabaya Village School.
 
 **Experiential Learning Opportunities**
 
@@ -57,16 +58,16 @@ The school’s Values in Action (VIA) Programme is learning experiences that sup
 
 The school-wide VIA programme – KR Hands-On Day provides students with the experiential learning opportunity to live out their values, skills and SE competencies through a range of differentiated VIA level activities.
 
-**Sec 1 –** _**Lend a Hand, Save the Earth**_  
+**Sec 1 –**&nbsp;_**Lend a Hand, Save the Earth**_  
 Sec 1 students participate in beach cleaning at East Coast Park to appreciate the importance of conserving the environment.
 
-**Sec 2 –** _**Lend a Hand, Save the Earth.**_ 
+**Sec 2 –**&nbsp;_**Lend a Hand, Save the Earth.**_ 
 Students visit the homes of residents in the Clementi neighbourhood to collect recyclable paper and old clothing from residents. They aim to save the environment through their recycling efforts. The funds raised through their endeavours are donated to Children’s Cancer Foundation.
 
-**Sec 3 –** _**Lend a Hand, Save a Child.**_  
+**Sec 3 –**&nbsp;_**Lend a Hand, Save a Child.**_  
 Students set up class stalls during Sec 3 Entrepreneurship Fair on KR Fiesta to raise funds for MINDS Lee Kong Chian Gardens School.
 
-**Sec 4 & 5 –** _**Lend a hand, Serve a Senior.**_  
+**Sec 4 &amp; 5 –**&nbsp;_**Lend a hand, Serve a Senior.**_  
 Sec 4 and 5 students pack food hampers and interact with the elderly living in various Homes for the Aged in the South West CDC district.
 
 **2\. Overseas Service Learning trips**  
@@ -105,79 +106,58 @@ The programme aims to
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
 *   raise youths’ resiliency with life skills and competencies.
 
-### Leadership Development
+### Student Leadership and Discipline
 
-##### **Overview**
+##### **Student Leadership Overview**
 
-Student Leadership in KRSS is guided by the philosophy  of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. 
+Student Leadership and Discipline in KRSS is guided by the philosophy of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to develop a comprehensive leadership programme, targeted at the general school population while providing specialized training for student leaders throughout their journey in Kent Ridge. With this end in mind, the student leadership and discipline structure serves:<br><br>
+•	To provide a platform for all Kent Ridgeans to develop self-management skills<br>
+•	To provide necessary training for all KRSS student leaders to complement the job specific training so that they will attain the progression, espoused in the student leadership and discipline framework<br>
+•	To provide opportunities for all KRSS student leaders to apply what they have learnt <br>
+•	To drive school culture and student agency through leadership development<br>
+![](/images/student%20leadership%20and%20discipline%20framework.PNG)
 
-Teachers carefully mentor students through experiential learning programmes to develop resilient leaders who lead self, peers and school/community. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to differentiate the programmes for the different segments of students. Student Leaders are provided with explicit teaching and experiential learning opportunities to hone their leadership skills. Student leaders who go through the programmes reflect on their learning and are assessed by their peers and teachers.
+Kent Ridge Secondary School believes in equipping all Kent Ridgeans with broad-based leadership development to develop self-leadership skills, required for **reflective leader**. This will allow all Kent Ridgeans to develop self-management skills to manage their behaviour and lead themselves according to the expectations set forth for all Kent Ridgeans. This development is achieved through various co-curricular platforms such as CCE lessons, student well-being programmes and cohort experiences such as Experiential Week and Orientation Week.<br>
+
+Various leadership opportunities are provided for Kent Ridgeans who are interested in developing their leadership competencies in different areas. This will allow them to discover their aspirations and work towards being an **aspirational leader**.<br>
+
+| Safety and Security | School Culture and Student Agency | Student Well-being |
+| -------- | -------- | -------- |
+| - School Safety and Security Ambassadors   | - Student Councillors<br>- CCA Leaders	 | - Class Committee <br>- Sports Leaders<br> - Gear Up Leaders |
+
+On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
+
+| Level | Programmes | 
+| -------- | -------- | 
+| Secondary 1 Students | - Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader) |
+| Secondary 2 Student Leaders | - Peer Support Leaders Training<br> - Level 1 Facilitation Strategies |
+|Secondary 3 Student Leaders  | - Level 2 Facilitation Strategies <br> - Cultural Immersion Exchange Programme<br> - KRSS Student Leaders Retreat |
+| Secondary 4 Student Leaders  | - Mentorship Programme |
+
+Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br><br>
+**Examples of Authentic Leadership Development Platforms**
+
+| Platforms|	Description| 
+| -------- | -------- | 
+| Orientation Week |Orientation Week provides an opportunity for student leaders to apply their facilitation strategies to lead in welcoming the Secondary 1 students. They plan and implement the orientation programme for the Secondary 1 students. | 
+| Experiential Week | Experiential Week provides every student with the opportunity to acquire leadership skills. An example will  be during the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students. |
+| School Operations, Events and Celebrations | Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge. |
 
 
-##### **Explicit Teaching**  
-Briefings, leadership training programmes and bonding activities are customised for the different tiers of student leaders to equip them with the relevant leadership knowledge and skills.
+### Discipline Committee
+##### **Disipline Committee Overview**
+As part of the broad-based leadership development for all Kent Ridgeans, discipline is seen as a means to an end to understand the required expectations. This will allow all Kent Ridgeans to understand and internalize the expectations as to allow them to manage themselves accordingly. <br>
+With this intent, Kent Ridge Secondary adopts positive discipline and restorative practice as the whole school approach to setting expectations for all Kent Ridgeans. This drives the school in developing the following discipline philosophy:<br><br>
+•	Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.<br>
+•	Discipline is an educative process, and the goal is to instil self-discipline and good character in students.<br>
+•	Disciplinary measures serve as a proxy for consequences of the poor choices made. It is not punishment, and must be meted out fairly, firmly, and appropriately.
 
-##### **Experiential Learning Opportunities**
-
-1.  **Experiential Week**<br>Experiential Week with its identified focus for every level provides every student with the opportunity to acquire leadership skills. During the E-week level camps, students put what they have learnt into practice. Teachers share their observations, conduct debriefs and provide feedback to their students.
-
-3.  **School Operations, Events and Celebrations**<br>Student Leaders are given experiential learning opportunities to develop their leadership potential by planning and managing school celebrations with their respective leadership group teachers’ in-charge.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-soxn"><span style="font-weight:bold">Leadership Group</span></th>
-    <th class="tg-soxn"><span style="font-weight:bold">Experiential Learning Opportunities</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lm9i">Student Councillors</td>
-    <td class="tg-lm9i">Sec One Orientation, Teachers’ Day celebrations, student well-being and advocacy projects (e.g. school locker project, school corporate t-shirt design)</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Sports Leaders</td>
-    <td class="tg-lm9i">Kent Ridge Olympics and Level Inter-class Games, Sec One Orientation facilitation </td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">CCA Leaders</td>
-    <td class="tg-lm9i">CCA activities, CCA Fair, Sec One Orientation Campfire programme</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Student Ambassadors</td>
-    <td class="tg-lm9i">Hosting guests and visitors, school publicity talks and school open-house</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">GEAR-UP Leaders</td>
-    <td class="tg-lm9i">GEAR-UP activities and KR Gives Back</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">School Safety Ambassadors</td>
-    <td class="tg-lm9i">Advocacy of school safety practices through being trained as first responders as well as advocating safety in CCA, class and school-wide activities such as emergency drills and fire safety. </td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Class Committee Members</td>
-    <td class="tg-lm9i">Class administration and discipline, Circle Time, class activities and leading level-wide forums with school leaders</td>
-  </tr>
-</tbody>
-</table>
-
-<iframe width="850" height="478" src="https://www.youtube.com/embed/bvUl50yMUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Student Support Programmes
 
-**Social and Emotional Well-being** <br>Student support structures in this aspect include Counselling Support, Secondary 1 Transition & Engagement Programme and Secondary 4 Stress Management Programme.
+**Social and Emotional Well-being** <br>Student support structures in this aspect include Counselling Support, Secondary 1 Transition &amp; Engagement Programme and Secondary 4 Stress Management Programme.
 
-**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:
+**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:<br>
 
 *   Providing health advice for individuals or small groups of students who approach the SHA directly or are referred to by authorised school personnel.
 *   Advising/Counselling students with existing chronic medical conditions.
@@ -188,4 +168,4 @@ Briefings, leadership training programmes and bonding activities are customised 
 
 **Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs are provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also partners stakeholders for case management and resource management discussions.
 
-<iframe width="850" height="478" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="850" height="478" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

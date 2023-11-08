@@ -3,10 +3,8 @@ title: Kent Ridge Executive Committee
 permalink: /about-krss/organisational-structure/kent-ridge-executive-committee/
 description: ""
 third_nav_title: Organisational Structure
+variant: markdown
 ---
-![Kent Ridge Executive Committee](/images/kent-ridge-executive-committee-2-1024x512.jpg)
-
-
 <style>
 table, th, td {
 border-collapse: collapse;
@@ -71,7 +69,7 @@ border-collapse: collapse;
      <td><a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>HOD / Humanities (covering)</td>
+     <td>HOD / Humanities</td>
      <td>Ms Krystal Ong Shi Xuan</td>
      <td><a href="mailto:ong_shi_xuan_krystal@schools.gov.sg">ong_shi_xuan_krystal@schools.gov.sg</a></td>
   </tr>
