@@ -106,9 +106,9 @@ The programme aims to
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
 *   raise youths’ resiliency with life skills and competencies.
 
-### Leadership Development
+### Student Leadership and Discipline
 
-##### **Overview**
+##### **Student Leadership Overview**
 
 Student Leadership and Discipline in KRSS is guided by the philosophy of “Every Kent Ridgean A Leader. Every Student Leader a Peer Support Leader”. The school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership model to develop a comprehensive leadership programme, targeted at the general school population while providing specialized training for student leaders throughout their journey in Kent Ridge. With this end in mind, the student leadership and discipline structure serves:<br><br>
 •	To provide a platform for all Kent Ridgeans to develop self-management skills<br>
@@ -145,6 +145,7 @@ Student Leaders will be offered opportunities to sign up for external programmes
 
 
 ### Discipline Committee
+##### **Disipline Committee Overview**
 As part of the broad-based leadership development for all Kent Ridgeans, discipline is seen as a means to an end to understand the required expectations. This will allow all Kent Ridgeans to understand and internalize the expectations as to allow them to manage themselves accordingly. <br>
 With this intent, Kent Ridge Secondary adopts positive discipline and restorative practice as the whole school approach to setting expectations for all Kent Ridgeans. This drives the school in developing the following discipline philosophy:<br><br>
 •	Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.<br>
