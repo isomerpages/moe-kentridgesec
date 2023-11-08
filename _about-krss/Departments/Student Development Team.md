@@ -122,16 +122,16 @@ Various leadership opportunities are provided for Kent Ridgeans who are interest
 
 | Safety and Security | School Culture and Student Agency | Student Well-being |
 | -------- | -------- | -------- |
-| -School Safety and Security Ambassadors   | -Student Councillors<br>-CCA Leaders	 | -Class Committee <br>-Sports Leaders<br> -Gear Up Leaders |
+| - School Safety and Security Ambassadors   | - Student Councillors<br>- CCA Leaders	 | - Class Committee <br>- Sports Leaders<br> - Gear Up Leaders |
 
 On top of the job specific training, Kent Ridge provide leadership training development programmes at specific level to equip them with the necessary competencies and skills so they will progress to be competent and resilient leaders. These trainings will also develop them to be effective mentors for the junior leaders and work towards being an **inspirational leader** for all.
 
 | Level | Programmes | 
 | -------- | -------- | 
-| Secondary 1 Students | -Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader) |
-| Secondary 2 Student Leaders | -Peer Support Leaders Training<br> -Level 1 Facilitation Strategies |
-|Secondary 3 Student Leaders  | -Level 2 Facilitation Strategies <br> -Cultural Immersion Exchange Programme<br> -KRSS Student Leaders Retreat |
-| Secondary 4 Student Leaders  | -Mentorship Programme |
+| Secondary 1 Students | - Leadership Experience Programme (for Student Council, Gear-Up Leaders and Sports Leader) |
+| Secondary 2 Student Leaders | - Peer Support Leaders Training<br> - Level 1 Facilitation Strategies |
+|Secondary 3 Student Leaders  | - Level 2 Facilitation Strategies <br> - Cultural Immersion Exchange Programme<br> - KRSS Student Leaders Retreat |
+| Secondary 4 Student Leaders  | - Mentorship Programme |
 
 Student Leaders will be offered opportunities to sign up for external programmes such as Model United Nations to further hone their competencies. <br><br>
 **Examples of Authentic Leadership Development Platforms**
