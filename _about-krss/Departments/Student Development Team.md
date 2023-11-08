@@ -115,6 +115,7 @@ Student Leadership and Discipline in KRSS is guided by the philosophy of “Ever
 •	To provide necessary training for all KRSS student leaders to complement the job specific training so that they will attain the progression, espoused in the student leadership and discipline framework<br>
 •	To provide opportunities for all KRSS student leaders to apply what they have learnt <br>
 •	To drive school culture and student agency through leadership development<br>
+![](/images/student%20leadership%20and%20discipline%20framework.PNG)
 
 Kent Ridge Secondary School believes in equipping all Kent Ridgeans with broad-based leadership development to develop self-leadership skills, required for **reflective leader**. This will allow all Kent Ridgeans to develop self-management skills to manage their behaviour and lead themselves according to the expectations set forth for all Kent Ridgeans. This development is achieved through various co-curricular platforms such as CCE lessons, student well-being programmes and cohort experiences such as Experiential Week and Orientation Week.<br>
 
