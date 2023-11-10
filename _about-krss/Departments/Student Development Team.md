@@ -184,7 +184,7 @@ Students who require literacy and language support have various strengths that c
 *Social &amp; Behavioural Support*<br>
 Students with social and behavioural difficulties may be engaged in individual, peer or group sessions to learn skills and strategies. Intervention support for them may include: Emotion Regulation Skills using Zones of Regulation, Facing Your Fear Programme, Circle of Friends and Social Thinking Concepts.
 
-**Schoolwide Programmes/Activities**
+**Schoolwide Programmes/Activities**<br>
 *“Knowing Me, Knowing You” Programme*<br>
 In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
 ![](/images/Knoing_me_Knowing_You.jpg)
