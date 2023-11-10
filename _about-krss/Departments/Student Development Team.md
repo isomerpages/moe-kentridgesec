@@ -66,7 +66,7 @@ Organised ECG Programmes include:
 ECG Curriculum was customised to align to the level themes to achieve targeted learning outcomes: 
 ![](/images/krssecgplan.png)
 ![](/images/krssecgplan_1.png)
-**3\. Values in Action Programme – KR Gives Back**  
+**4\. Values in Action Programme – KR Gives Back**  
 The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 <br>
 The school’s KR Gives Back (KRGB) programme provides students with the experiential learning opportunity through customised VIA level activities to live out their values, skills and SE competencies. 
