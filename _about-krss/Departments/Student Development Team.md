@@ -174,9 +174,28 @@ The Student Health Advisor also partners school personnel, Health Promotion Boar
 
 *Learning and Behavioural Support* <br>
 Intervention and support are provided based on the needs of students in the areas of Literacy, Social Emotional and Behavioural challenges. Interventions are carried out through individual or group sessions. Through collaboration with various stakeholders such as parents, teachers and external agencies, students learn skills and strategies to help them achieve personal and academic goals.<br>
+![](/images/LBS.png)
 
 *Language &amp; Literacy Support* <br>
 Students who require literacy and language support have various strengths that can be enhanced, and learning gap that can be improved. Intervention and support for them may include: Reading Fluency, Comprehension Skills, Spelling and Writing Skills.
+![](/images/LLS.png)
+
+*Social &amp; Behavioural Support*<br>
+Students with social and behavioural difficulties may be engaged in individual, peer or group sessions to learn skills and strategies. Intervention support for them may include: Emotion Regulation Skills using Zones of Regulation, Facing Your Fear Programme, Circle of Friends and Social Thinking Concepts.
+
+**Schoolwide Programmes/Activities**
+*“Knowing Me, Knowing You” Programme*<br>
+In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
+
+**Customised Programmes for students**
+*Sec 1 Student Induction Programmes*<br>
+Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
 
 
+*Learning Journeys*<br>
+Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
+
+**Partnership**
+*Parents Induction*<br>
+Sec 1 parents are invited to a session where SEN Team share about the SEN support provided by the school. The briefing session aslo creates an opportunity for greater collaboration between parents and school as we support students with SEN to have a smooth transition to secondary school.
 
