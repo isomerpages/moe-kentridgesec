@@ -66,6 +66,7 @@ Organised ECG Programmes include:
 ECG Curriculum was customised to align to the level themes to achieve targeted learning outcomes: 
 ![](/images/krssecgplan.png)
 ![](/images/krssecgplan_1.png)
+<br>
 **4\. Values in Action Programme – KR Gives Back**  
 The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 <br>
@@ -103,7 +104,7 @@ The programme aims to
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
 *   raise youths’ resiliency with life skills and competencies.
 
-(e) The Scaffold Programme (TSP)
+(e) The Scaffold Programme (TSP)<br>
 The Scaffold Programme (TSP) is a student leadership development programme that seeks to inspire students at an early stage to achieve desired school outcomes. In line with GEAR-UP, TSP is specially designed for the newly recruited Secondary 1 GEAR-UP students which focuses on nurturing students' character and competence as a leader, with emphasis on aspects such as social emotional competencies and youth development focusing on Connection, Confidence, Character, Competence, Care and Contribution. TSP also aims to strengthen students' positive orientation towards their future through group work sessions. The newly recruited Secondary 1 GEAR-UP students will experience a common curriculum before they are engaged in customized GEAR-UP programmes based on their profiles, needs and interests. 
 
 ### Student Leadership and Discipline
@@ -193,10 +194,12 @@ In this SEN awareness programme to promote inclusiveness, students learn about s
 *Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
 ![](/images/Sec_1_Student_Induction_Programmes.png)
+<br>
 *Learning Journeys*<br>
 Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
 ![](/images/LJ.png)
-**Partnership**
+<br>
+**Partnership**<br>
 *Parents Induction*<br>
 Sec 1 parents are invited to a session where SEN Team share about the SEN support provided by the school. The briefing session aslo creates an opportunity for greater collaboration between parents and school as we support students with SEN to have a smooth transition to secondary school.
 ![](/images/Partnership.png)
