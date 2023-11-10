@@ -187,9 +187,8 @@ Students with social and behavioural difficulties may be engaged in individual, 
 **Schoolwide Programmes/Activities**
 *“Knowing Me, Knowing You” Programme*<br>
 In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
-![](/images/LLS.png)
-![](/images/LLS.png)
-
+![](/images/Knoing_me_Knowing_You.jpg)
+<br>
 **Customised Programmes for students**<br>
 *Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
