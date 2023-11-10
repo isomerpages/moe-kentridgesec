@@ -73,31 +73,6 @@ The school’s KR Gives Back (KRGB) programme provides students with the experie
 ![](/images/krgbplan.png)
 ![](/images/krgbplan_1.png)
 
-**Experiential Learning Opportunities**
-
-**1\. Values in Action Programme**  
-The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
-
-The school-wide VIA programme – KR Hands-On Day provides students with the experiential learning opportunity to live out their values, skills and SE competencies through a range of differentiated VIA level activities.
-
-**Sec 1 –**&nbsp;_**Lend a Hand, Save the Earth**_  
-Sec 1 students participate in beach cleaning at East Coast Park to appreciate the importance of conserving the environment.
-
-**Sec 2 –**&nbsp;_**Lend a Hand, Save the Earth.**_ 
-Students visit the homes of residents in the Clementi neighbourhood to collect recyclable paper and old clothing from residents. They aim to save the environment through their recycling efforts. The funds raised through their endeavours are donated to Children’s Cancer Foundation.
-
-**Sec 3 –**&nbsp;_**Lend a Hand, Save a Child.**_  
-Students set up class stalls during Sec 3 Entrepreneurship Fair on KR Fiesta to raise funds for MINDS Lee Kong Chian Gardens School.
-
-**Sec 4 &amp; 5 –**&nbsp;_**Lend a hand, Serve a Senior.**_  
-Sec 4 and 5 students pack food hampers and interact with the elderly living in various Homes for the Aged in the South West CDC district.
-
-**2\. Overseas Service Learning trips**  
-Overseas service learning trips to neighbouring countries are organised to nurture a spirit of serving the global community and to gain insights into the lifestyle of students in other countries, beyond Singapore.
-
-**3\. Student-Initiated VIA**  
-To develop students to be Gracious Citizens and Active Contributors, students can champion a community cause or seek out opportunities to volunteer for VIA projects.
-
 **5. GEAR-UP @ KR**<br>
 To support the School’s Key Strategic Thrust 1 of Holistic Development of Students, the school has an extensive GEAR-UP programme which targets different segments of students with varied profiles, interests, strengths and needs. GEAR-UP @ KR aims to engage Kent Ridgeans in meaningful after-school engagement programmes to develop useful core skills and competencies, build positive relationships with their peers, mentors and teachers while deepening their passions so that they can strive towards achieving their aspirations. GEAR-UP @ KR adopts the SOAR (Skills, Opportunities, Achievement, Recognition) approach to engage students in meaningful activities. They are:
 
