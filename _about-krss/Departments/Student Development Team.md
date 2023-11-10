@@ -155,17 +155,27 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 
 ### Student Support Programmes
 
-**Social and Emotional Well-being** <br>Student support structures in this aspect include Counselling Support, Secondary 1 Transition &amp; Engagement Programme and Secondary 4 Stress Management Programme.
+**Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
+Students are equipped with knowledge, skills and tips to manage self, support their peers facing challenges as well as know the different avenues to seek help.
 
-**Physical Well-being** <br>The Student Health Advisor (SHA) Programme allows the SHA to play an active role in supporting our students’ health and nutritional needs. The SHA’s key roles include:<br>
 
-*   Providing health advice for individuals or small groups of students who approach the SHA directly or are referred to by authorised school personnel.
-*   Advising/Counselling students with existing chronic medical conditions.
-*   Providing advice on health issues which include smoking, substance abuse, chronic disease management etc.
-*   Working with Health Promotion Board (HPB) or other relevant agencies to mount suitable health education/promotion activities for students, school staff and parents.
+**Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
+The programme supports: 
 
-**Financial Assistance Programmes** <br>Financial needs of students are identified and supported through various schemes and bursary applications.
+•	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;
+•	Students with health, weight and substance abuse issues; and<br>
+•	Students with existing chronic medical conditions<br>
+The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. 
 
-**Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs are provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also partners stakeholders for case management and resource management discussions.
+**Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
 
-<iframe width="850" height="478" src="https://www.youtube.com/embed/odjrlIyU75g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+**Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.<br>
+
+*Learning and Behavioural Support* <br>
+Intervention and support are provided based on the needs of students in the areas of Literacy, Social Emotional and Behavioural challenges. Interventions are carried out through individual or group sessions. Through collaboration with various stakeholders such as parents, teachers and external agencies, students learn skills and strategies to help them achieve personal and academic goals.<br>
+
+*Language &amp; Literacy Support* <br>
+Students who require literacy and language support have various strengths that can be enhanced, and learning gap that can be improved. Intervention and support for them may include: Reading Fluency, Comprehension Skills, Spelling and Writing Skills.
+
+
+
