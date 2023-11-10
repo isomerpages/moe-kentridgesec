@@ -70,8 +70,8 @@ ECG Curriculum was customised to align to the level themes to achieve targeted l
 The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 <br>
 The school’s KR Gives Back (KRGB) programme provides students with the experiential learning opportunity through customised VIA level activities to live out their values, skills and SE competencies. 
-![](/images/KRGBplan.png)
-![](/images/KRGBplan_1.png)
+![](/images/krgbplan.png)
+![](/images/krgbplan_1.png)
 
 **Experiential Learning Opportunities**
 
