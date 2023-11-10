@@ -191,7 +191,6 @@ In this SEN awareness programme to promote inclusiveness, students learn about s
 *Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
 
-
 *Learning Journeys*<br>
 Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
 
