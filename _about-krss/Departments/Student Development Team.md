@@ -156,22 +156,21 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 
 ### Student Support Programmes
 
-**Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
+**i. Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
 Students are equipped with knowledge, skills and tips to manage self, support their peers facing challenges as well as know the different avenues to seek help.
 ![](/images/Social_and_Emotional_Well_being.png)
 
-**Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
-The programme supports: 
-![](/images/Physical_Well_being.png)
-
+**ii. Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
+The programme supports: <br>
 •	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;<br>
 •	Students with health, weight and substance abuse issues; and<br>
 •	Students with existing chronic medical conditions<br>
-The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. 
+The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. <br>
+![](/images/Physical_Well_being.png)
 
-**Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
+**iii. Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
 
-**Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.<br>
+**iv. Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.<br>
 
 *Learning and Behavioural Support* <br>
 Intervention and support are provided based on the needs of students in the areas of Literacy, Social Emotional and Behavioural challenges. Interventions are carried out through individual or group sessions. Through collaboration with various stakeholders such as parents, teachers and external agencies, students learn skills and strategies to help them achieve personal and academic goals.<br>
