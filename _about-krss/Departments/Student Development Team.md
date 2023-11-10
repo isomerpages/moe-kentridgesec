@@ -157,12 +157,13 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 
 **Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
 Students are equipped with knowledge, skills and tips to manage self, support their peers facing challenges as well as know the different avenues to seek help.
-
+![](/images/Social_and_Emotional_Well_being.png)
 
 **Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
 The programme supports: 
+![](/images/Physical_Well_being.png)
 
-•	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;
+•	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;<br>
 •	Students with health, weight and substance abuse issues; and<br>
 •	Students with existing chronic medical conditions<br>
 The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. 
