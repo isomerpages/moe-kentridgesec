@@ -21,7 +21,7 @@ variant: markdown
 **Workshop Schedule** <br> Please refer to [https://go.gov.sg/krssopenhouse2023](https://go.gov.sg/krssopenhouse2023) for the synopsis and sign-up! 
 
 
-| Venue | 9030 -1000| 1030 - 1100 |
+| Venue | 0930 -1000| 1030 - 1100 |
 | -------- | -------- | -------- |
 | Design Studio  |D&amp;T| D&amp;T |
 | 1-1 Classroom  |Science| Science |
