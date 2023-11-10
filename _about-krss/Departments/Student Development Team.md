@@ -190,7 +190,7 @@ In this SEN awareness programme to promote inclusiveness, students learn about s
 ![](/images/LLS.png)
 ![](/images/LLS.png)
 
-**Customised Programmes for students**
+**Customised Programmes for students**<br>
 *Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
 ![](/images/Sec_1_Student_Induction_Programmes.png)
