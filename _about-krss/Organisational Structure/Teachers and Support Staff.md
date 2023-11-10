@@ -3,6 +3,7 @@ title: Teachers and Support Staff
 permalink: /about-krss/organisational-structure/form-teacherssupport-staff/
 description: ""
 third_nav_title: Organisational Structure
+variant: markdown
 ---
 ### Form Teachers
 
@@ -324,11 +325,6 @@ table, th, td {
     <td>Senior SEN Officer</td>
     <td>Mrs Cheryl Lim</td>
     <td><a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a></td>
-  </tr>
-	  <tr>
-    <td>Student Welfare Officer (SWO)</td>
-    <td>Mr Muhammad Iqbal Bin Rosli</td>
-    <td><a href="mailto:muhammad_iqbal_b_rosli@schools.gov.sg">muhammad_iqbal_b_rosli@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <td>Student Welfare Officer</td>
