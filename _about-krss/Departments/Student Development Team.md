@@ -30,8 +30,8 @@ a. Key SDEs are designed to achieve CCE Learning Outcomes and 21st Century Compe
 
 Key SDEs in 2023
 
-| Term 1 | Term 2 | Term 3|Term 4|
-| -------- | -------- | -------- | -------- |
+| | Term 1 | Term 2 | Term 3 | Term 4|
+| -------- | -------- | -------- | -------- |  -------- |
 | Sec 1    | Orientation Week (T1W1) <br> School Orientation   | Experiential Week (T2W6)<br>4D3N Cohort Camp<br>KRGB<br>Leader-in-me  | Prep for Sec 4&amp;5 Graduation Ceremony | School Improvement |
 | Sec 2    | Orientation Week (T1W1) <br> Class-bonding activities e.g. Dragon boating/Laser Tag<br>MTL Fortnight | Experiential Week(T2W6)<br>SEP, KRGB(Befriending), NE LJ to NMS | NE LJ (NDP) | Careers Day 2023 |
 | Sec 3   | Orientation Week (T1W1) <br> Class-bonding activities e.g. Rafting/Kin Ball<br>MTL Fortnight | Experiential Week(T2W6)<br>Skills-based courses/Music Elective Programme | OBS<br>NRIC Presentation Ceremony | Student Leadership |
