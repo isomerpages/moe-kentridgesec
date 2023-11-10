@@ -186,15 +186,17 @@ Students with social and behavioural difficulties may be engaged in individual, 
 **Schoolwide Programmes/Activities**
 *“Knowing Me, Knowing You” Programme*<br>
 In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
+![](/images/LLS.png)
+![](/images/LLS.png)
 
 **Customised Programmes for students**
 *Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
-
+![](/images/LLS.png)
 *Learning Journeys*<br>
 Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
-
+![](/images/LLS.png)
 **Partnership**
 *Parents Induction*<br>
 Sec 1 parents are invited to a session where SEN Team share about the SEN support provided by the school. The briefing session aslo creates an opportunity for greater collaboration between parents and school as we support students with SEN to have a smooth transition to secondary school.
-
+![](/images/Partnership.png)
