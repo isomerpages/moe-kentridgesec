@@ -66,8 +66,12 @@ Organised ECG Programmes include:
 ECG Curriculum was customised to align to the level themes to achieve targeted learning outcomes: 
 ![](/images/krssecgplan.png)
 ![](/images/krssecgplan_1.png)
-**3\. SHINE KR! Programme**  
-SHINE KR! is a holistic student development programme which aims to&nbsp;_**S**_trengthen the relationship between Normal Course (NC) students and teachers through Teacher-Student Interaction, Form Teacher’s Period and Breakfast Programme. Service to school activities&nbsp;_**H**_ighlight the positive traits of NC students so that they develop self-confidence. There is&nbsp;_**I**_ntentional effort to communicate the rationale of the programmes so that there is greater buy-in amongst students. To&nbsp;_**N**_urture the NC students to be leaders of their own lives, opportunities are given to develop social emotional competencies and leadership skills through the Taster Elective Modules for Lower Sec, &nbsp;Elective Modules for Upper Sec and responsibilities within school. To&nbsp;_**E**_mpower and build self esteem of NC students, they actively contribute in the school’s collaborative projects with partners such as PAP Community Foundation and the Surabaya Village School.
+**3\. Values in Action Programme – KR Gives Back**  
+The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
+<br>
+The school’s KR Gives Back (KRGB) programme provides students with the experiential learning opportunity through customised VIA level activities to live out their values, skills and SE competencies. 
+![](/images/KRGBplan.png)
+![](/images/KRGBplan_1.png)
 
 **Experiential Learning Opportunities**
 
