@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: markdown
 ---
 ### Overview
-The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning.
+The Student Development Team, comprising of the CCE Committee, Student Leadership and Discipline Committe, SEN Committee and the Year Heads support the realisation of the school’s vision and key strategic thrust of Holistic Development of students through its approach of explicit teaching and experiential learning.
 
 ### CCE Curriculum
 
