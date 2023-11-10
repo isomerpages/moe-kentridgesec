@@ -31,7 +31,7 @@ a. Key SDEs are designed to achieve CCE Learning Outcomes and 21st Century Compe
 Key SDEs in 2023
 
 | Term 1 | Term 2 | Term 3|Term 4|
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | Sec 1    | Orientation Week (T1W1) <br> School Orientation   | Experiential Week (T2W6)<br>4D3N Cohort Camp<br>KRGB<br>Leader-in-me  | Prep for Sec 4&amp;5 Graduation Ceremoney | School Improvement |
 | Sec 2    | Text     | Text     |
 | Sec 3    | Text     | Text     |
