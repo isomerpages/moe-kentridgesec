@@ -35,6 +35,7 @@ Key SDEs in 2023
 | Sec 1    | Orientation Week (T1W1) <br> School Orientation   | Experiential Week (T2W6)<br>4D3N Cohort Camp<br>KRGB<br>Leader-in-me  | Prep for Sec 4&amp;5 Graduation Ceremony | School Improvement |
 | Sec 2    | Orientation Week (T1W1) <br> Class-bonding activities e.g. Dragon boating/Laser Tag<br>MTL Fortnight | Experiential Week(T2W6)<br>SEP, KRGB(Befriending), NE LJ to NMS | NE LJ (NDP) | Careers Day 2023 |
 | Sec 3   | Orientation Week (T1W1) <br> Class-bonding activities e.g. Rafting/Kin Ball<br>MTL Fortnight | Experiential Week(T2W6)<br>Skills-based courses/Music Elective Programme | OBS<br>NRIC Presentation Ceremony | Student Leadership |
+| Sec 4&amp;5   | Orientation Week (T1W1) <br> Poly Open House 2023/EAE wite up workshop| Experiential Week(T2W6)<br> Work Experience Programme/Interview &amp; Etiquette Workshop | EAE/DSA | Graduation Ceremony |
 
 **3.**&nbsp;**Education and Career Guidance**  
 Education and Career Guidance is a developmental process which facilitates the acquisition of knowledge, skills and values needed to make informed decisions at key education stages to successfully transit from school to further education or work. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the demands of the future workplace. The ECG curriculum focuses on exploration and helps students understand themselves better and guide their exploration of different education and career pathways. 
