@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: markdown
 ---
 ### Overview
-The Student Development Team, comprising the Student-Well-Being Committee, CCE Committee and Discipline Committee has the mission of “Moulding Character, Shaping Lives” to support the realisation of the school’s vision and key strategic thrust of Character and Citizenship Education through its approach of explicit teaching and experiential learning.
+The Student Development Team, comprising of the CCE Committee, Student Leadership and Discipline Committe, SEN Committee and the Year Heads support the realisation of the school’s vision and key strategic thrust of Holistic Development of students through its approach of explicit teaching and experiential learning.
 
 ### CCE Curriculum
 
@@ -26,7 +26,7 @@ d. Future Readiness: students having a sense of purpose in their lives and to be
 The CCE Curriculum Content is based on the&nbsp;**three**&nbsp;big ideas of Identity, Relationships and Choices. It comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students. These fundamentals are woven across content areas of National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), in ways that are age-appropriate and meaningful for our students.
 
 **2.**&nbsp;**CCE2021 Implementation**  
-a. Key SDEs are designed to achieve CCE Learning Outcomes and 21st Century Competencies. 
+Key SDEs are designed to achieve CCE Learning Outcomes and 21st Century Competencies. 
 
 Key SDEs in 2023
 
@@ -156,49 +156,50 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 
 ### Student Support Programmes
 
-**Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
+**1. Social and Emotional Well-being** <br>Student support structures in this aspect include Individual Counselling Support, Secondary 1 Transition &amp; Engagement Programme, Emotional Literacy Programme and Secondary 4 Stress Management Programme.<br>
 Students are equipped with knowledge, skills and tips to manage self, support their peers facing challenges as well as know the different avenues to seek help.
-![](/images/Social_and_Emotional_Well_being.png)
+<img src="/images/Social_and_Emotional_Well_being.png" alt="uniform_survey" style="width:50%;">
 
-**Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
-The programme supports: 
-![](/images/Physical_Well_being.png)
-
+**2. Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
+The programme supports: <br>
 •	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;<br>
 •	Students with health, weight and substance abuse issues; and<br>
 •	Students with existing chronic medical conditions<br>
-The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. 
+The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. <br>
+![](/images/Physical_Well_being.png)
 
-**Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
+**3. Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
 
-**Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.<br>
-
-*Learning and Behavioural Support* <br>
+**4. Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.
+<br>
+**a. Individual/Group Support Programmes**
+<br>
+*i. Learning and Behavioural Support* <br>
 Intervention and support are provided based on the needs of students in the areas of Literacy, Social Emotional and Behavioural challenges. Interventions are carried out through individual or group sessions. Through collaboration with various stakeholders such as parents, teachers and external agencies, students learn skills and strategies to help them achieve personal and academic goals.<br>
 ![](/images/LBS.png)
 
-*Language &amp; Literacy Support* <br>
+*ii. Language &amp; Literacy Support* <br>
 Students who require literacy and language support have various strengths that can be enhanced, and learning gap that can be improved. Intervention and support for them may include: Reading Fluency, Comprehension Skills, Spelling and Writing Skills.
 ![](/images/LLS.png)
 
-*Social &amp; Behavioural Support*<br>
+*iii. Social &amp; Behavioural Support*<br>
 Students with social and behavioural difficulties may be engaged in individual, peer or group sessions to learn skills and strategies. Intervention support for them may include: Emotion Regulation Skills using Zones of Regulation, Facing Your Fear Programme, Circle of Friends and Social Thinking Concepts.
 
-**Schoolwide Programmes/Activities**<br>
+**b. Schoolwide Programmes/Activities**<br>
 *“Knowing Me, Knowing You” Programme*<br>
 In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
 ![](/images/Knowing_Me_Knowing_You.jpg) 
 <br>
-**Customised Programmes for students**<br>
-*Sec 1 Student Induction Programmes*<br>
+**c. Customised Programmes for students**<br>
+*• Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
 ![](/images/Sec_1_Student_Induction_Programmes.png)
 <br>
-*Learning Journeys*<br>
+*•	Learning Journeys*<br>
 Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
 ![](/images/LJ.png)
 <br>
-**Partnership**<br>
+**d. Partnership**<br>
 *Parents Induction*<br>
 Sec 1 parents are invited to a session where SEN Team share about the SEN support provided by the school. The briefing session aslo creates an opportunity for greater collaboration between parents and school as we support students with SEN to have a smooth transition to secondary school.
 ![](/images/Partnership.png)
