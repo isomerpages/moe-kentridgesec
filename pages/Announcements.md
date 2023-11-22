@@ -2,10 +2,8 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
-**Open House 2023**<br>
-[Open House 2023](https://kentridgesec.moe.edu.sg/school-information/open-house-2023/)
-
 **CCA Schedule (November-December Holiday 2023)** <br>
 Updated 2 Nov 2023
 <br>
