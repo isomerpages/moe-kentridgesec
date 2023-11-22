@@ -4,9 +4,10 @@ title: Kent Ridge Secondary School
 description: Kent Ridge Secondary School
 image: /images/KRSS logo.png
 permalink: /
-notification: Kent Ridge Secondary School will be having the Open House on 11
-  November 2023, 8.30am to 12pm. Please refer to the <a
-  href="https://www.kentridgesec.moe.edu.sg/school-information/open-house-2023/">link</a>.
+notification: Dear Parents, please take note that there will be a power shutdown
+  for servicing on 4 Dec 2023 from 8am - 12pm. The school bookshop will be
+  operating as usual. However, there will be no access for the lift. Thank you
+  for your kind understanding and we apologize for any inconvenience caused.
 sections:
   - hero:
       background: /images/krss.gif
