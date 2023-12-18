@@ -20,7 +20,7 @@ border-collapse: collapse;
   </tr>
   <tr>
     <td>School Principal</td>
-    <td>Mr Benedict Keh Chin Chuan</td>
+    <td>Mdm Valerie Goh</td>
     <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
   </tr>
   <tr>
