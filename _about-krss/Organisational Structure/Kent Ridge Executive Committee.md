@@ -54,7 +54,7 @@ border-collapse: collapse;
      <td><a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>HOD / CCE (covering)</td>
+     <td>HOD / CCE (internal)</td>
      <td>Mr Lee Hoe Sheng Hosea</td>
      <td><a href="mailto:lee_hoe_sheng_hosea@schools.gov.sg">lee_hoe_sheng_hosea@schools.gov.sg</a></td>
   </tr>
@@ -89,7 +89,7 @@ border-collapse: collapse;
     <td><a href="mailto:ruby_simmon@schools.gov.sg">ruby_simmon@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>HOD / Science (covering)</td>
+     <td>HOD / Science (internal)</td>
      <td>Ms Zhou Li</td>
      <td><a href="mailto:zhou_li@schools.gov.sg">zhou_li@schools.gov.sg</a></td>
   </tr>
@@ -120,12 +120,12 @@ border-collapse: collapse;
      <td><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>LH / English Language (covering)</td>
+     <td>LH / English Language (internal)</td>
      <td>Ms Zannatul Nauum Moummee</td>
      <td><a href="mailto:nauum_moumee_zannatul@schools.gov.sg">nauum_moumee_zannatul@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>LH / Science (covering)</td>
+     <td>LH / Science (internal)</td>
      <td>Mr Xu Kaibin</td>
      <td><a href="mailto:xu_kaibin@schools.gov.sg">xu_kaibin@schools.gov.sg</a></td>
   </tr>
