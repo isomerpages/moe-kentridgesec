@@ -2,22 +2,27 @@
 title: Principal's Message
 permalink: /about-krss/principals-message/
 description: ""
+variant: markdown
 ---
 Dear Kent Ridgeans,
 
-It gives me great pleasure to welcome you as we start another school year.
+I am delighted and honoured to be appointed as the 5th Principal of Kent Ridge Secondary School, a school of distinctiveness with a strong foundation in academic learning and innovation.
 
-Education is a journey of self-discovery where students discover their talents, strengths and weaknesses, and form their moral compass. Our school is committed to providing a student-centric, values-driven education that will prepare you for the challenges of the 21st Century. We nurture the Heart, ignite the Passion and strengthen the Will for you to become persons of exemplary character. This is reflective of our School Vision for every Kent Ridgean to have the ‘_Heart of a Saint_’, ‘_Passion of an Inventor_’ and ‘_Will of an Olympian_’. We believe that this compelling vision will inspire and motivate you to do your best. The future is going to be very different and it will be one that none of us can predict with certainty. Hence, your journey here is important as you acquire the knowledge, skills, attitudes and values that will prepare you for life beyond secondary school.
+As we embark on this new school year, let us approach it with unwavering determination and a spirit that embodies the virtues of a saint, the passion of an inventor, and the will of an Olympian. The journey ahead may seem challenging in view of the current landscape, but it is through facing and overcoming these challenges that we truly grow and succeed. As we strive to become a better self in the coming year, let us be guided by the school vision always.
 
-Our theme for 2023 remains as ‘***Leaders of Character and Leaders of Learning***’.
+**Heart of a Saint:** Channel the compassion, empathy, and kindness of a saint as you navigate the complexities of academic and social life. Extend a helping hand to your peers, support one another, and foster a community where everyone feels valued and included. Embrace the opportunity to make a positive impact on those around you, creating a school environment that reflects the best of yourself and humanity.
 
-As **_Leaders of Character_**, we first learn to lead ourselves and then lead others. We reflect regularly on our thoughts and actions and how they impact others around us. We constantly strive for outcomes that benefit the community and for the common good. Be gracious citizens who are honest, responsible and respectful. Show care to your peers, teachers and members of the Kent Ridge family. Be willing to serve the community and be proud members of the nation. Be resilient, determined and never give up in the face of challenges. Learn to work well in teams and be exemplary student leaders who demonstrate our school values of _Fitness_, _Integrity_, _Respect_ and _Excellence_.
+**Passion of an Inventor:** Approach your studies with the boundless curiosity and the creativity of an inventor. Treat each lesson as a canvas for innovation and exploration. Seek new perspectives, question the status quo, and discover the joy of learning. Embrace challenges as opportunities to showcase your inventive spirit, and let your passion drive you towards excellence in every endeavor.
 
-As **_Leaders of Learning_**, enjoy your learning and Learn for Life. Harness technology to help you learn better. We will be embarking on a Personal Digital Learning Programme (PDLP) where every student will have your own computer for learning. The intent is for students to become self-directed learners who take ownership of their own learning, and collaborative learners who work with others to deepen their learning. Be fully engaged in your curricular and co-curricular pursuits, and experience progress and victory. Take setbacks as opportunities for learning and bounce back stronger. Be enterprising and have the desire to take on new challenges. Be open to new ways of learning and do not be afraid to ask questions or make mistakes. Be confident in sharing your ideas and thoughts, and seek to develop yourself holistically. Enjoy the myriad of programmes that our school provides and always be passionate and willing to develop yourself fully.
+**Will of an Olympian:** The road to success is paved with hard work, perseverance, and the indomitable will to overcome obstacles. Embody the determination of an Olympian athlete as you tackle academic demands and navigate the technological avalanche of information. Set ambitious goals, break them down into manageable steps, and celebrate every small victory on your journey to greatness.
 
-In welcoming 2023, give your best in all your endeavours and success will be within your reach. Let us take Kent Ridge Secondary, **_Beyond Frontiers_!**
+In the midst of the academic pursuits and technological advancements, do not forget the importance of maintaining meaningful connections with your peers. Navigating friendship issues can be challenging, but with open communication, empathy, and a commitment to understanding one another, you can build lasting bonds that enhance your overall school experience.
 
-Warm regards,
+Remember, you are not alone on this journey. The challenges you face are opportunities for growth and self-discovery. Embrace them with enthusiasm, knowing that each obstacle overcome brings you closer to your goals.
 
-Mr Benedict Keh  
+Wishing you a school year filled with wisdom, joy, and success. May the heart of a saint, the passion of an inventor, and the will of an Olympian guide you on this incredible journey.
+
+With great anticipation and support,
+
+Mdm Valerie Goh<br>
 Principal
