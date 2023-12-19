@@ -18,7 +18,7 @@ As there may be student movement due to transfer cases, we seek your understandi
 
 You will also be notified via Parents Gateway after 12 noon on 21 December (Thursday) if your child/ ward is eligible to offer core subjects under SBB at a more demanding level, or Higher Mother Tongue Languages HCL/HML. Please check the SBB and MTL sections below for more information.
 
-Do ensure books for the correct subject level are purchased for your child/ward. You may purchase textbooks in the first week of school if you are unsure of the subject level for your child/ ward.
+Do ensure books for the correct subject level are purchased for your child/ward. You may purchase textbooks in the first week of school if you are unsure of the subject level for your child/ward.
 
 For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">contact us</a>.
 
