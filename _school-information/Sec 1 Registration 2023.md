@@ -305,7 +305,7 @@ border-collapse: collapse;
  </tr>
  <tr>
     <td><span style="font-weight:bold">What to bring:</span></td>
-    <td style="text-align: center;" colspan="4">1.English-language story book<br>
+    <td style="text-align: center;" colspan="4">1. English-language story book<br>
 2. Writing materials<br>
 3. School Handbook<br>
 4. Water bottle<br>
