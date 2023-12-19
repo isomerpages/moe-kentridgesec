@@ -192,7 +192,7 @@ Tel: 6773 1127 (ext 116)
     <div>  
 <p>
 For parents of students with Special Educational Needs (SEN), the school's Senior SEN Officer will be reaching out to you via Parents Gateway.
-<br><br>
+<br>
 For urgent enquiries, you can also contact her:<br>
 <span style="font-weight:bold">Mrs Cheryl Lim</span><br>
 	Email: <a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a><br>
