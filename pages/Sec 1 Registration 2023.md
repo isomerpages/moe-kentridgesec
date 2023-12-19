@@ -72,7 +72,7 @@ For students whose 2024 FAS applications have been approved by their primary sch
 Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a> before you visit the school with the letter of FAS approval to collect books and uniforms.
 <br><br>
 For students who would like to apply for FAS, please click on the links below to find out more:
-<br><br>
+<br>
 • <a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf"> 2024 MOE FAS pamphlet (4 languages)</a><br>
 •<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf"> 2024 MOE FAS Application Form</a><br>
 • Apply online for MOE FAS (eFAS) 2024 with your Singpass at <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a><br>
