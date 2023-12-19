@@ -196,7 +196,7 @@ For parents of students with Special Educational Needs (SEN), the school's Senio
 For urgent enquiries, you can also contact her:<br>
 <span style="font-weight:bold">Mrs Cheryl Lim</span><br>
 	Email: <a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a><br>
-Tel: 6773 1127 Ext 171
+Tel: 6773 1127 (ext 171)
 <br><br>
 There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">5 Jan 2024</span>. More details will be provided closer to the date.
 </p> 
@@ -210,7 +210,7 @@ Parents who would like to find out more about the school’s counselling support
 <br><br>
 <span style="font-weight:bold">Mdm Sujeetha Margarita Brampy, HOD/SEN</span><br>
 	Email: <a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a><br>
-Tel: 6773 1127 Ext 112
+Tel: 6773 1127 (ext 112)
 </p> 
     </div>
 	</li>
