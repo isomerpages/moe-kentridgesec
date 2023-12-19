@@ -25,7 +25,7 @@ For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu
  <br><br>
 Bookshop Vendor: <a href="http://www.annkev.com/">http://www.annkev.com</a><br>
 (At the website, Select “Kent Ridge Secondary School”, under FILTER BY, select “Kent Ridge Secondary 1”)<br>
-![](/images/school_vendor.png)
+
 <br>
 Uniform Vendor: <a href="http://khuniform.com">http://khuniform.com</a>
 <br><br>
