@@ -229,7 +229,6 @@ Things to bring:
 • Storybook  <br>
 • Writing Materials  <br>
 • Water bottle  <br>
-• Thermometer  <br>
 • Money for recess and lunch
 <br><br>
 <u>IMPORTANT</u>
@@ -241,7 +240,7 @@ Things to bring:
 • All students are to have the following items with them <span style="font-weight:bold">every day</span>: <br>
 	1.  <span style="font-weight:bold">Student Handbook</span> (to be issued when school starts) <br>
 	2.  <span style="font-weight:bold">English Language story book</span> <br>
-	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span> in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span> in working condition (a new ODT will be issued to all new Sec 1 students&nbsp;in Term 1 Week 1&nbsp;in a one-time exercise<br>
 • Students who are unwell or given medical certificate should not attend school and to inform their Form Teachers or the school on the same day.<br>
 </p> 
     </div>
