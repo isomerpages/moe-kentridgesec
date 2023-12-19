@@ -92,7 +92,7 @@ Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2024.pdf">K
 Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Primary School CCA</a> by 3 January 2024 (Wed).
 <br>
 Should you have any queries, please contact the following officers:
-<br><br>
+<br>
 Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
 Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br> 
 Tel: 6773 1127 (ext 116)
