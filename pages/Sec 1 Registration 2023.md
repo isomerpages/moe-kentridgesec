@@ -166,19 +166,19 @@ Details on the purchase of PLDs will be shared on a later date.
     <div>  
 <p>
 Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP&nbsp;Centres:
-<br><br>
+<br>
 • AEP: National Junior College<br>
 • MEP: Anglo-Chinese School (Independent)<br>
 • MEP:&nbsp;Dunman&nbsp;High School<br>
 <br>
 The online application is open from 2-15 January 2024.
-<br><br>
+<br>
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
-<br><br>
+<br>
 Do refer to important details in web links provided below. <br>
 	<a href="https://moe.gov.sg/aep">https://moe.gov.sg/aep</a><br>
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
-<br><br>
+<br>
 You can also contact:  <br>
 <span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span><br>
 	Email: <a href="mailto: lim_hwee_fung_jaime@schools.gov.sg"> lim_hwee_fung_jaime@schools.gov.sg</a><br>
