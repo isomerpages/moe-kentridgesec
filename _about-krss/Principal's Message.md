@@ -22,7 +22,6 @@ Remember, you are not alone on this journey. The challenges you face are opportu
 
 Wishing you a school year filled with wisdom, joy, and success. May the heart of a saint, the passion of an inventor, and the will of an Olympian guide you on this incredible journey.
 
-With great anticipation and support,
-
+With great anticipation and support,<br>
 Mdm Valerie Goh<br>
 Principal
