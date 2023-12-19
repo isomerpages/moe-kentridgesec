@@ -27,7 +27,7 @@ sections:
 
             <br><br>
 
-            <a href="https://www.kentridgesec.moe.edu.sg/school-information/sec-1-registration-2023/">Read more</a>
-          link_text: ""
-          link_url: ""
+            Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
+          link_text: Read more
+          link_url: https://www.kentridgesec.moe.edu.sg/school-information/sec-1-registration-2023
 ---
