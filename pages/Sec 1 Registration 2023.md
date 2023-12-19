@@ -120,7 +120,7 @@ Should you have any queries, please contact the following officers:
 <span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
 Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 118)<br>
-<br><br>
+<br>
 <span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 110)<br>
