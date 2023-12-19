@@ -82,11 +82,11 @@ For more information, parents can refer to the following <a href="https://www.mo
   <li>  
     <input id="accordion3" type="checkbox">  
     <label for="accordion3">KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</label>  
-    <div>  
+    <div>
 <p>
-Please refer to the&nbsp;<a href="/files/KRSS-CCA-Information-Letter-2023.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
+Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2024.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
 <br><br>
-Please complete the&nbsp;<a href="https://go.gov.sg/2023sec1cca">Survey on Primary School CCA</a> by 4 January 2023 (Wed).
+Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Primary School CCA</a> by 3 January 2024 (Wed).
 <br><br>
 Should you have any queries, please contact the following officers:
 <br><br>
@@ -166,7 +166,7 @@ Secondary 1 students who exhibit interest and passion for Art/Music can apply fo
 • MEP: Anglo-Chinese School (Independent)<br>
 • MEP:&nbsp;Dunman&nbsp;High School<br>
 <br>
-The online application is open from 3-16 January 2023.
+The online application is open from 2-15 January 2024.
 <br><br>
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
 <br><br>
