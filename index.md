@@ -20,7 +20,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Sec 1 Registration 2023
-          date: 19 December 2023
+          date: 20 December 2023
           announcement: >-
             A warm welcome on your child’s/ward’s posting to Kent Ridge
             Secondary School!
