@@ -77,7 +77,7 @@ For students who would like to apply for FAS, please click on the links below to
 •<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf"> 2024 MOE FAS Application Form</a><br>
 • Apply online for MOE FAS (eFAS) 2024 with your Singpass at <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a><br>
 <br>
-Application forms for financial assistance are also available at the school’s general office.<br>
+Application forms for financial assistance are also available at the school’s general office.<br><br>
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>.&nbsp;
 </p> 
     </div>
@@ -88,9 +88,9 @@ For more information, parents can refer to the following <a href="https://www.mo
     <div>
 <p>
 Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2024.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
-<br>
+<br><br>
 Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Primary School CCA</a> by 3 January 2024 (Wed).
-<br>
+<br><br>
 Should you have any queries, please contact the following officers:
 <br>
 Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
