@@ -310,7 +310,7 @@ border-collapse: collapse;
 	</li>
   <li>  
     <input id="accordion12" type="checkbox">  
-    <label for="accordion13">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
+    <label for="accordion12">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
     <div>  
 <p>
 All students entering Secondary One in January 2024 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by April 2024.
