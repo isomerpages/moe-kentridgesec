@@ -174,12 +174,12 @@ Secondary 1 students who exhibit interest and passion for Art/Music can apply fo
 The online application is open from 2-15 January 2024.
 <br><br>
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
-<br>
+<br><br>
 Do refer to important details in web links provided below. <br>
 	<a href="https://moe.gov.sg/aep">https://moe.gov.sg/aep</a><br>
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
-<br>
-You can also contact:  <br>
+<br><br>
+Should you have any queries, please contact the following officer:<br>
 <span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span><br>
 	Email: <a href="mailto: lim_hwee_fung_jaime@schools.gov.sg"> lim_hwee_fung_jaime@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 116)
