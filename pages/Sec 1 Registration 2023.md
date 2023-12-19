@@ -115,7 +115,7 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 	<br>
 	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
 <br><br>
-For any queries, please may call the school 6773 1127 or contact the following officers:
+For any queries, please call the school 6773 1127 or contact the following officers:
 <br><br>
 <span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
 Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
