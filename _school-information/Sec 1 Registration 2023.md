@@ -6,15 +6,21 @@ variant: markdown
 ---
 Dear Parents/Guardians,  
   
-A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!  
-  
-Please note that students do not need to report to their posted secondary schools upon receiving their [S1 posting results](https://www.moe.gov.sg/news/press-releases/20231213-2023-secondary-1-posting-results).
-  
-The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with you useful information on how to prepare your child/ward for the first day of school.  
-  
-For your child's/ward's&nbsp;**2024 Sec 1 Class allocation**, you will be able to check via&nbsp;**Parents Gateway**&nbsp;from 21 December 2023.
+A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!
 
-For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
+Please note that students do not need to report to their posted secondary schools upon receiving their [S1 posting results](https://www.moe.gov.sg/news/press-releases/20231213-2023-secondary-1-posting-results).
+
+The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with you useful information on how to prepare your child/ward for the first day of school.  
+
+Your child's/ward's&nbsp;**2024 Sec 1 Class allocation** will be published via Parents Gateway after 12 noon on 21 December 2023 (Thursday).
+
+As there may be student movement due to transfer cases, we seek your understanding that there may be changes in the Form Class allocation. All Form Class allocation will only be finalised after the school term begins.
+
+You will also be notified via Parents Gateway after 12 noon on 21 December (Thursday) if your child/ ward is eligible to offer core subjects under SBB at a more demanding level, or Higher Mother Tongue Languages HCL/HML. Please check the SBB and MTL sections below for more information.
+
+Do ensure books for the correct subject level are purchased for your child/ward. You may purchase textbooks in the first week of school if you are unsure of the subject level for your child/ward.
+
+For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">contact us</a>.
 
 <ul class="jekyllcodex_accordion">  
   <li>  
@@ -31,7 +37,10 @@ Uniform Vendor: <a href="http://khuniform.com">http://khuniform.com</a>
 <br><br>
 School Book List
 <br>
-<a href="/files/KRS_Book_List_2024_Sec_1.pdf">Secondary 1 (2024)</a>
+<a href="/files/KRSS_Book_List_2024_Sec_1.pdf">Secondary 1 (2024)</a><br>
+	School Stationery List
+<br>
+<a href="/files/KRSS_Stationery_List_2024_Sec_1.pdf">Secondary 1 (2024)</a>
 	<br>
 School Uniform
 <br>
@@ -52,9 +61,9 @@ Book for an appointment slot here to buy/collect your books and uniforms: <a hre
 	<span style="font-weight:bold">Please show the confirmation email at school entry.</span>
 <br><br>
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
-<br><br>
+<br>
 1. Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no&nbsp;coloured&nbsp;hair)
-<br><br>
+<br>
 2.&nbsp;Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.
 </p>  
     </div>  
@@ -68,13 +77,13 @@ For students whose 2024 FAS applications have been approved by their primary sch
 <br><br>
 Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a> before you visit the school with the letter of FAS approval to collect books and uniforms.
 <br><br>
-For students who would like to apply for FAS, please click on the links below to find our more:
-<br><br>
-• <a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf">2024 MOE FAS pamphlet (4 languages)</a><br>
-•<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf">2024 MOE FAS Application Form</a><br>
-•Apply online for MOE FAS (eFAS) 2024 with your Singpass at <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a><br>
+For students who would like to apply for FAS, please click on the links below to find out more:
 <br>
-Application forms for financial assistance are also available at the school’s general office.<br>
+• <a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf"> 2024 MOE FAS pamphlet (4 languages)</a><br>
+•<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf"> 2024 MOE FAS Application Form</a><br>
+• Apply online for MOE FAS (eFAS) 2024 with your Singpass at <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a><br>
+<br>
+Application forms for financial assistance are also available at the school’s general office.<br><br>
 For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>.&nbsp;
 </p> 
     </div>
@@ -89,12 +98,12 @@ Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2024.pdf">K
 Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Primary School CCA</a> by 3 January 2024 (Wed).
 <br><br>
 Should you have any queries, please contact the following officers:
-<br><br>
-Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
+<br>
+<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp;,</span> <br>
 Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br> 
 Tel: 6773 1127 (ext 116)
 <br> <br>
-Mr Kevin Chow, SH/PE <br>
+	<span style="font-weight:bold">Mr Kevin Chow, SH/PE</span> <br>
 	Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 201)<br>
 </p> 
@@ -109,19 +118,21 @@ Kent Ridge Secondary School has implemented Full Subject-Based Banding since 202
 <br><br>
 Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf">slides</a> for more information.
 <br><br>
-For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
+For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following websites:
 	<br>
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 	<br>
 	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
 <br><br>
-For any queries, please may call the school 6773 1127 or contact the following officers:
-<br><br>
+Should you have any queries, please contact the following officers:
+<br>
 <span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
-Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a>
-<br><br>
+Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br>
+Tel: 6773 1127 (ext 118)<br>
+<br>
 <span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
 	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
+Tel: 6773 1127 (ext 110)<br>
 </p> 
     </div>
 	</li> 
@@ -150,7 +161,7 @@ Through the National Digital Literacy Programme (NDLP), all secondary school stu
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to&nbsp;personalise&nbsp;and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
 <br><br>
 For more information on Kent Ridge Secondary’s NDLP, please refer to&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
-<br><br>
+<br>
 Details on the purchase of PLDs will be shared on a later date.
 </p> 
     </div>
@@ -161,7 +172,7 @@ Details on the purchase of PLDs will be shared on a later date.
     <div>  
 <p>
 Secondary 1 students who exhibit interest and passion for Art/Music can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP&nbsp;Centres:
-<br><br>
+<br>
 • AEP: National Junior College<br>
 • MEP: Anglo-Chinese School (Independent)<br>
 • MEP:&nbsp;Dunman&nbsp;High School<br>
@@ -174,10 +185,10 @@ Do refer to important details in web links provided below. <br>
 	<a href="https://moe.gov.sg/aep">https://moe.gov.sg/aep</a><br>
 	<a href="https://moe.gov.sg/mep">https://moe.gov.sg/mep</a>
 <br><br>
-You can also contact:  <br>
+Should you have any queries, please contact the following officer:<br>
 <span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA </span><br>
-	Email:<a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br>
-Tel: 6773 1127 (ext&nbsp;116)
+	Email: <a href="mailto: lim_hwee_fung_jaime@schools.gov.sg"> lim_hwee_fung_jaime@schools.gov.sg</a><br>
+Tel: 6773 1127 (ext 116)
 </p> 
     </div>
 	</li>
@@ -191,7 +202,7 @@ For parents of students with Special Educational Needs (SEN), the school's Senio
 For urgent enquiries, you can also contact her:<br>
 <span style="font-weight:bold">Mrs Cheryl Lim</span><br>
 	Email: <a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a><br>
-Tel: 6773 1127 Ext 171
+Tel: 6773 1127 (ext 171)
 <br><br>
 There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">5 Jan 2024</span>. More details will be provided closer to the date.
 </p> 
@@ -202,10 +213,10 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
     <div>  
 <p>
 Parents who would like to find out more about the school’s counselling support system can contact:
-<br><br>
+<br>
 <span style="font-weight:bold">Mdm Sujeetha Margarita Brampy, HOD/SEN</span><br>
 	Email: <a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a><br>
-Tel: 6773 1127 Ext 112
+Tel: 6773 1127 (ext 112)
 </p> 
     </div>
 	</li>
@@ -229,7 +240,6 @@ Things to bring:
 • Storybook  <br>
 • Writing Materials  <br>
 • Water bottle  <br>
-• Thermometer  <br>
 • Money for recess and lunch
 <br><br>
 <u>IMPORTANT</u>
@@ -241,7 +251,7 @@ Things to bring:
 • All students are to have the following items with them <span style="font-weight:bold">every day</span>: <br>
 	1.  <span style="font-weight:bold">Student Handbook</span> (to be issued when school starts) <br>
 	2.  <span style="font-weight:bold">English Language story book</span> <br>
-	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span> in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
+	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span> in working condition (a new ODT will be issued to all new Sec 1 students&nbsp;in Term 1 Week 1&nbsp;in a one-time exercise)<br>
 • Students who are unwell or given medical certificate should not attend school and to inform their Form Teachers or the school on the same day.<br>
 </p> 
     </div>
@@ -291,15 +301,15 @@ border-collapse: collapse;
     <td>Report to school in full KRSS school uniform.</td>
      <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)<br><br>For classes having phototaking, students will report to school in full KRSS school uniform. They may change out to half-uniform after that. Students will be informed of the week’s schedule for their class on the first day of school.</td>
       <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
-       <td>Report to school in full KRSS half uniform (school corporate tee + school Bermudas and skirt). The corporate tee will be given to the students when school reopens.</td>
+       <td>Report to school in full KRSS half-uniform (PE attire + school Bermudas and skirt)</td>
  </tr>
  <tr>
     <td><span style="font-weight:bold">What to bring:</span></td>
-    <td style="text-align: center;" colspan="4">1.English-language story book<br>
+    <td style="text-align: center;" colspan="4">1. English-language story book<br>
 2. Writing materials<br>
 3. School Handbook<br>
 4. Water bottle<br>
-5. Thermometer<br>
+5. Thermometer (issued by school)<br>
 6. Money for recess and lunch</td>
 </tr>
 	<tr>
@@ -326,16 +336,16 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
     <label for="accordion13">Appeals for Transfer OUT</label>  
     <div>  
 <p>
-<span style="font-weight:bold">(A) Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
-<br><br>
-If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s medical or physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person or via email by 12:00pm on Thursday, 21 December 2023.
+<span style="font-weight:bold">(A) MOE’s Medical Appeal Exercise (MAE): Appeal to Transfer School for Serious Medical Condition or Severe Physical Impairments only</span>
+<br>
+If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s medical or physical health needs, you may appeal to MOE for a transfer out. Appeals can be filed at the school’s general office in person or via email by 12:00pm on Thursday, 21 December 2023.
 <br><br>
 All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from certified doctors, assessment reports from qualified medical professionals, etc.
-<br><br>
+<br>
 The appeal results will be released on 2 January 2024.
 <br><br>
 <span style="font-weight:bold">(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
-<br><br>
+<br>
 • Refer to your <u>preferred school’s</u> website for more information.<br>
 • You should still report to KRSS on 2 January 2024 if you do not hear from your preferred school by then<br>
 • While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
@@ -347,7 +357,7 @@ The appeal results will be released on 2 January 2024.
     <label for="accordion14">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
-<br><br>
+<br>
 	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2023-s1appeal"> online form</a> by 27 December 2023, 12:00pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
