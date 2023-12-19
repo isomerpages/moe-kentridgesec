@@ -355,7 +355,7 @@ The appeal results will be released on 2 January 2024.
 	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2023-s1appeal"> online form</a> by 27 December 2023, 12:00pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
-<br>
+<br><br>
 The application is deemed to be unsuccessful if you do not hear from the school by 5 January 2024.
 </p>  
 		</div>
