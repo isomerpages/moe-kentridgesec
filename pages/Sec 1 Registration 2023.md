@@ -287,7 +287,7 @@ border-collapse: collapse;
         </tr><tr>
     <td><span style="font-weight:bold">What to wear:</span></td>
     <td>Report to school in full KRSS school uniform.</td>
-     <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)<br>For classes having phototaking, students will report to school in full KRSS school uniform. They may change out to half-uniform after that. Students will be informed of the week’s schedule for their class on the first day of school.</td>
+     <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)<br><br>For classes having phototaking, students will report to school in full KRSS school uniform. They may change out to half-uniform after that. Students will be informed of the week’s schedule for their class on the first day of school.</td>
       <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
        <td>Report to school in full KRSS half uniform (school corporate tee + school Bermudas and skirt). The corporate tee will be given to the students when school reopens.</td>
  </tr>
