@@ -170,9 +170,9 @@ Secondary 1 students who exhibit interest and passion for Art/Music can apply fo
 • AEP: National Junior College<br>
 • MEP: Anglo-Chinese School (Independent)<br>
 • MEP:&nbsp;Dunman&nbsp;High School<br>
-<br>
+<br><br>
 The online application is open from 2-15 January 2024.
-<br>
+<br><br>
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
 <br>
 Do refer to important details in web links provided below. <br>
