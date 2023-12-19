@@ -88,9 +88,9 @@ For more information, parents can refer to the following <a href="https://www.mo
     <div>
 <p>
 Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2024.pdf">KRSS CCA Information Letter</a>&nbsp;for more details.
-<br><br>
+<br>
 Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Primary School CCA</a> by 3 January 2024 (Wed).
-<br><br>
+<br>
 Should you have any queries, please contact the following officers:
 <br><br>
 Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
