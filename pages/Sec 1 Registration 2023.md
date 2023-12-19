@@ -346,7 +346,7 @@ The appeal results will be released on 2 January 2024.
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
-	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2023-s1appeal"> online form</a> by 27 December 2023, 12pm.
+	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2023-s1appeal"> online form</a> by 27 December 2023, 12:00pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 <br><br>
