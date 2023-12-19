@@ -99,11 +99,11 @@ Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca">Survey on Prima
 <br><br>
 Should you have any queries, please contact the following officers:
 <br>
-Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp; <br>
+<span style="font-weight:bold">Ms Jaime Lim, HOD/Aesthetics &amp; CCA&nbsp;,</span> <br>
 Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a><br> 
 Tel: 6773 1127 (ext 116)
 <br> <br>
-Mr Kevin Chow, SH/PE <br>
+	<span style="font-weight:bold">Mr Kevin Chow, SH/PE</span> <br>
 	Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 201)<br>
 </p> 
