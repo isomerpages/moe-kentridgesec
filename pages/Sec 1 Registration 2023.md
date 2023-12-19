@@ -122,7 +122,7 @@ Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg<
 Tel: 6773 1127 (ext 201)<br>
 <br><br>
 <span style="font-weight:bold">Ms Tan Siew Hui, HOD/English Language &amp; Literature </span><br>
-	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br><br>
+	Email: <a href="mailto:tan_siew_hui_a@schools.gov.sg">tan_siew_hui_a@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 110)<br>
 </p> 
     </div>
