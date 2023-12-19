@@ -105,7 +105,7 @@ Tel: 6773 1127 (ext 201)<br>
 <p>
 Kent Ridge Secondary School has implemented Full Subject-Based Banding since 2023.  Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
 <br><br>
-Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf">slide</a> for more information.
+Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf">slides</a> for more information.
 <br><br>
 For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
 	<br>
@@ -128,7 +128,7 @@ Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg<
     <label for="accordion5">Mother Tongue Languages (MTL) Matters</label>  
     <div>  
 <p>
-For the following groups of students, please see the <a href="files/2024_Sec_1_MTL_Matters.pdf">slides</a> for more details:<br>
+For the following groups of students, please see the <a href="/files/2024_Sec_1_MTL_Matters.pdf">slides</a> for more details:<br>
 • Eligibility for Higher Chinese Language (HCL) &amp; Higher Malay Language (HML)<br>
 • Students not taking Chinese Language (CL) or Malay Language (ML)<br>
 • Students offered 3rd Language<br>
