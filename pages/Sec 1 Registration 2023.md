@@ -321,7 +321,7 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
 	</li>
   <li>  
     <input id="accordion13" type="checkbox">  
-    <label for="accordion14">Appeals for Transfer OUT</label>  
+    <label for="accordion13">Appeals for Transfer OUT</label>  
     <div>  
 <p>
 <span style="font-weight:bold">(A) Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
@@ -341,8 +341,8 @@ The appeal results will be released on 2 January 2024.
     </div>
 	</li>
   <li>  
-    <input id="accordion15" type="checkbox">  
-    <label for="accordion15">Appeals for Transfer IN</label>  
+    <input id="accordion14" type="checkbox">  
+    <label for="accordion14">Appeals for Transfer IN</label>  
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
