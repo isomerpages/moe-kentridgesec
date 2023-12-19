@@ -109,9 +109,9 @@ Tel: 6773 1127 (ext 201)<br>
     <div>  
 <p>
 Kent Ridge Secondary School has implemented Full Subject-Based Banding since 2023.  Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
-<br><br>
+<br>
 Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf">slides</a> for more information.
-<br><br>
+<br>
 For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following websites:
 	<br>
 	<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
@@ -119,7 +119,7 @@ For more information on Full Subject-Based Banding (Full SBB), parents can refer
 	<a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/">www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
 <br><br>
 Should you have any queries, please contact the following officers:
-<br><br>
+<br>
 <span style="font-weight:bold">Mrs Sherine Ang, Year Head</span><br>
 Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 118)<br>
