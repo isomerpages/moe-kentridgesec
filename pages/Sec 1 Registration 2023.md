@@ -11,8 +11,14 @@ A warm welcome on your child's/ward's posting to Kent Ridge Secondary School!
 Please note that students do not need to report to their posted secondary schools upon receiving their [S1 posting results](https://www.moe.gov.sg/news/press-releases/20231213-2023-secondary-1-posting-results).
 
 The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with you useful information on how to prepare your child/ward for the first day of school.  
-  
-For your child's/ward's&nbsp;**2024 Sec 1 Class allocation**, you will be able to check via Parents Gateway from 21 December 2023, after 12 noon. Please note that the form class assigned to your child/ward is temporary and will be confirmed only after the school term begins. We seek your understanding, as we anticipate some transfer cases and student movement within the first few weeks of school.
+
+Your child's/ward's&nbsp;**2024 Sec 1 Class allocation** will be published via Parents Gateway after 12 noon on 21 December 2023 (Thursday).
+
+As there may be student movement due to transfer cases, we seek your understanding that there may be changes in the Form Class allocation. All Form Class allocation will only be confirmed after the school term begins.
+
+You will also be notified via Parents Gateway after 12 noon on 21 December (Thursday) if your child/ ward is eligible to offer core subjects under SBB at a more demanding level, or Higher Mother Tongue Languages HCL/HML. Please check the SBB and MTL sections below for more information.
+
+Do ensure books for the correct subject level are purchased for your child/ ward. You may purchase textbooks in the first week of school if you are unsure of the subject level for your child/ ward.
 
 For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
 
