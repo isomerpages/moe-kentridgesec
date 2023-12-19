@@ -309,7 +309,7 @@ border-collapse: collapse;
 2. Writing materials<br>
 3. School Handbook<br>
 4. Water bottle<br>
-5. Thermometer (after issued by school)<br>
+5. Thermometer (issued by school)<br>
 6. Money for recess and lunch</td>
 </tr>
 	<tr>
