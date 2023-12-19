@@ -151,9 +151,9 @@ For more information on Mother Tongue Languages, please refer to these <a href="
     <div>  
 <p>
 Through the National Digital Literacy Programme (NDLP), all secondary school students will own a school-prescribed Personal Learning Device (PLD). Secondary one students would be invited to purchase a school-prescribed PLD. Singapore Citizen students can use their Edusave Account to pay for the PLD.
-<br><br>
+<br>
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology tools to&nbsp;personalise&nbsp;and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
-<br><br>
+<br>
 For more information on Kent Ridge Secondary’s NDLP, please refer to&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/">www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
 <br><br>
 Details on the purchase of PLDs will be shared on a later date.
