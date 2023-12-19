@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /programmes/co-curricular-activities/permalink/
+permalink: /programmes/co-curricular-activities/overview/
 variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities
