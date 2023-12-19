@@ -57,7 +57,7 @@ Book for an appointment slot here to buy/collect your books and uniforms: <a hre
 In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following:
 <br><br>
 1. Students coming to the school should be in proper school attire (e.g. Primary School Uniform/PE attire with proper school shoes, no&nbsp;coloured&nbsp;hair)
-<br><br>
+<br>
 2.&nbsp;Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.
 </p>  
     </div>  
