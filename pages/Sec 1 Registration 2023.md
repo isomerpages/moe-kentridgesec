@@ -35,7 +35,7 @@ School Book List
 	School Stationery List
 <br>
 <a href="/files/KRSS_Stationery_List_2024_Sec_1.pdf">Secondary 1 (2024)</a>
-	<br><br>
+	<br>
 School Uniform
 <br>
 <a href="/files/KRSS_Sec_1_Uniform_Infosheet__20_Dec_2023_.pdf">KRSS Sec 1 Uniform&nbsp;Infosheet&nbsp;(20 Dec 2023)</a>
