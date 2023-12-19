@@ -43,7 +43,7 @@ Uniforms: Counter at the back of the Canteen (Level 3)
 <br><br>
 Dates of Sales: December 21, 22, 26, 27, 28, 29
 <br>
-Operation Hours: 9.00 AM to 3.00 PM
+Operation Hours: 9:00 AM to 3:00 PM
 	<br><br>
 Book for an appointment slot here to buy/collect your books and uniforms: <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a>
 <br><br>
