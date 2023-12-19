@@ -14,7 +14,7 @@ The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with 
 
 Your child's/ward's&nbsp;**2024 Sec 1 Class allocation** will be published via Parents Gateway after 12 noon on 21 December 2023 (Thursday).
 
-As there may be student movement due to transfer cases, we seek your understanding that there may be changes in the Form Class allocation. All Form Class allocation will only be confirmed after the school term begins.
+As there may be student movement due to transfer cases, we seek your understanding that there may be changes in the Form Class allocation. All Form Class allocation will only be finalised after the school term begins.
 
 You will also be notified via Parents Gateway after 12 noon on 21 December (Thursday) if your child/ ward is eligible to offer core subjects under SBB at a more demanding level, or Higher Mother Tongue Languages HCL/HML. Please check the SBB and MTL sections below for more information.
 
