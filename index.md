@@ -25,7 +25,7 @@ sections:
             A warm welcome on your child’s/ward’s posting to Kent Ridge
             Secondary School!
 
-            <br>
+            <br><br>
 
             <a href="https://www.kentridgesec.moe.edu.sg/school-information/sec-1-registration-2023/">Read more</a>
           link_text: ""
