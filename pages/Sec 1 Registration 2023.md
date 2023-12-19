@@ -134,7 +134,7 @@ For the following groups of students, please see the <a href="/files/2024_Sec_1_
 • Students offered 3rd Language<br>
 • Students who are exempted or intend to apply for exemption from MTL<br>
 <br>
-For more information on Mother Tongue Languages, please refer to these <a href="/files/Mother_Tongue_Languages">slides</a>
+For more information on Mother Tongue Languages, please refer to these <a href="/files/Mother_Tongue_Languages.pdf">slides</a>
 </p> 
     </div>
 	</li>
