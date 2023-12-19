@@ -325,7 +325,7 @@ While Secondary One students are waiting for their Secondary Level SSCs to be re
     <label for="accordion13">Appeals for Transfer OUT</label>  
     <div>  
 <p>
-<span style="font-weight:bold">(A) Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
+<span style="font-weight:bold">(A) MOE’s Medical Appeal Exercise (MAE): Appeal to Transfer School for Serious Medical Condition or Severe Physical Impairments only</span>
 <br><br>
 If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s medical or physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person or via email by 12:00pm on Thursday, 21 December 2023.
 <br><br>
