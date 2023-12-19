@@ -207,7 +207,7 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
     <div>  
 <p>
 Parents who would like to find out more about the school’s counselling support system can contact:
-<br><br>
+<br>
 <span style="font-weight:bold">Mdm Sujeetha Margarita Brampy, HOD/SEN</span><br>
 	Email: <a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a><br>
 Tel: 6773 1127 (ext 112)
