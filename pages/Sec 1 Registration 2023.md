@@ -12,7 +12,7 @@ Please note that students do not need to report to their posted secondary school
   
 The school will be using&nbsp;**Parents Gateway (PG)**&nbsp;to communicate with you useful information on how to prepare your child/ward for the first day of school.  
   
-For your child's/ward's&nbsp;**2024 Sec 1 Class allocation**, you will be able to check via&nbsp;**Parents Gateway**&nbsp;from 21 December 2022.
+For your child's/ward's&nbsp;**2024 Sec 1 Class allocation**, you will be able to check via&nbsp;**Parents Gateway**&nbsp;from 21 December 2023.
 
 For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information/">Contact Us</a>.
 
@@ -33,7 +33,7 @@ School Book List
 	<br>
 School Uniform
 <br>
-<a href="/KRSS_Sec_1_Uniform_Infosheet__20_Dec_2023_.pdf">KRSS Sec 1 Uniform&nbsp;Infosheet&nbsp;(20 Dec 2023)</a>
+<a href="/files/KRSS_Sec_1_Uniform_Infosheet__20_Dec_2023_.pdf">KRSS Sec 1 Uniform&nbsp;Infosheet&nbsp;(20 Dec 2023)</a>
 <br><br>
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 <br><br>
@@ -62,18 +62,18 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
     <label for="accordion2">MOE Financial Assistance Scheme (FAS)</label>  
     <div>  
 <p>
-For students whose 2023 FAS applications have been approved by their primary schools, please bring the letter of approval to the KRSS school general office for further assistance.
+For students whose 2024 FAS applications have been approved by their primary schools, please bring the letter of approval issued by primary school to the KRSS school general office for further assistance.
 <br><br>
-Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2022">http://www.picktime.com/krss2022</a>before you visit the school with the letter of FAS approval to collect books and uniforms.
+Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a>before you visit the school with the letter of FAS approval to collect books and uniforms.
 <br><br>
-For students who would like to apply for FAS, please do any one of the following:
+For students who would like to apply for FAS, please click on the links below to find our more:
 <br><br>
-• Download and complete the <a href="/files/MOE-FAS-Application-Form-Oct2022.pdf">application form</a><br>
-• Submit the MOE eFAS application online at this link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>
+• <a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf">2024 MOE FAS pamphlet (4 languages)</a><br>
+•<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf">2024 MOE FAS Application Form</a><br>
+•Apply online for MOE FAS (eFAS) 2024 with your Singpass at <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a><br>
 <br>
-• Application forms for financial assistance are also available at the school’s general office.
-<br><br>
-For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>&nbsp;
+Application forms for financial assistance are also available at the school’s general office.<br>
+For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE FAS website</a>.&nbsp;
 </p> 
     </div>
 	</li>
@@ -94,7 +94,7 @@ Tel: 6773 1127 (ext 116)
 <br> <br>
 Mr Kevin Chow, SH/PE <br>
 	Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a><br>
-Tel: 6773 1127 (ext 130)<br>
+Tel: 6773 1127 (ext 201)<br>
 </p> 
     </div>
 	</li>
@@ -103,9 +103,9 @@ Tel: 6773 1127 (ext 130)<br>
     <label for="accordion4">Subject Based Banding (Secondary)</label>  
     <div>  
 <p>
-Kent Ridge Secondary School is implementing Full Subject-Based Banding from 2023.&nbsp; Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
+Kent Ridge Secondary School has implemented Full Subject-Based Banding since 2023.  Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to different strengths and interests of students.
 <br><br>
-Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/SBB%20Slides%20for%20Sec%201%20Registration%202022_v2.pdf">slide</a> for more information.
+Students who are eligible to do subjects at a more demanding level will be informed by the school via Parents Gateway.&nbsp; Please refer to this <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf">slide</a> for more information.
 <br><br>
 For more information on Full Subject-Based Banding (Full SBB), parents can refer to the following MOE website:
 	<br>
@@ -128,13 +128,13 @@ Email: <a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg<
     <label for="accordion5">Mother Tongue Languages (MTL) Matters</label>  
     <div>  
 <p>
-For the following groups of students, please see the <a href="/files/2023-Sec-1_MTL-Matters.pdf">slides</a> for more details:<br>
+For the following groups of students, please see the <a href="files/2024_Sec_1_MTL_Matters.pdf">slides</a> for more details:<br>
 • Eligibility for Higher Chinese Language (HCL) &amp; Higher Malay Language (HML)<br>
 • Students not taking Chinese Language (CL) or Malay Language (ML)<br>
 • Students offered 3rd Language<br>
 • Students who are exempted or intend to apply for exemption from MTL<br>
 <br>
-For more information on Mother Tongue Languages, please refer to these <a href="/files/Mother%20Tongue%20Languages.pdf">slides</a>
+For more information on Mother Tongue Languages, please refer to these <a href="/files/Mother_Tongue_Languages">slides</a>
 </p> 
     </div>
 	</li>
@@ -191,7 +191,7 @@ For urgent enquiries, you can also contact her:<br>
 	Email: <a href="mailto:tan_seok_gek@schools.gov.sg">tan_seok_gek@schools.gov.sg</a><br>
 Tel: 6773 1127 Ext 171
 <br><br>
-There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">6 Jan 2023</span>. More details will be provided closer to the date.
+There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Friday, <span style="font-weight:bold">5 Jan 2024</span>. More details will be provided closer to the date.
 </p> 
     </div>
 	</li>
@@ -201,9 +201,9 @@ There will be a <span style="font-weight:bold">SEN Parents Briefing</span> on Fr
 <p>
 Parents who would like to find out more about the school’s counselling support system can contact our School Counsellor:
 <br><br>
-<span style="font-weight:bold">Mr Melvyn Foong</span><br>
-	Email: <a href="mailto:foong_zhee_hou_melvyn@schools.gov.sg">foong_zhee_hou_melvyn@schools.gov.sg</a><br>
-Tel: 6773 1127 Ext 126
+<span style="font-weight:bold">Mdm Sujeetha Margarita Brampy, HOD/SEN</span><br>
+	Email: <a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a><br>
+Tel: 6773 1127 Ext 112
 </p> 
     </div>
 	</li>
@@ -213,9 +213,9 @@ Tel: 6773 1127 Ext 126
     <div>  
 <p>
 Reporting Time: 7:30 am<br>
-Date: Tuesday, 3 January 2023 <br>
+Date: Tuesday, 2 January 2024 <br>
 Venue: Multi-purpose Hall (Level 3) <br>
-Dismissal Time: 1:00 pm
+Dismissal Time: 2:00 pm
 <br><br>
 Attire
 <br>
@@ -224,6 +224,7 @@ Attire
 <br><br>
 Things to bring:
 <br>
+• Storybook  <br>
 • Writing Materials  <br>
 • Water bottle  <br>
 • Thermometer  <br>
@@ -239,13 +240,13 @@ Things to bring:
 	1.  <span style="font-weight:bold">Student Handbook</span>(to be issued when school starts) <br>
 	2.  <span style="font-weight:bold">English Language story book</span> <br>
 	3.  An <span style="font-weight:bold">oral digital thermometer (ODT)</span>in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise) <br>
-• Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.<br>
+• Students who are unwell or given medical certificate should not attend school and to inform their Form Teachers or the school on the same day.<br>
 </p> 
     </div>
 	</li>
 	<li>  
     <input id="accordion11" type="checkbox">  
-    <label for="accordion11">2023 Secondary&nbsp; 1 Orientation Programme</label>  
+    <label for="accordion11">2024 Secondary&nbsp; 1 Orientation Programme</label>  
     <div> 
 
 <style>
@@ -258,10 +259,10 @@ border-collapse: collapse;
 <table>
   <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 100px;">Date:</th>
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">3 Jan (Tues)</th>
-    <th style="font-weight:bold; color:#ffffff;width:300px;">4 Jan (Wed)</th>
-    <th style="font-weight:bold; color:#ffffff;width:300px;">5 Jan (Thurs)</th>
-    <th style="font-weight:bold; color:#ffffff;width:300px;">6 Jan (Fri)</th>
+    <th style="font-weight:bold; color:#ffffff;width: 300px;">2 Jan (Tues)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">3 Jan (Wed)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">4 Jan (Thurs)</th>
+    <th style="font-weight:bold; color:#ffffff;width:300px;">5 Jan (Fri)</th>
   </tr>
   <tr>
     <td><span style="font-weight:bold">Programme:</span></td>
@@ -279,16 +280,16 @@ border-collapse: collapse;
   </tr>
    <tr>
     <td><span style="font-weight:bold">Dismissal time: </span></td>
-    <td>1pm</td>
-     <td>3:30pm</td>
-      <td>3:30pm</td>
+    <td>2:00pm</td>
+     <td>4:00pm</td>
+      <td>4:00pm</td>
        <td>9:00pm</td>
         </tr><tr>
     <td><span style="font-weight:bold">What to wear:</span></td>
     <td>Report to school in full KRSS school uniform.</td>
-     <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
+     <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)<br>For classes having phototaking, students will report to school in full KRSS school uniform. They may change out to half-uniform after that. Students will be informed of the week’s schedule for their class on the first day of school.</td>
       <td>Report to school in full KRSS Half-uniform (PE attire + school Bermudas and skirt)</td>
-       <td>Report to school in full KRSS school uniform.</td>
+       <td>Report to school in full KRSS half uniform (school corporate tee + school Bermudas and skirt). The corporate tee will be given to the students when school reopens.</td>
  </tr>
  <tr>
     <td><span style="font-weight:bold">What to bring:</span></td>
@@ -307,45 +308,34 @@ border-collapse: collapse;
 </tbody></table>
     </div>
 	</li>
-<li>  
+  <li>  
     <input id="accordion12" type="checkbox">  
-    <label for="accordion12">Important Information regarding COVID-19 Vaccination / Boosters</label>  
+    <label for="accordion13">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
     <div>  
 <p>
-All Secondary 1 students will be involved in Orientation 2023. Some activities such as games, mass dance etc. are physical in nature.
+All students entering Secondary One in January 2024 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by April 2024.
 <br><br>
-If you are planning to take your child/ward for the COVID-19 vaccination or booster shot, please do so&nbsp;<u>before 22nd December 2022</u> so that your child/ward can participate fully in the activities planned.
+While Secondary One students are waiting for their Secondary Level SSCs to be ready, they can continue to use their Primary Level SSCs for concessionary travel till end-April 2024. Students can still purchase the Bus Concession Pass (BCP) using their Primary Level SSCs but they would need to purchase the BCP for Secondary School students.
 </p> 
     </div>
 	</li>
   <li>  
     <input id="accordion13" type="checkbox">  
-    <label for="accordion13">Secondary One Students using Primary Level School Smart Card (SSC)</label>  
-    <div>  
-<p>
-All students entering Secondary One in January 2023 will be issued with a new Secondary Level School Smart Card (SSC). TransitLink will deliver the cards to secondary schools by April 2023.
-<br><br>
-While Secondary One students are waiting for their Secondary Level SSCs to be ready, they can continue to use their Primary Level SSCs for concessionary travel till end-April 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary Level SSCs but they would need to purchase the BCP for Secondary School students.
-</p> 
-    </div>
-	</li>
-  <li>  
-    <input id="accordion14" type="checkbox">  
     <label for="accordion14">Appeals for Transfer OUT</label>  
     <div>  
 <p>
 <span style="font-weight:bold">(A) Appeal for transfer for serious medical conditions: Medical Appeal Exercise (MAE)</span>
 <br><br>
-If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person by 12pm on Thursday, 22 December 2022.
+If you have been posted to Kent Ridge Secondary School, but assess that the school is unable to accommodate your child’s medical or physical health needs, you may appeal for a transfer out. Appeals can be filed at the school’s general office in person or via email by 12pm on Thursday, 21 December 2023.
 <br><br>
-All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
+All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from certified doctors, assessment reports from qualified medical professionals, etc.
 <br><br>
-The appeal results will be released in early January 2023.
+The appeal results will be released on 2 January 2024.
 <br><br>
 <span style="font-weight:bold">(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</span>
 <br><br>
 • Refer to your <u>preferred school’s</u> website for more information.<br>
-• You should still report to KRSS on 3 January 2023 if you do not hear from your preferred school by then<br>
+• You should still report to KRSS on 2 January 2024 if you do not hear from your preferred school by then<br>
 • While awaiting reply from the other school, you will not need to purchase KRSS uniforms and books<br>
 </p> 
     </div>
@@ -356,11 +346,11 @@ The appeal results will be released in early January 2023.
     <div>  
 <p><span style="font-weight:bold">Students who wish to appeal to transfer to Kent Ridge Secondary School</span>
 <br><br>
-	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2022-sec1appeal"> online form</a> by 27 December 2022, 12pm.
+	For <span style="font-weight:bold">non-medical</span> reasons, please submit your appeal via this<a href="https://go.gov.sg/krss2023-sec1appeal"> online form</a> by 27 December 2023, 12pm.
 <br><br>
 Please note that your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 <br><br>
-The application is deemed to be unsuccessful if you do not hear from the school by 6 January 2023.
+The application is deemed to be unsuccessful if you do not hear from the school by 5 January 2024.
 </p>  
 		</div>
 </li>
