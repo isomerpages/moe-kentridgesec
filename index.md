@@ -28,6 +28,6 @@ sections:
 
             Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
           link_text: Read more
-          link_url: https://www.kentridgesec.moe.edu.sg/school-information/sec-1-registration-2023
+          link_url: https://kentridgesec.moe.edu.sg/school-information/registration-for-2024-sec-1/
       title: Registration for 2024 Sec 1
 ---
