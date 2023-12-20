@@ -4,7 +4,7 @@ permalink: /about-krss/history/
 description: ""
 variant: markdown
 ---
-Kent Ridge Secondary started operations at the former Yusof Ishak Secondary School site, 27A Jubilee Road, on 2 Jan 2000 under the leadership of the first Principal, Ms Chamb Cherk Ing. The school shifted to its current premises at 147 West Coast Road in December 2001 and was officially opened by Mr S Iswaran, Member of Parliament for West Coast GRC, on 15 March 2003. In 2006, Mr Koh Chong Mong, the second Principal assumed leadership of the school and this was followed by Mrs Anba Saroja in December 2012. The current Principal, Mr Benedict Keh joined the school at the end of 2018.
+Kent Ridge Secondary started operations at the former Yusof Ishak Secondary School site, 27A Jubilee Road, on 2 Jan 2000 under the leadership of the first Principal, Ms Chamb Cherk Ing. The school shifted to its current premises at 147 West Coast Road in December 2001 and was officially opened by Mr S Iswaran, Member of Parliament for West Coast GRC, on 15 March 2003.
 
 Guided by the school philosophy that ‘Every Student Counts’ and the school values of Fitness, Integrity, Respect and Excellence, the school envisions every Kent Ridgean to have the Heart of a Saint, Passion of an Inventor and the Will of an Olympian. Education is seen as a journey of self-discovery where students discover their strengths, weaknesses, talents and form their moral compass. Academic and Character Development are given due emphasis and students are equipped with the knowledge, skills, attitudes and dispositions to navigate an uncertain and changing world.
 
