@@ -16,10 +16,9 @@ sections:
           description: ""
           url: /quicklinks/
   - announcements:
-      title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 1 Registration 2023
+        - title: Sec 1 Registration 2023 (for 2024 Sec 1)
           date: 20 December 2023
           announcement: >-
             A warm welcome on your child’s/ward’s posting to Kent Ridge
