@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Registration 2023
-permalink: /school-information/sec-1-registration-2023/
+title: Registration for 2024 Sec 1
+permalink: /school-information/registration-for-2024-sec-1/
 description: ""
 variant: markdown
 ---
