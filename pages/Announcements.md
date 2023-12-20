@@ -14,7 +14,7 @@ Updated 2 Nov 2023
 **Request to Transfer to Kent Ridge Secondary School for 2024**
 
 Interested parents and students may use the following forms to request for transfer to Kent Ridge Secondary School for 2024. 
-Acceptance will be subject to available vacancies and the school’s (https://www.kentridgesec.moe.edu.sg/school-information/open-house-2023/)admission criteria. 
+Acceptance will be subject to available vacancies and the school’s (https://www.kentridgesec.moe.edu.sg/school-information/open-house-2023/) admission criteria. 
 
 For Transfer to **Secondary 2** in 2024:
 [https://go.gov.sg/transfer-krss ](https://go.gov.sg/transfer-krss)<br>
