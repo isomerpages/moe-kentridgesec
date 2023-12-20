@@ -18,7 +18,7 @@ sections:
   - announcements:
       id: announcements
       announcement_items:
-        - title: Sec 1 Registration 2023 <br>(for 2024 Sec 1)
+        - title: Welcome
           date: 20 December 2023
           announcement: >-
             A warm welcome on your child’s/ward’s posting to Kent Ridge
@@ -29,4 +29,5 @@ sections:
             Please note that students do not need to report to their posted secondary schools upon receiving their S1 posting results.
           link_text: Read more
           link_url: https://www.kentridgesec.moe.edu.sg/school-information/sec-1-registration-2023
+      title: Registration for 2024 Sec 1
 ---
