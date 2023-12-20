@@ -13,7 +13,7 @@ sections:
           description: Important Updates
           url: /announcements/
         - title: Quick Links
-          description: To Access Useful Resources
+          description: ""
           url: /quicklinks/
   - announcements:
       title: Announcements
