@@ -1,7 +1,8 @@
 ---
 title: Quick Links
-permalink: /quicklinks/
+permalink: /quick-links/
 description: ""
+variant: tiptap
 ---
 **For Staff**
 
