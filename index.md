@@ -14,7 +14,10 @@ sections:
           url: https://www.kentridgesec.moe.edu.sg/announcements/
         - title: Quick Links
           description: ""
-          url: /quicklinks/
+          url: https://www.kentridgesec.moe.edu.sg/quicklinks/
+        - title: Contact Us
+          description: ""
+          url: https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
   - announcements:
       id: announcements
       announcement_items:
