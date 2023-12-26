@@ -73,9 +73,9 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
     <label for="accordion2">MOE Financial Assistance Scheme (FAS)</label>  
     <div>  
 <p>
-For students whose 2024 FAS applications have been approved by their primary schools, please bring the letter of approval issued by primary school to the KRSS school general office for further assistance.
+For 2024 Sec 1 students whose 2024 FAS applications have been approved by their primary schools, please report to the KRSS school general office for further assistance.
 <br><br>
-Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a> before you visit the school with the letter of FAS approval to collect books and uniforms.
+Please note that you are to book an appointment slot at <a href="http://www.picktime.com/krss2023">http://www.picktime.com/krss2023</a> before you visit the school to collect books and uniforms.
 <br><br>
 For students who would like to apply for FAS, please click on the links below to find out more:
 <br>
