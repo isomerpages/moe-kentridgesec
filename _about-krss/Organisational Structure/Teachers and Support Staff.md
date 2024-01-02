@@ -187,7 +187,7 @@ table, th, td {
   </tr>
   <tr>
     <td>3-6</td>
-  <td>Ms Cheong How Min Michelle</td>
+  <td>Mdm Cheong How Min Michelle</td>
     <td><a href="mailto:michelle_cheong@schools.gov.sg">michelle_cheong@schools.gov.sg</a></td>
   </tr>
   <tr>
@@ -198,6 +198,10 @@ table, th, td {
 	<tr>
  <td>Mr Rishabh Gurunath Talwalkar</td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
+  </tr>
+		<tr><td>3-8</td>
+  <td>Mr Chew Ying Chao</td>
+    <td><a href="mailto:chew_ying_chao@schools.gov.sg">chew_ying_chao@schools.gov.sg</a></td>
   </tr>
   <tr>
 	<td rowspan="2">4N1</td>

@@ -144,7 +144,7 @@ border-collapse: collapse;
      <td><a href="mailto:tan_chiew_ming_vivien@schools.gov.sg">tan_chiew_ming_vivien@schools.gov.sg</a></td>
   </tr>
 	 <tr>
-     <td>SH / ICT (covering)</td>
+     <td>SH / ICT (Internal)</td>
      <td>Mr Rishabh Gurunath Talwalkar </td>
     <td><a href="mailto:rishabh_talwalkar@schools.gov.sg">rishabh_talwalkar@schools.gov.sg</a></td>
   </tr>
