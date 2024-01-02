@@ -99,33 +99,32 @@ border-collapse: collapse;
      <td><a href="mailto:sujeetha_margarita_brampy@schools.gov.sg">sujeetha_margarita_brampy@schools.gov.sg</a></td>
   </tr>
 	<tr>
-     <td>HOD / Student Development [Year Head (Sec 3)]</td>
+     <td>HOD / Student Development [Year Head (Sec 4/5)]</td>
      <td>Mr Mohamed Asan Bin Mohideen Pitchay</td>
      <td><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg">mohamed_asan_mohideen_pitc@schools.gov.sg</a></td>
   </tr>
- 
-  <tr>
+   <tr>
      <td>Year Head (Sec 1)</td>
-     <td>Mrs Nicole Song Xiao Lin</td>
-     <td><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg">nicole_tay_xiao_lin@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 2)</td>
-     <td>Mrs Elaine Su</td>
-    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-     <td>Year Head (Sec 4/5)</td>
      <td>Mrs Sherine Ang</td>
      <td><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>LH / English Language (internal)</td>
+     <td>Year Head (Sec 2)</td>
+     <td>Mrs Nicole Song Xiao Lin</td>
+     <td><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg">nicole_tay_xiao_lin@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Year Head (Sec 3)</td>
+     <td>Mrs Elaine Su</td>
+    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+     <td>LH / English Language (Internal)</td>
      <td>Ms Zannatul Nauum Moummee</td>
      <td><a href="mailto:nauum_moumee_zannatul@schools.gov.sg">nauum_moumee_zannatul@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>LH / Science (internal)</td>
+     <td>LH / Science (Internal)</td>
      <td>Mr Xu Kaibin</td>
      <td><a href="mailto:xu_kaibin@schools.gov.sg">xu_kaibin@schools.gov.sg</a></td>
   </tr>
@@ -133,6 +132,11 @@ border-collapse: collapse;
      <td>SH / CCE</td>
      <td>Ms Nur Hidayah Binte Mohamed Nor</td>
     <td><a href="mailto:nur_hidayah_mohmed_nor@schools.gov.sg">nur_hidayah_mohmed_nor@schools.gov.sg</a></td>
+  </tr>
+		  <tr>
+     <td>SH / Chinese Language (Internal)</td>
+     <td>Ms Lim Bee Leng</td>
+    <td><a href="mailto:lim_bee_leng_b@schools.gov.sg">lim_bee_leng_b@schools.gov.sg</a></td>
   </tr>
   <tr>
      <td>SH / C&amp;T</td>
@@ -159,6 +163,11 @@ border-collapse: collapse;
      <td>Mr Chow Kok Wei Kevin</td>
      <td><a href="mailto:chow_kok_wei_kevin@schools.gov.sg">chow_kok_wei_kevin@schools.gov.sg</a></td>
   </tr>
+		  <tr>
+     <td>SH / Social Studies (Internal)</td>
+     <td>Ms Heng Hui Lyn, Nicole</td>
+    <td><a href="mailto:heng_hui_lyn_nicole@schools.gov.sg">heng_hui_lyn_nicole@schools.gov.sg</a></td>
+  </tr>
   <tr>
      <td>SH / Student Well-Being</td>
      <td>Mrs Teo Wee Leng</td>
@@ -178,6 +187,11 @@ border-collapse: collapse;
      <td>Senior Teacher / Chinese Language</td>
      <td>Mdm Yu Xiaoyan</td>
      <td><a href="mailto:yu_xiaoyan@schools.gov.sg">yu_xiaoyan@schools.gov.sg</a></td>
+  </tr>
+		  <tr>
+     <td>Senior Teacher / English Language</td>
+     <td>Mrs Tan Hoon Ling Lena</td>
+     <td><a href="mailto:peh_hoon_ling_lena@schools.gov.sg">peh_hoon_ling_lena@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <td>Senior Teacher / PE</td>
