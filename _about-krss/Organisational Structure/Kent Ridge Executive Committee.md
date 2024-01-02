@@ -54,7 +54,7 @@ border-collapse: collapse;
      <td><a href="mailto:lim_hwee_fung_jaime@schools.gov.sg">lim_hwee_fung_jaime@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>HOD / CCE (internal)</td>
+     <td>HOD / CCE (Internal)</td>
      <td>Mr Lee Hoe Sheng Hosea</td>
      <td><a href="mailto:lee_hoe_sheng_hosea@schools.gov.sg">lee_hoe_sheng_hosea@schools.gov.sg</a></td>
   </tr>
