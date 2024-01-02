@@ -187,7 +187,7 @@ table, th, td {
   </tr>
   <tr>
     <td>3-6</td>
-  <td>Ms Cheong How Min Michelle</td>
+  <td>Mdm Cheong How Min Michelle</td>
     <td><a href="mailto:michelle_cheong@schools.gov.sg">michelle_cheong@schools.gov.sg</a></td>
   </tr>
   <tr>
