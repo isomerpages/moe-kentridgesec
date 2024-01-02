@@ -89,7 +89,7 @@ border-collapse: collapse;
     <td><a href="mailto:ruby_simmon@schools.gov.sg">ruby_simmon@schools.gov.sg</a></td>
   </tr>
   <tr>
-     <td>HOD / Science (internal)</td>
+     <td>HOD / Science (Internal)</td>
      <td>Ms Zhou Li</td>
      <td><a href="mailto:zhou_li@schools.gov.sg">zhou_li@schools.gov.sg</a></td>
   </tr>
