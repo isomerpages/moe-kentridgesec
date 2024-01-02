@@ -178,11 +178,6 @@ border-collapse: collapse;
      <td>Ms Lim Chye Ling</td>
      <td><a href="mailto:lim_chye_ling@schools.gov.sg">lim_chye_ling@schools.gov.sg</a></td>
   </tr>
-		 <tr>
-     <td>Senior Teacher / Chinese Language</td>
-     <td>Mr Lee Fook Yew</td>
-   <td><a href="mailto:lee_fook_yew@schools.gov.sg">lee_fook_yew@schools.gov.sg</a></td>
-  </tr>
   <tr>
      <td>Senior Teacher / Chinese Language</td>
      <td>Mdm Yu Xiaoyan</td>
