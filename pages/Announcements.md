@@ -4,11 +4,12 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**Orientation Week 2024** <br>
-Updated 30 Dec 2023
-<br>[Day 1 (2 January 2024)](/files/O_Week_2024_Timetable_Day_1__2_January_2024_.pdf)<br>
-[Day 2 (3 January 2024)](/files/O_Week_2024_Timetable_Day_2__3_January_2024_.pdf)<br>
-[Day 3 (4 January 2024)](/files/O_Week_2024_Timetable_Day_3__4_January_2024_.pdf)<br>[Day 4 (5 January 2024)](/files/Day_4_Timetable.pdf)
+**Class Time-tables (Semester 1, 2024)** <br>
+Updated 05 Jan 2024 <br>
+[Secondary 1](/files/2024_Semester_1_Timetable_Secondary_1.pdf)<br>
+[Secondary 2](/files/2024_Semester_1_Timetable_Secondary_2.pdf)<br>
+[Secondary 3](/files/2024_Semester_1_Timetable_Secondary_3.pdf)<br>
+[Secondary 4 &amp; 5](/files/2024_Semester_1_Timetable_Secondary_4_5.pdf)
 
 **Request to Transfer to Kent Ridge Secondary School for 2024**
 
