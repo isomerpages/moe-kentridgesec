@@ -6,7 +6,7 @@ third_nav_title: Academic Matters
 variant: markdown
 ---
 **Class Time-tables (Semester 1, 2024)** <br>
-Updated 05 Jan 2024 <br>
+Updated 10 Jan 2024 <br>
 [Secondary 1](/files/2024_Semester_1_Timetable_Secondary_1_updated_.pdf)<br>
 [Secondary 2](/files/2024_Semester_1_Timetable_Secondary_2.pdf)<br>
 [Secondary 3](/files/2024_Semester_1_Timetable_Secondary_3.pdf)<br>
