@@ -13,7 +13,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY -THURSDAY: 1530 - 1800 HRS </p>
 <p>Kent Ridge Secondary School Badminton Team's curriculum is designed&nbsp;to give a consistent and systematic training structure to develop the talents of our students&nbsp;as well as to nurture their talents and potential to the fullest. This will encourage our students to develop a lifelong interest and passion that will sustain a healthy lifestyle. Apart from building up the physical fitness, mental fortitude and game skills of our students, the badminton training sessions and co-curricular activities, undergirded by the school values, are also good platforms for our students to develop positive character traits which will strengthen their 21st&nbsp;Century Competency skills and translate them into positive attitudes and self-expressions.&nbsp;Our&nbsp;boys and girls take part in sanctioned competitions and achieve credible results and rankings.</p>
 <p><strong><em>Achievements</em></strong><br>1. 2022 South Zone B Division Boys Badminton Competition – Quarter Finals<br>2. 2022 South Zone C Division Girls Badminton Competition – Quarter Finals<br>3. 2021 South Zone B Division Boys Badminton Competition – Quarter Finals<br></p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Mr Taib<br>Ms Foo Shuan Chou</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Ms Foo Shuan Chou<br>Mr Taib</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
