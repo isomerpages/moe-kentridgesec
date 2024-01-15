@@ -3,6 +3,7 @@ title: Uniformed Groups
 permalink: /programmes/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
@@ -12,7 +13,7 @@ third_nav_title: Co Curricular Activities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 <p>The 74th Boys' Brigade Company started in 2000 with seven boys and now stands at about 35 members strong. Our programme is run with the help of Volunteer Adult Officers. We have a wide range of activities such as character and leadership development, drills, Lifeskills, first aid, kayaking, rock wall climbing, archery, cycling and yearly camps that help our boys learn values to develop a character of Obedience, Discipline, Self-Respect, Integrity and Humility. They can attain the rank of Staff Sergeant by Sec 4 or Sec 5 in their leadership journey, with numerous leadership opportunities for the Boys. The Boys form a close sense of camaraderie and a bond of brotherhood during their time in the company. We aim to be the Uniformed Group of choice in Kent Ridge Secondary School. Over the years, the Boys have grown in maturity and character and two of them were recently the valedictorians of the Secondary 4N and 5N streams in 2020.</p>
 <p><strong><em>Achievements</em></strong><br>2021 - Unit Overall Proficiency Award&nbsp; - Bronze</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Jeffery Chen<br>Mrs Teo Wee Leng<br>Ms Meena</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Lam Yao Lun<br>Mrs Teo Wee Leng<br>Ms Karina Heng</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
