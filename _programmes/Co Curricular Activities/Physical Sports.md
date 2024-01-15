@@ -13,7 +13,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY -THURSDAY: 1530 - 1800 HRS </p>
 <p>Kent Ridge Secondary School Badminton Team's curriculum is designed&nbsp;to give a consistent and systematic training structure to develop the talents of our students&nbsp;as well as to nurture their talents and potential to the fullest. This will encourage our students to develop a lifelong interest and passion that will sustain a healthy lifestyle. Apart from building up the physical fitness, mental fortitude and game skills of our students, the badminton training sessions and co-curricular activities, undergirded by the school values, are also good platforms for our students to develop positive character traits which will strengthen their 21st&nbsp;Century Competency skills and translate them into positive attitudes and self-expressions.&nbsp;Our&nbsp;boys and girls take part in sanctioned competitions and achieve credible results and rankings.</p>
 <p><strong><em>Achievements</em></strong><br>1. 2022 South Zone B Division Boys Badminton Competition – Quarter Finals<br>2. 2022 South Zone C Division Girls Badminton Competition – Quarter Finals<br>3. 2021 South Zone B Division Boys Badminton Competition – Quarter Finals<br></p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Ms Foo Shuan Chou<br>Mr Taib</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chan Kar Hong<br>Mr Lim Er Song<br>Ms Foo Shuan Chou<br>Mr Mohd Taib</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -52,7 +52,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>For Semester 1<br>MONDAY: 1530 - 1800 HRS (All Levels)<br>THURSDAY: 1530 - 1800 HRS (Lower Sec)<br>FRIDAY: 1300 - 1600 HRS (Bus will arrive back at 1630HRS)<br><br>For Semester 2<br>MONDAY: 1530 - 1800 HRS (All Levels)<br>FRIDAY: 1300 - 1600 HRS (All Levels) (Bus will arrive back at 1630HRS)</p>
 <p>VISION: O.D.A.C  
 <br>Open-minded. Disciplined. Adaptable. Confident. <br><br>KRSS ODAC aims to provide students with exposure to various outdoor activities both on land and water. KRSS Outdoor Adventure Club (ODAC) exposes our members to various water sports such as dragon boating, kayaking and snorkelling as well as camping and hiking activities. Students will go through certification courses such as Orienteering Level One and Kayaking One Star. During regular CCA sessions, members will also be taught various outdoor-related skills such as Camp craft and Outdoor Cooking.</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Wee Kwang<br>Mr Chua Chau Lee<br>Mr Taib</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Wee Kwang<br>Mr Chua Chau Lee<br>Mr Mohd Taib</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 </ul>
