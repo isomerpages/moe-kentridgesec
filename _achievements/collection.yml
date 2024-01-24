@@ -1,0 +1,10 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Staff/.keep
+      - Staff/School.md
+      - Staff/National and MOE.md
+      - Students/.keep
+      - Students/Overview.md
+      - Students/Co Curricular.md
