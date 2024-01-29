@@ -31,7 +31,3 @@ Please Note:
 Should you require any clarification, please contact the school’s General Office at Tel: 6773 1127 or email [krss@moe.edu.sg](mailto:krss@moe.edu.sg) 
 
 Thank you.
-
-
-**Purchase of Books and Uniforms for Academic Year 2024**<br>
-[Purchase of Books and Uniforms for Academic Year 2024](https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/school-book-list-uniform/)
