@@ -29,7 +29,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Floorball</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1530 - 1800 HRS (Girls)<br>TUESDAY &amp; THURSDAY: 1530 - 1800 HRS (Boys)</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY &amp; THURSDAY: 1530 - 1800 HRS (Boys)<br>TUESDAY &amp; THURSDAY: 1530 - 1800 HRS (Girls)</p>
 <p>KRSS Floorball Team was established in 2008 with a pioneer cohort of 36 enthusiastic Kent Ridgeans. Growing in strength over the last 12 years, the CCA now comprises of more than 100 dedicated players. Floorball was introduced to students as a team sport to allow learning beyond the classroom. Besides developing physical fitness, our CCA programme aims to help students develop personal qualities such as teamwork, discipline and leadership skills. Floorball is an indoor sport and is usually played with 16 players in a competition team. It is fast gaining popularity in our school and Singapore as it is easy to pick up and fun to play. Skills trainings are conducted in indoor venues with fibreglass panel boards to build up our skills and game strategies. To give our players greater exposure, friendly matches are arranged to let them gain experience and increase their confidence level during competitions.</p>
 
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Jitendra<br>Ms Siti Fadzilah<br>Mdm Siti Hajar<br>Mr Ang Swee Huat</p>  
