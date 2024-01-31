@@ -61,13 +61,17 @@ img {
 			<p><img src="/images/NDLP4.png" alt="NDLP" style="width:65%"></p>
 			<p>For instance, all Secondary One students are provided with digital literacy lessons to support them in achieving baseline digital literacies. All students also have access to the digital literacy lessons in the SLS MOE community library.&nbsp;</p>
 		 <p><strong>Personal Learning Device (PLD)</strong></p>
-
-| |  |  |
-| -------- | -------- | -------- |
-| Choice and Model of Device   | For students joining the school in 2021 and 2022 - Lenovo Chromebook 500e 2nd-Gen (Enhanced)  <br>For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanced)| 
-| Warranty and Insurance | 3 Year Carry In Warranty <br>Sealed Battery Warranty  <br>Comprehensive Accidental Damage Protection (Insurance)|
-
-
+	<table style="width:100%">
+  <tbody><tr>
+    <td>Choice and Model of Device</td>
+    <td>For students joining the school in 2021 and 2022 - Lenovo Chromebook 500e 2nd-Gen (Enhanced)<br>
+For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanced)</td>
+  </tr>
+  <tr>
+    <td>Warranty and Insurance</td>
+    <td>3 Year Carry In Warranty<br>Sealed Battery Warranty<br>Comprehensive Accidental Damage Protection (Insurance)</td>
+  </tr>
+</tbody></table>
 <table class="table table-responsive table-bordered" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); width: 973px; max-width: 100%; margin-bottom: 20px; border: 1px solid rgb(221, 221, 221); overflow-x: auto; min-height: 0.01%; color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td nowrap="nowrap" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 434px;">Choice and Model of Device</td><td nowrap="nowrap" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 634px;"><em style="box-sizing: border-box;">For students joining the school in 2021 and 2022 - Lenovo Chromebook 500e 2nd-Gen (Enhanced)
 <br>For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanced)</em></td></tr><tr style="box-sizing: border-box;"><td nowrap="nowrap" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 434px;"><p align="center" style="box-sizing: border-box; margin: 0px 0px 10px; text-align: left;">Warranty and Insurance</p></td><td nowrap="nowrap" style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 634px;"><em style="box-sizing: border-box;">3 Year Carry In Warranty<br style="box-sizing: border-box;"></em><em style="box-sizing: border-box;">Sealed Battery Warranty<br style="box-sizing: border-box;"></em><em style="box-sizing: border-box; font-family: inherit; font-size: inherit;">Comprehensive Accidental Damage Protection (Insurance)</em></td></tr></tbody></table>
 <p><strong>Financial Assistance</strong>&nbsp;</p>
