@@ -65,7 +65,7 @@ img {
   <tbody><tr>
     <td>Choice and Model of Device</td>
     <td>For students joining the school in 2021 and 2022 - Lenovo Chromebook 500e 2nd-Gen (Enhanced)<br>
-For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanced)</td>
+For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanced)<br>For students joining the school in 2024 - Lenovo Chromebook 500e 4th-Gen (Enhanced)</td>
   </tr>
   <tr>
     <td>Warranty and Insurance</td>
