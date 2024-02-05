@@ -248,10 +248,13 @@ table, th, td {
     <td><a href="mailto:dao_wei_darrell_lim@@schools.gov.sg">dao_wei_darrell_lim@@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>4E7</td>
+    <td rowspan="2">4E7</td>
     <td>Mr Lok Sin Min</td>
    <td><a href="mailto:lok_sin_min@schools.gov.sg">lok_sin_min@schools.gov.sg</a></td>
   </tr>  
+<tr><td>Mr Koh Guang Wei</td>
+    <td><a href="mailto:koh_guang_wei@schools.gov.sg">koh_guang_wei@schools.gov.sg</a></td>
+  </tr>
  <tr>
     <td rowspan="2">5N1</td>
     <td>Mr Jitendra Bhilare</td>
