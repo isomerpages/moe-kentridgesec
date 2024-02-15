@@ -44,10 +44,8 @@ II.	Their areas of involvement include reaching out to the community through Val
 
 <img src="/images/kro%202023_psg.jpg" alt="KRO_PSG" style="width:80%;">
 <br>
-<img src="/images/kro%202023_psg_1.jpg" alt="KRO_PSG1" style="width:80%;">
-
 <p style="text-align:center;"><em><strong>KRO -</strong> PSG team to support our students and also battling, with the teachers, against students in a friendly game of Captain’s Ball in KRO 2023!</em></p>
-<img src="/images/psg_cny.jpg" alt="PSG_CNY" style="width:80%;">
+<img src="/images/psg_2024.jpeg" alt="PSG_2024" style="width:80%;">
 
 <p style="text-align:center;"><em><strong>Chinese New Year Celebrations</strong>&nbsp;– Annual CNY celebrations with PSG team joining in with the celebrations!</em></p>
 
