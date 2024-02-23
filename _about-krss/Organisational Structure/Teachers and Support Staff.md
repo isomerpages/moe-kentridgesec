@@ -245,7 +245,7 @@ table, th, td {
     <td><a href="mailto:xu_kaibin@schools.gov.sg">xu_kaibin@schools.gov.sg</a></td>
   </tr>
 	 <tr><td>Mr Lim Dao Wei Darrell</td>
-    <td><a href="mailto:dao_wei_darrell_lim@@schools.gov.sg">dao_wei_darrell_lim@@schools.gov.sg</a></td>
+    <td><a href="mailto:dao_wei_darrell_lim@schools.gov.sg">dao_wei_darrell_lim@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">4E7</td>
@@ -417,7 +417,7 @@ table, th, td {
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
   <tr>
-    <td>Adjunct Admin Executive</td>
+    <td> Admin Executive</td>
     <td>Ms Nur Delis Sulastra</td>
   </tr>
 	  <tr>
