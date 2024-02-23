@@ -429,8 +429,7 @@ table, th, td {
     <td>Mdm Asiah Binte Idris</td>
   </tr>
   <tr>
-    <td>
-			Corporate Support Officer</td>
+    <td>Corporate Support Officer</td>
     <td>Ms June Ng</td>
   </tr>
   <tr>
