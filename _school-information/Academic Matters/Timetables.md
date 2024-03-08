@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Academic Matters
 variant: markdown
 ---
+**CCA Schedule (March Holiday)** <br>
+Updated 08 March 2024 <br>
+[March Holiday](/files/CCA_Schedule___March_Holiday_2024_8Mar24.pdf)<br>
+
 **Class Time-tables (Semester 1, 2024)** <br>
 Updated 10 Jan 2024 <br>
 [Secondary 1](/files/2024_semester_1_timetable_secondary_1_updated.pdf)<br>
