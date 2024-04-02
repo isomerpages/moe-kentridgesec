@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Canteen.md
       - Transfer In.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
