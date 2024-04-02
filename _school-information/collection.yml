@@ -2,8 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Canteen.md
-      - Transfer In.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
@@ -26,5 +24,7 @@ collections:
       - National Digital Literacy Programme (NDLP).md
       - Registration for 2024 Sec 1.md
       - School Based Student Health Advisor (SHA) Programme.md
+      - School Canteen.md
+      - Transfer In.md
       - Frequently Asked Questions (FAQS).md
       - Contact Us.md
