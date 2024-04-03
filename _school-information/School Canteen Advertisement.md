@@ -92,7 +92,7 @@ the following supporting documents:</p>
 <p>Photocopy of applicant’s NRIC (front and back)</p>
 </li>
 <li>
-<p>Proposed menu and price-list</p>
+<p>Proposed menu and pricing for all items</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates (i.e. Food Safety Course, etc.)</p>
