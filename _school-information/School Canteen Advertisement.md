@@ -56,8 +56,7 @@ Resident;</p>
 </li>
 <li>
 <p>Able to provide food that meet the health/nutritional standards set by
-the Health Promotion Board (HPB) under the Healthy Meals in Schools Programme
-(HMSP);</p>
+the Health Promotion Board (HPB) under the <a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (HMSP)</a>;</p>
 </li>
 <li>
 <p>Able to provide good service and quality food at reasonable prices;</p>
@@ -79,9 +78,8 @@ be an advantage;</p>
 </li>
 </ul>
 <p>Successful applicant will have to attend and pass the Food Safety Course
-Level 1 (formerly known as Basic Food Hygiene Course) and then apply for
-a Food Stall Licence issued by the Singapore Food Agency (SFA) to operate
-the stall.</p>
+Level 1 (formerly known as Basic Food Hygiene Course) and then <a href="https://www.sfa.gov.sg/food-retail/licensing-permits/food-shop-licence" rel="noopener noreferrer nofollow" target="_blank">apply for a Food Stall Licence </a>issued
+by the Singapore Food Agency (SFA) to operate the stall.</p>
 <h4><strong>Application Procedure:</strong></h4>
 <p>Interested applicants can obtain the hard copy application form from the
 school’s General office or download a copy from the school’s website.</p>
@@ -92,7 +90,7 @@ the following supporting documents:</p>
 <p>Photocopy of applicant’s NRIC (front and back)</p>
 </li>
 <li>
-<p>Proposed menu and price-list</p>
+<p>Proposed menu and pricing for all items</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates (i.e. Food Safety Course, etc.)</p>
