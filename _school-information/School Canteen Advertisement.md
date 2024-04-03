@@ -85,8 +85,8 @@ the stall.</p>
 <h4><strong>Application Procedure:</strong></h4>
 <p>Interested applicants can obtain the hard copy application form from the
 school’s General office or download a copy from the school’s website.</p>
-<p>Submit the duly completed <u>application form (link to file)</u> with the
-following supporting documents:</p>
+<p>Submit the duly completed <a href="/files/Application_for_Canteen_Stall_in_Existing_School_KRSS.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a> with
+the following supporting documents:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Photocopy of applicant’s NRIC (front and back)</p>
