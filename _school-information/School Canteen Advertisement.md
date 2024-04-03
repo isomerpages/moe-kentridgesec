@@ -25,7 +25,7 @@ description: ""
 <p>Rice only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 April 2024</p>
+<p>19 April 2024</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ description: ""
 <p>Rice and Udon noodles only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 April 2024</p>
+<p>19 April 2024</p>
 </td>
 </tr>
 </tbody>
