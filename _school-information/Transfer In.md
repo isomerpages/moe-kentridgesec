@@ -1,6 +1,6 @@
 ---
 title: Transfer In
-permalink: /transfer-in/
+permalink: /school-information/transfer-in/
 variant: tiptap
 description: ""
 ---
