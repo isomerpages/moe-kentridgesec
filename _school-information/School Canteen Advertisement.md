@@ -99,11 +99,11 @@ the following supporting documents:</p>
 </li>
 </ol>
 <p>The completed application form and all the required documents must be
-submitted to the school’s General Office by 17 April 2024 (Wednesday),
-4:00 pm.</p>
+submitted to the school’s General Office by 19 April 2024 (Friday), 4:00
+pm.</p>
 <p>Alternatively, the application form and required documents can be emailed
 to the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>&nbsp;by
-17 April 2024 (Wednesday).</p>
+19 April 2024 (Friday).</p>
 <p>Only shortlisted applicants will be notified. Shortlisted applicants are
 required to attend an interview with the School and be prepared for a food
 tasting session.</p>
