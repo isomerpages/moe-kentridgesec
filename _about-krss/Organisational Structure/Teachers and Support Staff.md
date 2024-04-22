@@ -222,7 +222,7 @@ table, th, td {
 <table>
     <tbody><tr><th colspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff; text-align: center;">Student Support</th>
   </tr><tr>
-    <th style="font-weight:bold;width: 300px;">Designation</th>
+    <th style="font-weight:bold;width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
 	  <tr>
