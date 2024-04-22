@@ -33,6 +33,26 @@ border-collapse: collapse;
      <td>Mr Poh Leong Berg</td>
      <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
   </tr>
+		<tr>
+     <td>HOD / Student Development [Year Head (Sec 4/5)]</td>
+     <td>Mr Mohamed Asan Bin Mohideen Pitchay</td>
+     <td><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg">mohamed_asan_mohideen_pitc@moe.edu.sg</a></td>
+  </tr>
+   <tr>
+     <td>Year Head (Sec 1)</td>
+     <td>Mrs Sherine Ang</td>
+     <td><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+     <td>Year Head (Sec 2)</td>
+     <td>Mrs Nicole Song Xiao Lin</td>
+     <td><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg">nicole_tay_xiao_lin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Year Head (Sec 3)</td>
+     <td>Mrs Elaine Su</td>
+    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@moe.edu.sg</a></td>
+  </tr>
   <tr>
      <td>Administration Manager</td>
      <td>Ms Tan Ying Min</td>
@@ -84,26 +104,6 @@ border-collapse: collapse;
   <tr>
      <td>HOD / SEN</td>
      <td>Mdm Sujeetha Margarita Brampy</td>
-  </tr>
-	<tr>
-     <td>HOD / Student Development [Year Head (Sec 4/5)]</td>
-     <td>Mr Mohamed Asan Bin Mohideen Pitchay</td>
-     <td><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg">mohamed_asan_mohideen_pitc@moe.edu.sg</a></td>
-  </tr>
-   <tr>
-     <td>Year Head (Sec 1)</td>
-     <td>Mrs Sherine Ang</td>
-     <td><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-     <td>Year Head (Sec 2)</td>
-     <td>Mrs Nicole Song Xiao Lin</td>
-     <td><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg">nicole_tay_xiao_lin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 3)</td>
-     <td>Mrs Elaine Su</td>
-    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@moe.edu.sg</a></td>
   </tr>
   <tr>
      <td>LH / English Language (Internal)</td>
