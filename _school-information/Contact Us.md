@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /school-information/contact-information/
 description: ""
+variant: markdown
 ---
 #####  **Address**  
 Kent Ridge Secondary School  
@@ -16,7 +17,7 @@ Email: [krss@moe.edu.sg](mailto:krss@moe.edu.sg)
 ##### Accessibility
 **Nearest MRT Station:**
 <br>
-Clementi MRT Buses: 30, 51, 143, 175, 201, 282
+Clementi MRT <br>Buses: 30, 51, 143, 175, 201, 282
 
 **Simple Ways to Get Here:**
 <br>
