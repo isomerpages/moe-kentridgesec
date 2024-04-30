@@ -3,8 +3,9 @@ title: Criteria
 permalink: /school-information/direct-school-admission-2022/criteria/
 description: ""
 third_nav_title: Direct School Admission 2023
+variant: markdown
 ---
-1\. Applicant must be eligible for Secondary 1 in 2024.
+1\. Applicant must be eligible for Secondary 1 in 2025.
 
 2\. Applicant must be able to demonstrate interest and talent and/or have a personal portfolio of special awards and achievements, leadership roles in
 
