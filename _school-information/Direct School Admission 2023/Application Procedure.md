@@ -3,10 +3,11 @@ title: Application Procedure
 permalink: /school-information/direct-school-admission-2022/application-procedure/
 description: ""
 third_nav_title: Direct School Admission 2023
+variant: markdown
 ---
 **Instructions**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to [MOE website](https://www.moe.gov.sg/secondary/dsa).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to [MOE website](https://www.moe.gov.sg/secondary/dsa).
 
 **DSA-Sec Candidates Not Studying in MOE Mainstream Schools**
 
