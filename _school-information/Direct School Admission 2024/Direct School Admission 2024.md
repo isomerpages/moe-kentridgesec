@@ -13,7 +13,7 @@ variant: markdown
 
 Dear Primary 6 Students and Parents,
 
-A very warm welcome to Kent Ridge Secondary School 2023 DSA-Sec Exercise.
+A very warm welcome to Kent Ridge Secondary School 2024 DSA-Sec Exercise.
 
 At Kent Ridge, we have two distinctive programmes:
 
