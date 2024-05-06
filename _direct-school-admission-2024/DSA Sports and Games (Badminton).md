@@ -2,6 +2,7 @@
 title: DSA Sports and Games (Badminton)
 permalink: /school-information/dsa/sports-and-games-badminton/
 description: ""
+variant: markdown
 ---
 Kent Ridge Secondary School will offer DSA to eligible students via Floorball, Badminton and Basketball. This is in line with our Learning for Life Programme which harnesses the philosophy of Olympism to develop our students through the interaction of mind, body and will.
 
@@ -17,6 +18,11 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 1\. Team
 
+2023
+
+*   National School Games 'B'(Girls) Division 2023 - Quarter Finalists
+*   National School Games 'C'(Boys) Division 2023 - Quarter Finalists
+
 2022
 
 *   National School Games 'C'(Girls) Division 2022 - Quarter Finalists
@@ -25,32 +31,6 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 *   National School Games 'B'(Boys) Division 2021 - Quarter Finalists
 
-2020
-
-*   National School Games 'B'(Boys) Division 2020 - Quarter Finalists
-*   SBA National Ranking System: U17 Girls Double – Ranked 6th
-*   SBA National Ranking System: U17 Boys Double – Ranked 5th&nbsp;to 16th&nbsp;\[4 students\]
-
-2019
-
-*   Yonex Cup Carnival (Boys) – 1st Runner-Up (U17)
-*   Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - 2nd&nbsp;Runner-Up (U15)
-*   14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Boys) – 2nd&nbsp;Runner-Up &amp; Top 8 (U17)
-*   14th&nbsp;Chinese Swimming Club Age Group (Invitational) Tournament (Girls) –&nbsp;2nd&nbsp;Runner-Up (U17)
-
-2\. Individual
-
-2020
-
-*   SBA National Ranking System: U17 Boys Singles – Ranked 20th&nbsp;to 51st&nbsp;\[5 students\]
-
-2019
-
-*   Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - Quarter-Finalists (U15/U17)
-
-2018
-
-*   Wee Kim Wee Badminton Challenge Trophy (Boys) 2018 –&nbsp;2nd&nbsp;Runner-Up
 
 **Training Programmes**
 

@@ -3,6 +3,7 @@ title: DSA Science, Technology, Engineering and Mathematics (Computational
   Thinking Skills)
 permalink: /school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/
 description: ""
+variant: tiptap
 ---
 **Background**
 

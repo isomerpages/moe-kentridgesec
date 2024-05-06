@@ -1,8 +1,9 @@
 ---
 title: Main Page
-permalink: /school-information/direct-school-admission-2022/main-page/
+permalink: /school-information/direct-school-admission-2024/main-page/
 description: ""
-third_nav_title: Direct School Admission 2023
+third_nav_title: Direct School Admission 2024
+variant: tiptap
 ---
 Kent Ridge Secondary School is committed to providing a student-centric and values-driven education to all our students. We recognise our students’ potential and talents in both academic and non-academic areas and develop them holistically through our programmes. In line with this, we are offering DSA for students who have the talents in Badminton, Basketball, Floorball and Computational Thinking Skills.
 

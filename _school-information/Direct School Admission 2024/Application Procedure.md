@@ -1,12 +1,13 @@
 ---
 title: Application Procedure
-permalink: /school-information/direct-school-admission-2022/application-procedure/
+permalink: /school-information/direct-school-admission-2024/application-procedure/
 description: ""
-third_nav_title: Direct School Admission 2023
+third_nav_title: Direct School Admission 2024
+variant: markdown
 ---
 **Instructions**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to [MOE website](https://www.moe.gov.sg/secondary/dsa).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to [MOE website](https://www.moe.gov.sg/secondary/dsa).
 
 **DSA-Sec Candidates Not Studying in MOE Mainstream Schools**
 
@@ -30,10 +31,10 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 Click the following links for more information on the respective DSA programmes:
 
-(1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/direct-school-admission/dsa-science-technology-engineering-and-mathematics-computational-thinking-skills/),
+(1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/),
 
-(2) [DSA – Sports and Game (Badminton)](/school-information/direct-school-admission/dsa-sports-and-games-badminton/),
+(2) [DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),
 
-(3) [DSA - Sports and Game (Basketball)](/school-information/direct-school-admission/dsa-sports-and-games-basketball/),
+(3) [DSA - Sports and Game (Basketball)](/school-information/dsa/sports-and-games-basketball/),
 
-(4) [DSA – Sports and Game (Floorball)](/school-information/direct-school-admission/dsa-sports-and-games-floorball/).
+(4) [DSA – Sports and Game (Floorball)](/school-information/dsa/sports-and-games-floorball/).

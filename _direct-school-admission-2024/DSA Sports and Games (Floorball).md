@@ -2,6 +2,7 @@
 title: DSA Sports and Games (Floorball)
 permalink: /school-information/dsa/sports-and-games-floorball/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,18 +36,17 @@ The CCA-Floorball programme has proven to be an effective way to help our studen
 
 **Achievements**
 
+2023
+
+*  Singapore Schools Sports Council - National School Games - 2 Students with Sportsmanship Award
+*   National School Games Floorball Championship 'C' Division Boys – Qualified for 2nd Round
+*   National School Games Floorball Championship 'B' Division Girls – Qualified for 2nd Round
+
+
 2022
 
-*  4 Students with Sportsmanship Award - National School Games Floorball Championship 2022
+*  National School Games Floorball Championship 2022 - 4 Students with Sportsmanship Award
 
-2019
-
-*   Girls – 2nd&nbsp;placing for SFA ‘B’ Division Floorball Competition (Plate Category)
-
-2018
-
-*   Boys – 3rd&nbsp;placing for SFA ‘B’ Division Competition (Plate Category)
-*   Girls – National ‘B’ Division Floorball Competition – National Top 12
 
 **Training Programmes**
 

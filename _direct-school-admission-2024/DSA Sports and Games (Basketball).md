@@ -2,6 +2,7 @@
 title: DSA Sports and Games (Basketball)
 permalink: /school-information/dsa/sports-and-games-basketball/
 description: ""
+variant: markdown
 ---
 Kent Ridge Secondary School will offer DSA to eligible students via Floorball, Badminton and Basketball. This is in line with our Learning for Life Programme which harnesses the philosophy of Olympism to develop our students through the interaction of mind, body and will.
 
@@ -15,19 +16,14 @@ The CCA-Basketball programme has proven to be an effective way to develop our �
 
 1\. Team
 
+2023
+
+*   National School Games South Zone 'C' Division Boys – Quarter Finalist
+*   Singapore Schools Sports Council - National School Games - 2 Students with Sportsmanship Award
+
 2022
 
 *   National School Games South Zone 'C' Division Boys – Quarter Finalist
-
-2019
-
-*   South Zone 'B' Division Inter-School Basketball Championship (Girls) 2019 – Fairplay Award
-
-2018
-
-*   South Zone 'B' Division Inter-School Basketball Championship (Girls) 2018 – Fairplay Award
-*   ActiveSG-BAS Developmental League (Girls) 2018 – 3rd&nbsp;Runner-Up
-*   Outram Invitational Cup ('C' Division Boys) 2018&nbsp; – 1st&nbsp; &nbsp;Runner-Up
 
 **Training Programmes**
 

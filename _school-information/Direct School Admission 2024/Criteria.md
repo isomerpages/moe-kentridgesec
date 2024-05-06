@@ -1,10 +1,11 @@
 ---
 title: Criteria
-permalink: /school-information/direct-school-admission-2022/criteria/
+permalink: /school-information/direct-school-admission-2024/criteria/
 description: ""
-third_nav_title: Direct School Admission 2023
+third_nav_title: Direct School Admission 2024
+variant: markdown
 ---
-1\. Applicant must be eligible for Secondary 1 in 2024.
+1\. Applicant must be eligible for Secondary 1 in 2025.
 
 2\. Applicant must be able to demonstrate interest and talent and/or have a personal portfolio of special awards and achievements, leadership roles in
 
@@ -12,5 +13,7 @@ third_nav_title: Direct School Admission 2023
 *   DSA – Sports and Games (Badminton)
 *   DSA - Sports and Games (Basketball)
 *   DSA – Sports and Games (Floorball)
+
+3. Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
 
 **Note:** General academic ability tests such as General Ability (GAT) and Higher Ability Selection Test (HAST) are **not** required for the selection process.
