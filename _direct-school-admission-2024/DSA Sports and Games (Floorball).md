@@ -38,14 +38,14 @@ The CCA-Floorball programme has proven to be an effective way to help our studen
 
 2023
 
-*  2 Students with Sportsmanship Award - Singapore Schools Sports Council - National School Games
+*  Singapore Schools Sports Council - National School Games - 2 Students with Sportsmanship Award
 *   National School Games Floorball Championship 'C' Division Boys – Qualified for 2nd Round
 *   National School Games Floorball Championship 'B' Division Girls – Qualified for 2nd Round
 
 
 2022
 
-*  4 Students with Sportsmanship Award - National School Games Floorball Championship 2022
+*  National School Games Floorball Championship 2022 - 4 Students with Sportsmanship Award
 
 
 **Training Programmes**
