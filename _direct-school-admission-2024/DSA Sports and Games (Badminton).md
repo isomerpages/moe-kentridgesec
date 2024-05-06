@@ -32,20 +32,6 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 *   National School Games 'B'(Boys) Division 2021 - Quarter Finalists
 
 
-2\. Individual
-
-2020
-
-*   SBA National Ranking System: U17 Boys Singles – Ranked 20th&nbsp;to 51st&nbsp;\[5 students\]
-
-2019
-
-*   Berita Harian / Pilot Pen / Ashaway Youth Games (Boys) - Quarter-Finalists (U15/U17)
-
-2018
-
-*   Wee Kim Wee Badminton Challenge Trophy (Boys) 2018 –&nbsp;2nd&nbsp;Runner-Up
-
 **Training Programmes**
 
 1\. Elementary Training Programme
