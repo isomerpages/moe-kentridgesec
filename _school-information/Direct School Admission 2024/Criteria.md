@@ -14,6 +14,6 @@ variant: markdown
 *   DSA - Sports and Games (Basketball)
 *   DSA – Sports and Games (Floorball)
 
-**Note:** 
-* General academic ability tests such as General Ability (GAT) and Higher Ability Selection Test (HAST) are **not** required for the selection process.
-* Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
+3. Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
+
+**Note:** General academic ability tests such as General Ability (GAT) and Higher Ability Selection Test (HAST) are **not** required for the selection process.
