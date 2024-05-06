@@ -33,8 +33,8 @@ Click the following links for more information on the respective DSA programmes:
 
 (1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/direct-school-admission/dsa-science-technology-engineering-and-mathematics-computational-thinking-skills/),
 
-(2) [DSA – Sports and Game (Badminton)](/school-information/direct-school-admission/dsa-sports-and-games-badminton/),
+(2) [DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),
 
-(3) [DSA - Sports and Game (Basketball)](/school-information/direct-school-admission/dsa-sports-and-games-basketball/),
+(3) [DSA - Sports and Game (Basketball)](/school-information/dsa/sports-and-games-basketball/),
 
-(4) [DSA – Sports and Game (Floorball)](/school-information/direct-school-admission/dsa-sports-and-games-floorball/).
+(4) [DSA – Sports and Game (Floorball)](/school-information/dsa/sports-and-games-floorball/).
