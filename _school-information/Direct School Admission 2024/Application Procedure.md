@@ -31,7 +31,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 Click the following links for more information on the respective DSA programmes:
 
-(1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-and-mathematics-computational-thinking-skills/),
+(1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/),
 
 (2) [DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),
 
