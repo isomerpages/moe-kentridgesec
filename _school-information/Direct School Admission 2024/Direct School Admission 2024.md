@@ -25,7 +25,7 @@ We offer the following DSA talent areas in 2024:
 *   [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/)
 *   [DSA - Sports and Games (Badminton)](/school-information/dsa/sports-and-games-badminton/)
 *   [DSA - Sports and Games (Basketball)](/school-information/dsa/sports-and-games-basketball/)
-*   [DSA - Sports and Games (Floorball)](/school-information/dsa/sports-and-games-basketball/)
+*   [DSA - Sports and Games (Floorball)](/school-information/dsa/sports-and-games-floorball/)
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to the&nbsp;[MOE website](http://www.moe.gov.sg/dsa-sec).
 
