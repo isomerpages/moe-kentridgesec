@@ -178,10 +178,8 @@ table, th, td {
     <td>Ms Chong Jieting, Jasmine</td>
   </tr>
   <tr>
-    <td rowspan="2">4N3</td>
+    <td rowspan="">4N3</td>
     <td>Mr Ong Wee Kwang</td>
-  </tr>
-		  <tr><td>Mrs Roszana Teo</td>
   </tr>
   <tr>
       <td>4E4</td>
