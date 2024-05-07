@@ -114,9 +114,11 @@ table, th, td {
  	 <td>Mr Ang Swee Huat</td>
   </tr>
   <tr>
-    <td>2-7</td>
+   <td rowspan="2">2-7</td>
     <td>Mr Lam Yao Lun</td>
-			</tr><tr>
+			</tr> <tr>
+  <td>Mr Tan Xue Ji</td>
+  </tr><tr>
     <td rowspan="2">3-1</td>
      <td>Ms Wong Sue Jin</td>
 		</tr>
@@ -176,10 +178,8 @@ table, th, td {
     <td>Ms Chong Jieting, Jasmine</td>
   </tr>
   <tr>
-    <td rowspan="2">4N3</td>
+    <td rowspan="">4N3</td>
     <td>Mr Ong Wee Kwang</td>
-  </tr>
-		  <tr><td>Mrs Roszana Teo</td>
   </tr>
   <tr>
       <td>4E4</td>
