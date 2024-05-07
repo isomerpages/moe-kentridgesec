@@ -114,9 +114,11 @@ table, th, td {
  	 <td>Mr Ang Swee Huat</td>
   </tr>
   <tr>
-    <td>2-7</td>
+   <td rowspan="2">2-7</td>
     <td>Mr Lam Yao Lun</td>
-			</tr><tr>
+			</tr> <tr>
+  <td>Mr Tan Xue Ji</td>
+  </tr><tr>
     <td rowspan="2">3-1</td>
      <td>Ms Wong Sue Jin</td>
 		</tr>
