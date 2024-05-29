@@ -4,23 +4,84 @@ permalink: /quick-links/
 description: ""
 variant: tiptap
 ---
-**For Staff**
-
-*   [All Ears](https://forms.moe.edu.sg/)
-*   [Human Resource Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
-*   [iEXAMS](https://iexams.seab.gov.sg/)
-*   [EPP](https://myexamduty.seab.gov.sg/auth/login)
-*   [MIMS](http://portal.mims.moe.gov.sg/)
-*   [MOE Intranet](http://intranet.moe.gov.sg/)
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-*   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [Resource Booking System](https://rbs.avero-tech.com/)
-*   [School Cockpit (Admin and Reports)](https://schoolcockpit.moe.gov.sg/)
-*   [School cockpit (Result Entry)](https://schoolcockpit.moe.gov.sg/academic)
-*   [SC Mobile](https://scmobile.moe.edu.sg/login)
-*   [SSOE 2 Service Portal](https://ssoe2.moe.edu.sg/sp)
-
-**For Student**
-*   [iCON](https://workspace.google.com/dashboard)
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/)
-*   [School Library](https://schoolibrary.moe.edu.sg/kentridgesec)
+<p><strong>For Staff</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">Human Resource Portal (HRP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS</a>
+</p>
+</li>
+<li>
+<p><a href="https://myexamduty.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">EPP</a>
+</p>
+</li>
+<li>
+<p><a href="http://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS</a>
+</p>
+</li>
+<li>
+<p><a href="http://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+</li>
+<li>
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit (Admin and Reports)</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/academic" rel="noopener noreferrer nofollow" target="_blank">School cockpit (Result Entry)</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+</li>
+<li>
+<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Service Portal</a>
+</p>
+</li>
+</ul>
+<p><strong>For Student</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">iCON</a>
+</p>
+</li>
+<li>
+<p><a href="https://tinyurl.com/krssireadportal" rel="noopener noreferrer nofollow" target="_blank">KRSS iRead Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/krssreading/%E4%B8%BB%E9%A1%B5" rel="noopener noreferrer nofollow" target="_blank">KRSS Chinese Reading Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/kentridgesec" rel="noopener noreferrer nofollow" target="_blank">School Library</a>
+</p>
+</li>
+</ul>
+<p></p>
