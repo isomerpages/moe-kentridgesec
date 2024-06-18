@@ -70,7 +70,7 @@ border-collapse: collapse;
      <td>Ms Jaime Lim Hwee Fung</td>
   </tr>
   <tr>
-     <td>HOD / CCE (Internal)</td>
+     <td>HOD / CCE</td>
      <td>Mr Lee Hoe Sheng Hosea</td>
   </tr>
 	<tr>
@@ -93,12 +93,16 @@ border-collapse: collapse;
      <td>HOD / Mathematics</td>
      <td>Ms Tan Siew Eng Vivian</td>
   </tr>
+		  <tr>
+     <td>HOD / Mother Tongue</td>
+     <td>Mdm Yu Xiaoyan</td>
+  </tr>
 	<tr>
      <td>School Staff Developer</td>
      <td>Mdm Ruby Jayanthi d/o Simmon R E</td>
   </tr>
   <tr>
-     <td>HOD / Science (Internal)</td>
+     <td>HOD / Science</td>
      <td>Ms Zhou Li</td>
   </tr>
   <tr>
@@ -152,10 +156,6 @@ border-collapse: collapse;
   <tr>
      <td>Lead Teacher / CCE</td>
      <td>Ms Lim Chye Ling</td>
-  </tr>
-  <tr>
-     <td>Senior Teacher / Chinese Language</td>
-     <td>Mdm Yu Xiaoyan</td>
   </tr>
 		  <tr>
      <td>Senior Teacher / English Language</td>
