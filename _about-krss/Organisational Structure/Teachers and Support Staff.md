@@ -225,6 +225,10 @@ table, th, td {
     <th style="font-weight:bold;width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
   </tr>
+		 <tr>
+    <td>School Counsellor</td>
+    <td>Mr Aw Wei Keong Freddy</td>
+  </tr>
 	  <tr>
     <td>Part-Time School Counsellor</td>
     <td>Mdm Ow Suek Yin</td>
