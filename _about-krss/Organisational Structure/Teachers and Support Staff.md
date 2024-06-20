@@ -37,7 +37,7 @@ table, th, td {
    <td>Mrs Claudia Ng</td>
   </tr>
   <tr>
-    <td>Ms Arfah Lubis Binte Abdul Rahman</td>
+    <td>Ms Lam Cheng Wan</td>
   </tr>
 		<tr>
     <td rowspan="2">1-4</td>
@@ -224,6 +224,10 @@ table, th, td {
   </tr><tr>
     <th style="font-weight:bold;width: 400px;">Designation</th>
 		<th style="font-weight:bold;width: 400px;">Name of Staff</th>
+  </tr>
+		 <tr>
+    <td>School Counsellor</td>
+    <td>Mr Aw Wei Keong Freddy</td>
   </tr>
 	  <tr>
     <td>Part-Time School Counsellor</td>
