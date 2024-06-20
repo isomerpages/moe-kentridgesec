@@ -37,7 +37,7 @@ table, th, td {
    <td>Mrs Claudia Ng</td>
   </tr>
   <tr>
-    <td>Ms Arfah Lubis Binte Abdul Rahman</td>
+    <td>Ms Lam Cheng Wan</td>
   </tr>
 		<tr>
     <td rowspan="2">1-4</td>
