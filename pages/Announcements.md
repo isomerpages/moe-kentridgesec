@@ -12,14 +12,14 @@ Updated 20 June 2024 <br>
 [Secondary 4 &amp; 5](/files/2024_Semester_2_Timetable_Secondary_4_5.pdf)
 <br>
 <br>
-**Direct School Admission 2024**<br>
- [Read more](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission-2024/)
-
 **Preliminary Examination Timetables (Semester 2, 2024)**<br>
 Updated 21 June 2024 <br>
 [Secondary 4NT](/files/Sec_4N_T__Prelim_Timetable_21_Jun.pdf)<br>
 [Secondary 4NA](/files/Sec_4N_A__Prelim_Timetable_21_Jun.pdf)<br>
-[Secondary 4E &amp; 5N](/files/Sec_4E_5N_Prelim_Timetable.pdf)
+[Secondary 4E &amp; 5N](/files/Sec_4E_5N_Prelim_Timetable.pdf)<br>
+
+**Direct School Admission 2024**<br>
+ [Read more](https://kentridgesec.moe.edu.sg/school-information/direct-school-admission-2024/)
 
 **Request to Transfer to Kent Ridge Secondary School for 2024**
 
