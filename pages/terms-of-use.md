@@ -41,7 +41,7 @@ Thank you for visiting www.kentridgesec.moe.edu.sg. By accessing and using this 
 
 * This website contains hyperlinks to websites which are not maintained Kent Ridge Secondary School. Kent Ridge Secondary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
-* Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Kent Ridge Secondary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+* Hyperlinks to other websites are provided as a convenience. In no circumstances shall Kent Ridge Secondary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
 **Links to this website from other websites**
 
@@ -49,9 +49,9 @@ Thank you for visiting www.kentridgesec.moe.edu.sg. By accessing and using this 
 
 * You must secure permission from Kent Ridge Secondary School prior to hyperlinking to, or framing, this website or any of the Contents, or engaging in similar activities. Kent Ridge Secondary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this website or any of the Contents.
 
-* Your linking to, or framing any part of thiswebsite or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this website or any of the Contents.
+* Your linking to, or framing any part of this website or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this website or any of the Contents.
 
-* In no circumstances shall Kent Ridge Secondary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this website or any of the Contents.
+* In no circumstances shall Kent Ridge Secondary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this website or any of the Contents.
 
 * Kent Ridge Secondary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 
