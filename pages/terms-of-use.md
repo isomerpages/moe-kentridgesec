@@ -19,7 +19,7 @@ Thank you for visiting www.kentridgesec.moe.edu.sg. By accessing and using this 
 
 * Click [here](https://www.kentridgesec.moe.edu.sg/privacy/) to review this website Privacy Statement.
 
-**Restrictions on Use of Materials**
+**Restrictions on use of Materials**
 
 * Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Kent Ridge Secondary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
 
@@ -37,13 +37,13 @@ Thank you for visiting www.kentridgesec.moe.edu.sg. By accessing and using this 
 
 * Kent Ridge Secondary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
-**Links from This Website to Other Websites**
+**Links from this website to other websites**
 
 * This website contains hyperlinks to websites which are not maintained Kent Ridge Secondary School. Kent Ridge Secondary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 * Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Kent Ridge Secondary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
-**Links to This Website from Other Websites**
+**Links to this website from other websites**
 
 * Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
 
