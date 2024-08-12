@@ -12,6 +12,11 @@ Updated 09 July 2024 <br>
 [Secondary 3](/files/2024_Sem_2_Class_Timetable_Sec_3_3_July.pdf)<br>
 [Secondary 4 &amp; 5](/files/2024_Sem_2_Class_Timetable_Sec_45_2_July.pdf)<br>
 
+**Preliminary Examination Time-table (Semester 2, 2024)**<br>
+Updated 07 August 2024 <br>
+[Secondary 4 E &amp; 5 N](/files/Sec_4E_5N_Prelim_Timetable.pdf)<br>
+
+
 **End-of-year Examination Timetables (2024)**<br>
 Updated 07 August 2024 <br>
 [Secondary 1](/files/EYE_Timetable_2024_Sec_1.pdf)<br>
