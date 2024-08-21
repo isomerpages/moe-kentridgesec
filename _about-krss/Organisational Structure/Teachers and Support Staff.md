@@ -247,7 +247,7 @@ table, th, td {
   </tr>
 	  <tr>
     <td>Student Health Advisor</td>
-    <td>Ms Fidlya Binte Kamsani</td>
+    <td>Ms Tan Xin Lei</td>
   </tr>
 	<tr>
     <td>Senior Education Career Guidance (SECGC)</td>
@@ -380,6 +380,6 @@ table, th, td {
   </tr>
   <tr>
     <td>Library Assistant</td>
-    <td>Ms Cayla</td>
+    <td>Ms Salin D/O M Ganaprakasam</td>
   </tr>
 </tbody></table>
