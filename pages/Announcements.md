@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **End-of-year Examination Timetables (2024)**<br>
-Updated 11 August 2024 <br>
+Updated 11 Sepetember 2024 <br>
 [Secondary 1](/files/EYE_Timetable_2024_Sec_1.pdf)<br>
 [Secondary 2](/files/EYE_TimeTable_2024_Sec_2.pdf)<br>
 [Secondary 3 NT](/files/EYE_Timetable_2024_3NT.pdf)<br>
