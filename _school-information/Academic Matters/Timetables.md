@@ -19,7 +19,3 @@ Updated 07 August 2024 <br>
 [Secondary 3 NT](/files/EYE_Timetable_2024_3NT.pdf)<br>
 [Secondary 3 NA](/files/EYE_Timetable_2024__3NA.pdf)<br>
 [Secondary 3 E](/files/EYE_Timetable_2024_3E.pdf)<br>
-
-**Tutorial Schedule (September Holiday)**<br>
-Updated 28 August 2024 <br>
-[September Holiday](/files/2024_Sept_Holiday_Tutorial_Schedule.pdf)<br>
