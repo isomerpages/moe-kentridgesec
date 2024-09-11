@@ -16,6 +16,6 @@ Updated 09 July 2024 <br>
 Updated 11 Sepetember 2024 <br>
 [Secondary 1](/files/EYE_Timetable_2024_Sec_1.pdf)<br>
 [Secondary 2](/files/EYE_TimeTable_2024_Sec_2.pdf)<br>
-[Secondary 3 NT](/files/EYE_Timetable_2024_3NT.pdf)<br>
-[Secondary 3 NA](/files/EYE_Timetable_2024__3NA.pdf)<br>
-[Secondary 3 E](/files/EYE_Timetable_2024_3E.pdf)<br>
+[Secondary 3 NT](/files/EYE_Timetable_2024_Sec_3NT.pdf)<br>
+[Secondary 3 NA](/files/EYE_Timetable_2024__Sec_3NA.pdf)<br>
+[Secondary 3 E](/files/EYE_Timetable_2024_Sec_3E.pdf)<br>
