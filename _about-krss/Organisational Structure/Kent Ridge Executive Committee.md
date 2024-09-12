@@ -106,10 +106,6 @@ border-collapse: collapse;
      <td>Ms Zhou Li</td>
   </tr>
   <tr>
-     <td>HOD / SEN</td>
-     <td>Mdm Sujeetha Margarita Brampy</td>
-  </tr>
-  <tr>
      <td>LH / English Language (Internal)</td>
      <td>Ms Zannatul Nauum Moummee</td>
   </tr>
