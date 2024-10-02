@@ -4,8 +4,8 @@ title: Kent Ridge Secondary School
 description: Kent Ridge Secondary School
 image: /images/KRSS logo.png
 permalink: /
-notification: Kent Ridge Secondary School will be having the Open House on 09
-  November, 9am to 12pm. Stay tuned for more details.
+notification: <center>Kent Ridge Secondary School will be having the Open House
+  on 09 November, 9am to 12pm. Stay tuned for more details.</center>
 sections:
   - hero:
       background: /images/IMG_0470.jpg
