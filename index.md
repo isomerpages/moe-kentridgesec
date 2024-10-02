@@ -8,7 +8,7 @@ notification: Kent Ridge Secondary School will be having the Open House on 09
   November, 9am to 12pm. Stay tuned for more details.
 sections:
   - hero:
-      background: /images/krss.gif
+      background: /images/IMG_0470.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -19,4 +19,5 @@ sections:
         - title: Contact Us
           description: ""
           url: https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
+      variant: center
 ---
