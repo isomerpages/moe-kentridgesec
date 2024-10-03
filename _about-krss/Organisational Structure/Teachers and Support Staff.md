@@ -29,8 +29,11 @@ table, th, td {
    <td>Ms Hong Yunfang</td>
   </tr>
   <tr>
-    <td>1-2</td>
+    <td rowspan="2">1-2</td>
     <td>Mr Hong Thin Yong</td>
+  </tr>
+		  <tr>
+    <td>Ms Low Shi Ting</td>
   </tr>
   <tr>
     <td rowspan="2">1-3</td>
