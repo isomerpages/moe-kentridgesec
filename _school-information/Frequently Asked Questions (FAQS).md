@@ -2,6 +2,7 @@
 title: Frequently Asked Questions (FAQS)
 permalink: /school-information/frequently-asked-questions-faqs/
 description: ""
+variant: markdown
 ---
 ##### **A. School Information**
 
@@ -23,7 +24,7 @@ We operate from 7.00 am to 6.30 pm on school days and from 8.00 am to 5.30 pm du
 
 **5\. What are the school terms?**
 
-There are four terms in an academic year. Click [here](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022) to check MOE’s School Terms and Holidays.
+There are four terms in an academic year. Click [here](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024) to check MOE’s School Terms and Holidays.
 
 ##### B. School Programmes
 
