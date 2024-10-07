@@ -2,6 +2,7 @@
 title: School Crest and Song
 permalink: /about-krss/school-crest-and-song/
 description: ""
+variant: markdown
 ---
 ### School Crest
 
@@ -12,9 +13,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school-logo.jpg" alt="KRSS" style="width:25%;">  
-  
-</body>
+<img src="/images/School_Logo.png" alt="KRSS" style="width:25%;">  
+
 
 The Kent Ridge Secondary School logo consists of a torch with a banner bearing the school name and motto "Beyond Frontiers" placed below it. Each element contributes to the whole in symbolising the vision and values of the school.
 
