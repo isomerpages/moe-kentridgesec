@@ -3,6 +3,7 @@ title: Overview
 permalink: /achievements/students/overview/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 ### Overview
 Students are given various platforms to present their learning to the school and opportunities to develop their skills in their areas of strengths for example being the Master of Ceremony for school events and celebrations. Students who excel in academic and non-academic areas are recognised through awards for their attitude and performance. Student Leaders are given due recognition for their contribution to the school and community through the Student Leaders’ Week.
@@ -33,6 +34,10 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-0lax">2023</td>
+    <td class="tg-0lax">Qislaila Aqila Binte Zainul Hayah<br>Tan Guan Cheng</td>
+  </tr>
 	<tr>
     <td class="tg-0lax">2022</td>
     <td class="tg-0lax">Cadence Toh</td>
@@ -111,6 +116,10 @@ Students are given various platforms to present their learning to the school and
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-lm9i">2023</td>
+    <td class="tg-lm9i">Azrullah Bin Jamilludin<br>Lee Hung Wing</td>
+  </tr>
 		 <tr>
     <td class="tg-lm9i">2022</td>
     <td class="tg-lm9i">Muhammad Taufiq Bin Mohamed Abdul Jalil</td>
