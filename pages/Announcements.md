@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+### Open House 2024
+
+![Open House 2024](/images/KRSS_Open_House_2024__2500_x_2000_px___800_x_500_px_.png)
+
 **Class Time-tables (Semester 2, 2024)** <br>
 Updated 16 September 2024 <br>
 [Secondary 1](/files/2024_Sem_2_Class_Timetable_Sec_1_2_July.pdf)<br>
