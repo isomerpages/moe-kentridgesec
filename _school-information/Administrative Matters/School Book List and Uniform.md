@@ -70,28 +70,28 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 **Secondary 1**
 
 | |Textbook | Stationery |
-| Sec 1     |[KRSS Book List 2025 Sec 1](/files/krss%20book%20list%202025%20sec1.pdf)    |  [KRSS Stationery List 2025 Sec 1](/files/krss%20stationery%20list%202025%20sec1.pdf)  |
+| Sec 1     |[KRSS Book List 2025 Sec 1](/files/KRSS_Book_List_2025_Sec_1.pdf)    |  [KRSS Stationery List 2025 Sec 1](/files/KRSS_Stationery_List_2025_Sec_1.pdf)  |
 
 **Secondary 2**
 
 | |Textbook | Stationery |
-| Sec 2     |[KRSS Book List 2025 Sec 2](/files/krss%20book%20list%202025%20sec2.pdf)    |  [KRSS Stationery List 2025 Sec 2](/files/krss%20stationery%20list%202025%20sec2.pdf)  |
+| Sec 2     |[KRSS Book List 2025 Sec 2](/files/KRSS_Book_List_2025_Sec_2.pdf)    |  [KRSS Stationery List 2025 Sec 2](/files/KRSS_Stationery_List_2025_Sec_2.pdf)  |
 
 **Secondary 3**
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3 EXP     |[KRSS Book List 2025 Sec 3 EXP](/files/krss%20book%20list%202025%203exp.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)  |
-| Sec 3 NA     |[KRSS Book List 2025 Sec 3 NA](/files/krss%20book%20list%202025%203na.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)   |
-| Sec 3 NT     |[KRSS Book List 2025 Sec 3 NT](/files/krss%20book%20list%202025%203nt.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)    |
+| Sec 3 EXP     |[KRSS Book List 2025 Sec 3 EXP](/files/KRSS_Book_List_2025_Sec_3_EXP.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
+| Sec 3 NA     |[KRSS Book List 2025 Sec 3 NA](/files/KRSS_Book_List_2025_Sec_3_NA.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
+| Sec 3 NT     |[KRSS Book List 2025 Sec 3 NT](/files/KRSS_Book_List_2025_Sec_3_NT.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
 
 **Secondary 4**
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 4 EXP     |[KRSS Book List 2025 Sec 4 EXP](/files/krss%20book%20list%202025%204exp.pdf) |[KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
-| Sec 4 NA     |[KRSS Book List 2025 Sec 4 NA](/files/krss%20book%20list%202025%204na.pdf)  |[KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
-| Sec 4 NT     |[KRSS Book List 2025 Sec 4 NT](/files/krss%20book%20list%202025%204nt.pdf)   | [KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
+| Sec 4 EXP     |[KRSS Book List 2025 Sec 4 EXP](/files/KRSS_Book_List_2025_Sec_4_EXP.pdf) |[KRSS Stationery List 2025 Sec 4](/files/KRSS_Stationery_List_2025_Sec_4.pdf)   |
+| Sec 4 NA     |[KRSS Book List 2025 Sec 4 NA](/files/KRSS_Book_List_2025_Sec_4_NA.pdf)  |[KRSS Stationery List 2025 Sec 4](/files/KRSS_Stationery_List_2025_Sec_4.pdf)    |
+| Sec 4 NT     |[KRSS Book List 2025 Sec 4 NT](/files/KRSS_Book_List_2025_Sec_4_NT.pdf)   | [KRSS Stationery List 2025 Sec 4](/files/KRSS_Stationery_List_2025_Sec_4.pdf)    |
 
 
 ### School Uniform
