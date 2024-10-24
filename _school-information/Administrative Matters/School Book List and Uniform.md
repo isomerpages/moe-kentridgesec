@@ -3,10 +3,11 @@ title: School Book List and Uniform
 permalink: /school-information/administrative-matters/school-book-list-uniform/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
-**PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2024**
+**PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025**
 
-Dear parents and students, please refer to the [attached letter (updated 26 Oct 2023)](/files/letter%20to%20parents_year-end%20sales%20for%20ay2024_26-oct-2023.pdf) for details on the purchase of books and uniforms during the 2023 year-end school holidays, according to the schedule as follows:
+Dear parents and students, please refer to the [attached letter (updated 26 Oct 2023)](/files/letter%20to%20parents_year-end%20sales%20for%20ay2024_26-oct-2023.pdf) for details on the purchase of books and uniforms during the 2024 year-end school holidays, according to the schedule as follows:
 <table>
  <tbody>
   <tr><th rowspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff">Level</th>
@@ -64,28 +65,33 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 
 **Please show the confirmation email at school entry.**
 
-### 2024 Textbook and Stationery List
+### 2025 Textbook and Stationery List
+
+**Secondary 1**
+
+| |Textbook | Stationery |
+| Sec 1     |[KRSS Book List 2025 Sec 1](/files/krss%20book%20list%202025%20sec1.pdf)    |  [KRSS Stationery List 2025 Sec 1](/files/krss%20stationery%20list%202025%20sec1.pdf)  |
 
 **Secondary 2**
 
 | |Textbook | Stationery |
-| Sec 2     |[KRSS Book List 2024 Sec 2](/files/krss%20book%20list%202024%20sec2.pdf)    |  [KRSS Stationery List 2024 Sec 2](/files/krss%20stationery%20list%202024%20sec2.pdf)  |
+| Sec 2     |[KRSS Book List 2025 Sec 2](/files/krss%20book%20list%202025%20sec2.pdf)    |  [KRSS Stationery List 2025 Sec 2](/files/krss%20stationery%20list%202025%20sec2.pdf)  |
 
 **Secondary 3**
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3 EXP     |[KRSS Book List 2024 Sec 3 EXP](/files/krss%20book%20list%202024%203exp.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)  |
-| Sec 3 NA     |[KRSS Book List 2024 Sec 3 NA](/files/krss%20book%20list%202024%203na.pdf)  | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)   |
-| Sec 3 NT     |[KRSS Book List 2024 Sec 3 NT](/files/krss%20book%20list%202024%203nt.pdf)   | [KRSS Stationery List 2024 Sec 3](/files/krss%20stationery%20list%202024%20sec3.pdf)    |
+| Sec 3 EXP     |[KRSS Book List 2025 Sec 3 EXP](/files/krss%20book%20list%202025%203exp.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)  |
+| Sec 3 NA     |[KRSS Book List 2025 Sec 3 NA](/files/krss%20book%20list%202025%203na.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)   |
+| Sec 3 NT     |[KRSS Book List 2025 Sec 3 NT](/files/krss%20book%20list%202025%203nt.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/krss%20stationery%20list%202025%20sec3.pdf)    |
 
 **Secondary 4**
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 4 EXP     |[KRSS Book List 2024 Sec 4 EXP](/files/krss%20book%20list%202024%204exp.pdf) |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
-| Sec 4 NA     |[KRSS Book List 2024 Sec 4 NA](/files/krss%20book%20list%202024%204na.pdf)  |[KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
-| Sec 4 NT     |[KRSS Book List 2024 Sec 4 NT](/files/krss%20book%20list%202024%204nt.pdf)   | [KRSS Stationery List 2024 Sec 4](/files/krss%20stationery%20list%202024%20sec4.pdf)    |
+| Sec 4 EXP     |[KRSS Book List 2025 Sec 4 EXP](/files/krss%20book%20list%202025%204exp.pdf) |[KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
+| Sec 4 NA     |[KRSS Book List 2025 Sec 4 NA](/files/krss%20book%20list%202025%204na.pdf)  |[KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
+| Sec 4 NT     |[KRSS Book List 2025 Sec 4 NT](/files/krss%20book%20list%202025%204nt.pdf)   | [KRSS Stationery List 2025 Sec 4](/files/krss%20stationery%20list%202025%20sec4.pdf)    |
 
 
 ### School Uniform
