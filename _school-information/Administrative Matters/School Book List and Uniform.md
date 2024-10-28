@@ -18,27 +18,27 @@ Dear parents and students, please refer to the [attached letter (updated 26 Oct 
   <td style="background-color:#033668; font-weight:bold; color:#ffffff">Uniforms</td>
  </tr>
  <tr>
-  <td>Sec 3 (2023)</td>
-  <td>14 – 17 Nov 2023</td>
+  <td>Sec 3 (2024) / Sec 4 (2025)</td>
+  <td>11 – 15 Nov 2024</td>
     <td rowspan="2">Bookshop sells uniforms</td>
  </tr>
 	 <tr>
-  <td>Sec 1 (2023)</td>
-  <td>20 – 24 Nov 2023</td>
+  <td>Sec 1 (2024) / Sec 2 (2025)</td>
+  <td>18 – 22 Nov 2024</td>
  </tr>
 	 <tr>
-  <td>Sec 2 (2023)</td>
-  <td>27 Nov – 1 Dec 2023</td>
+  <td>Sec 2 (2024) / Sec 3 (2025))</td>
+  <td>25 Nov – 29 Nov 2024</td>
     <td rowspan="2">Canteen (Level 3)</td>
  </tr>
 		 <tr>
   <td>Collection for all FAS Students</td>
-  <td>4 – 8 Dec 2023</td>
+  <td>2 – 6 Dec 2024</td>
   <td>&nbsp;</td>
  </tr>
 			 <tr>
   <td>All Levels</td>
-  <td>11 – 15 Dec 2023 *</td>
+  <td>9 – 13 Dec 2024 *</td>
   <td>&nbsp;</td>
  </tr>
 </tbody></table>
@@ -47,7 +47,7 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-*Please note there will be **no sales** after 15 Dec 2023 to prepare for incoming 2024 Sec 1.*
+*Please note there will be **no sales** after 13 Dec 2024 to prepare for incoming 2025 Sec 1.*
 
 
 **We strongly encourage all parents to opt for online ordering and delivery.** The information for our vendors are as follows:
