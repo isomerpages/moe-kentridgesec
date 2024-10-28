@@ -95,5 +95,4 @@ Please avoid delaying till late-December to make your purchases. The vendors wil
 
 
 ### School Uniform
-
-[Guide for Purchase of School Uniforms](/files/KRSS_Uniform_Infosheet_2024__24_Oct_2024.pdf) (updated 28 Oct 2024)
+[Guide for Purchase of School Uniforms](/files/krss_uniform_infosheet_2024__24_oct_2024.pdf) (updated 28 Oct 2024)
