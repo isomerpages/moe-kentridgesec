@@ -2,12 +2,14 @@
 title: School Mission, Vision & Values
 permalink: /about-krss/vision-mission-values/
 description: ""
+variant: markdown
 ---
 **Our Vision** <br>
-A Kent Ridgean has the **Heart of a Saint**, **Passion of an Inventor** and **Will of an Olympian**.
+A Kent Ridgean has the&nbsp;**Heart of a Saint**,&nbsp;**Passion of an Inventor**&nbsp;and&nbsp;**Will of an Olympian**.
 
 **Our Mission** <br>
-Kent Ridge Secondary nurtures the **heart**, ignites the **passion** and strengthens the **will** of all Kent Ridgeans to become individuals of exemplary character.
+Kent Ridge Secondary nurtures the&nbsp;**heart**, ignites the&nbsp;**passion**&nbsp;and strengthens the&nbsp;**will**&nbsp;of all
+students to become accomplished leaders with exemplary character.
 
 **Our Motto** <br>
 Beyond Frontiers
