@@ -49,9 +49,7 @@ table, th, td {
 </style>
 *Please note there will be **no sales** after 13 Dec 2024 to prepare for incoming 2025 Sec 1.*
 
-
-**We strongly encourage all parents to opt for online ordering and delivery.** The information for our vendors are as follows:
-
+To facilitate the ease of purchasing the textbooks and uniforms, our bookshop and uniform vendors have put in place online ordering and delivery options. We strongly encourage all parents to opt for online ordering and delivery. The website addresses for our vendors are as follows:<br><br>
 Bookshop Vendor:&nbsp;[https://www.annkev.com](https://www.annkev.com/)  
 Uniform Vendor:&nbsp;[https://khuniform.com](https://khuniform.com/)
 
@@ -59,11 +57,13 @@ Parents who wish to pick up their purchases physically are still encouraged to p
 
 Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2024](http://www.picktime.com/krss2024)&nbsp;(open for booking from 1 Nov 2024 onwards)
 
-In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
-•	Students coming to the school should be in **proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair)** <br>
-•	Please do not come to the school if you are unwell, given medical certificate, or have tested Ag+.
+Students who intend to come to school on their own to purchase books/uniforms are also required to book appointment slots. For the safety of the staff and students, the school will not allow entry into the premises for parents/guardians and/or students who have not made appointments for their visits. 
 
-**Please show the confirmation email at school entry.**
+In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
+a.	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) <br>
+b.	Please do not come to the school if you are unwell or given medical certificate. 
+
+Please avoid delaying till late-December to make your purchases. The vendors will need to cater for sales to the new Secondary 1 students then and they may not be able to meet your needs in time for the reopening of school.
 
 ### 2025 Textbook and Stationery List
 
