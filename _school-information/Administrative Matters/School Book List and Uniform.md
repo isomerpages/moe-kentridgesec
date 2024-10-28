@@ -96,7 +96,7 @@ In addition to booking appointment slots for your visit, we also seek the co-ope
 
 ### School Uniform
 
-[Guide for Purchase of School Uniforms](/files/uniform_krss%20info%20sheet%202023%20(26%20oct%202023).pdf) (updated 26 Oct 2023)
+[Guide for Purchase of School Uniforms](/files/KRSS_Uniform_Infosheet_2024__24_Oct_2024.pdf) (updated 28 Oct 2024)
 
 ### Survey on School Uniform Requirements for 2024
 
