@@ -72,7 +72,7 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
   </tr>
 </tbody></table>
 	
-<p><strong>Use of Edusave</strong>&nbsp;</p>
+<p><strong>Use of Edusave</strong></p>
 <p>Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students. </p>
 
 <p><strong>Financial Assistance</strong>&nbsp;</p>
