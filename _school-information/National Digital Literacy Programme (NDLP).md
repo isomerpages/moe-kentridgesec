@@ -79,27 +79,27 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
 <p>Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:</p>
 <table style="width:100%">
   <tbody><tr>
-    <td>**Students eligible for subsidy**</td>
-    <td>**Income criteria**</td>
-		 <td>**How to Apply for Subsidy**</td>
+    <td><strong>Students eligible for subsidy</strong></td>
+    <td><strong>Income criteria</strong></td>
+		 <td><strong>How to Apply for Subsidy</strong></td>
   </tr>
   <tr>
     <td>Students under MOE FAS</td>
-    <td>Gross Household Income (“**GHI**”) is $3,000 or less, or<br> Per Capita Income (“**PCI**”)* is $750 or less</td>
+    <td>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or<br> Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</td>
 		<td>No action required. <br>Automatically subsidised for the PLD.</td>
   </tr>
 		 <tr>
     <td>Students under School-based FAS</td>
-    <td>**GHI** is $4,400 or less, or <br> **PCI** is $1,100 or less </td>
+    <td><strong>GHI</strong> is $4,400 or less, or <br> <strong>PCI</strong> is $1,100 or less </td>
 		<td>Approach the school’s General Office to apply for a subsidy.</td>
   </tr>
 		 <tr>
-    <td>Students who are currently not under the MOE FAS or School-based FAS</td>
-    <td>**GHI** is $4,400 or less, or <br> **PCI** is $1,100 or less</td>
+			 <td>Students who are currently <u>not</u> under the MOE FAS or School-based FAS</td>
+    <td><strong>GHI</strong> is $4,400 or less, or <br> <strong>PCI</strong> is $1,100 or less </td>
 		<td>Approach the school’s General Office to apply for a subsidy.</td>
   </tr>
 </tbody></table>
-*	 **PCI** refers to the GHI divided by the total number of family members in the household. *
+*	<strong>PCI</strong> refers to the GHI divided by the total number of family members in the household.
 <p><strong>Device Management Application (DMA)</strong></p>
 <p>All PLDs will be pre-installed with a Device Management Application (DMA). The DMA software is installed in students’ PLDs to provide a safer digital learning environment, and to prevent misuse of the device.&nbsp; The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA has 3 main components:</p>
 <ul>
