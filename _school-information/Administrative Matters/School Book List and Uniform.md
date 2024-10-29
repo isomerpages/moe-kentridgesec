@@ -47,15 +47,15 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-*Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1.*
+<em>***Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1. </em>
 
 To facilitate the ease of purchasing the textbooks and uniforms, our bookshop and uniform vendors have put in place online ordering and delivery options. We strongly encourage all parents to opt for online ordering and delivery. The website addresses for our vendors are as follows:<br><br>
-Bookshop Vendor:&nbsp;[http://www.annkev.com](https://www.annkev.com/)  
-Uniform Vendor:&nbsp;[http://www.khuniform.com](https://www.khuniform.com/)
+Bookshop Vendor:&nbsp;[http://www.annkev.com](http://www.annkev.com/)  
+Uniform Vendor:&nbsp;[http://www.khuniform.com](http://www.khuniform.com/)
 
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 
-Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2024](http://www.picktime.com/krss2024)&nbsp;(open for booking from 1 Nov 2024 onwards)
+Book for an appointment slot here to buy/collect your books and uniforms: [http://www.picktime.com/krss2024](http://www.picktime.com/krss2024)&nbsp;(open for booking from 1 Nov 2024 onwards)
 
 ### 2025 Textbook and Stationery List
 
