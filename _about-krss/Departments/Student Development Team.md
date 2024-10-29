@@ -160,12 +160,7 @@ With this intent, Kent Ridge Secondary adopts positive discipline and restorativ
 Students are equipped with knowledge, skills and tips to manage self, support their peers facing challenges as well as know the different avenues to seek help.
 <img src="/images/Social_and_Emotional_Well_being.png" alt="uniform_survey" style="width:50%;">
 
-**2. Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. <br>
-The programme supports: <br>
-•	Students who have general queries or concerns pertaining to their health or need advice on healthy lifestyle practices;<br>
-•	Students with health, weight and substance abuse issues; and<br>
-•	Students with existing chronic medical conditions<br>
-The Student Health Advisor also partners school personnel, Health Promotion Board (HPB) and other relevant agencies to implement health education activities for students, school staff and parents. <br>
+**2. Physical Well-being** <br>The Student Health Advisor (SHA) programme is run by a qualified and trained allied health professional who provides guidance to students with health-related issues so that timely intervention and referrals can be made. For more information, kindly click on this [link](https://www.kentridgesec.moe.edu.sg/school-information/school-based-student-health-advisor-sha-programme/).
 ![](/images/Physical_Well_being.png)
 
 **3. Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>

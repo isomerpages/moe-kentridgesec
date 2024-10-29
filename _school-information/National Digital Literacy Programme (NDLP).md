@@ -58,8 +58,7 @@ img {
 </tbody>
 </table>
 			<p>In order to achieve the desired student outcomes described above, our school has put in place processes to support our students, staff and partners.</p>
-			<p><img src="/images/NDLP4.png" alt="NDLP" style="width:65%"></p>
-			<p>For instance, all Secondary One students are provided with digital literacy lessons to support them in achieving baseline digital literacies. All students also have access to the digital literacy lessons in the SLS MOE community library.&nbsp;</p>
+			<p><img src="/images/NDLP_new.png" alt="NDLP" style="width:65%"></p>
 		 <p><strong>Personal Learning Device (PLD)</strong></p>
 	<table style="width:100%">
   <tbody><tr>
@@ -72,9 +71,35 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
     <td>3 Year Carry In Warranty<br>Sealed Battery Warranty<br>Comprehensive Accidental Damage Protection (Insurance)</td>
   </tr>
 </tbody></table>
-<p><strong>Financial Assistance</strong>&nbsp;</p>
-<p>Students who are Singapore citizens can use their Edusave to pay partly or fully for the PLD. A Singapore citizen student can use up to the available Edusave balance in his/her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE provided a one-off Edusave top-up of $200 in 2020 to all eligible Singaporean students in primary and secondary schools. This was on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Parents/guardians can also choose to pay cash for the PLD. Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.</p>
-<p>Subsidies are available for students who require financial assistance to purchase a PLD. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach our school’s General Office or email&nbsp;<a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a>&nbsp;to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household.&nbsp;</p>
+	
+<p><strong>Use of Edusave</strong></p>
+<p>Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students. </p>
+
+<p><strong>Financial Assistance</strong></p>
+<p>Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:</p>
+<table style="width:100%">
+  <tbody><tr>
+    <td><strong>Students eligible for subsidy</strong></td>
+    <td><strong>Income criteria</strong></td>
+		 <td><strong>How to Apply for Subsidy</strong></td>
+  </tr>
+  <tr>
+    <td>Students under MOE FAS</td>
+    <td>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or<br> Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</td>
+		<td>No action required. <br>Automatically subsidised for the PLD.</td>
+  </tr>
+		 <tr>
+    <td>Students under School-based FAS</td>
+    <td><strong>GHI</strong> is $4,400 or less, or <br> <strong>PCI</strong> is $1,100 or less </td>
+		<td>Approach the school’s General Office to apply for a subsidy.</td>
+  </tr>
+		 <tr>
+			 <td>Students who are currently <u>not</u> under the MOE FAS or School-based FAS</td>
+    <td><strong>GHI</strong> is $4,400 or less, or <br> <strong>PCI</strong> is $1,100 or less </td>
+		<td>Approach the school’s General Office to apply for a subsidy.</td>
+  </tr>
+</tbody></table>
+*	<strong>PCI</strong> refers to the GHI divided by the total number of family members in the household.
 <p><strong>Device Management Application (DMA)</strong></p>
 <p>All PLDs will be pre-installed with a Device Management Application (DMA). The DMA software is installed in students’ PLDs to provide a safer digital learning environment, and to prevent misuse of the device.&nbsp; The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA has 3 main components:</p>
 <ul>
@@ -95,7 +120,6 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
 <li>monitoring, filtering and limiting the type of websites accessible to the student, and</li>
 <li>placing restrictions on students’ screen time in order to prevent cyber addiction.</li>
 </ul>
-<p>&nbsp;</p>
 </li>
 <li><p><strong>Acceptable Use Policy (AUP)</strong>. The AUP helps to establish a common understanding of what constitutes an acceptable and appropriate use of the PLD, so as to enable a conducive learning environment. Parents could refer to the AUP when helping to manage their child’s use of the PLD.</p>
 </li>
@@ -107,9 +131,7 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
 <li><strong>Microsoft</strong>&nbsp;<strong>Pro Plus</strong>: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;</li>
 <li><strong>Zoom</strong>: Every secondary school student will be given a Zoom free account with a 40-min time limit using the Student iCON for the students’ video conferencing needs.</li>
 </ul>
-<p>&nbsp;&nbsp;</p>
-<p>Schools may also choose to roll out applications other than those listed above. The school will need to use your child’s/ward’s personal data such as his/her name and class to set up user accounts.</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
+<p>The school may also choose to roll out applications other than those listed above. The school may need to use your child’s/ward’s personal data such as his/her full name, class and Student iCON ID to set up user accounts.</p></div>  
 </li>  
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
