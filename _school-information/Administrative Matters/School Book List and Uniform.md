@@ -73,9 +73,9 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http:
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3 G3     |[KRSS Book List 2025 Sec 3 G3](/files/KRSS_Book_List_2025_sec_3_g3.pdf) | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
-| Sec 3 G2     |[KRSS Book List 2025 Sec 3 G2](/files/KRSS_Book_List_2025_sec_3_g2.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
-| Sec 3 G1     |[KRSS Book List 2025 Sec 3 G1](/files/KRSS_Book_List_2025_sec_3_g1.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
+| Sec 3 G3     | [KRSS Book List 2025 Sec 3 G3](/files/krss_book_list_2025_sec_3_g3.pdf) | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
+| Sec 3 G2     |[KRSS Book List 2025 Sec 3 G2](/files/krss_book_list_2025_sec_3_g2.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
+| Sec 3 G1     |[KRSS Book List 2025 Sec 3 G3](/files/krss_book_list_2025_sec_3_g1.pdf)    | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
 
 **Secondary 4**
 
