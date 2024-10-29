@@ -7,7 +7,7 @@ variant: markdown
 ---
 **PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025**
 
-Dear parents and students, please refer to the [attached letter (updated 26 Oct 2023)](/files/letter%20to%20parents_year-end%20sales%20for%20ay2024_26-oct-2023.pdf) for details on the purchase of books and uniforms during the 2024 year-end school holidays, according to the schedule as follows:
+Dear parents and students, please refer to the [attached letter (updated 29 Oct 2024)](/files/Letter_to_Parents_Year_end_sales_for_AY2025_24_Oct_2024_final_signed.pdf) for details on the purchase of books and uniforms during the 2024 year-end school holidays, according to the schedule as follows:
 <table>
  <tbody>
   <tr><th rowspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff">Level</th>
@@ -28,7 +28,7 @@ Dear parents and students, please refer to the [attached letter (updated 26 Oct 
  </tr>
 	 <tr>
   <td>Sec 2 (2024) / Sec 3 (2025))</td>
-  <td>25 Nov – 29 Nov 2024</td>
+  <td>25 – 29 Nov 2024</td>
     <td rowspan="2">Canteen (Level 3)</td>
  </tr>
 		 <tr>
@@ -47,23 +47,15 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-*Please note there will be **no sales** after 13 Dec 2024 to prepare for incoming 2025 Sec 1.*
+*Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1.*
 
 To facilitate the ease of purchasing the textbooks and uniforms, our bookshop and uniform vendors have put in place online ordering and delivery options. We strongly encourage all parents to opt for online ordering and delivery. The website addresses for our vendors are as follows:<br><br>
 Bookshop Vendor:&nbsp;[https://www.annkev.com](https://www.annkev.com/)  
-Uniform Vendor:&nbsp;[https://khuniform.com](https://khuniform.com/)
+Uniform Vendor:&nbsp;[https://www.khuniform.com](https://www.khuniform.com/)
 
 Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
 
 Book for an appointment slot here to buy/collect your books and uniforms:&nbsp;[http://www.picktime.com/krss2024](http://www.picktime.com/krss2024)&nbsp;(open for booking from 1 Nov 2024 onwards)
-
-Students who intend to come to school on their own to purchase books/uniforms are also required to book appointment slots. For the safety of the staff and students, the school will not allow entry into the premises for parents/guardians and/or students who have not made appointments for their visits. 
-
-In addition to booking appointment slots for your visit, we also seek the co-operation of parents/guardians for the following: <br>
-a.	Students coming to the school should be in proper school attire (i.e. School Uniform/PE attire with proper school shoes, no coloured hair) <br>
-b.	Please do not come to the school if you are unwell or given medical certificate. 
-
-Please avoid delaying till late-December to make your purchases. The vendors will need to cater for sales to the new Secondary 1 students then and they may not be able to meet your needs in time for the reopening of school.
 
 ### 2025 Textbook and Stationery List
 
@@ -81,9 +73,9 @@ Please avoid delaying till late-December to make your purchases. The vendors wil
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3 EXP     |[KRSS Book List 2025 Sec 3 EXP](/files/KRSS_Book_List_2025_Sec_3_EXP.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
-| Sec 3 NA     |[KRSS Book List 2025 Sec 3 NA](/files/KRSS_Book_List_2025_Sec_3_NA.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
-| Sec 3 NT     |[KRSS Book List 2025 Sec 3 NT](/files/KRSS_Book_List_2025_Sec_3_NT.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
+| Sec 3 G3     |[KRSS Book List 2025 Sec 3 G3](/files/KRSS_Book_List_2025_Sec_3_EXP.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
+| Sec 3 G2     |[KRSS Book List 2025 Sec 3 G2](/files/KRSS_Book_List_2025_Sec_3_NA.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
+| Sec 3 G1     |[KRSS Book List 2025 Sec 3 G1](/files/KRSS_Book_List_2025_Sec_3_NT.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
 
 **Secondary 4**
 
