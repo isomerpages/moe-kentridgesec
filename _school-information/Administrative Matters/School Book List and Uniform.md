@@ -7,7 +7,7 @@ variant: markdown
 ---
 **PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025**
 
-Dear parents and students, please refer to the [attached letter (updated 29 Oct 2024)](/files/Letter_to_Parents_Year_end_sales_for_AY2025_24_Oct_2024_final_signed.pdf) for details on the purchase of books and uniforms during the 2024 year-end school holidays, according to the schedule as follows:
+Dear parents and students, please refer to the [attached letter (updated 24 Oct 2024)](/files/Letter_to_Parents_Year_end_sales_for_AY2025_24_Oct_2024_final_signed.pdf) for details on the purchase of books and uniforms during the 2024 year-end school holidays, according to the schedule as follows:
 <table>
  <tbody>
   <tr><th rowspan="2" style="background-color:#033668; font-weight:bold; color:#ffffff">Level</th>
