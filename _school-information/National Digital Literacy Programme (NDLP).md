@@ -133,7 +133,7 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
 <li><strong>Zoom</strong>: Every secondary school student will be given a Zoom free account with a 40-min time limit using the Student iCON for the students’ video conferencing needs.</li>
 </ul>
 <p>&nbsp;&nbsp;</p>
-<p>Schools may also choose to roll out applications other than those listed above. The school will need to use your child’s/ward’s personal data such as his/her name and class to set up user accounts.</p>
+<p>The school may also choose to roll out applications other than those listed above. The school may need to use your child’s/ward’s personal data such as his/her full name, class and Student iCON ID to set up user accounts.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
