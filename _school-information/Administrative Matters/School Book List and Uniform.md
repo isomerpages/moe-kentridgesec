@@ -47,7 +47,7 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-<em>***Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1. </em>
+<em>*Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1. </em>
 
 To facilitate the ease of purchasing the textbooks and uniforms, our bookshop and uniform vendors have put in place online ordering and delivery options. We strongly encourage all parents to opt for online ordering and delivery. The website addresses for our vendors are as follows:<br><br>
 Bookshop Vendor:&nbsp;[http://www.annkev.com](http://www.annkev.com/)  
