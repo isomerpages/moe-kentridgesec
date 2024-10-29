@@ -120,7 +120,6 @@ For students joining the school in 2023 - Lenovo Chromebook 500e 3rd-Gen (Enhanc
 <li>monitoring, filtering and limiting the type of websites accessible to the student, and</li>
 <li>placing restrictions on students’ screen time in order to prevent cyber addiction.</li>
 </ul>
-<p>&nbsp;</p>
 </li>
 <li><p><strong>Acceptable Use Policy (AUP)</strong>. The AUP helps to establish a common understanding of what constitutes an acceptable and appropriate use of the PLD, so as to enable a conducive learning environment. Parents could refer to the AUP when helping to manage their child’s use of the PLD.</p>
 </li>
