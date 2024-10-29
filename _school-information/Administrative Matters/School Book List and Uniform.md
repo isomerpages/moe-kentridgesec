@@ -47,7 +47,7 @@ table, th, td {
  border-collapse: collapse;
 }
 </style>
-<em>***Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1. </em>
+<em>*Please note there will be <strong><u>no sales</u></strong> after 13 Dec 2024 to prepare for incoming 2025 Sec 1. </em>
 
 To facilitate the ease of purchasing the textbooks and uniforms, our bookshop and uniform vendors have put in place online ordering and delivery options. We strongly encourage all parents to opt for online ordering and delivery. The website addresses for our vendors are as follows:<br><br>
 Bookshop Vendor:&nbsp;[http://www.annkev.com](http://www.annkev.com/)  
@@ -73,9 +73,9 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http:
 
 | Stream |Textbook | Stationery |
 | -------- | -------- | -------- |
-| Sec 3 G3     |[KRSS Book List 2025 Sec 3 G3](/files/KRSS_Book_List_2025_Sec_3_g3.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
-| Sec 3 G2     |[KRSS Book List 2025 Sec 3 G2](/files/KRSS_Book_List_2025_Sec_3_g2.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
-| Sec 3 G1     |[KRSS Book List 2025 Sec 3 G1](/files/KRSS_Book_List_2025_Sec_3_g1.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
+| Sec 3 G3     |[KRSS Book List 2025 Sec 3 G3](/files/KRSS_Book_List_2025_sec_3_g3.pdf) | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)  |
+| Sec 3 G2     |[KRSS Book List 2025 Sec 3 G2](/files/KRSS_Book_List_2025_sec_3_g2.pdf)  | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)   |
+| Sec 3 G1     |[KRSS Book List 2025 Sec 3 G1](/files/KRSS_Book_List_2025_sec_3_g1.pdf)   | [KRSS Stationery List 2025 Sec 3](/files/KRSS_Stationery_List_2025_Sec_3.pdf)    |
 
 **Secondary 4**
 
