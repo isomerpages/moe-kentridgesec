@@ -27,7 +27,7 @@ Dear parents and students, please refer to the [attached letter (updated 29 Oct 
   <td>18 – 22 Nov 2024</td>
  </tr>
 	 <tr>
-  <td>Sec 2 (2024) / Sec 3 (2025))</td>
+  <td>Sec 2 (2024) / Sec 3 (2025)</td>
   <td>25 – 29 Nov 2024</td>
     <td rowspan="2">Canteen (Level 3)</td>
  </tr>
