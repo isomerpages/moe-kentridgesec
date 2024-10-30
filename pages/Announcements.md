@@ -8,10 +8,5 @@ variant: markdown
 
 ![Open House 2024](/images/KRSS_Open_House_2024__2500_x_2000_px___800_x_500_px_.png)
 
-**Class Time-tables (Semester 2, 2024)** <br>
-Updated 16 September 2024 <br>
-[Secondary 1](/files/2024_Sem_2_Class_Timetable_Sec_1_2_July.pdf)<br>
-[Secondary 2](/files/2024_Sem_2_Class_Timetable_Sec_2_2_July.pdf)<br>
-[Secondary 3](/files/2024_Sem_2_Class_Timetable_Sec_3_3_July.pdf)<br>
-[Secondary 4 E &amp; 5](/files/2024_Sem_2_Class_Timetable_Sec_45_2_July.pdf)<br>
-[Secondary 4 NA &amp; NT](/files/Term_4_modified_TT_16_Sept.pdf)
+### Joint Advisory
+[Joint Advisory on Crime-Related Issues](/files/Attachment_2___Secondary_JC_Level_Joint_Advisory.pdf)
