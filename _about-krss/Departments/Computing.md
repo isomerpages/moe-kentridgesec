@@ -67,3 +67,8 @@ their problem-solving skills.
 <br>o&nbsp;&nbsp;1 Silver medal
 <br>o&nbsp;&nbsp;2 Bronze medal
 <br>o&nbsp;&nbsp;3 Certificates of Participation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Computing" src="/images/Computing.png">
+</div>
+<p></p>
