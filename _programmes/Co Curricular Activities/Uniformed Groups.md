@@ -33,10 +33,10 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">National Cadet Corps</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
-<p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities. The seven core values that our NCC seeks to inculcate are Leadership, Discipline, Uprightness, Loyalty to Singapore, Commitment and Responsibility, Care for Fellow Cadets and Adventurous Spirit. With the support from NCC HQ, the unit aims to provide a diverse range of challenging and enriching activities such as Camp Forge, Camp Steel, self-defence workshops, Orienteering trainings, total defence programs and fitness trainings that enhance character development, military awareness, National Education, leadership skills and an adventurous spirit. Our cadets are also engaged in VIA, so as to help develop their sense of social responsibility.</p>
+<p></p>
 <p><strong><em>Achievements (BUC)</em></strong><br>2022 - Unit Recognition - Distinction<br>2021 - Unit Recognition - Distinction</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Tay Kok Liang<br>Mr Ramish<br>Mr Koh Guang Wei</p>
-<p><img src="/images/NCC.png" alt="National Cadet Corps"></p>  
+<p><img src="/images/NCC_new.png" alt="National Cadet Corps"></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
