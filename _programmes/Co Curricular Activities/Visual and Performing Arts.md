@@ -59,10 +59,16 @@ On alternate years, the club participate in various performances in school, as w
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">eARTh Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS<br>THURSDAY: 1530 - 1815 HRS</p>
-<p>Established in 2016, eARTh Club continues to march on in our mission to raise awareness to promote respect and care for our environment with the infusion of Art elements. Our members serve as advocates for the environment and gain opportunities to get in touch with nature through learning journeys to locations such as Siloso Beach Resort, Gardens by the Bay and Tuas Incineration Plant. Our club also works closely with external partners such as NEA, Southwest CDC and MINDS Lee Kong Chian Gardens School in coming up with exciting programmes and activities for our members. Our members also get to hone their creativity and artistic talents in designing educational posters to raise awareness on contemporary environmental issues. Our club aspires to continue to be the change we want to see in this world!</p>
-<p><em><strong>Achievements</strong></em><br>2022 – Extravangaza (Merit)<br>2021 – Green Schools @ South West – Gold Award</p>
+<p>        
+
+Established in 2016, the e**ART**h Club has been unwavering in its mission to raise awareness and promote respect and care for the environment through the creative incorporation of artistic elements. Our members not only develop their creativity and artistic skills, but also actively contribute to advocating for sustainable practices. By designing educational posters and engaging in meaningful projects, they raise awareness of contemporary environmental issues, inspiring others to take action. Our Club aspires to continue to be the change we want to see in this world!</p>
+<p><em><strong>Achievements</strong></em><br>2024 - Live On Festival - High Distinction and Merit, School Category<br>2024 - SYF Art Exhibition - Certificate of Recognition<br>2023 - Live On Festival - Second Place, School Category<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award<br>2022 – Extravangaza (Merit)<br>2016 - 2021 – Green Schools @ South West – Gold Award</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Kenneth Pek<br>Mr&nbsp;Hong Thin Yong</p>
-<p><img src="/images/eARTH%20Club.png" alt="eARTH Club"></p>  
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
+<p><img src="/images/eARTh_Club_1.png" alt="eARTH Club"></p>  
+<p><img src="/images/eARTh_Club_2.png" alt="eARTH Club"></p> 
+<p><img src="/images/eARTh_Club_3.png" alt="eARTH Club"></p> 
+<p><img src="/images/eARTh_Club_4.png" alt="eARTH Club"></p> 
+<p><img src="/images/eARTh_Club_5.png" alt="eARTH Club"></p> 
+</div>  
 </li>  
 </ul>
