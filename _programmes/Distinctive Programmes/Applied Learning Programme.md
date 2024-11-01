@@ -3,6 +3,7 @@ title: Applied Learning Programme
 permalink: /programmes/distinctive-programmes/applied-learning-programme/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 The School’s Applied Learning Programme (ALP) in “**Computational Thinking through Robotics**” will provide learning opportunities for students to apply their knowledge and skills in Science, Technology, Engineering, and Mathematics and to solve real-world problems. &nbsp;This programme is aligned to Singapore’s initiative to build a Smart Nation and helps to better prepare our students for the future economy.
 
@@ -30,7 +31,9 @@ All Secondary 1 students will experience the **Robotics Proficiency Programme** 
 
 **Secondary 1 Robotics Proficiency Programme**
 
-![Secondary 1 Robotics Proficiency Programme](/images/Secondary%201%20Robotics%20Proficiency%20Programme.png)
+![Sec 1_ALP](/images/sec%201_alp_3.jpg)
+![Sec 1_ALP](/images/sec%201_alp_2.jpg)
+![Sec 1_ALP](/images/sec%201_alp_1.jpg)
 
 **Secondary 2 Project Work**
 
