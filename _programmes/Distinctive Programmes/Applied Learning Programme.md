@@ -30,4 +30,3 @@ During the “**Create**” phase, students apply their growing computational th
 All Secondary 1 students will experience the **Robotics Proficiency Programme** and all Secondary 2 students will continue to apply what they have learnt in **Project Work** to create user-centric smart solutions to solve real world problems. Specialised programmes are extended to students with passion and higher ability through our school’s Co-Curricular Activity – **[Infocomm Club (Robotics)](https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/clubs-societies/)**, to further develop the students’ skills and competencies in computational thinking and robotics. Students may also choose to deepen their computational thinking and systems thinking skills by offering **O level Computing**. Students are also given opportunities to participate in **Applied Learning Modules (ApLM)** in STEM-related areas.
 
 **Secondary 1 Robotics Proficiency Programme**
-
