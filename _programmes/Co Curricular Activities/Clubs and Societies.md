@@ -22,10 +22,13 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Infocomm Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
-<p>In line with the School’s Applied Learning Programme (ALP) in “<strong>Computational Thinking through Robotics</strong>”, Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs.&nbsp;</p>
-<p>The training framework for Infocomm Club students details a clear progression of skills from introduction to computational thinking, programming and robotics in Sec 1, to deepening of programming and robotics skills in Sec 2 and 3, to maker skills in Sec 4 and 5. From 2022 onwards, students would also be introduced to Artificial Intelligence (AI) and learn to build simple AI applications, and subsequently create AI solutions through an AI project cycle.&nbsp;</p>
-<p>Students participate in different competitions to hone their skills and are selected based on their learning progress. Through the process of training for the competitions, students learn to apply their skills in new ways, leverage on team members’ strengths to complete complex missions and be resilient in the face of challenges to continue to invent better solutions.&nbsp;</p>
-<p>Students also apply their skills to help others during community projects e.g. prior to the pandemic, Sec 1s introduced robotics to pre-schoolers from a PCF kindergarten by guiding them through different games based on Scratch and mBots that are designed by themselves. Sec 2s and 3s supported the NYAA Gold Award Holders’ Alumni’s effort to raise awareness among the residents at Clementi West, West Coast GRC on e-waste recycling. Students were also invited to participate in a collaboration with ACS (I), where students from ACS (I) shared their expertise in Vex Robotics.</p>
+<p>Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs.&nbsp;
+
+The training framework for Infocomm Club students details a clear progression of skills from introduction to computational thinking, programming and robotics in Sec 1, to deepening of programming and robotics skills in Sec 2 and 3, to coding and app development skills in Sec 4 and 5.&nbsp;
+
+Students participate in different competitions to hone their skills and are selected based on their learning progress. Through the process of training for the competitions, students learn to apply their skills in new ways, leverage on team members’ strengths to complete complex missions and be resilient in the face of challenges to continue to invent better solutions.&nbsp;
+
+Students also apply their skills to help others during community projects this will be led by the Secondary 3 and 4 seniors. Secondary 3 and 4 students will also take on the responsibility of developing their leadership skills through training and mentoring their juniors.</p>
 <p><em><strong>Competitions</strong></em></p>
 <ul>
 <li>Design Thinking with robotics and Computational Thinking Competition</li>
@@ -38,6 +41,7 @@ variant: markdown
 <p><em><strong>Achievements</strong></em></p>
 <p>Design Thinking with robotics and Computational Thinking Competition</p>
 <ul>
+<li>2024: 5 Gold, 4 Silver, 12 Bronze and 7 Honorable Mention</li>
 <li>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</li>
 <li>2022: 2 Gold, 2 Silver, 5 Bronze and 9 Honorable Mention</li>
 <li>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</li>
@@ -48,7 +52,9 @@ variant: markdown
 </ul>
 <p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
 <ul>
-<li>7th Place - Team “Sparkling Claws”</li>
+	<li>2024: Robotics - 3rd, 7th &amp; 8th Place</li> 
+<li>2024: Sprint - 2nd and 3rd Place</li>
+<li>2023: 7th Place - Team “Sparkling Claws”</li>
 </ul>
 	<p>National Onilne Coding Competition</p>
 <ul>
@@ -57,6 +63,7 @@ variant: markdown
 </ul>
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul>
+<li>2024: 2nd place in Robosports</li>
 <li>2023: RoboMission Junior - Certificate of Participation</li>
 <li>2023: RoboSports - 1st and 3rd</li>
 </ul>
@@ -65,7 +72,8 @@ variant: markdown
 <li>2021: 1 Gold, 2 Bronze</li>
 </ul>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong<br>Ms Nur Hidayah binte Mohmed Nor</p>
-<p><img src="/images/Infocomm%20Club.png" alt="Infocomm Club"></p>  
+<p><img src="/images/Infocomm_Club_1.png" alt="Infocomm Club"></p>  
+	<p><img src="/images/Infocomm_Club_2.png" alt="Infocomm Club"></p> 
 &nbsp;&nbsp;&nbsp;&nbsp;  
  </div></li>
 <li>  
