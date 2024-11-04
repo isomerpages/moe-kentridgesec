@@ -67,7 +67,7 @@ On alternate years, the club participate in various performances in school, as w
 <br>
 Over their 4 to 5 years in eARTh Club, members learn to work with a variety of art mediums and take part in projects focused on environmental sustainability. In addition to promoting green initiatives, it provides a safe and inclusive space for students with a passion for visual arts to come together and develop their artistic skills through meaningful experiences.</p><br>
 <br>
-Some of our key programmes include:<br>
+Some of our key programmes include:<br><br>
 Sustainable Art Workshops:<br>
 
 - Poster Design: Students create posters to promote environmental sustainability.<br>
