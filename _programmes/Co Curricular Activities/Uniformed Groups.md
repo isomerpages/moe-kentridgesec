@@ -33,7 +33,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">National Cadet Corps</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
-<em><strong>Vision:</strong></em> Be Extraordinary Youth Leaders
+<strong>Vision:</strong> Be Extraordinary Youth Leaders
 <p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop resourceful,&nbsp;responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.</p>
 Some of our key programmes include:<br>
 

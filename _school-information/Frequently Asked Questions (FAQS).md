@@ -26,7 +26,7 @@ We operate from 7.00 am to 6.30 pm on school days and from 8.00 am to 5.30 pm du
 
 There are four terms in an academic year. Click [here](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024) to check MOE’s School Terms and Holidays.
 
-##### B. School Programmes
+##### **B. School Programmes**
 
 **6\. What are Kent Ridge Secondary School’s distinctive programmes?**
 
