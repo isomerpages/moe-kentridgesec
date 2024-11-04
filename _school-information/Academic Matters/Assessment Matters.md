@@ -6,8 +6,7 @@ third_nav_title: Academic Matters
 variant: markdown
 ---
 ### Assessment Plan
-To nurture lifelong learners, the school-based assessments aim to nurture the intrinsic motivation in our students to learn and reduce the over-inflation of effort so as to ensure their well-being and a balanced approach to their development.
-
+To nurture lifelong learners, the school-based assessments aim to nurture the intrinsic motivation in our students to learn and reduce the over-inflation of effort so as to ensure their well-being and a balanced approach to their development.<br><br>
 The assessment plans are as follows:<br>
 
 **Secondary 1 to 3**
@@ -140,6 +139,3 @@ School-based assessment includes the following:
 *   Semestral Examinations e.g. End-of-Year Examination (EYE)
 
 The following table shows the computation of marks for most subjects in the Express, Normal (Academic) and Normal (Technical) streams.
-
-
-
