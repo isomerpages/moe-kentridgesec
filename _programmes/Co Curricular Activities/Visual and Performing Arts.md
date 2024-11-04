@@ -64,9 +64,9 @@ On alternate years, the club participate in various performances in school, as w
 <em><strong>Vision:</strong></em> Together, we educate, inspire and empower every eARTh Club member to be an ambassador in enhancing environmental awareness.
 
 <p> Established in 2016, the e<strong>ART</strong>h Club has been unwavering in its mission to raise awareness and promote respect and care for the environment through the creative incorporation of artistic elements. Our members not only develop their creativity and artistic skills, but also actively contribute to advocating for sustainable practices. By designing educational posters and engaging in meaningful projects, they raise awareness of contemporary environmental issues, inspiring others to take action. Our Club aspires to continue to be the change we want to see in this world!
-<br>
+<br><br>
 Over their 4 to 5 years in eARTh Club, members learn to work with a variety of art mediums and take part in projects focused on environmental sustainability. In addition to promoting green initiatives, it provides a safe and inclusive space for students with a passion for visual arts to come together and develop their artistic skills through meaningful experiences.</p><br>
-<br>
+		
 Some of our key programmes include:<br><br>
 Sustainable Art Workshops:<br>
 
