@@ -81,8 +81,7 @@ Competitions:<br>
 - Students take part in various art competitions, giving them opportunities to showcase their creativity.<br>
 <br>
 Learning Journeys:<br>
-- Students go on learning journeys to gain inspiration and learn how art can support their creativity.<br>
-<br>		
+- Students go on learning journeys to gain inspiration and learn how art can support their creativity.<br>	
 <p><em><strong>Achievements</strong></em><br>2024 - Live On Festival - High Distinction and Merit, School Category<br>2024 - SYF Art Exhibition - Certificate of Recognition<br>2023 - Live On Festival - Second Place, School Category<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award<br>2022 – Extravangaza (Merit)<br>2016 - 2021 – Green Schools @ South West – Gold Award</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Kenneth Pek<br>Mr&nbsp;Hong Thin Yong</p>
 <p><img src="/images/eARTh_Club_1.png" alt="eARTH Club"></p>  
