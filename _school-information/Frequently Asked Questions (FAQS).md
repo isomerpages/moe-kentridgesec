@@ -16,7 +16,7 @@ We can be reached at +65 67731127 during the school’s operating hours. You can
 
 **3\. How can I travel to the school by public transport?**
 
-The nearest MRT station is Clementi. You can also take bus services 30, 51, 143, 175, 201 and drop off along West Coast Road. Bus service 282 stops along Clementi West Street 2. It is a 5-minute walk to the school from this bus stop. Click [here](https://kentridgesec.moe.edu.sg/school-information/contact-%20information/) for more information.
+The nearest MRT station is Clementi. You can also take bus services 30, 51, 143, 175, 201 and drop off along West Coast Road. Bus service 282 stops along Clementi West Street 2. It is a 5-minute walk to the school from this bus stop. Click [here](https://kentridgesec.moe.edu.sg/school-information/contact-information/) for more information.
 
 **4\. What are the school’s operating hours?**
 
