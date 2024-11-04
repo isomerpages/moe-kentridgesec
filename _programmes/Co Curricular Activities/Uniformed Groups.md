@@ -35,47 +35,33 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 Vision: Be Extraordinary Youth Leaders
 <p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop resourceful,&nbsp;responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.</p>
-Some of our key programmes include:
+Some of our key programmes include:<br>
 
-1.  Camps and Leadership Training
-*   Junior Cadets (Secondary 1)&nbsp;&nbsp;– Camp Forge
-
-*   Senior Cadets (Secondary 2) – Camp Steel
-
+1.  Camps and Leadership Training<br>
+*   Junior Cadets (Secondary 1)&nbsp;&nbsp;– Camp Forge<br>
+*   Senior Cadets (Secondary 2) – Camp Steel<br>
 *   Cadet Leaders (Secondary 3 &amp; 4)&nbsp;&nbsp;– Specialist Assessment Course<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Senior Specialist&nbsp;Assessment Course
+<br>
+2.  Drills and Parades<br>
 
-2.  Drills and Parades
-
-*   Foot drills
-    
-*   SAR-21 Arms Drills
-    
-*   SAR-21 Live Firing
-    
-*   Individual Field Craft
-    
-*   NCC Day Commemoration Ceremony
-    
-*   KRSS National Day Parade
+*   Foot drills<br>
+*   SAR-21 Arms Drills<br>
+*   SAR-21 Live Firing<br>
+*   Individual Field Craft<br>
+*   NCC Day Commemoration Ceremony<br>
+*   KRSS National Day Parade<br>
 	
 
-3.  Total Defence Programme&nbsp;
-	
-*   Promotes awareness of and participation in Total Defence among NCC cadets
-    
-*   Sharing by cadets on the 6 Pillars of Total Defence and case studies
-    
-*   Guardians of the City Game
-    
-*   CPR + AED Certification
-    
-
-4.  Initiative Programme
-    
-*   NE Learning Journey to Singapore Discovery Centre
-    
-*   Cybercrime Prevention Program
+3.  Total Defence Programme:<br>
+*   Promotes awareness of and participation in Total Defence among NCC cadets<br>
+*   Sharing by cadets on the 6 Pillars of Total Defence and case studies<br>
+*   Guardians of the City Game<br>
+*   CPR + AED Certification<br>
+   
+4.  Initiative Programme<br>
+*   NE Learning Journey to Singapore Discovery Centre<br>
+*   Cybercrime Prevention Program<br>
 	
 <p><strong><em>Achievements (BUC)</em></strong><br>2023 - Unit Recognition - Distinction<br>2022 - Unit Recognition - Distinction<br>2021 - Unit Recognition - Distinction</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Tay Kok Liang<br>Mr Ramish<br>Mr Koh Guang Wei</p>
