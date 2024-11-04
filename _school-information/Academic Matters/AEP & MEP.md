@@ -3,6 +3,7 @@ title: AEP & MEP
 permalink: /school-information/academic-matters/aep-mep/
 description: ""
 third_nav_title: Academic Matters
+variant: markdown
 ---
 ### Art/Music Elective Programme (AEP/MEP) For Secondary One Students In Non-AEP/MEP Schools
 
@@ -15,7 +16,7 @@ Secondary 1 students in non-AEP/MEP schools who are passionate and show potentia
 More information is available in the web links below.
 
 **Art**  
-[https://go.gov.sg/specialartprogrammes](https://go.gov.sg/specialartprogrammes)
+[https://www.moe.gov.sg/secondary/schools-offering-full-sbb/school-specific-opportunities/moe-special-art-programmes](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/school-specific-opportunities/moe-special-art-programmes)
 
 **Music**  
 [https://go.gov.sg/specialmusicprogrammes](https://go.gov.sg/specialmusicprogrammes)  
