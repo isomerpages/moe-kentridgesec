@@ -33,7 +33,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">National Cadet Corps</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
-<p></p>
+<p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop resourceful,&nbsp;responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.</p>
 <p><strong><em>Achievements (BUC)</em></strong><br>2023 - Unit Recognition - Distinction<br>2022 - Unit Recognition - Distinction<br>2021 - Unit Recognition - Distinction</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Tay Kok Liang<br>Mr Ramish<br>Mr Koh Guang Wei</p>
 <p><img src="/images/NCC_new.png" alt="National Cadet Corps"></p>  
