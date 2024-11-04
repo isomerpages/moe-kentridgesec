@@ -54,7 +54,7 @@ table, th, td {
     <td style="text-align:center">70%<br>Preliminary Exam
 </td></tr></tbody></table>
 
-WA Schedule will be released via SLS and Parents Gateway and from the Week 3 of Term 1 and Week 1 of Terms 2 and 3.<br>Their results will be reported in the form of progress reports and result slips.
+WA Schedule will be released via SLS and Parents Gateway and from the Week 3 of Term 1 and Week 1 of Terms 2 and 3.<br><br>Their results will be reported in the form of progress reports and result slips.
 
 ### Promotion Criteria
 Secondary 1 and 2 \[2025\]
