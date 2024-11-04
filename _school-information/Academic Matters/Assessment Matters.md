@@ -130,12 +130,3 @@ table, th, td {
   </tr>
 </tbody></table>
 
-
-
-**School Assessment** <br>
-School-based assessment includes the following:
-
-*   Weighted Assessment (WA) e.g. class tests, projects, assignments
-*   Semestral Examinations e.g. End-of-Year Examination (EYE)
-
-The following table shows the computation of marks for most subjects in the Express, Normal (Academic) and Normal (Technical) streams.
