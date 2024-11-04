@@ -22,6 +22,8 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Infocomm Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
+Mission: Infocomm members are equipped through collaboration, community engagement and skill development to be computational thinkers and work independently and as a group.
+
 <p>Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs.&nbsp;
 
 The training framework for Infocomm Club students details a clear progression of skills from introduction to computational thinking, programming and robotics in Sec 1, to deepening of programming and robotics skills in Sec 2 and 3, to coding and app development skills in Sec 4 and 5.&nbsp;
