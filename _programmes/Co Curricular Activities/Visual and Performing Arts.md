@@ -64,32 +64,23 @@ Mission:To promote the awareness and appreciation of environmental issues throug
 Vision: Together, we educate, inspire and empower every eARTh Club member to be an ambassador in enhancing environmental awareness.
 
 <p> Established in 2016, the e<strong>ART</strong>h Club has been unwavering in its mission to raise awareness and promote respect and care for the environment through the creative incorporation of artistic elements. Our members not only develop their creativity and artistic skills, but also actively contribute to advocating for sustainable practices. By designing educational posters and engaging in meaningful projects, they raise awareness of contemporary environmental issues, inspiring others to take action. Our Club aspires to continue to be the change we want to see in this world!</p>
-&nbsp;Over their 4 to 5 years in eARTh Club, members learn to work with a variety of art mediums and take part in projects focused on environmental sustainability. In addition to promoting green initiatives, it provides a safe and inclusive space for students with a passion for visual arts to come together and develop their artistic skills through meaningful experiences.
+&nbsp;Over their 4 to 5 years in eARTh Club, members learn to work with a variety of art mediums and take part in projects focused on environmental sustainability. In addition to promoting green initiatives, it provides a safe and inclusive space for students with a passion for visual arts to come together and develop their artistic skills through meaningful experiences.<br>
 
-Some of our key programmes include:
+Some of our key programmes include:<br>
+Sustainable Art Workshops:<br>
 
-Sustainable Art Workshops:
-
-*   Poster Design: Students create posters to promote environmental sustainability.
+*   Poster Design: Students create posters to promote environmental sustainability.<br>
+*   Ceramics: Students learn eco-friendly techniques in ceramics using nature-inspired themes.<br>
     
-*   Ceramics: Students learn eco-friendly techniques in ceramics using nature-inspired themes.
+Partners and Activities:<br>
+*   Green Schools @ SouthWest CDC – NEA: Collaborating with the National Environment Agency on environmental art projects.<br>
+*   Live On Design – Ministry of Health: Designing posters for the Ministry of Health’s “Live On” campaign to promote organ donation and sustainable healthcare practices.<br>
+
+Competitions:<br>
+*   Students take part in various art competitions, giving them opportunities to showcase their creativity.<br>
     
-
-Partners and Activities:
-
-*   Green Schools @ SouthWest CDC – NEA: Collaborating with the National Environment Agency on environmental art projects.
-    
-*   Live On Design – Ministry of Health: Designing posters for the Ministry of Health’s “Live On” campaign to promote organ donation and sustainable healthcare practices.
-    
-
-Competitions:
-
-*   Students take part in various art competitions, giving them opportunities to showcase their creativity.
-    
-
-Learning Journeys:
-
-*  Students go on learning journeys to gain inspiration and learn how art can support their creativity.
+Learning Journeys:<br>
+*  Students go on learning journeys to gain inspiration and learn how art can support their creativity.<br>
 		
 <p><em><strong>Achievements</strong></em><br>2024 - Live On Festival - High Distinction and Merit, School Category<br>2024 - SYF Art Exhibition - Certificate of Recognition<br>2023 - Live On Festival - Second Place, School Category<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award<br>2022 – Extravangaza (Merit)<br>2016 - 2021 – Green Schools @ South West – Gold Award</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Kenneth Pek<br>Mr&nbsp;Hong Thin Yong</p>
