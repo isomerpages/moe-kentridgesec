@@ -59,9 +59,7 @@ On alternate years, the club participate in various performances in school, as w
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">eARTh Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS<br>THURSDAY: 1530 - 1815 HRS</p>
-<p>        
-
-Established in 2016, the e**ART**h Club has been unwavering in its mission to raise awareness and promote respect and care for the environment through the creative incorporation of artistic elements. Our members not only develop their creativity and artistic skills, but also actively contribute to advocating for sustainable practices. By designing educational posters and engaging in meaningful projects, they raise awareness of contemporary environmental issues, inspiring others to take action. Our Club aspires to continue to be the change we want to see in this world!</p>
+<p> Established in 2016, the e<strong>ART</strong>h Club has been unwavering in its mission to raise awareness and promote respect and care for the environment through the creative incorporation of artistic elements. Our members not only develop their creativity and artistic skills, but also actively contribute to advocating for sustainable practices. By designing educational posters and engaging in meaningful projects, they raise awareness of contemporary environmental issues, inspiring others to take action. Our Club aspires to continue to be the change we want to see in this world!</p>
 <p><em><strong>Achievements</strong></em><br>2024 - Live On Festival - High Distinction and Merit, School Category<br>2024 - SYF Art Exhibition - Certificate of Recognition<br>2023 - Live On Festival - Second Place, School Category<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award<br>2022 – Extravangaza (Merit)<br>2016 - 2021 – Green Schools @ South West – Gold Award</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Kenneth Pek<br>Mr&nbsp;Hong Thin Yong</p>
 <p><img src="/images/eARTh_Club_1.png" alt="eARTH Club"></p>  
