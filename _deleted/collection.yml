@@ -2,6 +2,7 @@ collections:
   deleted:
     output: true
     order:
+      - Registration for 2024 Sec 1.md
       - School Canteen Advertisement.md
       - Transfer In.md
       - Alumni.md
