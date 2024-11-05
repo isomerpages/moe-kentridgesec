@@ -36,7 +36,7 @@ description: ""
 <p>1030 -1115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>Playground</p>
 </td>
 </tr>
 <tr>
