@@ -82,16 +82,26 @@ Students also apply their skills to help others during community projects this w
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">International Chess Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS (All Students)<br>TUESDAY: 1430 - 1630 HRS (Recreational)<br>THURSDAY: 1530 - 1800 HRS (All Students)</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (Recreational)<br>THURSDAY: 1530 - 1800 HRS (Competitive)</p>
 <p>International Chess is a newly established CCA in 2023. It was formerly a special interest group and had about 30 students playing regularly and taking part in school competitions.&nbsp; The objectives of International Chess are to build character, team spirit and responsibility. Playing chess helps students in developing problem-solving skills, critical thinking and creativity. It also helps improve students’ memory and concentration. We will train students to take part in internal and external chess competitions.</p>
 	<p><em><strong>Achievements</strong></em></p>
 <p>National School Individual (NSI)</p>
 <ul>
+<li>2024:<ul>
+<li>U16 Open 6th Place</li>
+<li>U14 Girls 5th Place</li>
+</ul>
+	<ul>
 <li>2023:<ul>
 <li>U16 Open Champion</li>
 <li>U14 Open 9th Place</li>
 </ul>
 </li>
+</ul>
+	<p>Victorian Cup</p>
+	<ul>
+<li>2024:<ul>
+<li>International Chess Secondary Schools Category 2nd place</li>
 </ul>
 		<p>JPJC Chess Tournament</p>
 <ul>
@@ -101,8 +111,8 @@ Students also apply their skills to help others during community projects this w
 </ul>
 </li>
 </ul>
-			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mdm Ow Suek Yin<br></p>
-		</div>  
+			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mr Tan Xue Ji<br></p>
+		</li></ul></li></ul></div>  
 </li>  
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
