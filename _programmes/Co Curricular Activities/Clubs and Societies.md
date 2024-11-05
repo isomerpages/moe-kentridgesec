@@ -98,11 +98,12 @@ Students also apply their skills to help others during community projects this w
 </ul>
 </li>
 </ul>
+	</li></ul>
 <p>Victorian Cup</p>
 	<ul>
 <li>2024:<ul>
 <li>International Chess Secondary Schools Category 2nd place</li>
-</ul>
+</ul></li></ul>
 <p>JPJC Chess Tournament</p>
 <ul>
 <li>2023:<ul>
@@ -112,8 +113,8 @@ Students also apply their skills to help others during community projects this w
 </li>
 </ul>
 			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mr Tan Xue Ji<br></p>
-		</li></ul></li></ul></div>  
-</li>  
+		</div></li></ul>  
+  
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Media Club</label>  
@@ -141,4 +142,4 @@ Students also apply their skills to help others during community projects this w
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Mr Ng Chong Hern Bennedic<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li></ul>
+</li>
