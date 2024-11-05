@@ -98,12 +98,12 @@ Students also apply their skills to help others during community projects this w
 </ul>
 </li>
 </ul>
-	<p>Victorian Cup</p>
+<p>Victorian Cup</p>
 	<ul>
 <li>2024:<ul>
 <li>International Chess Secondary Schools Category 2nd place</li>
 </ul>
-		<p>JPJC Chess Tournament</p>
+<p>JPJC Chess Tournament</p>
 <ul>
 <li>2023:<ul>
 <li>Sec Sch Category (Team) Champion Overall</li>
