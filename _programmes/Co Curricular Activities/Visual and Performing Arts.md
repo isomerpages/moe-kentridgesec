@@ -58,7 +58,7 @@ On alternate years, the club participate in various performances in school, as w
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">eARTh Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1815 HRS<br>THURSDAY: 1530 - 1815 HRS</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <strong>Mission:</strong> To promote the awareness and appreciation of environmental issues through the infusion of Art elements.
 <br><br>
 <strong>Vision:</strong> Together, we educate, inspire and empower every eARTh Club member to be an ambassador in enhancing environmental awareness.
