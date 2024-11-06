@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">  
-&nbsp;&nbsp;<li>  
+<li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Debate Society</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
@@ -115,7 +115,7 @@ Students also apply their skills to help others during community projects this w
 </li>
 </ul>
 			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mr Tan Xue Ji<br></p>
-		</div></li></ul>  
+		</div></li>
   
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
@@ -143,5 +143,5 @@ Students also apply their skills to help others during community projects this w
 	2023:CNB #DrugFreeSG Competition 2023 - Bronze, Merit <br>2023: #ClickArt S2 Cluster Showcase 2023 - 3 Distinctions, 8 Accomplishments<br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Mr Ng Chong Hern Bennedic<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li>
+</div>  
+</li></ul>
