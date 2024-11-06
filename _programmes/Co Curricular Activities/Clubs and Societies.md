@@ -60,7 +60,9 @@ Students also apply their skills to help others during community projects this w
 </ul>
 	<p>National Onilne Coding Competition</p>
 <ul>
+<li>2024: Hack@Code (Lego Robotics)  - 8th, 9th, 10th</li>
 <li>2023: Hack@Code (Lego Robotics)  - 1st, 3rd</li>
+<li>2024: Hack@Code (Scratch) - Most Interactive Design x 2, Best Presentation Award, Judges Award, Merit</li>
 <li>2023: Hack@Code (Scratch) - Most Interactive Design, Merit</li>
 </ul>
 <p>National Robotics Competition (World Robot Olympiad)</p>
