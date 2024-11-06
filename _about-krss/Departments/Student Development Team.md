@@ -27,15 +27,7 @@ The CCE Curriculum Content is based on the&nbsp;**three**&nbsp;big ideas of Iden
 
 **2.**&nbsp;**CCE2021 Implementation**  
 Key SDEs are designed to achieve CCE Learning Outcomes and 21st Century Competencies. 
-
-Key SDEs in 2023
-
-| | Term 1 | Term 2 | Term 3 | Term 4|
-| -------- | -------- | -------- | -------- |  -------- |
-| Sec 1    | Orientation Week (T1W1) <br> School Orientation   | Experiential Week (T2W6)<br>4D3N Cohort Camp<br>KRGB<br>Leader-in-me  | Prep for Sec 4&amp;5 Graduation Ceremony | School Improvement |
-| Sec 2    | Orientation Week (T1W1) <br> Class-bonding activities e.g. Dragon boating/Laser Tag<br>MTL Fortnight | Experiential Week(T2W6)<br>SEP, KRGB(Befriending), NE LJ to NMS | NE LJ (NDP) | Careers Day 2023 |
-| Sec 3   | Orientation Week (T1W1) <br> Class-bonding activities e.g. Rafting/Kin Ball<br>MTL Fortnight | Experiential Week(T2W6)<br>Skills-based courses/Music Elective Programme | OBS<br>NRIC Presentation Ceremony | Student Leadership |
-| Sec 4&amp;5   | Orientation Week (T1W1) <br> Poly Open House 2023/EAE wite up workshop| Experiential Week(T2W6)<br> Work Experience Programme/Interview &amp; Etiquette Workshop | EAE/DSA | Graduation Ceremony |
+![Key SDEs](/images/Key_SDEs.jpg)
 
 **3.**&nbsp;**Education and Career Guidance**  
 Education and Career Guidance is a developmental process which facilitates the acquisition of knowledge, skills and values needed to make informed decisions at key education stages to successfully transit from school to further education or work. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the demands of the future workplace. The ECG curriculum focuses on exploration and helps students understand themselves better and guide their exploration of different education and career pathways. 
@@ -52,22 +44,13 @@ The ECG curriculum is delivered as part of the Character and Citizenship Educati
 Organised ECG Programmes include:
 
 *  ECG counselling by ECG counsellor
-
 *  Class/cohort-based ECG workshops by ECG counsellor
-
 *  DPA, DSA, PFP, EAE talks for graduating classes by Institutes of Higher Learning
-
 *  Learning journeys to Institutes of Higher Learning
-
 *  Learning booths by Institutes of Higher Learning
-
 *  Career Talks by industry professionals
 
-ECG Curriculum was customised to align to the level themes to achieve targeted learning outcomes: 
-![](/images/krssecgplan.png)
-![](/images/krssecgplan_1.png)
-<br>
-**4\. Values in Action Programme – KR Gives Back**  
+**4\. Values in Action Programme – KR Gives Back**  <br>
 The school’s Values in Action (VIA) Programme is learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 <br>
 The school’s KR Gives Back (KRGB) programme provides students with the experiential learning opportunity through customised VIA level activities to live out their values, skills and SE competencies. 
