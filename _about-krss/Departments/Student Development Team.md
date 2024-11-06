@@ -165,36 +165,40 @@ Students are equipped with knowledge, skills and tips to manage self, support th
 
 **3. Financial Assistance Programmes**<br>Financial needs of students are identified and supported through various schemes, bursary applications and referrals to school partners.<br>
 
-**4. Special Educational Needs Support Programme** <br>Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support. The team also plans schoolwide and customized programmes to cater to the needs of different student segments as well as partners stakeholders to manage needs and expectations.
+**4. Special Educational Needs Support Programme** <br>
+We believe that every individual has unique potential and deserves the opportunity to thrive in an environment of mutual respect and understanding. Our aim is to create an inclusive school where every student can participate and learn effectively.&nbsp;
 <br>
+Learning and Behavioural Support for students with Special Needs is provided in the form of formal/informal assessment, in-class support and individual/small group intervention support.&nbsp;
+<br>
+The team also plans schoolwide and customized programmes to cater to the needs of different student segments.We also partner stakeholders to create awareness, develop capacities and promote inclusivity.
+<br><br>
 **a. Individual/Group Support Programmes**
 <br>
-*i. Learning and Behavioural Support* <br>
+Learning and Behavioural Support <br>
 Intervention and support are provided based on the needs of students in the areas of Literacy, Social Emotional and Behavioural challenges. Interventions are carried out through individual or group sessions. Through collaboration with various stakeholders such as parents, teachers and external agencies, students learn skills and strategies to help them achieve personal and academic goals.<br>
 ![](/images/LBS.png)
 
-*ii. Language &amp; Literacy Support* <br>
+*i. Language &amp; Literacy Support* <br>
 Students who require literacy and language support have various strengths that can be enhanced, and learning gap that can be improved. Intervention and support for them may include: Reading Fluency, Comprehension Skills, Spelling and Writing Skills.
 ![](/images/LLS.png)
 
-*iii. Social &amp; Behavioural Support*<br>
-Students with social and behavioural difficulties may be engaged in individual, peer or group sessions to learn skills and strategies. Intervention support for them may include: Emotion Regulation Skills using Zones of Regulation, Facing Your Fear Programme, Circle of Friends and Social Thinking Concepts.
-
-**b. Schoolwide Programmes/Activities**<br>
-*“Knowing Me, Knowing You” Programme*<br>
-In this SEN awareness programme to promote inclusiveness, students learn about some of the challenges that their peers may experience through simulation activities. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school.
-![](/images/Knowing_Me_Knowing_You.jpg) 
-<br>
-**c. Customised Programmes for students**<br>
+*ii. Social &amp; Behavioural Support*<br>
+Students with social and behavioural difficulties may be engaged in individual, peer or group sessions to learn skills and strategies. Intervention support for them may include: Emotion Regulation Skills using Zones of Regulation, Facing Your Fear Programme, Circle of Friends and Self-management programme.
+<br><br>
+**b. Customised Programmes for students**<br>
 *• Sec 1 Student Induction Programmes*<br>
 Through the induction programme, students get to know one another, understand school processes and programmes as well as learn the different areas in the school where they can seek help from the Student Support Team.
-![](/images/Sec_1_Student_Induction_Programmes.png)
+![](/images/sen_induction.png)
 <br>
-*•	Learning Journeys*<br>
-Through the various learning journeys organized to Dialogue in the Dark @ Ngee Polytechnic and Dignity Kitchen, students learnt that challenges can be overcome and gained more confidence in dealing with their own difficulties. The learning journeys also allowed students to work in teams and forge greater bonds with other SEN students across the levels. 
-![](/images/LJ.png)
+*• Study Skills, AA Exam Briefing &amp; Preparations, Social Skills &amp; Self-Management Programmes*<br>
+Through the various programmes, students learnt skills and strategies to better manage themselves in their learning and peer relationships. The programmes also allowed students to work in teams and forge greater bonds with other SEN students across the levels.
+![](/images/SEN_programmes.png)
+<br>
+**c. Schoolwide Programmes/Activities - Knowing Me, Knowing You**<br>
+To create awareness and promote empathy and peer support for an inclusive school culture, students learn about some of the challenges that their peers may experience through the simulation activities and information sessions. They also learnt ways to be understanding, accepting and helpful to their peers who may face challenges in school
+![](/images/knowing_me_knowing_you.png) 
 <br>
 **d. Partnership**<br>
 *Parents Induction*<br>
 Sec 1 parents are invited to a session where SEN Team share about the SEN support provided by the school. The briefing session aslo creates an opportunity for greater collaboration between parents and school as we support students with SEN to have a smooth transition to secondary school.
-![](/images/Partnership.png)
+![](/images/SEN_partnership.png)
