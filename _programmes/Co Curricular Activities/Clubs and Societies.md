@@ -22,14 +22,14 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Infocomm Club</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
-Mission: Infocomm members are equipped through collaboration, community engagement and skill development to be computational thinkers and work independently and as a group.
+<strong>Mission:</strong> Infocomm members are equipped through collaboration, community engagement and skill development to be computational thinkers and work independently and as a group.
 
 <p>Infocomm Club aims to further develop the skills and competencies of students with greater interest and aptitude in computational thinking and robotics. The 4 – 5 years development programme allows students to deepen their computational thinking and robotics skills and knowledge, and to apply what they have learnt to design, code and build robotic solutions of increasing complexity to complete challenging missions and to address real world needs.
-<br>
+<br><br>
 The training framework for Infocomm Club students details a clear progression of skills from introduction to computational thinking, programming and robotics in Sec 1, to deepening of programming and robotics skills in Sec 2 and 3, to coding and app development skills in Sec 4 and 5.
-<br>
+<br><br>
 Students participate in different competitions to hone their skills and are selected based on their learning progress. Through the process of training for the competitions, students learn to apply their skills in new ways, leverage on team members’ strengths to complete complex missions and be resilient in the face of challenges to continue to invent better solutions.
-<br>
+<br><br>
 Students also apply their skills to help others during community projects this will be led by the Secondary 3 and 4 seniors. Secondary 3 and 4 students will also take on the responsibility of developing their leadership skills through training and mentoring their juniors.</p>
 <p><em><strong>Competitions</strong></em></p>
 <ul>
