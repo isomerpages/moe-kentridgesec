@@ -115,7 +115,7 @@ Students also apply their skills to help others during community projects this w
 </li>
 </ul>
 			<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Chuan Hock<br>Mr Tan Xue Ji<br></p>
-		</div></li></ul>  
+		</div></li>
   
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
@@ -144,4 +144,4 @@ Students also apply their skills to help others during community projects this w
 <p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Mr Ng Chong Hern Bennedic<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 </div>  
-</li>  
+</li></ul>
