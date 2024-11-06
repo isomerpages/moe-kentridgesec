@@ -60,28 +60,28 @@ The school’s KR Gives Back (KRGB) programme provides students with the experie
 **5. GEAR-UP @ KR**<br>
 To support the School’s Key Strategic Thrust 1 of Holistic Development of Students, the school has an extensive GEAR-UP programme which targets different segments of students with varied profiles, interests, strengths and needs. GEAR-UP @ KR aims to engage Kent Ridgeans in meaningful after-school engagement programmes to develop useful core skills and competencies, build positive relationships with their peers, mentors and teachers while deepening their passions so that they can strive towards achieving their aspirations. GEAR-UP @ KR adopts the SOAR (Skills, Opportunities, Achievement, Recognition) approach to engage students in meaningful activities. They are:
 
-(a) KR Lighthouse
+(a) KR Lighthouse<br>
 The programme aims to
 
 *   provide a conducive environment for engaging students in school after curriculum hours;
 *   allow opportunities for befriending and relationship-building among students, peers, adult volunteers, school personnel and with KR Lighthouse staff; and
 *   provide opportunities for learning of social and life skills.
 
-(b) STARChef
+(b) STARChef<br>
 The programme aims to
 
 *   engage and challenge students through an energising after-school culinary skills training;
 *   deepen students’ keen interest in culinary skills
 *   develop students to be confident individuals who are conscientious of their own strengths and capabilities.
 
-(c) D’Strykers Girls
+(c) D’Strykers Girls<br>
 The programme aims to
 
 *   utilise football as a platform to impart life skills to students;
 *   constructively engage the students after-school in a healthy interest; and
 *   encourage positive relationships between the students as a team.
 
-(d) Youth COP
+(d) Youth COP<br>
 The programme aims to
 
 *   enhance youths’ awareness and knowledge of laws and crime prevention and
