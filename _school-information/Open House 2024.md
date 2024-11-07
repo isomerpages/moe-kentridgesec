@@ -30,17 +30,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In Conversation with Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1030 -1115</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ITR 1 (Playground)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choir Performance</p>
 </td>
 <td rowspan="1" colspan="1">
