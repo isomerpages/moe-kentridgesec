@@ -131,10 +131,6 @@ border-collapse: collapse;
      <td>Ms Tan Chiew Ming Vivien</td>
   </tr>
 	 <tr>
-     <td>SH / ICT (Internal)</td>
-     <td>Mr Rishabh Gurunath Talwalkar </td>
-  </tr>
-	 <tr>
      <td>SH / Malay Language</td>
      <td>Mdm Haizurah Bte Kadir Mydin</td>
   </tr>
