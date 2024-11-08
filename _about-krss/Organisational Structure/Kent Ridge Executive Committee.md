@@ -154,10 +154,6 @@ border-collapse: collapse;
      <td>Lead Teacher / CCE</td>
      <td>Ms Lim Chye Ling</td>
   </tr>
-		  <tr>
-     <td>Senior Teacher / English Language</td>
-     <td>Mrs Tan Hoon Ling Lena</td>
-  </tr>
 	<tr>
     <td>Senior Teacher / PE</td>
      <td>Mr Chia Tai-Yu</td>
