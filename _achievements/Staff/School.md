@@ -11,7 +11,7 @@ Are presented to staff members who exemplify the school values of FITNESS, INTEG
 ***The F.I.R.E. Fitness Award*** <br>
 Is presented to a staff member who is resilient and cares for his personal well-being and professional development.
 
-**Mdm Ruby Jayanthi d/o Simmon R E<br>
+**Mdm Ruby Jayanthi d/o Simmon R E**<br>
 **Mrs Claudia Ng**<br>
 **Mr Lim Er Song**<br>
 **Ms Dian Farhana Binte Zulkifli Kaspari**<br>
