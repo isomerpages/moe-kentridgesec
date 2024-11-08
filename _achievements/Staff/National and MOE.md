@@ -3,9 +3,19 @@ title: National and MOE
 permalink: /achievements/staff/national-moe/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
+**Academy Awards  for Professional Development**<br>
+The Academy Awards (AA) for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.
+<br>
+**Associate of AST Award - Education Officers**<br>
+* Innovator (SgLDC / SLS CG): Mr Jitrendra Bhilare<br>
+
+**Associate of AST Award - Executive &amp; Administrative Staff and Allied Educators**<br>
+* Mentor: Mr Koh Beng Chye<br>
+
 **Outstanding Youth in Education Award (OYEA)**
-* Lim Bee Leng<br>
+* Ms Lim Bee Leng<br>
 [She turned a chat about hooliganism into a discussion on the importance of learning](https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning)
 
 The OYEA is a national award that recognises and honours the achievements of young educators who&nbsp;have shown admirable passion for teaching, and commitment to inspiring and nurturing their students.&nbsp;Launched in 1999, it seeks to recognise excellent younger teachers for their youthful idealism, enthusiasm, energy, and serving as inspiring role models for the fraternity.
@@ -13,25 +23,19 @@ The OYEA is a national award that recognises and honours the achievements of you
 **MOE Service Excellence Award**<br>
 The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognises staff who demonstrate desired qualities for service excellence.
 
-**MOE Service Excellence Award 2023 (Plantinum)**
-*   Ms Tan Seok Gek
+**MOE Service Excellence Award 2024 (Gold)**
+*  Mdm Asiah Binte Idris
+*  Ms Heng Hui Lyn, Nicole
+*  Mdm Kalaivani Paneer Selvam 
 
-**MOE Service Excellence Award 2023 (Gold)**
-*  Ms Tan Seok Gek 
-*  Mr Chandra S/O Karumanan 
-*  Mr Chen Weixiong Jeffrey
-*  Ms Gan Bee Yi 
-*  Ms Kalpana D/O Kaleselvan 
-*  Mr Mahdi Bin Yusoff
-*  Ramish Goby 
-*  Mdm Rosnah Binti Salleh 
-
-**MOE Service Excellence Award 2023 (Silver)**
-* Mdm Asiah Binte Idris
-* Ms G Vasaki 
-* Mdm Kalaivani Paneer Selvam 
-* Ms Lai Yanqing Eve
-* Mdm Samsad Begum Binte Abdul Salam
+**MOE Service Excellence Award 2024 (Silver)**
+* Mr Kong Beng Chye
+* Ms Ma Jing
+* Mr Helmy Bin Sadon
+* Ms Nur Hidayah Binte Mohmeed Nor
+* Mdm Quah Hui Shan
+* Mdm Rani Kumari Das
+* Ms Tan Ying Min
 
 **President’s Award For Teachers 2020, Finalist  
 Mr Vincent Heng Swee Chye**
