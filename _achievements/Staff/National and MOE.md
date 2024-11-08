@@ -19,7 +19,7 @@ The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognises sta
 *  Ms Heng Hui Lyn, Nicole
 *  Mdm Kalaivani Paneer Selvam 
 
-**MOE Service Excellence Award 2023 (Silver)**
+**MOE Service Excellence Award 2024 (Silver)**
 * Mr Kong Beng Chye
 * Ms Ma Jing
 * Mr Helmy Bin Sadon
