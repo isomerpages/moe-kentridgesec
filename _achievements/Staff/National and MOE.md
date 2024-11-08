@@ -3,6 +3,7 @@ title: National and MOE
 permalink: /achievements/staff/national-moe/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 **Outstanding Youth in Education Award (OYEA)**
 * Lim Bee Leng<br>
@@ -13,25 +14,19 @@ The OYEA is a national award that recognises and honours the achievements of you
 **MOE Service Excellence Award**<br>
 The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognises staff who demonstrate desired qualities for service excellence.
 
-**MOE Service Excellence Award 2023 (Plantinum)**
-*   Ms Tan Seok Gek
-
-**MOE Service Excellence Award 2023 (Gold)**
-*  Ms Tan Seok Gek 
-*  Mr Chandra S/O Karumanan 
-*  Mr Chen Weixiong Jeffrey
-*  Ms Gan Bee Yi 
-*  Ms Kalpana D/O Kaleselvan 
-*  Mr Mahdi Bin Yusoff
-*  Ramish Goby 
-*  Mdm Rosnah Binti Salleh 
+**MOE Service Excellence Award 2024 (Gold)**
+*  Mdm Asiah Binte Idris
+*  Ms Heng Hui Lyn, Nicole
+*  Mdm Kalaivani Paneer Selvam 
 
 **MOE Service Excellence Award 2023 (Silver)**
-* Mdm Asiah Binte Idris
-* Ms G Vasaki 
-* Mdm Kalaivani Paneer Selvam 
-* Ms Lai Yanqing Eve
-* Mdm Samsad Begum Binte Abdul Salam
+* Mr Kong Beng Chye
+* Ms Ma Jing
+* Mr Helmy Bin Sadon
+* Ms Nur Hidayah Binte Mohmeed Nor
+* Mdm Quah Hui Shan
+* Mdm Rani Kumari Das
+* Ms Tan Ying Min
 
 **President’s Award For Teachers 2020, Finalist  
 Mr Vincent Heng Swee Chye**
