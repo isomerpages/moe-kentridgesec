@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Staff
 variant: markdown
 ---
+**Academy Awards  for Professional Development**<br>
+The Academy Awards (AA) for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.
+<br>
 **Associate of AST Award - Education Officers**<br>
 * Innovator (SgLDC / SLS CG): Mr Jitrendra Bhilare<br>
 
