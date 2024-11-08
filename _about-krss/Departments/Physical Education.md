@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /about-krss/departments/physical-education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### Overview
 <p align="justify">
@@ -13,43 +14,43 @@ Our student-centric PE curriculum is conducted through two-pronged approaches of
 ### Programmes
 
 **Explicit Teaching**
-<html>
-<head>
+
+
 <style>
 table, th, td {
  border-collapse: collapse;
 }
 </style>
-</head>
-	<tbody>
+
+	
 <table>
-  <tr style="background-color:#033668">
+  <tbody><tr style="background-color:#033668">
     <th style="font-weight:bold; color:#ffffff;width: 200px;">Level</th>
 		<th style="font-weight:bold; color:#ffffff; width: 400px;">Sports and Games Curriculum</th>
-		<th style="font-weight:bold; color:#ffffff;width: 500px;">Fitness & Conditioning</th>
+		<th style="font-weight:bold; color:#ffffff;width: 500px;">Fitness &amp; Conditioning</th>
   </tr>
   <tr>
     <td>Secondary 1</td>
-    <td>- Captain’s Ball<br>- Netball<br>- Softball</td>
+    <td>- Captain’s Ball<br>- Softball<br>- Netball</td>
       <td rowspan="4">- Muscular Strength &amp; Endurance<br>- Fitness Concepts<br>- Body Composition<br>- Flexibility<br>- Food &amp; Nutrition</td>
   </tr>
   <tr>
     <td>Secondary 2</td>
-    <td>- Ultimate Disc<br>- Tchoukball</td>
+    <td>- Ultimate Disc<br>- Tag Rugby<br>- Tchoukball</td>
     
   </tr>
   <tr>
     <td>Secondary 3</td>
-    <td>- Tag Rugby<br>- Netball<br>- Softball</td>
+    <td>- Tchoukball<br>- Softball<br>- Volleyball</td>
  </tr>
  <tr>
-    <td>Secondary 4 & 5</td>
-    <td>- Tchoukball<br>- Games Creation</td>
+    <td>Secondary 4 &amp; 5</td>
+    <td> - Volleyballl<br>- Games Creation</td>
  </tr>
 	 <tr> </tr>
-</table>
-</tbody>
-</html>
+</tbody></table>
+
+
 
 
 **Experiential Learning Programmes**
@@ -60,12 +61,11 @@ table, th, td {
 *   Kent Ridge Olympics
 
 **GOALS**  
-**Goal 1:** Acquire a range of motor skills to participate in a variety of physical activites.  
-**Goal 2:** Understand and apply movement concepts, principles and strategies in a range of physical activities.  
-**Goal 3:** Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.  
-**Goal 4:** Display positive personal and social behaviour across different experiences.  
-**Goal 5:** Acquire and maintain health-enhancing fitness through regular participation in physical actitivies.  
-**Goal 6:** Enjoy and value the benefits of living a physically active and healthy life.
+**Goal 1**: Movement Competence. Students are competent and confident to participate in a range of physical and outdoor activities.<br>
+**Goal 2**: Healthy Lifestyle Practices. Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.<br>
+**Goal 3**: Safety Mindset. Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.<br>
+**Goal 4**: Core Values. Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.<br>
+**Goal 5**: Enjoyment. Students enjoy and value physical activities and healthy living in a sustainable way.<br>
 
 ![Inter-Class Competitions](/images/Inter-Class%20Competitions.jpg)
 <p style="text-align:center;">Inter-Class Competitions</p>
