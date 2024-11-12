@@ -4,7 +4,11 @@ title: Kent Ridge Secondary School
 description: Kent Ridge Secondary School
 image: /images/KRSS logo.png
 permalink: /
-notification: ""
+notification: Dear students, parents, and visitors,  please be informed that the
+  school's General Office will be closed on 13 November 2024 from 8:00 am to
+  3:00 pm due to a whole-school staff learning and bonding day out of school.
+  Any enquiries can be directed via email to krss@moe.edu.sg. We apologise for
+  any inconvenience caused and thank you for your understanding.
 sections:
   - hero:
       background: /images/IMG_0470.png
