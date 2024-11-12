@@ -53,7 +53,7 @@ To facilitate the ease of purchasing the textbooks and uniforms, our bookshop an
 Bookshop Vendor:&nbsp;[http://www.annkev.com](http://www.annkev.com/)  
 Uniform Vendor:&nbsp;[http://www.khuniform.com](http://www.khuniform.com/)
 
-Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time.
+Parents who wish to pick up their purchases physically are still encouraged to pre-order their needed items with the 2 vendors so that the items can be collected from the vendors in school with minimal waiting time. (Operating Hours: 9:00 am to 3:00 pm)
 
 Book for an appointment slot here to buy/collect your books and uniforms: [http://www.picktime.com/krss2024](http://www.picktime.com/krss2024)&nbsp;(open for booking from 1 Nov 2024 onwards)
 
@@ -87,4 +87,4 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http:
 
 
 ### School Uniform
-[Guide for Purchase of School Uniforms](/files/krss_uniform_infosheet_2024__24_oct_2024.pdf) (updated 24 Oct 2024)
+[Guide for Purchase of School Uniforms](/files/KRSS_Uniform_Infosheet_2024__8_Nov_2024_.pdf) (updated 08 Nov 2024)
