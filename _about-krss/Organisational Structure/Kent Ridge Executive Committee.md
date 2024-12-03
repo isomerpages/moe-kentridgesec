@@ -115,7 +115,7 @@ border-collapse: collapse;
      <td>Ms Zannatul Nauum Moummee</td>
   </tr>
   <tr>
-     <td>LH / Science (Internal)</td>
+     <td>LH / Science</td>
      <td>Mr Xu Kaibin</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ border-collapse: collapse;
      <td>Ms Nur Hidayah Binte Mohamed Nor</td>
   </tr>
 		  <tr>
-     <td>SH / Chinese Language (Internal)</td>
+     <td>SH / Chinese Language</td>
      <td>Ms Lim Bee Leng</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ border-collapse: collapse;
      <td>Mr Chow Kok Wei Kevin</td>
   </tr>
 		  <tr>
-     <td>SH / Social Studies (Internal)</td>
+     <td>SH / Social Studies</td>
      <td>Ms Heng Hui Lyn, Nicole</td>
   </tr>
   <tr>
