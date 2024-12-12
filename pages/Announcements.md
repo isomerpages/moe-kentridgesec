@@ -21,7 +21,7 @@ Kent Ridge Secondary School
 
 You may find the following links useful:
 
-• [Letter of Authorisation](/files/letter_of_authorisation__collection_of_results_by_proxy_.pdf)Letter of Authorisation (attached)
+• [Letter of Authorisation](/files/letter_of_authorisation__collection_of_results_by_proxy_.pdf)
 
 • Social and Emotional Learning Resources for Parents/Guardians to support your child/ward: [https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)
 
