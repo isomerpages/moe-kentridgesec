@@ -25,7 +25,7 @@ more information.</p>
 If unsure, you may purchase textbooks in the first week of school.</p>
 <p>For further clarification, please <a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information" rel="noopener nofollow" target="_blank">contact us</a>.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Purchase of Books and Uniforms</strong>
 </summary>
@@ -54,5 +54,32 @@ the co-operation of parents/guardians for the following:</p>
 certificate.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>MOE Financial Assistance Scheme (FAS)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For 2025 Sec 1 students whose 2025 FAS applications have been approved
+by their primary schools, please report to the KRSS school general office
+for further assistance.
+<br>
+<br>Please note that you are to book an appointment slot at&nbsp;<a href="http://www.picktime.com/krss2024" rel="noopener nofollow" target="_blank">http://www.picktime.com/krss2024</a>&nbsp;before
+you visit the school to collect books and uniforms.
+<br>
+<br>For students who would like to apply for FAS, please click on the links
+below to find out more:
+<br>•&nbsp;<a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS pamphlet (4 languages)</a>
+<br>•<a href="https://www.kentridgesec.moe.edu.sg/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
+<br>• Apply online for MOE FAS (eFAS) 2025 with your Singpass at&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a>Application forms for financial assistance are also available at the school’s
+general office.
+<br>
+<br>For more information, parents can refer to the following&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE FAS website</a>.&nbsp;</p>
 </div>
+</details>
+</div>
+<p></p>
 <p></p>
