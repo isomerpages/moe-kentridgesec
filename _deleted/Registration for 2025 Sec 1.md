@@ -68,8 +68,7 @@ you visit the school to collect books and uniforms.
 <br>For students who would like to apply for FAS, please click on the links
 below to find out more:
 <br>•&nbsp;<a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS pamphlet (4 languages)</a>
-<br>•<a href="https://www.kentridgesec.moe.edu.sg/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-<a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
+<br>• <a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
 <br>• Apply online for MOE FAS (eFAS) 2025 with your Singpass at&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
