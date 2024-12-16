@@ -8,7 +8,7 @@ description: ""
 <p>A warm welcome on your child’s/ward’s posting to Kent Ridge Secondary
 School!</p>
 <p>Please note that students do not need to report to their posted secondary
-schools upon receiving their <u>S1 posting results</u>.</p>
+schools upon receiving their <a href="https://www.moe.gov.sg/news/press-releases/20241211-2024-secondary-1-posting-results" rel="noopener nofollow" target="_blank">S1 posting results</a>.</p>
 <p>The school will be using Parents Gateway (PG) to communicate with you
 useful information on how to prepare your child/ward for the first day
 of school.</p>
