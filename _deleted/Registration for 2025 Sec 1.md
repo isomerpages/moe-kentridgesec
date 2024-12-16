@@ -30,7 +30,6 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 <summary><strong>Purchase of Books and Uniforms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&lt;/ul&gt;</p>
 <p>Online ordering with our vendors are available as follows:</p>
 <p>Bookshop Vendor:&nbsp;<a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
 </p>
