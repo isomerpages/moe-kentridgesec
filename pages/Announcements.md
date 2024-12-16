@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+[Admin Briefing Slides for N-Level Examination Result Release](/files/Admin_Briefing_Slides___N_Level_Results_16_Dec_2024.pdf)
+
+
 ### GCE N-Level Examination result
 Dear Kent Ridgeans and Parent(s)/Guardians of the 2024 Graduating Cohort,
 
