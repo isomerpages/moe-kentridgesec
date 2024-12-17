@@ -125,7 +125,23 @@ general office.
 <summary><strong>School Counselling Support</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents who would like to find out more about the school’s counselling
+support system can contact our School Counsellor:
+<br><strong>Mr Aw Wei Keong, Freddy</strong>
+</p>
+<p>Email:&nbsp;<a href="mailto:aw_wei_keong_freddy@schools.gov.sg" rel="noopener nofollow" target="_blank">aw_wei_keong_freddy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -146,7 +162,15 @@ general office.
 <summary><strong>Secondary One Students using Primary Level School Smart Card (SSC)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>All students entering Secondary One in January 2025 will be issued with
+a new Secondary Level School Smart Card (SSC). TransitLink will deliver
+the cards to secondary schools by April 2025.
+<br>
+<br>While Secondary One students are waiting for their Secondary Level SSCs
+to be ready, they can continue to use their Primary Level SSCs for concessionary
+travel till end-April 2025. Students can still purchase the Bus Concession
+Pass (BCP) using their Primary Level SSCs but they would need to purchase
+the BCP for Secondary School students.</p>
 </div>
 </details>
 <details class="isomer-details">
