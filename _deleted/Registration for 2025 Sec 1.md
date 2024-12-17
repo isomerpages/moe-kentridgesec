@@ -12,8 +12,8 @@ schools upon receiving their <a href="https://www.moe.gov.sg/news/press-releases
 <p>The school will be using Parents Gateway (PG) to communicate with you
 useful information on how to prepare your child/ward for the first day
 of school.</p>
-<p>Your child’s/ward’s <strong>2025 Sec 1 Class allocation</strong> will be <strong>available on</strong> Parents
-Gateway after <strong>12 noon on 19 December 2024 (Thursday)</strong>.</p>
+<p>Your child’s/ward’s <strong>2025 Sec 1 Class allocation</strong> will be
+available on Parents Gateway after <strong>12 noon on 19 December 2024 (Thursday)</strong>.</p>
 <p>As there may be student movement due to transfer cases, we seek your understanding
 that there may be changes in the Form Class allocation. All Form Class
 allocation will only be finalised after the school term begins.</p>
