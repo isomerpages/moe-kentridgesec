@@ -66,10 +66,16 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 <p>Important Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_Book_List_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List</a>
+</p>
+<p><a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_Stationery_List_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Stationery List</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KRSS Revised Uniform Policy 2025
+<br>
+<br><a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_Uniform_Infosheet_2024__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">KRSS Uniform Infosheet for 2025 Sec 1 (17 Dec 2024)</a>
+</p>
 </td>
 </tr>
 <tr>
