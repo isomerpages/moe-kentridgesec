@@ -249,8 +249,7 @@ AEP/MEP.
 <br>
 <br>Do refer to important details in web links provided below.</p>
 <p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
-</p>
-<p><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<br><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
 </a>
