@@ -85,6 +85,12 @@ Book for an appointment slot here to buy/collect your books and uniforms: [http:
 | Sec 4 NA     |[KRSS Book List 2025 Sec 4 NA](/files/KRSS_Book_List_2025_Sec_4_NA.pdf)  |[KRSS Stationery List 2025 Sec 4](/files/KRSS_Stationery_List_2025_Sec_4.pdf)    |
 | Sec 4 NT     |[KRSS Book List 2025 Sec 4 NT](/files/KRSS_Book_List_2025_Sec_4_NT.pdf)   | [KRSS Stationery List 2025 Sec 4](/files/KRSS_Stationery_List_2025_Sec_4.pdf)    |
 
+**Secondary 5**
+
+| Stream |Textbook | Stationery |
+| -------- | -------- | -------- |
+|Sec 5NA |[KRSS Book List 2025 Sec 5](/files/KRSS_Book_List_2025_Sec_5.pdf)|[KRSS Stationery List 2025 Sec 5](/files/KRSS_Stationery_List_2025_Sec_4.pdf) |
+
 
 ### School Uniform
 [Guide for Purchase of School Uniforms](/files/KRSS_Uniform_Infosheet_2024__8_Nov_2024_.pdf) (updated 08 Nov 2024)
