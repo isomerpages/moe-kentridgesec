@@ -251,17 +251,113 @@ support system can contact our School Counsellor:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>First Day of School</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>2024 Secondary&nbsp; 1 Orientation Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
+will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.</p>
+<p>&nbsp;</p>
+<p>Please note the following&nbsp;information:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2 Jan (Thurs)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>3 Jan (Fri)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 Jan (Mon)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting time/venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730h (Hall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730h (Hall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730h (Hall)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dismissal time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1245h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1245h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FT and SL time
+<br>Orientation Icebreakers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teambuilding, Orientation activities &amp; CCA tour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teambuilding, Orientation activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What to wear:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full KRSS Uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Half KRSS uniform
+<br>(PE shirt with school Bermudas/skirt)
+<br>Bring PE shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full KRSS Uniform
+<br>Bring PE attire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What to bring:</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Water bottle</p>
+<p>Writing materials</p>
+<p>English-language story book</p>
+<p>Money for recess/lunch</p>
+<p>Water bottle</p>
+<p>Writing materials</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
