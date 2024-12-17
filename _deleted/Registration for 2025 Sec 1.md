@@ -153,14 +153,42 @@ general office.
 <summary><strong>Appeals for Transfer OUT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>(A) MOE’s Medical Appeal Exercise (MAE): Appeal to Transfer School for Serious Medical Condition or Severe Physical Impairments only</strong>
+<br>If you have been posted to Kent Ridge Secondary School, but assess that
+the school is unable to accommodate your child’s medical or physical health
+needs, you may appeal to MOE for a transfer out. Appeals can be filed at
+the school’s general office in person or via email by 12:00pm on Thursday,
+21 December 2023.
+<br>
+<br>All appeals must be accompanied by relevant supporting documents, such
+as medical reports, letters from certified doctors, assessment reports
+from qualified medical professionals, etc.
+<br>The appeal results will be released on 2 January 2024.
+<br>
+<br><strong>(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</strong>
+<br>• Refer to your&nbsp;<u>preferred school’s</u>&nbsp;website for more information.
+<br>• You should still report to KRSS on 2 January 2024 if you do not hear
+from your preferred school by then
+<br>• While awaiting reply from the other school, you will not need to purchase
+KRSS uniforms and books</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Appeals for Transfer IN</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Students who wish to appeal to transfer to Kent Ridge Secondary School</strong>
+<br>
+<br>For&nbsp;<strong>non-medical</strong>&nbsp;reasons, please submit your
+appeal via this <a href="https://go.gov.sg/krss-s1-appeal" rel="noopener nofollow" target="_blank">online form</a>&nbsp;by
+27 December 2024, 12pm.
+<br>
+<br>Please note that your PSLE score should meet the school's cut-off point
+of the posting year. Transfer will be subject to available vacancies and
+the school’s admission criteria.
+<br>
+<br>The application is deemed to be unsuccessful if you do not hear from the
+school by 6 January 2025.</p>
 </div>
 </details>
 </div>
