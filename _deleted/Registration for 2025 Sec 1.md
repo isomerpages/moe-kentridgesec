@@ -78,9 +78,9 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KRSS Revised Uniform Policy 2025
-<br>
-<br><a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_Uniform_Infosheet_2024__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">KRSS Uniform Infosheet for 2025 Sec 1 (17 Dec 2024)</a>
+<p><a href="/files/KRSS_Revised_Uniform_Policy_2025.pdf" rel="noopener nofollow" target="_blank">KRSS Revised Uniform Policy 2025</a>
+</p>
+<p><a href="/files/KRSS_Uniform_Infosheet_for_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">KRSS Uniform Infosheet for 2025 Sec 1 (17 Dec 2024)</a>
 </p>
 </td>
 </tr>
