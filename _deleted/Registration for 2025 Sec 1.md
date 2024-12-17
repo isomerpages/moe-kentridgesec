@@ -296,7 +296,7 @@ from qualified medical professionals, etc.
 <br>
 <br><strong>(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</strong>
 <br>• Refer to your&nbsp;<u>preferred school’s</u>&nbsp;website for more information.
-<br>• You should still report to KRSS on 2 January 2024 if you do not hear
+<br>• You should still report to KRSS on 2 January 2025 if you do not hear
 from your preferred school by then
 <br>• While awaiting reply from the other school, you will not need to purchase
 KRSS uniforms and books</p>
