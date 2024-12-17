@@ -214,6 +214,7 @@ skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
 <br>
 <br>For more information on Kent Ridge Secondary’s NDLP, please refer to
 <a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/" rel="noopener nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+<br>
 <br>Details on the purchase of PLDs will be shared on a later date.</p>
 </div>
 </details>
