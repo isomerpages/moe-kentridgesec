@@ -255,8 +255,9 @@ support system can contact our School Counsellor:</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
-will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.</p>
-<p>&nbsp;</p>
+will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
+<br>
+</p>
 <p>Please note the following&nbsp;information:</p>
 <table style="minWidth: 100px">
 <colgroup>
