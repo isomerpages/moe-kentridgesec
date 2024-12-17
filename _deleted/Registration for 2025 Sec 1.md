@@ -79,7 +79,7 @@ to purchase your textbooks.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KRSS_Revised_Uniform_Policy_2025.pdf" rel="noopener nofollow" target="_blank">KRSS Revised Uniform Policy 2025</a>
 </p>
-<p><a href="/files/KRSS_Uniform_Infosheet_for_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">KRSS Uniform Infosheet for 2025 Sec 1 (17 Dec 2024)</a>
+<p><a href="/files/KRSS_Uniform_Infosheet_for_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">KRSS Uniform Infosheet for 2025 Sec 1</a>
 </p>
 </td>
 </tr>
