@@ -90,14 +90,41 @@ general office.
 <summary><strong>Subject Based Banding (Secondary)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Kent Ridge Secondary School has implemented Full Subject-Based Banding
+since 2023. Full SBB is part of MOE’s ongoing efforts to nurture the joy
+of learning and develop multiple pathways to cater to different strengths
+and interests of students.
+<br>
+<br>Students who are eligible to do subjects at a more demanding level will
+be informed by the school via Parents Gateway.&nbsp; Please refer to this
+<a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">slides</a>for more information.
+<br>
+<br>For more information on Full Subject-Based Banding (Full SBB), parents
+can refer to the following websites:
+<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+</p>
+<p><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/" rel="noopener nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<br>Should you have any queries, please contact the following officers:
+<br><strong>Mrs Sherine Ang, Year Head</strong>
+<br>Email:&nbsp;<a href="mailto: sherine_chua@schools.gov.sg" rel="noopener nofollow" target="_blank">sherine_chua@schools.gov.sg</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Mother Tongue Languages (MTL) Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>For the following groups of students, please see the <a href="/files/2024_Sec_1_MTL_Matters.pdf" rel="noopener nofollow" target="_blank">slides</a>&nbsp;for
+more details:
+<br>• Eligibility for Higher Chinese Language (HCL) &amp; Higher Malay Language
+(HML)
+<br>• Students not taking Chinese Language (CL) or Malay Language (ML)
+<br>• Students offered 3rd Language
+<br>• Students who are exempted or intend to apply for exemption from MTL
+<br>
+<br>For more information on Mother Tongue Languages, please refer to these
+<a href="/files/2025_Sec_1_MTL_Matters.pdf" rel="noopener nofollow" target="_blank">slides</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
