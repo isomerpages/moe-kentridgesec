@@ -30,6 +30,9 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 <summary><strong>Purchase of Books and Uniforms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dates of Sales: December 19, 20, 23, 26, 27, 30</p>
+<p>Operating Hours: 9:00 AM to 3:00 PM</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -38,19 +41,22 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Books</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Uniforms</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online ordering</p>
+<p><a href="Online ordering" rel="noopener nofollow" target="_blank">Online ordering</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
@@ -91,21 +97,20 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 </tr>
 </tbody>
 </table>
-<p>Online ordering with our vendors are available as follows:
-<br>Bookshop Vendor:&nbsp;<a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
-<br>Uniform Vendor:&nbsp; <a href="http://www.khuniform.com" rel="noopener nofollow" target="_blank">http://www.khuniform.com</a>
-</p>
+<p>
+<br>To facilitate the ease of purchasing the textbooks and uniforms, our bookshop
+and uniform vendors have put in place online ordering and delivery options.
+We <strong><u>strongly encourage all parents to opt for online ordering and delivery</u></strong>.</p>
+<p>&nbsp;</p>
 <p>Parents who wish to pick up their purchases physically are still encouraged
 to pre-order their needed items with the 2 vendors so that the items can
-be collected from the vendors in school with minimal waiting time. Before
-coming to the school, please book an appointment slot at the following
+be collected from the vendors in school with minimal waiting time.
+<br>
+<br>Before coming to the school, please book an appointment slot at the following
 link:
 <br><a href="http://www.picktime.com/krss2024" rel="noopener nofollow" target="_blank">http://www.picktime.com/krss2024</a>
 </p>
-<p>Books: School Bookshop (Canteen, Level 3)
-<br>Uniforms: Counter at the back of the Canteen (Level 3)</p>
-<p>Dates of Sales: December 19, 20, 23, 26, 27, 30</p>
-<p>Operating Hours: 9:00 AM to 3:00 PM</p>
+<p></p>
 <p>In addition to booking appointment slots for your visit, we also seek
 the co-operation of parents/guardians for the following:</p>
 <p>a. Students coming to the school should be in <strong>proper school attire (i.e. Primary School Uniform/PE attire with proper school shoes, no coloured hair)</strong>
