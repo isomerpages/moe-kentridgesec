@@ -72,11 +72,10 @@ below to find out more:
 <br>• Apply online for MOE FAS (eFAS) 2025 with your Singpass at&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
-<br>
-</a>Application forms for financial assistance are also available at the school’s
-general office.
-<br>
-<br>For more information, parents can refer to the following&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE FAS website</a>.&nbsp;</p>
+</a>
+<br>Application forms for financial assistance are also available at the school’s
+general office.</p>
+<p>For more information, parents can refer to the following&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE FAS website</a>.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
