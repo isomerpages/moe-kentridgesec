@@ -54,8 +54,7 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Online ordering" rel="noopener nofollow" target="_blank">Online ordering</a>
-</p>
+<p>Online Ordering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
