@@ -251,6 +251,11 @@ AEP/MEP.
 <br><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
 <br><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
+<p></p>
+<p>Should you have any queries, please contact the following officer:
+<br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
+<br>Email: <a href="mailto: lim_hwee_fung_jaime@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -450,4 +455,5 @@ school by 6 January 2025.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
