@@ -238,7 +238,7 @@ apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP&nbsp;C
 <br>• MEP: Anglo-Chinese School (Independent)
 <br>• MEP:&nbsp;Dunman&nbsp;High School
 <br>
-<br>The online application is open from 2-15 January 2024.
+<br>The online application is open from <strong>2-15 January 2025</strong>.
 <br>
 <br>Successful applicants will attend weekly lessons in the afternoon at the
 AEP/MEP Centre and are expected to commit to the programme for 4 years.
