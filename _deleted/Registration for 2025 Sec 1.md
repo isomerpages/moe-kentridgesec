@@ -170,6 +170,9 @@ be informed by the school via Parents Gateway.&nbsp; Please refer to these
 </p>
 <p>for more information.
 <br>
+<br>Please refer to these <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">slides</a> for more
+information.
+<br>
 <br>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
 <br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
