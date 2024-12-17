@@ -96,15 +96,12 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>To facilitate the ease of purchasing the textbooks and uniforms, our bookshop
+<p>To facilitate the ease of purchasing the textbooks and uniforms, our bookshop
 and uniform vendors have put in place online ordering and delivery options.
-We <strong><u>strongly encourage all parents to opt for online ordering and delivery</u></strong>.</p>
-<p>&nbsp;</p>
-<p>Parents who wish to pick up their purchases physically are still encouraged
+We <strong><u>strongly encourage all parents to opt for online ordering and delivery</u></strong>.
+<br>Parents who wish to pick up their purchases physically are still encouraged
 to pre-order their needed items with the 2 vendors so that the items can
 be collected from the vendors in school with minimal waiting time.
-<br>
 <br>Before coming to the school, please book an appointment slot at the following
 link:
 <br><a href="http://www.picktime.com/krss2024" rel="noopener nofollow" target="_blank">http://www.picktime.com/krss2024</a>
