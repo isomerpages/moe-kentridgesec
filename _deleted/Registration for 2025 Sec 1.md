@@ -99,6 +99,7 @@ to purchase your textbooks.</p>
 <p>To facilitate the ease of purchasing the textbooks and uniforms, our bookshop
 and uniform vendors have put in place online ordering and delivery options.
 We <strong><u>strongly encourage all parents to opt for online ordering and delivery</u></strong>.
+<br>
 <br>Parents who wish to pick up their purchases physically are still encouraged
 to pre-order their needed items with the 2 vendors so that the items can
 be collected from the vendors in school with minimal waiting time.
