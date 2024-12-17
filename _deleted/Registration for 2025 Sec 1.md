@@ -252,7 +252,7 @@ support system can contact our School Counsellor:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2024 Secondary&nbsp; 1 Orientation Programme</strong>
+<summary><strong>2025 Secondary&nbsp; 1 Orientation Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
