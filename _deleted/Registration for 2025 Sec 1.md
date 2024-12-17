@@ -146,7 +146,7 @@ general office.</p>
 more details.
 <br>
 <br>Please complete the&nbsp;<a href="https://form.gov.sg/67605889b5e37d2e4f8b2b57" rel="noopener nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
-3 January 2024 (Wed).
+3 January 2025 (Fri).
 <br>
 <br>Should you have any queries, please contact the following officers:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
