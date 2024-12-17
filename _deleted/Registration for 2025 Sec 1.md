@@ -168,8 +168,8 @@ and interests of students.
 <br>
 <br>Students who are eligible to do subjects at a more demanding level will
 be informed by the school via Parents Gateway.
-<br>Please refer to these <a href="/files/FSBB_Slides_for_Sec_1_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">slides</a> for more
-information.
+<br>Please refer to these <a href="/files/FSBB_Slides_for_2025_Sec_1_Registration.pdf" rel="noopener nofollow" target="_blank">slides</a> for
+more information.
 <br>
 <br>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
