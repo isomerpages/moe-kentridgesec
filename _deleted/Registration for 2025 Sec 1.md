@@ -110,8 +110,7 @@ link:
 <p>In addition to booking appointment slots for your visit, we also seek
 the co-operation of parents/guardians for the following:</p>
 <p>a. Students coming to the school should be in <strong>proper school attire (i.e. Primary School Uniform/PE attire with proper school shoes, no coloured hair)</strong>
-</p>
-<p>b. Please do not come to the school if you are unwell or given medical
+<br>b. Please do not come to the school if you are unwell or given medical
 certificate.</p>
 </div>
 </details>
