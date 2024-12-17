@@ -145,7 +145,7 @@ general office.</p>
 <p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2024.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
 more details.
 <br>
-<br>Please complete the&nbsp;<a href="https://form.gov.sg/67605889b5e37d2e4f8b2b57" rel="noopener nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
+<br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca" rel="noopener nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
 3 January 2025 (Fri).
 <br>
 <br>Should you have any queries, please contact the following officers:
