@@ -30,6 +30,61 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 <summary><strong>Purchase of Books and Uniforms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online ordering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.khuniform.com" rel="noopener nofollow" target="_blank">http://www.khuniform.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Important Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Location</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Bookshop (Canteen, Level 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Counter at the back of the Canteen (Level 3)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Online ordering with our vendors are available as follows:
 <br>Bookshop Vendor:&nbsp;<a href="http://www.annkev.com" rel="noopener nofollow" target="_blank">http://www.annkev.com</a>
 <br>Uniform Vendor:&nbsp; <a href="http://www.khuniform.com" rel="noopener nofollow" target="_blank">http://www.khuniform.com</a>
