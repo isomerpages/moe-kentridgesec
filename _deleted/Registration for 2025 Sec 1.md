@@ -247,8 +247,8 @@ closely with the students’ secondary schools to ensure that their school
 timetable and commitments would allow them to participate fully in the
 AEP/MEP.
 <br>
-<br>Do refer to important details in web links provided below.</p>
-<p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
+<br>Do refer to important details in web links provided below.
+<br><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
 <br><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
