@@ -250,9 +250,10 @@ AEP/MEP.
 <p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
 </p>
 <p><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><br><br></a>Should
-you have any queries, please contact the following officer:
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
+<br>Should you have any queries, please contact the following officer:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
 <br>Email:</p>
 </td>
