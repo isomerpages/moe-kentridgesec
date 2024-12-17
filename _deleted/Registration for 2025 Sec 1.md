@@ -129,8 +129,8 @@ you visit the school to collect books and uniforms.
 <br>
 <br>For students who would like to apply for FAS, please click on the links
 below to find out more:
-<br>•&nbsp;<a href="/files/2024_MOE_FAS_pamphlet__4_languages_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS pamphlet (4 languages)</a>
-<br>• <a href="/files/2024_MOE_FAS_Application_Form_Oct2023.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
+<br>•&nbsp;<a href="/files/MOE_FAS_2025_pamphlet__4_languages_.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS pamphlet (4 languages)</a>
+<br>• <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Application Form</a>
 <br>• Apply online for MOE FAS (eFAS) 2025 with your Singpass at&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 <br>
 <br>Application forms for financial assistance are also available at the school’s
