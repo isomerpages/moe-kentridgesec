@@ -104,7 +104,21 @@ general office.
 <summary><strong>National Digital Literacy Programme (NDLP)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Through the National Digital Literacy Programme (NDLP), all secondary
+school students will own a school-prescribed Personal Learning Device (PLD).
+Secondary one students would be invited to purchase a school-prescribed
+PLD. Singapore Citizen students can use their Edusave Account to pay for
+the PLD.
+<br>
+<br>The PLD will be used in tandem with the national e-learning platform –
+the Singapore Student Learning Space (“SLS”) – as well as other educational
+technology tools to&nbsp;personalise&nbsp;and enhance students’ learning.
+This will also enable students to acquire digital skills and apply these
+skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
+<br>
+<br>For more information on Kent Ridge Secondary’s NDLP, please refer to
+<a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/" rel="noopener nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+<br>Details on the purchase of PLDs will be shared on a later date.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -118,7 +132,13 @@ general office.
 <summary><strong>Arrangements for Students with Special Educational Needs (SEN)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>For parents of students with Special Educational Needs (SEN), the school's
+Senior SEN Officer will be reaching out to you via Parents Gateway.
+<br>
+<br>For urgent enquiries, you can also contact her:
+<br><strong>Mrs Cheryl Lim</strong>
+<br>Email:&nbsp;<a href="mailto:tan_seok_gek@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_seok_gek@schools.gov.sg</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
