@@ -349,12 +349,12 @@ will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
 <p>What to bring:</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Water bottle</p>
-<p>Writing materials</p>
-<p>English-language story book</p>
-<p>Money for recess/lunch</p>
-<p>Water bottle</p>
-<p>Writing materials</p>
+<p>Water bottle
+<br>Writing materials
+<br>English-language story book
+<br>Money for recess/lunch
+<br>Water bottle
+<br>Writing materials</p>
 </td>
 </tr>
 </tbody>
