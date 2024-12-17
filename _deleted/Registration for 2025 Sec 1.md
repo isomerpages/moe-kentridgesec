@@ -184,7 +184,7 @@ can refer to the following websites:
 <summary><strong>Mother Tongue Languages (MTL) Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For the following groups of students, please see the <a href="/files/2024_Sec_1_MTL_Matters.pdf" rel="noopener nofollow" target="_blank">slides</a>&nbsp;for
+<p>For the following groups of students, please see the <a href="/files/2025_Sec_1_MTL_Matters.pdf" rel="noopener nofollow" target="_blank">slides</a> for
 more details:
 <br>• Eligibility for Higher Chinese Language (HCL) &amp; Higher Malay Language
 (HML)
@@ -193,7 +193,7 @@ more details:
 <br>• Students who are exempted or intend to apply for exemption from MTL
 <br>
 <br>For more information on Mother Tongue Languages, please refer to these
-<a href="/files/2025_Sec_1_MTL_Matters.pdf" rel="noopener nofollow" target="_blank">slides</a>
+<a href="/files/Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">slides</a>
 </p>
 </div>
 </details>
