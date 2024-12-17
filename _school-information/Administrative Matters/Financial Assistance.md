@@ -10,4 +10,4 @@ Students who require financial help with their educational needs can apply for f
 [MOE FAS 2025 Pamphlet](/files/MOE_FAS_2025_pamphlet__4_languages_.pdf)<br>
 [MOE FAS 2025 Application Form](/files/MOE_FAS_Application_Form_2025.pdf)
 
-Parents who want to know more about MOE FAS can visit&nbsp;[MOE website.](https://www.moe.gov.sg/financial-matters/financial-assistance)
+Parents who want to know more about MOE FAS can visit&nbsp;[MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance).
