@@ -255,7 +255,8 @@ AEP/MEP.
 </a>
 <br>Should you have any queries, please contact the following officer:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
-<br>Email:</p>
+<br>Email: <a href="mailto: lim_hwee_fung_jaime@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
