@@ -38,8 +38,8 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 to pre-order their needed items with the 2 vendors so that the items can
 be collected from the vendors in school with minimal waiting time. Before
 coming to the school, please book an appointment slot at the following
-link:</p>
-<p><a href="http://www.picktime.com/krss2024" rel="noopener nofollow" target="_blank">http://www.picktime.com/krss2024</a>
+link:
+<br><a href="http://www.picktime.com/krss2024" rel="noopener nofollow" target="_blank">http://www.picktime.com/krss2024</a>
 </p>
 <p>Books: School Bookshop (Canteen, Level 3)
 <br>Uniforms: Counter at the back of the Canteen (Level 3)</p>
@@ -79,7 +79,19 @@ general office.</p>
 <summary><strong>KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2024.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
+more details.
+<br>
+<br>Please complete the&nbsp;<a href="https://form.gov.sg/67605889b5e37d2e4f8b2b57" rel="noopener nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
+3 January 2024 (Wed).
+<br>
+<br>Should you have any queries, please contact the following officers:
+<br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
+<br>Email:&nbsp;<a href="mailto: lim_hwee_fung_jaime@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+<br>
+<br><strong>Mr Kevin Chow, SH/PE</strong>
+<br>Email:&nbsp;<a href="mailto: chow_kok_wei_kevin@schools.gov.sg" rel="noopener nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
