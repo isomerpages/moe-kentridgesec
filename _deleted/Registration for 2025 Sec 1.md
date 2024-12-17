@@ -249,8 +249,7 @@ AEP/MEP.
 <br>
 <br>Do refer to important details in web links provided below.</p>
 <p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
-</p>
-<p><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<br><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
 </a>
@@ -427,6 +426,7 @@ the school’s general office in person or via email by <strong>12:00pm on Thurs
 <br>All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from certified doctors, assessment reports
 from qualified medical professionals, etc.
+<br>
 <br>The appeal results will be released on 2 January 2025.
 <br>
 <br><strong>(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</strong>
