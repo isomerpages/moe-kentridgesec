@@ -292,7 +292,7 @@ the school’s general office in person or via email by <strong>12:00pm on Thurs
 <br>All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from certified doctors, assessment reports
 from qualified medical professionals, etc.
-<br>The appeal results will be released on 2 January 2024.
+<br>The appeal results will be released on 2 January 2025.
 <br>
 <br><strong>(B) Students who are posted to Kent Ridge Secondary School but would like to seek a transfer OUT due to other (non-medical) reasons</strong>
 <br>• Refer to your&nbsp;<u>preferred school’s</u>&nbsp;website for more information.
