@@ -171,8 +171,8 @@ information.
 <br>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
 <br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
-</p>
-<p><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/" rel="noopener nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/" rel="noopener nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<br>
 <br>Should you have any queries, please contact the following officers:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
 <br>Email:&nbsp;<a href="mailto: sherine_chua@schools.gov.sg" rel="noopener nofollow" target="_blank">sherine_chua@schools.gov.sg</a>
