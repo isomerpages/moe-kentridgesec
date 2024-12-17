@@ -30,9 +30,8 @@ If unsure, you may purchase textbooks in the first week of school.</p>
 <summary><strong>Purchase of Books and Uniforms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dates of Sales: December 19, 20, 23, 26, 27, 30</p>
-<p>Operating Hours: 9:00 AM to 3:00 PM</p>
-<p></p>
+<p>Dates of Sales: December 19, 20, 23, 26, 27, 30
+<br>Operating Hours: 9:00 AM to 3:00 PM</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
