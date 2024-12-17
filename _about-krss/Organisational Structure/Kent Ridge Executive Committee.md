@@ -23,11 +23,6 @@ border-collapse: collapse;
     <td>Mdm Valerie Goh</td>
     <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
   </tr>
-  <tr>
-     <td>Vice-Principal</td>
-     <td>Mr Steve Ow Kwok Leong</td>
-     <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
-  </tr>
 		  <tr>
      <td>Vice-Principal</td>
      <td>Ms Sharon Yap</td>
