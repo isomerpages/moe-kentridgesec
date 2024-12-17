@@ -243,7 +243,8 @@ Senior SEN Officer will be reaching out to you via Parents Gateway.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Parents who would like to find out more about the school’s counselling
-support system can contact our School Counsellor:
+support system can contact our School Counsellor:</p>
+<p>
 <br><strong>Mr Aw Wei Keong, Freddy</strong>
 <br>Email:&nbsp;<a href="mailto:aw_wei_keong_freddy@schools.gov.sg" rel="noopener nofollow" target="_blank">aw_wei_keong_freddy@schools.gov.sg</a>
 </p>
