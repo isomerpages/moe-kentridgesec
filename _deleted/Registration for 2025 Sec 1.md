@@ -22,7 +22,8 @@ to offer core subjects under SBB at a more demanding level, or Higher Mother
 Tongue Languages HCL/HML. Please check the SBB and MTL sections below for
 more information.</p>
 <p>Do ensure books for the correct subject level are purchased for your child/ward.
-If unsure, you may purchase textbooks in the first week of school.</p>
+If uncertain, you might consider waiting until the first week of school
+to purchase your textbooks.</p>
 <p>For further clarification, please <a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information" rel="noopener nofollow" target="_blank">contact us</a>.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
