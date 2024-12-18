@@ -142,7 +142,7 @@ general office.</p>
 <summary><strong>KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2024.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
+<p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2025.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
 more details.
 <br>
 <br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca" rel="noopener nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
