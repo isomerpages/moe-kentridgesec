@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Registration for 2025 Sec 1.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
@@ -11,6 +10,7 @@ collections:
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/School Book List and Uniform.md
       - Administrative Matters/School Fees.md
+      - Registration for 2025 Sec 1.md
       - Code of Conduct.md
       - Direct School Admission 2024/.keep
       - Direct School Admission 2024/Direct School Admission 2024.md
