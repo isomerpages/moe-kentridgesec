@@ -422,7 +422,8 @@ below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>3 Jan 2025 (Friday) : Day 2 of the Orientation Programme</p>
+<p>3 Jan 2025 (Friday) : <strong>Parents Engagement Session cum Campfire</strong>
+</p>
 </th>
 </tr>
 <tr>
