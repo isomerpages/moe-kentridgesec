@@ -291,44 +291,25 @@ support system can contact our School Counsellor:</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
-will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
+will be held on&nbsp;<strong>2 and 3 January 2025</strong>.
 <br>
 </p>
-<p>Please note the following&nbsp;information:</p>
-<table style="minWidth: 100px">
+<p>Please refer to the <strong><u>adjusted</u></strong><u> </u><strong><u>Orientation</u></strong> schedule
+below.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p>2 Jan 2025 (Thursday) : Day 1 of the Orientation Programme</p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>2 Jan (Thurs)</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><strong>3 Jan (Fri)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>6 Jan (Mon)</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reporting time/venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0730h (Hall)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0730h (Hall)</p>
+<p>Reporting time / Venue:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0730h (Hall)</p>
@@ -336,16 +317,10 @@ will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dismissal time</p>
+<p>Dismissal time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1245h</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1245h</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1400h</p>
+<p>1230h</p>
 </td>
 </tr>
 <tr>
@@ -353,14 +328,7 @@ will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
 <p>Programme:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FT and SL time
-<br>Orientation Icebreakers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teambuilding, Orientation activities &amp; CCA tour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teambuilding, Orientation activities</p>
+<p>Form-Teacher time, School tour, Orientation icebreakers</p>
 </td>
 </tr>
 <tr>
@@ -370,27 +338,133 @@ will be held on&nbsp;<strong>2, 3 and 6 January 2025</strong>.
 <td rowspan="1" colspan="1">
 <p>Full KRSS Uniform</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Half KRSS uniform
-<br>(PE shirt with school Bermudas/skirt)
-<br>Bring PE shorts</p>
+<p>What to bring:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full KRSS Uniform
-<br>Bring PE attire</p>
+<p>Water bottle
+<br>Writing materials such as notebook/pens&nbsp;
+<br>English-language story book</p>
+<p>Light snacks (sandwich, bun etc)
+<br>Money for recess</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>3 Jan 2025 (Friday) : Day 2 of the Orientation Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting time / Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730h (Hall)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dismissal time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2030h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orientation activities, CCA tour, Teambuilding programme,
+<br>Parents Briefing &amp; Campfire programme</p>
+<p>Dinner will be catered for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What to wear:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Half KRSS uniform
+<br>(PE shirt with school bermudas/skirt)
+<br>Bring PE shorts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>What to bring:</p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Water bottle
-<br>Writing materials
-<br>English-language story book
-<br>Money for recess/lunch
-<br>Water bottle
-<br>Writing materials</p>
+<br>Writing materials such as notebook/pens&nbsp;
+<br>English-language story book</p>
+<p>Light snacks (sandwich, bun etc)
+<br>Money for recess/lunch</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>3 Jan 2025 (Friday) : Day 2 of the Orientation Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programme:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1715 – 1745h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engagement with Parents of SEN students
+<br>(For parents of selected students only, to be notified via Parents Gateway)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1745 – 1900h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session include the following items:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Principal</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by Parent Support Group</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by KRSS Student Council
+President</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-Home partnership</p>
+<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Matters</p>
+<p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of Electronic Devices</p>
+<p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Curriculum Matters</p>
+<p>h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q&amp;A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1900 – 2030h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Campfire Programme</p>
 </td>
 </tr>
 </tbody>
