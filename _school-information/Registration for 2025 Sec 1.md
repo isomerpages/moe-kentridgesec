@@ -346,8 +346,8 @@ below.</p>
 <td rowspan="1" colspan="1">
 <p>Water bottle
 <br>Writing materials such as notebook/pens&nbsp;
-<br>English-language story book</p>
-<p>Light snacks (sandwich, bun etc)
+<br>English-language story book
+<br>Light snacks (sandwich, bun etc)
 <br>Money for recess</p>
 </td>
 </tr>
@@ -407,8 +407,8 @@ below.</p>
 <td rowspan="1" colspan="1">
 <p>Water bottle
 <br>Writing materials such as notebook/pens&nbsp;
-<br>English-language story book</p>
-<p>Light snacks (sandwich, bun etc)
+<br>English-language story book
+<br>Light snacks (sandwich, bun etc)
 <br>Money for recess/lunch</p>
 </td>
 </tr>
@@ -449,15 +449,15 @@ below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents Engagement Session include the following items:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Principal</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by Parent Support Group</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by KRSS Student Council
-President</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-Home partnership</p>
-<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Matters</p>
-<p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of Electronic Devices</p>
-<p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Curriculum Matters</p>
-<p>h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q&amp;A</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Principal
+<br>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by Parent Support Group
+<br>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing by KRSS Student Council
+President
+<br>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-Home partnership
+<br>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Matters
+<br>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of Electronic Devices
+<br>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Curriculum Matters
+<br>h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q&amp;A</p>
 </td>
 </tr>
 <tr>
