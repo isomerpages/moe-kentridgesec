@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Development [Year Head (Sec )]</p>
+<p>HOD / Student Development [Year Head (Sec 3)]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Asan Bin Mohideen Pitchay</p>
@@ -181,7 +181,7 @@ variant: tiptap
 <p>HOD / English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Pui Yik</p>
+<p>Ms Serene Soh Yik Pui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
