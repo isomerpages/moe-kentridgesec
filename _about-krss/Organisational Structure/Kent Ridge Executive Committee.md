@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Development [Year Head (Sec )]</p>
+<p>HOD / Student Development [Year Head (Sec 3)]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Asan Bin Mohideen Pitchay</p>
