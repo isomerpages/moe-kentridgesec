@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-### Sec 2-4/5 Orientation Week  (2nd &amp; 3rd Jan 2025)
+### Sec 2-4/5 Orientation Week
 
 |Date| Reporting Time | Dismissal TIme | 
 | -------- | -------- | -------- | 
