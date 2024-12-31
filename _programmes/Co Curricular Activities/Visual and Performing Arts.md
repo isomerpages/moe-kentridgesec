@@ -39,7 +39,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and enthusiastic team of students, teachers and instructors. Our programme’s objectives are to create a conducive, safe and collaborative environment for students to appreciate and explore a variety of dance genres consisting mainly of contemporary and jazz along with hip-hop, ballroom and ballet. To develop their confidence and stage presence, students are exposed to school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as external platforms like the Singapore Youth Festival Arts Presentation, Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the scenes, the dancers build their skills through holiday workshops and inter-school exchanges. We welcome you to the Modern Dance Club, a family that braves challenges together and where everyone is allowed to grow at their own pace.</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Arfah Lubis<br>Ms Maimunah<br>Ms Hong Yunfang</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Maimunah<br>Ms Hong Yunfang<br>Mr Gabriel Fu Bojun<br>Mrs Fu Wen-Ci</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
