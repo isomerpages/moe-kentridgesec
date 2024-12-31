@@ -3,150 +3,377 @@ title: Kent Ridge Executive Committee
 permalink: /about-krss/organisational-structure/kent-ridge-executive-committee/
 description: ""
 third_nav_title: Organisational Structure
-variant: markdown
+variant: tiptap
 ---
-<style>
-table, th, td {
-border-collapse: collapse;
-}
-</style>
-
-	
-<table>
-  <tbody><tr style="background-color:#033668">
-    <th style="font-weight:bold; color:#ffffff;width: 300px;">Designation </th>
-    <th style="font-weight:bold; color:#ffffff;width: 500px;">Name of Staff</th>
-		<th style="font-weight:bold; color:#ffffff;width:200px;">Email Address</th>
-  </tr>
-  <tr>
-    <td>School Principal</td>
-    <td>Mdm Valerie Goh</td>
-    <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
-  </tr>
-		  <tr>
-     <td>Vice-Principal</td>
-     <td>Ms Sharon Yap</td>
-     <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-     <td>Vice-Principal (Administration)</td>
-     <td>Mr Poh Leong Berg</td>
-     <td><a href="mailto:krss@moe.edu.sg">krss@moe.edu.sg</a></td>
-  </tr>
-		<tr>
-     <td>HOD / Student Development [Year Head (Sec )]</td>
-     <td>Mr Mohamed Asan Bin Mohideen Pitchay</td>
-     <td><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg">mohamed_asan_mohideen_pitc@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-     <td>Year Head (Sec 1)</td>
-     <td>Mrs Nicole Song Xiao Lin</td>
-     <td><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg">nicole_tay_xiao_lin@moe.edu.sg</a></td>
-  </tr>
-		   <tr>
-     <td>Year Head (Sec 2)</td>
-     <td>Mrs Sherine Ang</td>
-     <td><a href="mailto:sherine_chua@schools.gov.sg">sherine_chua@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 4/5)</td>
-     <td>Mrs Elaine Su</td>
-    <td class="tg-lm9i"><a href="mailto:tan_shihan_elaine@schools.gov.sg">tan_shihan_elaine@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-     <td>Administration Manager</td>
-     <td>Ms Tan Ying Min</td>
-  </tr>
-  <tr>
-    <td>Operations Manager</td>
-     <td>Mr Koh Beng Chye, Thomas</td>
-  </tr>
-  <tr>
-     <td>Operations Manager</td>
-     <td>Mr Chandra S/O Karumanan</td>
-  </tr>
-  <tr>
-     <td>HOD / Aesthetics &amp; CCA</td>
-     <td>Ms Jaime Lim Hwee Fung</td>
-  </tr>
-  <tr>
-     <td>HOD / CCE</td>
-     <td>Mr Lee Hoe Sheng Hosea</td>
-  </tr>
-	<tr>
-     <td>HOD / Discipline</td>
-     <td>Mr Tan Kean Loong</td>
-  </tr>
-  <tr>
-     <td>HOD / English Language &amp; Literature</td>
-     <td>Ms Soh Pui Yik</td>
-  </tr>
-  <tr>
-     <td>HOD / Humanities</td>
-     <td>Ms Krystal Ong Shi Xuan</td>
-  </tr>
-  <tr>
-     <td>HOD / ICT (Info Comm Tech)</td>
-     <td>Mrs Tan Jiayi</td>
-  </tr>
-		  <tr>
-     <td>HOD / Mother Tongue</td>
-     <td>Mdm Yu Xiaoyan</td>
-  </tr>
-	<tr>
-     <td>School Staff Developer</td>
-     <td>Mdm Ruby Jayanthi d/o Simmon R E</td>
-  </tr>
-  <tr>
-     <td>HOD / Science</td>
-     <td>Ms Zhou Li</td>
-  </tr>
-  <tr>
-     <td>LH / English Language (Internal)</td>
-     <td>Ms Zannatul Nauum Moummee</td>
-  </tr>
-  <tr>
-     <td>LH / Science</td>
-     <td>Mr Xu Kaibin</td>
-  </tr>
-  <tr>
-     <td>SH / CCE</td>
-     <td>Ms Nur Hidayah Binte Mohamed Nor</td>
-  </tr>
-		  <tr>
-     <td>SH / Chinese Language</td>
-     <td>Ms Lim Bee Leng</td>
-  </tr>
-  <tr>
-     <td>SH / C&amp;T</td>
-     <td>Ms Tan Chiew Ming Vivien</td>
-  </tr>
-	 <tr>
-     <td>SH / Malay Language</td>
-     <td>Mdm Haizurah Bte Kadir Mydin</td>
-  </tr>
-	  <tr>
-     <td>SH / Mathematics</td>
-     <td>Mr James Quek Chin Wee</td>
-  </tr>
-	 <tr>
-     <td>SH / PE</td>
-     <td>Mr Chow Kok Wei Kevin</td>
-  </tr>
-		  <tr>
-     <td>SH / Social Studies</td>
-     <td>Ms Heng Hui Lyn, Nicole</td>
-  </tr>
-  <tr>
-     <td>SH / Student Well-Being</td>
-     <td>Mrs Teo Wee Leng</td>
-  </tr>
-  <tr>
-     <td>Lead Teacher / CCE</td>
-     <td>Ms Lim Chye Ling</td>
-  </tr>
-	<tr>
-    <td>Senior Teacher / PE</td>
-     <td>Mr Chia Tai-Yu</td>
-  </tr>
-</tbody></table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Valerie Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Poh Leong Berg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Student Development [Year Head (Sec )]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Asan Bin Mohideen Pitchay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_asan_mohideen_pitc@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Nicole Song Xiao Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tay_xiao_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sherine Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sherine_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherine_chua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 4/5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Elaine Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_shihan_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shihan_elaine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ying Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Beng Chye, Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chandra S/O Karumanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Aesthetics &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jaime Lim Hwee Fung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Hoe Sheng Hosea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kean Loong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Pui Yik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Krystal Ong Shi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT (Info Comm Tech)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Jiayi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yu Xiaoyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruby Jayanthi d/o Simmon R E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhou Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / English Language (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zannatul Nauum Moummee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Xu Kaibin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hidayah Binte Mohamed Nor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Bee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Chiew Ming Vivien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haizurah Bte Kadir Mydin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr James Quek Chin Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Kok Wei Kevin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Hui Lyn, Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Wee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Chye Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Tai-Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
