@@ -89,10 +89,6 @@ border-collapse: collapse;
      <td>HOD / ICT (Info Comm Tech)</td>
      <td>Mrs Tan Jiayi</td>
   </tr>
-  <tr>
-     <td>HOD / Mathematics</td>
-     <td>Ms Tan Siew Eng Vivian</td>
-  </tr>
 		  <tr>
      <td>HOD / Mother Tongue</td>
      <td>Mdm Yu Xiaoyan</td>
@@ -131,7 +127,7 @@ border-collapse: collapse;
   </tr>
 	  <tr>
      <td>SH / Mathematics</td>
-     <td>Mdm Siti Hajar Bte Abdullah</td>
+     <td>Mr James Quek Chin Wee</td>
   </tr>
 	 <tr>
      <td>SH / PE</td>
