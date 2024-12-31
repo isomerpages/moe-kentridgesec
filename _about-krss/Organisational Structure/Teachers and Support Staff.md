@@ -21,196 +21,205 @@ table, th, td {
     <th style="font-weight:bold; color:#ffffff;width: 300px;">Class</th>
     <th style="font-weight:bold; color:#ffffff;width: 400px;">Name of Teacher</th>
   </tr>
-  <tr>
+		<tr>
     <td rowspan="2">1-1</td>
-    <td>Mdm Kalaivani d/o Paneer Selvam</td>
+    <td>Mdm Siti Suhara Binte Ismail</td>
+  </tr>
+   <tr>
+   <td>Mr Seto Yi Kang Marcus</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1-2</td>
+    <td>Mr Ang Swee Huat</td>
+  </tr>
+		  <tr>
+    <td>Ms Ma Jing</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1-3</td>
+   <td>Ms Chong Jieting, Jasmine</td>
+  </tr>
+  <tr>
+    <td>Mr Jitendra Bhilare</td>
+  </tr>
+		<tr>
+    <td rowspan="2">1-4</td>
+   <td>Mr Lai Wei Lim</td>
+  </tr>
+  <tr>
+    <td>Mr Tan Xue Ji</td>
+  </tr>
+		<tr>
+    <td rowspan="2">1-5</td>
+   <td>Ms Foo Shuan Chou</td>
+  </tr>
+  <tr>
+   <td>Mr Lim Dao Wei Darrell</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1-6</td>
+   <td>Mr Ramish Goby</td>
+  </tr>
+  <tr>
+    <td>Ms Vivien Tan</td>
+</tr>
+  <tr>
+    <td rowspan="2">1-7</td>
+    <td>Mr Mohammad Basheer Bin Adrian</td>
+  </tr>
+  <tr>
+    <td>Mr Koh Guang Wei</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1-8</td>
+   <td>Mdm Wong Weng Han</td>
+  </tr>
+  <tr>
+   <td>Mr Gabriel Fu Bojun</td>
+  </tr>
+		<tr>
+    <td rowspan="2">1-9</td>
+   <td>Mr Kevin Nicholas Fonseka</td>
+  </tr>
+  <tr>
+   <td>Ms Wong Li Xin</td>
+  </tr>
+		<tr>
+    <td rowspan="2">2-1</td>
+      <td>Mdm Kalaivani d/o Paneer Selvam</td>
   </tr>
    <tr>
    <td>Ms Hong Yunfang</td>
   </tr>
   <tr>
-    <td rowspan="2">1-2</td>
+    <td rowspan="2">2-2</td>
     <td>Mr Hong Thin Yong</td>
   </tr>
 		  <tr>
     <td>Ms Low Shi Ting</td>
   </tr>
   <tr>
-    <td rowspan="2">1-3</td>
+    <td rowspan="2">2-3</td>
    <td>Mrs Claudia Ng</td>
   </tr>
   <tr>
-    <td>Ms Lam Cheng Wan</td>
-  </tr>
-		<tr>
-    <td rowspan="2">1-4</td>
-   <td>Mr Tay Kok Liang</td>
-  </tr>
-  <tr>
-    <td>Ms Foo Shuan Chou</td>
-  </tr>
-		<tr>
-    <td rowspan="2">1-5</td>
-   <td>Mdm How Siow Ling</td>
-  </tr>
-  <tr>
-   <td>Mr Gabriel Fu Bojun</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1-6</td>
-   <td>Ms Lim Bee Leng</td>
-  </tr>
-  <tr>
-    <td>Ms Tiong Kian Yoon, Betty</td>
-</tr>
-  <tr>
-    <td rowspan="2">1-7</td>
-    <td>Ms Siti Fadzilah Binte Subto</td>
-  </tr>
-  <tr>
-    <td>Mrs Tan Hoon Ling Lena</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1-8</td>
-   <td>Mr Lim Kheng Joo Vincent</td>
-  </tr>
-  <tr>
-   <td>Mrs Loke Wenyi</td>
-  </tr>
-		<tr>
-    <td rowspan="2">2-1</td>
-     <td>Mr Chua Chau Lee</td>
-  </tr>
-  <tr>
-    <td>Mr Seto Yi Kang Marcus</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2-2</td>
-    <td>Mr Mohammad Helmy Bin Sadon</td>
-  </tr>
-  <tr>
-    <td>Ms Wong Li Xin</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2-3</td>
-   <td>Ms Eve Lai Yanqing</td>
-  </tr>
-  <tr>
-   <td>Mr Smithy Methias @ Yusoef Adam</td>
+    <td>Mdm Susan Liang Siew Geok</td>
   </tr>
   <tr>
     <td>2-4</td>
-    <td>Ms Zannatul Nauum Moummee</td>
+    <td>Mr Tay Kok Liang</td>
   </tr>
   <tr>
-    <td rowspan="2">2-5</td>
-    <td>Mr Ramish Goby</td>
+  </tr><tr>
+    <td>2-5</td>
+ <td>Mdm How Siow Ling</td>
   </tr>
-  <tr>
-   <td>Mdm Wong Weng Han</td>
-  </tr>
-  <tr>
+		 <tr>
     <td rowspan="2">2-6</td>
- <td>Mdm Maimunah Binte Ithnin</td>
+   <td>Mr James Quek Chin Wee</td>
   </tr>
   <tr>
- 	 <td>Mr Ang Swee Huat</td>
+    <td>Ms Lim Bee Leng</td>
   </tr>
   <tr>
    <td rowspan="2">2-7</td>
-    <td>Mr Lam Yao Lun</td>
-			</tr> <tr>
-  <td>Mr Tan Xue Ji</td>
-  </tr><tr>
+    <td>Ms Siti Fadzilah Binte Subto</td>
+			</tr> 
+		<tr>
+  <td>Ms Ho Tzit Hwa Oliver</td>
+  </tr>
+		<tr>
+    <td>2-8</td>
+ <td>Mr Lim Kheng Joo Vincent</td>
+  </tr>
+		<tr>
     <td rowspan="2">3-1</td>
-     <td>Ms Wong Sue Jin</td>
+     <td>Mr Smithy Methias @ Yusoef Adam</td>
 		</tr>
   <tr>
-  <td>Mr Wong Wai Kit</td>
+  <td>Mrs Loke Wenyi</td>
   </tr>
   <tr>
     <td rowspan="2">3-2</td>
-     <td>Mr Pek Hwee Lee, Kenneth</td>
+     <td>Ms Lam Cheng Wan</td>
   </tr>
   <tr>
-     <td>Ms Heng Hui Lyn, Nicole</td>
+     <td>Mdm Cheong Suet Fun Vivian</td>
   </tr>
   <tr>
     <td rowspan="2">3-3</td>
-    <td>Ms Dian Farhana Binte Zulkifli Kaspari</td>
+    <td>Mr Chan Kar Hong</td>
   </tr>
-   <tr><td>Mr Chia Tai-Yu</td>
+   <tr><td>Ms Zannatul Nauum Moummee</td>
   </tr>
   <tr>
-  <td rowspan="2">3-4</td>
-  <td>Mr Ng Chong Hern, Bennedic</td>
-  </tr>
-	  <tr>
-	   <td>Mrs Fu Wen-Ci</td>
+  <td>3-4</td>
+  <td>Mdm Maimunah Binte Ithnin</td>
   </tr>
   <tr>
     <td>3-5</td>
-   <td>Mr Lim Er Song</td>
+   <td>Mr Lok Sin Min</td>
   </tr>
   <tr>
     <td>3-6</td>
   <td>Mdm Cheong How Min Michelle</td>
   </tr>
   <tr>
-    <td rowspan="2">3-7</td>
-   <td>Mr Ong Chuan Hock</td>
+    <td>3-7</td>
+   <td>Mr Lam Yao Lun</td>
+  </tr>
+		<tr><td>3-8</td>
+  <td>Mr Chua Chau Lee</td>
+  </tr>
+  <tr>
+	<td rowspan="2">4-1</td>
+	 <td>Ms Wong Sue Jin</td>
+  </tr>
+	<tr>
+    <td>Mr Mohammad Helmy Bin Sadon</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4-2</td>
+     <td>Mr Pek Hwee Lee, Kenneth</td>
+  </tr>
+  <tr>
+     <td>Ms Heng Hui Lyn, Nicole</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4-3</td>
+     <td>Ms Dian Farhana Binte Zulkifli Kaspari</td>
+  </tr>
+   <tr><td>Mr Chia Tai-Yu</td>
+		</tr>
+  <tr>
+      <td>4-4</td>
+    <td>Mr Ng Chong Hern, Bennedic</td>
+  </tr>  
+  <tr>
+    <td>4-5</td>
+    <td>Mr Lim Er Song</td>
+  </tr> 
+  <tr>
+    <td>4-6</td>
+     <td>Mdm Cheong How Min Michelle</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4-7</td>
+    <td>Mr Ong Chuan Hock</td>
   </tr>
 	<tr>
  <td>Mr Rishabh Gurunath Talwalkar</td>
   </tr>
-		<tr><td>3-8</td>
-  <td>Mr Chew Ying Chao</td>
-  </tr>
-  <tr>
-	<td rowspan="2">4N1</td>
-	 <td>Mdm Yu Xiaoyan</td>
-  </tr>
-	<tr>
-    <td>Mr Lai Wei Lim</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4N2</td>
-    <td>Mdm Siti Suhara Binte Ismail</td>
-  </tr>
-  <tr>
-    <td>Ms Chong Jieting, Jasmine</td>
-  </tr>
-  <tr>
-    <td rowspan="">4N3</td>
-    <td>Mr Ong Wee Kwang</td>
-  </tr>
-  <tr>
-      <td>4E4</td>
-    <td>Mr Chan Kar Hong</td>
+		<tr>
+      <td>4-8</td>
+    <td>Mr Chew Ying Chao</td>
   </tr>  
-  <tr>
-    <td>4E5</td>
-    <td>Mr Kevin Nicholas Fonseka</td>
-  </tr> 
-  <tr>
-    <td rowspan="2">4E6</td>
-     <td>Mr Xu Kaibin</td>
-  </tr>
-	 <tr><td>Mr Lim Dao Wei Darrell</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4E7</td>
-    <td>Mr Lok Sin Min</td>
-  </tr>  
-<tr><td>Mr Koh Guang Wei</td>
-  </tr>
  <tr>
-    <td rowspan="2">5N1</td>
-    <td>Mr Jitendra Bhilare</td>
+    <td>5-1</td>
+    <td>Mr Ong Wee Kwang</td>
 	</tr><tr></tr>
 </tbody></table>
-	
-
+  
 ### Support Staff
 
 
@@ -239,10 +248,6 @@ table, th, td {
 	 <tr>
     <td>Senior SEN Officer</td>
     <td>Mrs Cheryl Lim</td>
-  </tr>
-	<tr>
-    <td>Student Welfare Officer</td>
-    <td>Mdm Ma Jing</td>
   </tr>
 	 <tr>
     <td>ICT Associate</td>
