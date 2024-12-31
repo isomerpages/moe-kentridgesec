@@ -208,16 +208,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Fadzilah Binte Subto</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Tzit Hwa Oliver</p>
 </td>
 </tr>
 <tr>
