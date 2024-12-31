@@ -246,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Suet Fun Vivian</p>
+<p>Ms Cheong Suet Fun</p>
 </td>
 </tr>
 <tr>
