@@ -181,7 +181,7 @@ variant: tiptap
 <p>HOD / English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Pui Yik</p>
+<p>Ms Serene Soh Yik Pui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
