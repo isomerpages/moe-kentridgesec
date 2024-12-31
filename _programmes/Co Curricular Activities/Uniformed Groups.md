@@ -73,7 +73,7 @@ Some of our key programmes include:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Secondary School's National Police Cadet Corps (NPCC) develops our students to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe. NPCC aims to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world. Our programmes and activities are designed to develop leaders with good character and values, to build bonds with the Singpaore Police Force, and to show care and concern to those who are in need. We want our cadets to be resilient and to be able to face challenges and turn them to opportunities while striving for excellence. NPCC cadets discover themselves by stepping out and interacting with others in their lower secondary years. The cadets progress to have experiences of being leaders as they take charge of their juniors and events, with the ultimate goal of leading the Unit.</p>
 <p><strong><em>Achievements</em></strong><br>2022 - Unit Overall Proficiency Award - Participation<br>2021 - Unit Overall Proficiency Award - Gold</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin<br>Ms Vivien Tan</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 </ul>
