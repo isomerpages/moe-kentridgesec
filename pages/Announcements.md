@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-### Orientation Week for Sec 2 to 5
+### Orientation Week for Sec 2 to 5s
 
 |Date| Reporting Time | Dismissal TIme | 
 | -------- | -------- | -------- | 
