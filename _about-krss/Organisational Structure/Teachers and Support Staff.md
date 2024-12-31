@@ -283,20 +283,12 @@ variant: tiptap
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong How Min Michelle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-7</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lam Yao Lun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-8</p>
+<p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Chau Lee</p>
