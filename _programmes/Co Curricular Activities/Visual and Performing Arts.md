@@ -28,7 +28,7 @@ variant: markdown
 <p> <img src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg" alt="Singapore Youth Festival 2021"></p>
 <p>Serenading the school during school events like CCA Fair and Awards Day cum National Day Celebration, members of the Band have multiple chances to perform for the school. Through this CCA, members become more musically inclined, while learning to cherish the bonds of friendships built during their journey with the Band. Come join us and be a part of “One Band, One Sound”!</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka<br>Mdm Yu Xiaoyan</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka<br>Mr Mohamad Rasull</p>
 <p><img src="/images/concert%20band.png" alt="Concert Band"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
