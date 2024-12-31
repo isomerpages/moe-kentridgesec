@@ -75,7 +75,7 @@ Students also apply their skills to help others during community projects this w
 <ul>
 <li>2021: 1 Gold, 2 Bronze</li>
 </ul>
-<p><strong><em>Teachers in-charge</em></strong><br>Mdm Michelle Cheong<br>Mr Seto Yi Kang,Marcus<br>Ms Nur Hidayah binte Mohmed Nor<br>Mdm Ma Jing&gt;</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm Michelle Cheong<br>Mr Seto Yi Kang, Marcus<br>Ms Nur Hidayah binte Mohmed Nor<br>Mdm Ma Jing&gt;</p>
 <p><img src="/images/Infocomm_Club_1.png" alt="Infocomm Club"></p>  
 	<p><img src="/images/Infocomm_Club_2.png" alt="Infocomm Club"></p> 
 &nbsp;&nbsp;&nbsp;&nbsp;  
