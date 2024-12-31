@@ -79,7 +79,7 @@ border-collapse: collapse;
   </tr>
   <tr>
      <td>HOD / English Language &amp; Literature</td>
-     <td>Ms Tan Siew Hui</td>
+     <td>Ms Soh Pui Yik</td>
   </tr>
   <tr>
      <td>HOD / Humanities</td>
