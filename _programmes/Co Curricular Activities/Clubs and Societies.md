@@ -13,7 +13,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS (All Students)<br>WEDNESDAY: 1530 - 1800 HRS&nbsp;(Recreational Team)<br>THURSDAY: 1530 - 1800 HRS (Competition Team)</p>
 <p>The Debate Society, formerly a special interest group, is a newly-established CCA in 2017. The CCA aims to develop student-debaters who are able to think critically and speak skilfully. We train our students in the art of debating, focusing on the domains of research, speech, and working together in a team. We take part in debate competitions such as the Singapore Secondary Schools Debating Championships, Youth Debate Open and Raffles Debate Academy Under-14 Debating Championship. Every year, the students embark on VIA projects to pass on their debating skills and knowledge to the community by organising public speaking workshops or mentoring sessions for other youths or children from various organisations. In this CCA, the debaters are not only trained to be quick-witted and articulate speakers, but the many opportunities to work in teams also teach them the value of camaraderie and friendship.</p>
 <p><em><strong>Achievements</strong></em><br>2023: SSSDC (Division 1)19th Best Speaker<br>2021: Debate Association Debating Championships Semi-finalists (Gold Division), 2nd Under-14 Best Speaker<br>2021: ACJC Orator’s Trophy Semi-finalist</p>
-<p><strong><em>Teachers-in- charge:</em></strong><br>Ms Nicole Heng<br>Mr Lok Sin Min<br>Mrs Lena Tan</p>
+<p><strong><em>Teachers-in- charge:</em></strong><br>Mr Lok Sin Min</p>
 <p><img src="/images/debate%20society.png" alt="debate society"></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -75,7 +75,7 @@ Students also apply their skills to help others during community projects this w
 <ul>
 <li>2021: 1 Gold, 2 Bronze</li>
 </ul>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr&nbsp;Xu Kaibin<br>Ms Michelle Cheong<br>Ms Nur Hidayah binte Mohmed Nor</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm Michelle Cheong<br>Mr Seto Yi Kang,Marcus<br>Ms Nur Hidayah binte Mohmed Nor<br>Mdm Ma Jing&gt;</p>
 <p><img src="/images/Infocomm_Club_1.png" alt="Infocomm Club"></p>  
 	<p><img src="/images/Infocomm_Club_2.png" alt="Infocomm Club"></p> 
 &nbsp;&nbsp;&nbsp;&nbsp;  
@@ -141,7 +141,7 @@ Students also apply their skills to help others during community projects this w
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script / Content writing + National Education)<br>Our Schools, Our Stories (Photography and Videography)<br>CNB #DrugFreeSG (Videography)<br>N.Parks Singapore Gardens Photographer of the Year (Photography)<br>#ClickArt S2 Cluster Showcase (Photography)</p>
 <p><strong><em>Achievements</em></strong><br>
 	2023:CNB #DrugFreeSG Competition 2023 - Bronze, Merit <br>2023: #ClickArt S2 Cluster Showcase 2023 - 3 Distinctions, 8 Accomplishments<br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments<br>2021: N.E.mation!2021 - Top 10<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Mr Ng Chong Hern Bennedic<br>Ms Zannatul Nauum Moumee<br>Mr Wong Wai Kit</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Chew Ying Chao<br>Mr Ng Chong Hern Bennedic<br>Ms Zannatul Nauum Moumee</p>
 <p><img src="/images/Media%20Club.png" alt="Media Club"></p>
 </div>  
 </li></ul>
