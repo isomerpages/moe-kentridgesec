@@ -14,7 +14,7 @@ variant: markdown
 <p>The Kent Ridge Choir – “Kent Ridge Voices” – was formed when the school started in January 2000. Under the guidance of our conductor, Ms Ong Chiak Yin, it aims to be a dynamic group as it strives for choral excellence. To achieve this, the choir has undergone intensive training of music theory and voice enrichment under voice specialists. The Kent Ridge Voices takes part in the Singapore Youth Festival Arts Presentation and the school's biennial Vivace! concert. Over the years, the Kent Ridge Voices has also performed for the Voices of Singapore Festival.</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021/2022 - NDP 2022 Show Film!  Virtual Choir Performance</p>
 
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Lim Bee Leng<br>Ms Wong Li Xin<br>Mdm Wong Weng Han</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Wong Li Xin<br>Mdm Wong Weng Han</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -28,7 +28,7 @@ variant: markdown
 <p> <img src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg" alt="Singapore Youth Festival 2021"></p>
 <p>Serenading the school during school events like CCA Fair and Awards Day cum National Day Celebration, members of the Band have multiple chances to perform for the school. Through this CCA, members become more musically inclined, while learning to cherish the bonds of friendships built during their journey with the Band. Come join us and be a part of “One Band, One Sound”!</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka<br>Mdm Yu Xiaoyan</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm How Siow Ling<br>Mr Kevin Nicholas Fonseka<br>Mr Mohamad Rasull</p>
 <p><img src="/images/concert%20band.png" alt="Concert Band"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -39,7 +39,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS<br>THURSDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and enthusiastic team of students, teachers and instructors. Our programme’s objectives are to create a conducive, safe and collaborative environment for students to appreciate and explore a variety of dance genres consisting mainly of contemporary and jazz along with hip-hop, ballroom and ballet. To develop their confidence and stage presence, students are exposed to school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as external platforms like the Singapore Youth Festival Arts Presentation, Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the scenes, the dancers build their skills through holiday workshops and inter-school exchanges. We welcome you to the Modern Dance Club, a family that braves challenges together and where everyone is allowed to grow at their own pace.</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Accomplishment<br>2021 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Ms Arfah Lubis<br>Ms Maimunah<br>Ms Hong Yunfang</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Ms Maimunah<br>Ms Hong Yunfang<br>Mr Gabriel Fu Bojun<br>Mrs Fu Wen-Ci</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -50,7 +50,7 @@ variant: markdown
 <p>KRSS Drama Club is a vibrant CCA which fosters a strong bond between the members who work together as a team within individual strengths. The school currently engages inwardBOUND - Transformation Through Drama which have been partners of Kent Ridge Secondary since 2023. The club explores different theatrical plays and seeks to not only entertain but also educate our audiences through our dramatic pieces, ranging from modern to traditional. The Kent Ridge Drama Club participates in the Singapore Youth Festival Arts Presentation (SYF AP) once every two years, where we recently attained a Certificate of Distinction in 2023. The piece entitled ‘Sejarah Melayu’ talks about a group of students on an excursion to an old Singapore village exhibition. As they discuss the exhibit, they grow more interested in the story that comes alive in front of their very eyes. By the end, they understand a little more about the myths and legends that locals have lived with for hundreds of years but are rarely discussed in modern times. They start to question how many stories have been lost to time, and why other stories have persisted. <br><br>
 On alternate years, the club participate in various performances in school, as well as other external performances. Not only that, Kent Ridge Drama Club seeks to explore learning through watching professional plays outside of school. Through opportunities such as LLP and re:ACT Festival, the club explores collaboration pieces with other CCAs, schools or organisations locally. The Drama Club fills the lively atmosphere of the school in school performances like CCA Fair, Awards Day cum National Day Celebration, Open House and many others. Our members not only learn to be artistically inclined but they cherish the bonds of friendships built during their stay with us.</p>
 <p><strong><em>Achievements</em></strong><br>2023 - SYF Arts Presentation – Certificate of Distinction<br>2021 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mdm Siti Suhara<br>Ms Dian Farhana<br>Ms Eve Lai</p>
+<p><strong><em>Teachers in-charge</em></strong><br>Mdm Siti Suhara<br>Ms Dian Farhana</p>
 <p><img src="/images/drama%20club.png" alt="Drama Club"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 	</li> 

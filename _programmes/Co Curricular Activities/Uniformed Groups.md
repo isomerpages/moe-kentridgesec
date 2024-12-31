@@ -24,7 +24,7 @@ variant: markdown
 <p>The Girls’ Brigade's mission is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer to be a servant leader. This is done through the GB programme, which is meant to develop the girls' character, social-emotional and leadership competencies. They will learn good values, be equipped with leadership skills, and be given the opportunities to lead and serve at home, in the company, and in their local community through planning and executing activities such as camps and VIA activities. They can attain the rank of Master Staff Sergeant by Sec 4 or Sec 5 in their leadership journey, with leadership equipping and opportunities that are structured into the yearly programme, spiralling up from Sec 1. There is an annual competition, that alternates between the National Drill Competition and the Low Guat Tin Challenge, that the girls can aspire to participate in. Through passion and hardwork, the 54th Company has achieved good results thus far. Over the years, the 54th Company of the Girls' Brigade in Kent Ridge Secondary has grown steadily in strength with the faithful support of the Volunteer Adult Officers. Come and join us in this GB 54th family!</p>
 <p><strong><em>Achievements</em></strong><br>2021 - Dr Low Guat Tin Challenge - Gold<br></p>
 <p><strong><em>Achievements - Unit Overall Proficiency</em></strong><br>2022 - Gold<br>2021 - Gold<br></p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mrs Claudia Ng<br>Mrs Loke Wenyi<br>Ms Wong Sue Jin</p> 
+<p><strong><em>Teachers in-charge</em></strong><br>Mrs Claudia Ng<br>Ms Wong Sue Jin<br>Mrs Loke Wenyi</p> 
 <p><img src="/images/Girls'%20Brigade.png" alt="Girls' Brigade"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
@@ -73,7 +73,7 @@ Some of our key programmes include:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY: 1530 - 1800 HRS</p>
 <p>The Kent Ridge Secondary School's National Police Cadet Corps (NPCC) develops our students to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe. NPCC aims to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world. Our programmes and activities are designed to develop leaders with good character and values, to build bonds with the Singpaore Police Force, and to show care and concern to those who are in need. We want our cadets to be resilient and to be able to face challenges and turn them to opportunities while striving for excellence. NPCC cadets discover themselves by stepping out and interacting with others in their lower secondary years. The cadets progress to have experiences of being leaders as they take charge of their juniors and events, with the ultimate goal of leading the Unit.</p>
 <p><strong><em>Achievements</em></strong><br>2022 - Unit Overall Proficiency Award - Participation<br>2021 - Unit Overall Proficiency Award - Gold</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin<br>Ms Vivien Tan</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Mohammad Basheer Adrian<br>Mdm Haizurah Kadir Mydin</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 </ul>
