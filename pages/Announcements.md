@@ -4,6 +4,17 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+### Orientation Week for Sec 2 to 5s
+
+|Date| Reporting Time | Dismissal TIme | 
+| -------- | -------- | -------- | 
+|2nd Jan 2025 (FT Time)| 7.45am    | 12.30pm      | 
+|3rd Jan 2025 (CCA Day)| 7.45am    | 12.30pm      | 
+
+* 3rd Jan (Friday) Sec 4 Student Leaders helping out with Sec 1 Orientation are dismissed at 8.30pm.
+
+
+
 ### GCE N-Level Examination Result Release
 Dear Kent Ridgeans, this is the slides for the N-Level Examination Result Release. <br>
 [Admin Briefing Slides for N-Level Examination Result Release](/files/Admin_Briefing_Slides___N_Level_Results_16_Dec_2024.pdf)
@@ -27,15 +38,10 @@ Kent Ridge Secondary School
 You may find the following links useful:
 
 •&nbsp;[Letter of&nbsp;Authorisation](/files/letter_of_authorisation__collection_of_results_by_proxy_.pdf)
-
 •&nbsp;Social and Emotional Learning Resources for Parents/Guardians to support your child/ward:&nbsp;[https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)
-
 •&nbsp;What’s Next Pamphlet:&nbsp;[https://go.gov.sg/whats-next-nlevel](https://go.gov.sg/whats-next-nlevel)
-
 •&nbsp;MOE’s&nbsp;CourseFinder&nbsp;on offerings and courses in the polytechnics and ITE:&nbsp;[https://www.moe.gov.sg/coursefinder](https://www.moe.gov.sg/coursefinder)
-
 •&nbsp;Polytechnic Foundation&nbsp;Programme(PFP):&nbsp;[https://pfp.polytechnic.edu.sg/PFP/index.html](https://pfp.polytechnic.edu.sg/PFP/index.html)
-
 •&nbsp;Direct-Entry Scheme to Polytechnic&nbsp;Programme&nbsp;(DPP): &nbsp;[https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp)
 
  
