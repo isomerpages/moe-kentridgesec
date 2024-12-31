@@ -23,7 +23,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>MONDAY &amp; WEDNESDAY: : 1530 -1800 HRS (B Division) <br> MONDAY &amp; THURSDAY: 1530 -1800 HRS (C Division)</p>
 <p>Our motto of “One Voice, One Team, One Goal!” spells out the motivational force of our Basketball Team. We have 'B' and 'C' Divisions Boys and Girls teams, with a healthy recruitment of members from each gender yearly.&nbsp;The Indoor Sports Hall Level 1 is home to our training; aspiring to provide our students with a platform for acquiring new skills, techniques and strategies in basketball as we believe in a structured training programme to harness the potentials of our players. Our teams focus on both offensive and defensive basketball strategies where every player is responsible in improving their personal mastery while staying grounded with our school values of resilience and sportsmanship. We strongly believe in harnessing student leadership and will create suitable leadership positions such as Captain, Vice-Captains, Student Well-Being Representatives, Training, VIA, Logistics and Administration Personnel to develop our students to be well-rounded future leaders. Training sessions take place at the school’s Indoor Sports Hall Level 1.</p>
 <p><strong><em>Achievements</em></strong><br>1. 2023 Singapore Schools Sports Council - National School Games - Sportsmanship Award (2 students)<br> 2. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist<br> 3. 2022 National School Games South Zone 'C' Division Boys – Quarter Finalist<br> </p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Vincent Lim<br>Mrs Kalaivani Selvin<br>Mrs Roszana Teo<br>Mr Seto Yi Kang, Marcus</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Lim Kheng Joo Vincent<br>Mrs Kalaivani Selvin<br>Mdm Lam Cheng Wan<br>Ms Cheong Suet Fun</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 <li>  
@@ -53,7 +53,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Day / Time:</strong><br>For Semester 1<br>MONDAY: 1530 - 1800 HRS (All Levels)<br>THURSDAY: 1530 - 1800 HRS (Lower Sec)<br>FRIDAY: 1300 - 1600 HRS (Bus will arrive back at 1630HRS)<br><br>For Semester 2<br>MONDAY: 1530 - 1800 HRS (All Levels)<br>FRIDAY: 1300 - 1600 HRS (All Levels) (Bus will arrive back at 1630HRS)</p>
 <p>VISION: O.D.A.C  
 <br>Open-minded. Disciplined. Adaptable. Confident. <br><br>KRSS ODAC aims to provide students with exposure to various outdoor activities both on land and water. KRSS Outdoor Adventure Club (ODAC) exposes our members to various water sports such as dragon boating, kayaking and snorkelling as well as camping and hiking activities. Students will go through certification courses such as Orienteering Level One and Kayaking One Star. During regular CCA sessions, members will also be taught various outdoor-related skills such as Camp craft and Outdoor Cooking.</p>
-<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Wee Kwang<br>Mr Chua Chau Lee<br>Mr Mohd Taib</p>  
+<p><strong><em>Teachers in-charge</em></strong><br>Mr Ong Wee Kwang<br>Mr Chua Chau Lee<br>Ms Low Shi Ting</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 </ul>
