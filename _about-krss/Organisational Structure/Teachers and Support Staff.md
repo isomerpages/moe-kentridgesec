@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Susan Liang Siew Geok</p>
+<p>Ms Susan Liang Siew Geok</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Suet Fun Vivian</p>
+<p>Ms Cheong Suet Fun Vivian</p>
 </td>
 </tr>
 <tr>
