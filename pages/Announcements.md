@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Class Time-tables (Semester 1, 2025)
-updated 31 December 2024<br>
+updated 31st December 2024<br>
 [Secondary 1](/files/2025_Sem_1_Class_Timetable_Sec_1_31_Dec.pdf)<br>
 [Secondary 2](/files/2025_Sem_1_Class_Timetable_Sec_2_31_Dec.pdf)<br>
 [Secondary 3](/files/2025_Sem_1_Class_Timetable_Sec_3_31_Dec.pdf)<br>
