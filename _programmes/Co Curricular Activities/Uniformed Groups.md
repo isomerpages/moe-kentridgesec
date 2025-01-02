@@ -84,9 +84,9 @@ of the Volunteer Adult Officers. Come and join us in this GB 54th family!
 <summary>National Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS</p>
-<p>
-<br><strong>Vision:</strong>Be Extraordinary Youth Leaders</p>
+<br>MONDAY: 1535 - 1800 HRS
+<br>
+<br><strong>Vision: </strong>Be Extraordinary Youth Leaders</p>
 <p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop
 resourceful,&nbsp;responsible, resilient, loyal leaders and team players
 through fun and challenging military-related activities.</p>

@@ -94,8 +94,7 @@ Sound”!
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
 <br>THURSDAY: 1535 - 1800 HRS</p>
-<p>
-<br>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
+<p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
 enthusiastic team of students, teachers and instructors. Our programme’s
 objectives are to create a conducive, safe and collaborative environment
 for students to appreciate and explore a variety of dance genres consisting
@@ -202,7 +201,6 @@ space for students with a passion for visual arts to come together and
 develop their artistic skills through meaningful experiences.</p>
 <p>
 <br>Some of our key programmes include:
-<br>
 <br>Sustainable Art Workshops:
 <br>- Poster Design: Students create posters to promote environmental sustainability.
 <br>- Ceramics: Students learn eco-friendly techniques in ceramics using nature-inspired

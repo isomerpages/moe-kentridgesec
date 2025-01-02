@@ -243,8 +243,6 @@ We will train students to take part in internal and external chess competitions.
 </li>
 <li>
 <p>Individual Category 1st Prize and 5th Prize</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
