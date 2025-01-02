@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Boys' Brigade</strong>
-</summary>
+<summary>Boys' Brigade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS</p>
