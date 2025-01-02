@@ -6,97 +6,58 @@ variant: markdown
 ---
 **A To do the right thing at KRSS, I will**
 
-A1 be punctual by making sure I arrive at school and report for lessons/activities/CCA/school assembly on time.
-
-A2 attend all school activities.
-
-A3 submit my medical certificate or letter of excuse from my parents/guardians for my absence on the day I report back to school.
-
-A4 get permission from my Principal/HOD/teacher to leave the classroom or school grounds. I will clearly display the Exit Pass when I am out of the class.
-
-A5 not bring unauthorised material/electronic devices/persons to school. I will report all visitors to the security guards at the main gate.
-
-A6 hand in my completed assignments/projects on time.
-
-A7 pay attention during lessons/activities.
-
+A1 be punctual by making sure I arrive at school and report for lessons/activities/CCA/school assembly on time.<br>
+A2 attend all school activities.<br>
+A3 submit my medical certificate or letter of excuse from my parents/guardians for my absence on the day I report back to school.<br>
+A4 get permission from my Principal/HOD/teacher to leave the classroom or school grounds. I will clearly display the Exit Pass when I am out of the class.<br>
+A5 not bring unauthorised material/electronic devices/persons to school. I will report all visitors to the security guards at the main gate.<br>
+A6 hand in my completed assignments/projects on time.<br>
+A7 pay attention during lessons/activities.<br>
 A8 be a diligent and responsible student.
 
-**B To respect other people, property and myself, I will**
-
-**B1 sing the National Anthem and School Song, and take the National Pledge proudly.**
-
-**Kent Ridgeans who are Singapore citizens must sing the National Anthem and take the pledge with their right fist over their heart.**
-
-B2 respect my schoolmates and my teachers by using polite language.
-
-B3 ask for permission when borrowing things.
-
-B4 protect school property and maintain cleanliness. I should report students who damage or deface school property to the authorities.
-
-B5 be considerate to other people and their needs.
-
-B6 move together with my classmates from one venue to another quietly and in an orderly manner.
-
-B7 switch off gadgets such as mobile phones, MP3 players etc and use them only after curricular/co-curricular time, unless special permission is given.
-
-B8 be responsible for my personal belongings and not leave them unattended.
-
-B9 not leave any book or materials in the classrooms or in the school (except in lockers) after school hours.
-
-B10 **obey the laws of Singapore**, such as NO littering/cheating, illegal gambling, smoking, possession of tobacco products, vandalism, acts of violence, drug taking or inhalant abuse.
-
-B11 use social media platforms responsibly, e.g. when uploading photos/videos/comments, etc.
-
+**B To respect other people, property and myself, I will**<br>
+**B1 sing the National Anthem and School Song, and take the National Pledge proudly.**<br>
+**Kent Ridgeans who are Singapore citizens must sing the National Anthem and take the pledge with their right fist over their heart.**<br>
+B2 respect my schoolmates and my teachers by using polite language.<br>
+B3 ask for permission when borrowing things.<br>
+B4 protect school property and maintain cleanliness. I should report students who damage or deface school property to the authorities.<br>
+B5 be considerate to other people and their needs.<br>
+B6 move together with my classmates from one venue to another quietly and in an orderly manner.<br>
+B7 switch off gadgets such as mobile phones, MP3 players etc and use them only after curricular/co-curricular time, unless special permission is given.<br>
+B8 be responsible for my personal belongings and not leave them unattended.<br>
+B9 not leave any book or materials in the classrooms or in the school (except in lockers) after school hours.<br>
+B10 **obey the laws of Singapore**, such as NO littering/cheating, illegal gambling, smoking, possession of tobacco products, vandalism, acts of violence, drug taking or inhalant abuse.<br>
+B11 use social media platforms responsibly, e.g. when uploading photos/videos/comments, etc.<br>
 B12 not have in my possession any weapon or weapon-like item which is used or intended to be used to cause harm to others.
 
-**C To be healthier and happier, I will**
-
-C1 exercise and eat healthily.
-
+**C To be healthier and happier, I will**<br>
+C1 exercise and eat healthily.<br>
 C2 attend all PE lessons, unless exempted.
 
 **D To help one another to make Kent Ridge a friendlier place to study in, I will**
-
-D1 be courteous.
-
-D2 be kind to others.
-
-D3 knock and wait before entering a room.
-
-D4 resolve disagreements amicably.
-
-D5 report to the teacher if someone needs help.
+<br>
+D1 be courteous.<br>
+D2 be kind to others.<br>
+D3 knock and wait before entering a room.<br>
+D4 resolve disagreements amicably.<br>
+D5 report to the teacher if someone needs help.<br>
 
 **E To be a good ambassador of Kent Ridge, I must**
 
-E1 uphold and honour the image of the school.
-
-**E2 wear the prescribed school uniform/school-approved T-shirt smartly.**
-
-**E3 not modify any part of my school uniform.**
-
-E4 tuck in my P.E. T-shirt neatly during P.E./CCA/sports activities.
-
-E5 wear plain white shoes and socks above the ankles. I will not wear slippers or sandals, unless I have medical reasons. I can wear track shoes on Saturdays and during the school holidays.
-
-E6 put on one pair of simple earrings/ear studs/ear sticks. (For girls only)
-
-E7 not wear tinted glasses unless prescribed by a doctor.
-
-E8 maintain a clean-shaven look with no moustache or beard. (For boys)
-
-E9 not wear unauthorised accessories such as rings, bangles, nose and tongue studs, tattoos etc. I will submit through my Form Teacher a letter from my parents seeking permission for any religious ornaments that I need to wear.
-
-E10 leave my hair in its natural colour.
-
-E11 keep my hair short, simple and neat, and my hair should not touch the collar, ears, cheeks or eyebrows.
-
-E12 trim my sideburns to no longer than half of my ear length. (For boys)
-
-E13 tie my hair up neatly if it is long. (For girls)
-
-E14 wear black hair accessories only and will not use cosmetics/hair extensions. (For girls)
+E1 uphold and honour the image of the school.<br>
+**E2 wear the prescribed school uniform/school-approved T-shirt smartly.**<br>
+**E3 not modify any part of my school uniform.**<br>
+E4 tuck in my P.E. T-shirt neatly during P.E./CCA/sports activities.<br>
+E5 wear plain white shoes and socks above the ankles. I will not wear slippers or sandals, unless I have medical reasons. I can wear track shoes on Saturdays and during the school holidays.<br>
+E6 put on one pair of simple earrings/ear studs/ear sticks. (For girls only)<br>
+E7 not wear tinted glasses unless prescribed by a doctor.<br>
+E8 maintain a clean-shaven look with no moustache or beard. (For boys)<br>
+E9 not wear unauthorised accessories such as rings, bangles, nose and tongue studs, tattoos etc. I will submit through my Form Teacher a letter from my parents seeking permission for any religious ornaments that I need to wear.<br>
+E10 leave my hair in its natural colour.<br>
+E11 keep my hair short, simple and neat, and my hair should not touch the collar, ears, cheeks or eyebrows.<br>
+E12 trim my sideburns to no longer than half of my ear length. (For boys)<br>
+E13 tie my hair up neatly if it is long. (For girls)<br>
+E14 wear black hair accessories only and will not use cosmetics/hair extensions. (For girls)<br>
 
 <style>  
 img {  
@@ -114,59 +75,42 @@ img {
 
 **1.	SCHOOL OPERATING HOURS AND ASSEMBLY**
 
-•	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will be marked as late.
-
-•	All students (Singapore Citizens and Non-Citizens) must be present with their respective class and stand at attention during the ceremony.
-
+•	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will be marked as late.<br>
+•	All students (Singapore Citizens and Non-Citizens) must be present with their respective class and stand at attention during the ceremony.<br>
 •	Students who are Singapore citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with the right fist placed over the heart.
 
 **2.	ATTENDANCE, PUNCTUALITY, TRUANCY &amp; ABSENTEEISM**
 
-a)	Attendance in school is compulsory.
-
-b)	Students must be punctual for all school activities including flag raising ceremony, lessons, Co- Curricular Activities (CCA) and official school functions.
-
-c)	Students who are absent from any of these activities must produce a medical certificate or relevant official documents to explain their absence within 5 working days, upon coming back to school. Failure to do so would mean that the student will be marked absent from school and face disciplinary action.
-
-d)	Action will be taken against recalcitrant latecomers.
-
-e)	Students must seek permission from the teacher if there is a need to leave the class. Students will be allowed to leave the class only for urgent and/ or official reasons.
-
-f)	Students are not allowed to leave the school premises during school hours without permission.
-
+a)	Attendance in school is compulsory.<br>
+b)	Students must be punctual for all school activities including flag raising ceremony, lessons, Co- Curricular Activities (CCA) and official school functions.<br>
+c)	Students who are absent from any of these activities must produce a medical certificate or relevant official documents to explain their absence within 5 working days, upon coming back to school. Failure to do so would mean that the student will be marked absent from school and face disciplinary action.<br>
+d)	Action will be taken against recalcitrant latecomers.<br>
+e)	Students must seek permission from the teacher if there is a need to leave the class. Students will be allowed to leave the class only for urgent and/ or official reasons.<br>
+f)	Students are not allowed to leave the school premises during school hours without permission.<br>
 g)	Students are to remain in school while waiting for their after-school activities to commence (eg: Consultation and Co-Curricular Activities) unless otherwise stated.  
 
 **3a. SCHOOL UNIFORM**<br>
-a)	Students are to wear the prescribed school uniform and modification to the uniform is not allowed. (For example, there should be no tapering of pants, shortening of pants and skirt etc.)
-
-b)	Students are to refer to the next page for the School Uniform and Decorum.
-
-c)	Students must be in clean and appropriate school attire whenever they are in school, including Saturdays and during the school holidays.
-
+a)	Students are to wear the prescribed school uniform and modification to the uniform is not allowed. (For example, there should be no tapering of pants, shortening of pants and skirt etc.)<br>
+b)	Students are to refer to the next page for the School Uniform and Decorum.<br>
+c)	Students must be in clean and appropriate school attire whenever they are in school, including Saturdays and during the school holidays.<br>
 d)	Students may report to school in the following school attire:
-
 
 | Day | Attire | 
 | -------- | -------- |
 | Monday  | Uniform 1    | 
 | Tuesday - Thursday    | Uniform 1/2   | 
 | Friday     | Other acceptable KRSS T-shirt* (which includes but not limited to) <br>•	CCA T-shirt<br>•	Class T-shirt<br>•	E-week T-shirt<br>•	Corporate T-shirt| 
-
-e)	Only school PE T-shirts and shorts are to be worn during PE lessons. For PE lessons before the recess period, students will have to change back to their school uniform during recess period. Students who have their PE lessons after recess can remain in their PE attire for the rest of the day. 
-
-f)	Only dark blue or black coloured jackets / sweaters are permitted to be worn on rainy days or in special rooms.
-
+<br>
+e)	Only school PE T-shirts and shorts are to be worn during PE lessons. For PE lessons before the recess period, students will have to change back to their school uniform during recess period. Students who have their PE lessons after recess can remain in their PE attire for the rest of the day. <br>
+f)	Only dark blue or black coloured jackets / sweaters are permitted to be worn on rainy days or in special rooms.<br>
 g)	Sweaters / jackets should be plain and not have objectionable words, messages or designs.<br>
 *All school T-shirts must have the school logo and be approved by the school.*
 
 **3b. SHOES AND SOCKS** <br>
-a)	Students must wear white school shoes or predominantly white shoes with white laces.
-
-b)	Students must wear ankle-length white socks.
-
-c)	Wearing of slippers or sandals will be permitted only with a doctor’s letter. Those with foot injuries
-should seek permission from their Form Teachers before doing so.
-
+a)	Students must wear white school shoes or predominantly white shoes with white laces.<br>
+b)	Students must wear ankle-length white socks.<br>
+c)	Wearing of slippers or sandals will be permitted only with a doctor’s letter. Those with foot injuries should seek permission from their Form Teachers before doing so.
+<br>
 Female Students<br>
 *Uniform 1 – School Blouse and Skirt*
 ![uniform 1](/images/Girl_uniform_1.png)<br>
@@ -232,20 +176,15 @@ b)	For Girls<br>
 •	Only plain, simple gold, silver or black ear studs can be worn.<br>
 •	Only a pair of ear studs is permitted at any one time.
 
-c)	Students with improper hair styles will only be allowed to attend classes after they have their hair properly trimmed and approved by the school. Students may be given a warning, detention or sent home to rectify their improper or outlandish hair styles.
-
-d)	Students must not wear coloured contact lenses.
-
-e)	Tattoos and body art (even stickers or non-permanent ink) are not allowed.
-
+c)	Students with improper hair styles will only be allowed to attend classes after they have their hair properly trimmed and approved by the school. Students may be given a warning, detention or sent home to rectify their improper or outlandish hair styles.<br>
+d)	Students must not wear coloured contact lenses.<br>
+e)	Tattoos and body art (even stickers or non-permanent ink) are not allowed.<br>
 f)	Students must keep their fingernails short, clean and unvarnished.
  
 
 **5.	CANTEEN AND CORRIDOR CONDUCT**<br>
-a)	Students must queue when buying food and drinks in the canteen. 
-
-b)	Consumption of food and drinks is permitted and confined to the school canteen only, unless authorised by a teacher.
-
+a)	Students must queue when buying food and drinks in the canteen. <br>
+b)	Consumption of food and drinks is permitted and confined to the school canteen only, unless authorised by a teacher.<br>
 c)	All utensils and cutlery must be returned to the designated bins at the collection point. Litter on the table must be cleared.
 
 d)	Dispose used cans, bottles, plastic bags and other containers into bins provided.
