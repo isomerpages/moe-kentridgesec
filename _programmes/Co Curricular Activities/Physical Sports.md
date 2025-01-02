@@ -146,8 +146,8 @@ Championship since 2006.</p>
 <br>MONDAY: 1535 - 1830 HRS (inc. of travelling time)
 <br>FRIDAY (ODD WEEK): 1300 - 1615 HRS (inc. of travelling time)
 <br>
-<br>(Sailing - for Sec 4 students till NSG)</p>
-<p>FRIDAY: 1300 - 1800hours
+<br>(Sailing - for Sec 4 students till NSG)
+<br>FRIDAY: 1300 - 1800hours
 <br>
 </p>
 <p>VISION: O.D.A.C
