@@ -12,7 +12,7 @@ variant: tiptap
 <p></p>
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1530 - 1800 HRS</p>
+<br>THURSDAY: 1535 - 1800 HRS</p>
 <p>The Debate Society, formerly a special interest group, is a newly-established
 CCA in 2017. The CCA aims to develop student-debaters who are able to think
 critically and speak skilfully. We train our students in the art of debating,
