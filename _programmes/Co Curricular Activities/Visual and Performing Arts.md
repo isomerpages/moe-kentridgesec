@@ -22,10 +22,14 @@ and voice enrichment under voice specialists. The Kent Ridge Voices takes
 part in the Singapore Youth Festival Arts Presentation and the school's
 biennial Vivace! concert. Over the years, the Kent Ridge Voices has also
 performed for the Voices of Singapore Festival.
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021/2022 - NDP 2022 Show Film! Virtual Choir Performance
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Wong Li Xin
 <br>Mdm Wong Weng Han</p>
 </div>
@@ -67,10 +71,14 @@ to perform for the school. Through this CCA, members become more musically
 inclined, while learning to cherish the bonds of friendships built during
 their journey with the Band. Come join us and be a part of “One Band, One
 Sound”!
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm How Siow Ling
 <br>Mr Kevin Nicholas Fonseka
 <br>Mr Mohamad Rasull</p>
@@ -100,10 +108,14 @@ scenes, the dancers build their skills through holiday workshops and inter-schoo
 exchanges. We welcome you to the Modern Dance Club, a family that braves
 challenges together and where everyone is allowed to grow at their own
 pace.
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Maimunah
 <br>Ms Hong Yunfang
 <br>Mr Gabriel Fu Bojun
@@ -145,10 +157,14 @@ performances like CCA Fair, Awards Day cum National Day Celebration, Open
 House and many others. Our members not only learn to be artistically inclined
 but they cherish the bonds of friendships built during their stay with
 us.
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2023 - SYF Arts Presentation – Certificate of Distinction
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Siti Suhara
 <br>Ms Dian Farhana</p>
 <p></p>
@@ -215,7 +231,9 @@ can support their creativity.
 <br>2022 - 2023 - Green Schools @ South West – 3 Stars Award
 <br>2022 – Extravangaza (Merit)
 <br>2016 - 2021 – Green Schools @ South West – Gold Award
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mr&nbsp;Kenneth Pek
 <br>Mr&nbsp;Hong Thin Yong</p>
 <p></p>
