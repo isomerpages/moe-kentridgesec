@@ -73,21 +73,21 @@ img {
 **School Rules**
 
 **1.	SCHOOL OPERATING HOURS AND ASSEMBLY**<br>
-•	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will be marked as late.<br>
-•	All students (Singapore Citizens and Non-Citizens) must be present with their respective class and stand at attention during the ceremony.<br>
-•	Students who are Singapore citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with the right fist placed over the heart.
+•	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will **be marked as late**.<br>
+•	All students (Singapore Citizens and Non-Citizens) must be present with their respective class and **stand at attention** during the ceremony.<br>
+•	**Students who are Singapore citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with the right fist placed over the heart.**
 
 **2.	ATTENDANCE, PUNCTUALITY, TRUANCY &amp; ABSENTEEISM**<br>
-a)	Attendance in school is compulsory.<br>
+a)	Attendance in school is **compulsory**.<br>
 b)	Students must be punctual for all school activities including flag raising ceremony, lessons, Co- Curricular Activities (CCA) and official school functions.<br>
-c)	Students who are absent from any of these activities must produce a medical certificate or relevant official documents to explain their absence within 5 working days, upon coming back to school. Failure to do so would mean that the student will be marked absent from school and face disciplinary action.<br>
+c)	Students who are absent from any of these activities must produce a medical certificate or relevant official documents to explain their absence within **5 working days**, upon coming back to school. Failure to do so would mean that the student will be marked absent from school and face disciplinary action.<br>
 d)	Action will be taken against recalcitrant latecomers.<br>
-e)	Students must seek permission from the teacher if there is a need to leave the class. Students will be allowed to leave the class only for urgent and/ or official reasons.<br>
+e)	Students must **seek permission** from the teacher if there is a need to leave the class. Students will be allowed to leave the class only for urgent and/ or official reasons.<br>
 f)	Students are not allowed to leave the school premises during school hours without permission.<br>
-g)	Students are to remain in school while waiting for their after-school activities to commence (eg: Consultation and Co-Curricular Activities) unless otherwise stated.  
+g)	Students are to **remain in school while waiting for their after-school activities to commence** (eg: Consultation and Co-Curricular Activities) unless otherwise stated.  
 
 **3a. SCHOOL UNIFORM**<br>
-a)	Students are to wear the prescribed school uniform and modification to the uniform is not allowed. (For example, there should be no tapering of pants, shortening of pants and skirt etc.)<br>
+a)	Students are to wear the prescribed school uniform and **modification to the uniform is not allowed**. (For example, there should be no tapering of pants, shortening of pants and skirt etc.)<br>
 b)	Students are to refer to the next page for the School Uniform and Decorum.<br>
 c)	Students must be in clean and appropriate school attire whenever they are in school, including Saturdays and during the school holidays.<br>
 d)	Students may report to school in the following school attire:<br>
@@ -99,7 +99,7 @@ d)	Students may report to school in the following school attire:<br>
 | Friday     | Other acceptable KRSS T-shirt* (which includes but not limited to) <br>•	CCA T-shirt<br>•	Class T-shirt<br>•	E-week T-shirt<br>•	Corporate T-shirt| 
 
 e)	Only school PE T-shirts and shorts are to be worn during PE lessons. For PE lessons before the recess period, students will have to change back to their school uniform during recess period. Students who have their PE lessons after recess can remain in their PE attire for the rest of the day. <br>
-f)	Only dark blue or black coloured jackets / sweaters are permitted to be worn on rainy days or in special rooms.<br>
+f)	**Only dark blue or black coloured** jackets / sweaters are permitted to be worn on rainy days or in special rooms.<br>
 g)	Sweaters / jackets should be plain and not have objectionable words, messages or designs.<br>
 *All school T-shirts must have the school logo and be approved by the school.*
 
@@ -156,8 +156,8 @@ a)	For Boys<br>
 •	Hair must be short and neat at all times. No outlandish hairstyles are allowed.<br>
 •	The fringe must not cover the eyebrows. Hair must not touch the ears or shirt collar. Long sideburns are not allowed.<br>
 •	Hair must be of its natural colour and not tinted or dyed.<br>
-•	Boys must be clean-shaven. Facial Hair such as a moustache, long sideburns or beard is not allowed.<br>
-•	No bracelets, rings, necklaces, chains or wristbands (including religious items) are to be worn with the school uniform.<br>
+•	Boys must be **clean-shaven**. Facial Hair such as a moustache, long sideburns or beard is not allowed.<br>
+•	**No bracelets, rings, necklaces, chains or wristbands (including religious items)** are to be worn with the school uniform.<br>
 •	Boys are not allowed to wear earrings or ear studs.
 
 
@@ -169,7 +169,7 @@ b)	For Girls<br>
 •	Hair must be of its natural colour and not tinted or dyed.<br>
 •	No make-up is allowed when in school uniform.<br>
 •	Only black hair clips, ribbons, hair bands or hair accessories are allowed.<br>
-•	No bracelets, rings, necklaces, chains, brooches or wristbands (including religious items) are to be worn with the school uniform.<br>
+•	**No bracelets, rings, necklaces, chains, brooches or wristbands (including religious items)** are to be worn with the school uniform.<br>
 •	Only plain, simple gold, silver or black ear studs can be worn.<br>
 •	Only a pair of ear studs is permitted at any one time.
 
@@ -190,7 +190,7 @@ f)	All students are not allowed to run and speak loudly along the corridor.
 
 **6.	ELECTRONIC DEVICES (MOBILE PHONES, EARPHONES, SMARTWATCHES)**
 <br>
-a)	Electronic Devices, i.e handphones, earphones, smartwatches ARE NOT allowed to be used during curriculum hours. <br>
+a)	Electronic Devices, i.e handphones, earphones, smartwatches **ARE NOT** allowed to be used during curriculum hours. <br>
 b)	Students are not allowed to use any electronic devices except their personal learning devices (PLDs) during lessons.<br>
 c)	All electronic devices are to be kept in their lockers. Students are discouraged from bringing their mobile phones to school. They are responsible for the safekeeping of their mobile phones. The school will not be responsible for any loss or damages.<br>
 d)	Students’ electronic devices will be confiscated if he/she violates any of the above guidelines. 
@@ -202,13 +202,13 @@ c)	Cleanliness of the school must be maintained at all times.
 
 
 **8.	OTHERS**<br>
-a)	Students should be loyal to the country and show respect for the Head of State, the National Anthem, the State Flag and our country’s leaders.<br>
+a)	**Students should be loyal to the country and show respect for the Head of State, the National Anthem, the State Flag and our country’s leaders.**<br>
 b)	Students are to greet the Principal, Vice-Principals and all staff upon meeting them.<br>
 c)	Students must not indulge in any activity that will harm, inconvenience or disturb other students in the school in any way.<br>
 d)	Students can remain in the school premises after school hours if they are engaged in an organised or approved activity.<br>
 e)	During curriculum time, students should not be found loitering around school facilities where teaching and learning is taking place.<br>
 f)	Students who cycle to school are to wear proper headgear. No e-bicycle is allowed in the school premises.<br>
-g)	All students are not allowed to have any form of weapons in their possession. They are also not allowed to bring any weapon-like items which could be used or intended to be used to cause harm. 
+g)	**All students are not allowed to have any form of weapons in their possession. They are also not allowed to bring any weapon-like items which could be used or intended to be used to cause harm.** 
 
 
 **Student's Conduct Rating** <br>
