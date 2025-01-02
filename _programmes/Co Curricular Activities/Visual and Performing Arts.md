@@ -31,8 +31,7 @@ performed for the Voices of Singapore Festival.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Concert Band</strong>
-</summary>
+<summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
