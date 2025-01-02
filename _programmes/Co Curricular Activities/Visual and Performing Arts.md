@@ -201,7 +201,6 @@ space for students with a passion for visual arts to come together and
 develop their artistic skills through meaningful experiences.</p>
 <p>
 <br>Some of our key programmes include:
-<br>
 <br>Sustainable Art Workshops:
 <br>- Poster Design: Students create posters to promote environmental sustainability.
 <br>- Ceramics: Students learn eco-friendly techniques in ceramics using nature-inspired
