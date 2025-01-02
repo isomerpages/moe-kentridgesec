@@ -14,7 +14,7 @@ updated 2nd January 2025<br>
 
 ### Orientation Week for Sec 2 to 5s
 
-|Date| Reporting Time | Dismissal TIme | 
+|Date| Reporting Time | Dismissal Time | 
 | -------- | -------- | -------- | 
 |2nd Jan 2025 (FT Time)| 7.45am    | 12.30pm      | 
 |3rd Jan 2025 (CCA Day)| 7.45am    | 12.30pm      | 
