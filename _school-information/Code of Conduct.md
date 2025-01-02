@@ -107,7 +107,7 @@ g)	Sweaters / jackets should be plain and not have objectionable words, messages
 a)	Students must wear white school shoes or predominantly white shoes with white laces.<br>
 b)	Students must wear ankle-length white socks.<br>
 c)	Wearing of slippers or sandals will be permitted only with a doctor’s letter. Those with foot injuries should seek permission from their Form Teachers before doing so.
-<br>
+<br><br>
 Female Students<br>
 *Uniform 1 – School Blouse and Skirt*
 ![uniform 1](/images/Girl_uniform_1.png)<br>
