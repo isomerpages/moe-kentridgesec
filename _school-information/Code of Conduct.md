@@ -185,46 +185,32 @@ f)	Students must keep their fingernails short, clean and unvarnished.
 **5.	CANTEEN AND CORRIDOR CONDUCT**<br>
 a)	Students must queue when buying food and drinks in the canteen. <br>
 b)	Consumption of food and drinks is permitted and confined to the school canteen only, unless authorised by a teacher.<br>
-c)	All utensils and cutlery must be returned to the designated bins at the collection point. Litter on the table must be cleared.
-
-d)	Dispose used cans, bottles, plastic bags and other containers into bins provided.
-
-e)	All students are to proceed to their classroom promptly when the bell rings at the end of recess.
-
+c)	All utensils and cutlery must be returned to the designated bins at the collection point. Litter on the table must be cleared.<br>
+d)	Dispose used cans, bottles, plastic bags and other containers into bins provided.<br>
+e)	All students are to proceed to their classroom promptly when the bell rings at the end of recess.<br>
 f)	All students are not allowed to run and speak loudly along the corridor. 
 
 
 **6.	ELECTRONIC DEVICES (MOBILE PHONES, EARPHONES, SMARTWATCHES)**
 <br>
-a)	Electronic Devices, i.e handphones, earphones, smartwatches ARE NOT allowed to be used during curriculum hours. 
-
-b)	Students are not allowed to use any electronic devices except their personal learning devices (PLDs) during lessons.
-
-c)	All electronic devices are to be kept in their lockers. Students are discouraged from bringing their mobile phones to school. They are responsible for the safekeeping of their mobile phones. The school will not be responsible for any loss or damages.
-
+a)	Electronic Devices, i.e handphones, earphones, smartwatches ARE NOT allowed to be used during curriculum hours. <br>
+b)	Students are not allowed to use any electronic devices except their personal learning devices (PLDs) during lessons.<br>
+c)	All electronic devices are to be kept in their lockers. Students are discouraged from bringing their mobile phones to school. They are responsible for the safekeeping of their mobile phones. The school will not be responsible for any loss or damages.<br>
 d)	Students’ electronic devices will be confiscated if he/she violates any of the above guidelines. 
 
 **7.	USE OF SCHOOL FACILITIES AND CLEANLINESS**<br>
-a)	Students must at all times observe the rules on the proper use of all school facilities and equipment.
-
-b)	Furniture should not be removed from any room without the permission of any of the school staff. Any borrowed furniture should be returned to its original place.
-
+a)	Students must at all times observe the rules on the proper use of all school facilities and equipment.<br>
+b)	Furniture should not be removed from any room without the permission of any of the school staff. Any borrowed furniture should be returned to its original place. <br>
 c)	Cleanliness of the school must be maintained at all times.
 
 
 **8.	OTHERS**<br>
-a)	Students should be loyal to the country and show respect for the Head of State, the National Anthem, the State Flag and our country’s leaders.
-
-b)	Students are to greet the Principal, Vice-Principals and all staff upon meeting them.
-
-c)	Students must not indulge in any activity that will harm, inconvenience or disturb other students in the school in any way.
-
-d)	Students can remain in the school premises after school hours if they are engaged in an organised or approved activity.
-
-e)	During curriculum time, students should not be found loitering around school facilities where teaching and learning is taking place.
-
-f)	Students who cycle to school are to wear proper headgear. No e-bicycle is allowed in the school premises.
-
+a)	Students should be loyal to the country and show respect for the Head of State, the National Anthem, the State Flag and our country’s leaders.<br>
+b)	Students are to greet the Principal, Vice-Principals and all staff upon meeting them.<br>
+c)	Students must not indulge in any activity that will harm, inconvenience or disturb other students in the school in any way.<br>
+d)	Students can remain in the school premises after school hours if they are engaged in an organised or approved activity.<br>
+e)	During curriculum time, students should not be found loitering around school facilities where teaching and learning is taking place.<br>
+f)	Students who cycle to school are to wear proper headgear. No e-bicycle is allowed in the school premises.<br>
 g)	All students are not allowed to have any form of weapons in their possession. They are also not allowed to bring any weapon-like items which could be used or intended to be used to cause harm. 
 
 
