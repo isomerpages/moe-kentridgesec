@@ -24,9 +24,13 @@ during their time in the company. We aim to be the Uniformed Group of choice
 in Kent Ridge Secondary School. Over the years, the Boys have grown in
 maturity and character and two of them were recently the valedictorians
 of the Secondary 4N and 5N streams in 2020.
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2021 - Unit Overall Proficiency Award&nbsp; - Bronze
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Lam Yao Lun
 <br>Mrs Teo Wee Leng
 <br>Ms Karina Heng</p>
@@ -55,12 +59,18 @@ Through passion and hardwork, the 54th Company has achieved good results
 thus far. Over the years, the 54th Company of the Girls' Brigade in Kent
 Ridge Secondary has grown steadily in strength with the faithful support
 of the Volunteer Adult Officers. Come and join us in this GB 54th family!
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2021 - Dr Low Guat Tin Challenge - Gold
-<br><strong><em>Achievements - Unit Overall Proficiency</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements - Unit Overall Proficiency</em></strong>
 <br>2022 - Gold
 <br>2021 - Gold
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mrs Claudia Ng
 <br>Ms Wong Sue Jin
 <br>Mrs Loke Wenyi</p>
@@ -105,11 +115,15 @@ Senior Specialist&nbsp;Assessment Course
 <br>4. Initiative Programme
 <br>- NE Learning Journey to Singapore Discovery Centre
 <br>- Cybercrime Prevention Program
-<br><strong><em>Achievements (BUC)</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements (BUC)</em></strong>
 <br>2023 - Unit Recognition - Distinction
 <br>2022 - Unit Recognition - Distinction
 <br>2021 - Unit Recognition - Distinction
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Tay Kok Liang
 <br>Mr Ramish
 <br>Mr Koh Guang Wei</p>
@@ -123,6 +137,7 @@ Senior Specialist&nbsp;Assessment Course
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS</p>
+<p></p>
 <p>The Kent Ridge Secondary School's National Police Cadet Corps (NPCC) develops
 our students to be active citizens and community leaders, by working in
 partnership with the Singapore Police Force to fight crime and keep Singapore
@@ -136,10 +151,14 @@ striving for excellence. NPCC cadets discover themselves by stepping out
 and interacting with others in their lower secondary years. The cadets
 progress to have experiences of being leaders as they take charge of their
 juniors and events, with the ultimate goal of leading the Unit.
-<br><strong><em>Achievements</em></strong>
+<br>
+</p>
+<p><strong><em>Achievements</em></strong>
 <br>2022 - Unit Overall Proficiency Award - Participation
 <br>2021 - Unit Overall Proficiency Award - Gold
-<br><strong><em>Teachers in-charge</em></strong>
+<br>
+</p>
+<p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Mohammad Basheer Adrian
 <br>Mdm Haizurah Kadir Mydin
 <br>Ms Kiang Jian Xuan</p>
