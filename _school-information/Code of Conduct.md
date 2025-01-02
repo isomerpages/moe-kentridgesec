@@ -42,8 +42,7 @@ D3 knock and wait before entering a room.<br>
 D4 resolve disagreements amicably.<br>
 D5 report to the teacher if someone needs help.<br>
 
-**E To be a good ambassador of Kent Ridge, I must**
-
+**E To be a good ambassador of Kent Ridge, I must**<br>
 E1 uphold and honour the image of the school.<br>
 **E2 wear the prescribed school uniform/school-approved T-shirt smartly.**<br>
 **E3 not modify any part of my school uniform.**<br>
@@ -73,14 +72,12 @@ img {
 
 **School Rules**
 
-**1.	SCHOOL OPERATING HOURS AND ASSEMBLY**
-
+**1.	SCHOOL OPERATING HOURS AND ASSEMBLY**<br>
 •	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will be marked as late.<br>
 •	All students (Singapore Citizens and Non-Citizens) must be present with their respective class and stand at attention during the ceremony.<br>
 •	Students who are Singapore citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with the right fist placed over the heart.
 
-**2.	ATTENDANCE, PUNCTUALITY, TRUANCY &amp; ABSENTEEISM**
-
+**2.	ATTENDANCE, PUNCTUALITY, TRUANCY &amp; ABSENTEEISM**<br>
 a)	Attendance in school is compulsory.<br>
 b)	Students must be punctual for all school activities including flag raising ceremony, lessons, Co- Curricular Activities (CCA) and official school functions.<br>
 c)	Students who are absent from any of these activities must produce a medical certificate or relevant official documents to explain their absence within 5 working days, upon coming back to school. Failure to do so would mean that the student will be marked absent from school and face disciplinary action.<br>
@@ -93,14 +90,14 @@ g)	Students are to remain in school while waiting for their after-school activit
 a)	Students are to wear the prescribed school uniform and modification to the uniform is not allowed. (For example, there should be no tapering of pants, shortening of pants and skirt etc.)<br>
 b)	Students are to refer to the next page for the School Uniform and Decorum.<br>
 c)	Students must be in clean and appropriate school attire whenever they are in school, including Saturdays and during the school holidays.<br>
-d)	Students may report to school in the following school attire:
+d)	Students may report to school in the following school attire:<br>
 
 | Day | Attire | 
 | -------- | -------- |
 | Monday  | Uniform 1    | 
 | Tuesday - Thursday    | Uniform 1/2   | 
 | Friday     | Other acceptable KRSS T-shirt* (which includes but not limited to) <br>•	CCA T-shirt<br>•	Class T-shirt<br>•	E-week T-shirt<br>•	Corporate T-shirt| 
-<br>
+
 e)	Only school PE T-shirts and shorts are to be worn during PE lessons. For PE lessons before the recess period, students will have to change back to their school uniform during recess period. Students who have their PE lessons after recess can remain in their PE attire for the rest of the day. <br>
 f)	Only dark blue or black coloured jackets / sweaters are permitted to be worn on rainy days or in special rooms.<br>
 g)	Sweaters / jackets should be plain and not have objectionable words, messages or designs.<br>
