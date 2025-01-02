@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Debate Society &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Debate Society</summary>
@@ -173,9 +170,7 @@ Award, Judges Award, Merit</p>
 <br>Mr Seto Yi Kang, Marcus
 <br>Ms Nur Hidayah binte Mohmed Nor
 <br>Mdm Ma Jing</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infocomm" src="/images/Infocomm_Club_2.png">
 </div>
@@ -330,6 +325,8 @@ school operations.</p>
 </div>
 </details>
 </div>
+<ul>
+<li>
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1530 - 1800 HRS (All Students)
 <br>WEDNESDAY: 1530 - 1800 HRS&nbsp;(Recreational Team)
