@@ -150,7 +150,7 @@ Championship since 2006.</p>
 <br>FRIDAY: 1300 - 1800hours
 <br>
 </p>
-<p>VISION: O.D.A.C
+<p><strong>VISION</strong>: O.D.A.C
 <br>Open-minded. Disciplined. Adaptable. Confident.
 <br>
 <br>KRSS ODAC aims to provide students with exposure to various outdoor activities
