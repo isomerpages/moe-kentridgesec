@@ -94,8 +94,7 @@ Sound”!
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
 <br>THURSDAY: 1535 - 1800 HRS</p>
-<p>
-<br>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
+<p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
 enthusiastic team of students, teachers and instructors. Our programme’s
 objectives are to create a conducive, safe and collaborative environment
 for students to appreciate and explore a variety of dance genres consisting
