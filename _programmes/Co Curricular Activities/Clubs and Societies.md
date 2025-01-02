@@ -243,8 +243,6 @@ We will train students to take part in internal and external chess competitions.
 </li>
 <li>
 <p>Individual Category 1st Prize and 5th Prize</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
@@ -258,9 +256,7 @@ We will train students to take part in internal and external chess competitions.
 <details class="isomer-details">
 <summary>Media Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Day / Time:</strong>
-</p>
-<p><u>CCA TRAINING DATES:</u>
+<p><strong>Day / Time:</strong><u>CCA TRAINING DATES:</u>
 <br>MONDAY: 1535 - 1800 HRS
 <br>THURSDAY: 1535 - 1800 HRS</p>
 <p><u>AV DUTIES:</u>
