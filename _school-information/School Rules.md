@@ -1,76 +1,10 @@
 ---
-title: Code of Conduct
-permalink: /school-information/code-of-conduct/
+title: School Rules
+permalink: /school-information/school-rules/
 description: ""
 variant: markdown
 ---
-**A To do the right thing at KRSS, I will**
-
-A1 be punctual by making sure I arrive at school and report for lessons/activities/CCA/school assembly on time.<br>
-A2 attend all school activities.<br>
-A3 submit my medical certificate or letter of excuse from my parents/guardians for my absence on the day I report back to school.<br>
-A4 get permission from my Principal/HOD/teacher to leave the classroom or school grounds. I will clearly display the Exit Pass when I am out of the class.<br>
-A5 not bring unauthorised material/electronic devices/persons to school. I will report all visitors to the security guards at the main gate.<br>
-A6 hand in my completed assignments/projects on time.<br>
-A7 pay attention during lessons/activities.<br>
-A8 be a diligent and responsible student.
-
-**B To respect other people, property and myself, I will**<br>
-**B1 sing the National Anthem and School Song, and take the National Pledge proudly.**<br>
-**Kent Ridgeans who are Singapore citizens must sing the National Anthem and take the pledge with their right fist over their heart.**<br>
-B2 respect my schoolmates and my teachers by using polite language.<br>
-B3 ask for permission when borrowing things.<br>
-B4 protect school property and maintain cleanliness. I should report students who damage or deface school property to the authorities.<br>
-B5 be considerate to other people and their needs.<br>
-B6 move together with my classmates from one venue to another quietly and in an orderly manner.<br>
-B7 switch off gadgets such as mobile phones, MP3 players etc and use them only after curricular/co-curricular time, unless special permission is given.<br>
-B8 be responsible for my personal belongings and not leave them unattended.<br>
-B9 not leave any book or materials in the classrooms or in the school (except in lockers) after school hours.<br>
-B10 **obey the laws of Singapore**, such as NO littering/cheating, illegal gambling, smoking, possession of tobacco products, vandalism, acts of violence, drug taking or inhalant abuse.<br>
-B11 use social media platforms responsibly, e.g. when uploading photos/videos/comments, etc.<br>
-B12 not have in my possession any weapon or weapon-like item which is used or intended to be used to cause harm to others.
-
-**C To be healthier and happier, I will**<br>
-C1 exercise and eat healthily.<br>
-C2 attend all PE lessons, unless exempted.
-
-**D To help one another to make Kent Ridge a friendlier place to study in, I will**
-<br>
-D1 be courteous.<br>
-D2 be kind to others.<br>
-D3 knock and wait before entering a room.<br>
-D4 resolve disagreements amicably.<br>
-D5 report to the teacher if someone needs help.<br>
-
-**E To be a good ambassador of Kent Ridge, I must**<br>
-E1 uphold and honour the image of the school.<br>
-**E2 wear the prescribed school uniform/school-approved T-shirt smartly.**<br>
-**E3 not modify any part of my school uniform.**<br>
-E4 tuck in my P.E. T-shirt neatly during P.E./CCA/sports activities.<br>
-E5 wear plain white shoes and socks above the ankles. I will not wear slippers or sandals, unless I have medical reasons. I can wear track shoes on Saturdays and during the school holidays.<br>
-E6 put on one pair of simple earrings/ear studs/ear sticks. (For girls only)<br>
-E7 not wear tinted glasses unless prescribed by a doctor.<br>
-E8 maintain a clean-shaven look with no moustache or beard. (For boys)<br>
-E9 not wear unauthorised accessories such as rings, bangles, nose and tongue studs, tattoos etc. I will submit through my Form Teacher a letter from my parents seeking permission for any religious ornaments that I need to wear.<br>
-E10 leave my hair in its natural colour.<br>
-E11 keep my hair short, simple and neat, and my hair should not touch the collar, ears, cheeks or eyebrows.<br>
-E12 trim my sideburns to no longer than half of my ear length. (For boys)<br>
-E13 tie my hair up neatly if it is long. (For girls)<br>
-E14 wear black hair accessories only and will not use cosmetics/hair extensions. (For girls)<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/code-of-conduct.jpg" alt="School Uniform" style="width:70%;">  
-  
-
-<br>
-
-**School Rules**
+### School Rules
 
 **1.	SCHOOL OPERATING HOURS AND ASSEMBLY**<br>
 •	All students are to report to school by 0740h. The Flag-raising ceremony will commence at 0745h daily. Students who are not at the venue for flag-raising will **be marked as late**.<br>
@@ -209,7 +143,7 @@ d)	Students can remain in the school premises after school hours if they are eng
 e)	During curriculum time, students should not be found loitering around school facilities where teaching and learning is taking place.<br>
 f)	Students who cycle to school are to wear proper headgear. No e-bicycle is allowed in the school premises.<br>
 g)	**All students are not allowed to have any form of weapons in their possession. They are also not allowed to bring any weapon-like items which could be used or intended to be used to cause harm.** 
-
+![code_of_conduct](/images/code-of-conduct.jpg)
 
 **Student's Conduct Rating** <br>
 Criteria for grading a student’s conduct in the report book
