@@ -4,8 +4,7 @@ permalink: /school-information/code-of-conduct/
 description: ""
 variant: markdown
 ---
-**A To do the right thing at KRSS, I will**
-
+**A To do the right thing at KRSS, I will**<br>
 A1 be punctual by making sure I arrive at school and report for lessons/activities/CCA/school assembly on time.<br>
 A2 attend all school activities.<br>
 A3 submit my medical certificate or letter of excuse from my parents/guardians for my absence on the day I report back to school.<br>
