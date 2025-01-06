@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ### Release of 2024 GCE-O Level Examination Results
-###
       
 Dear Kent Ridgeans and Parents/Guardians of the 2024 Graduating Cohort,
 
