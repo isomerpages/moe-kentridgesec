@@ -21,6 +21,7 @@ We wish all our Kent Ridgeans the very best for their O-Level results!
 Kent Ridge Secondary School
 
 **Useful resources:**<br>
+[Admin Briefing Slides](/files/Admin_Briefing___O_Level_Results_10_Jan_2025.pdf)<br>
 [Letter of Authorisation](/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf) 
 
 For social and emotional support resources, please visit [https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents) . <br>The What's Next pamphlet can be found at [https://go.gov.sg/whats-next-olevel](https://go.gov.sg/whats-next-olevel) , and ECG resources are available on the MySkillsFuture Student Portal at [https://go.gov.sg/MySFSec](https://go.gov.sg/MySFSec) .
