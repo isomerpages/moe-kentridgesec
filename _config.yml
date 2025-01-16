@@ -3,7 +3,7 @@ url: https://kentridgesec.moe.edu.sg
 favicon: /images/logo (1).png
 colors:
   primary-color: "#273367"
-  secondary-color: "#9b9b9b"
+  secondary-color: "#273367"
   media-colors:
     - title: media-color-one
       color: "#49759a"
