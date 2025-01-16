@@ -2,8 +2,8 @@ title: Kent Ridge Secondary School
 url: https://kentridgesec.moe.edu.sg
 favicon: /images/logo (1).png
 colors:
-  primary-color: "#f7d94a"
-  secondary-color: "#273367"
+  primary-color: "#273367"
+  secondary-color: "#f7d94a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: nil
+google_analytics_ga4: ""
