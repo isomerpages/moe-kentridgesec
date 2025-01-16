@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/IMG_0470.png
       key_highlights:
-        - title: Announcements
+        - title: follow on facebook
           description: ""
-          url: https://www.kentridgesec.moe.edu.sg/announcements/
+          url: https://www.facebook.com/kentridgesec
         - title: Quick Links
           description: ""
           url: https://www.kentridgesec.moe.edu.sg/quick-links/
