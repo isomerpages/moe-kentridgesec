@@ -19,6 +19,4 @@ sections:
           description: ""
           url: https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
       variant: center
-      button: 2025 Sec 1 Registration
-      url: https://www.kentridgesec.moe.edu.sg/school-information/registration-for-2025-sec-1/
 ---
