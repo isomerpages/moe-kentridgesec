@@ -65,131 +65,6 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Kent Ridge Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
-</p>
-<p>At the end of the lesson, students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson helps students understand more about relationship building
-and the different types of love (e.g. familial, platonic, romantic). They
-will have the opportunity to better understand the considerations involved
-in making responsible decisions towards dating and romantic relationshipsand
-understand how to build healthy and supportive relationships, both online
-and offline.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;recognise the importance of monitoring and managing our emotional
-reactions, in helpful ways that are reflective of our values and principles</p>
-<p>·&nbsp;recognise that there are different forms of love (e.g. familial,
-platonic, romantic love)</p>
-<p>·&nbsp;recognise the importance of, and understand what builds healthy
-and supportive relationships, both online and offline</p>
-<p>· understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Being Aware, Being Safe</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to be safe from the dangers of
-sexual grooming and on respecting one’s right to safety. Students will
-also learn about the legal provisions against sexual abuse, and the impact
-of sexual abuse on victims, including the psychological impact on the sense
-of self.&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortableduring the discussions.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· understand that physical and psychological abuse from others, especially
-those we know and trust, can have strong negative effects on a person’s
-self-concept</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More than Meets the Eye</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson touches on two areas relevant to an adolescent’s curiosity
-on matters related to sexuality – masturbation and pornography. Students
-will gain awareness of the health, legal and moral issues related to viewing,
-downloading and/or distributing pornography. While students may perceive
-watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortableduring the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;understand and accept that as we work towards becoming our best
-self, there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
-<p>recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access and acting irresponsibly or maliciously
-when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 125px">
@@ -254,7 +129,7 @@ relationships, both online and offline
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +153,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +184,7 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 8</p>
+<br>Week 9</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +273,7 @@ as a male or female
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 5</p>
+<br>Week 1</p>
 </td>
 </tr>
 <tr>
@@ -424,7 +299,7 @@ both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 6</p>
+<br>Week 2</p>
 </td>
 </tr>
 <tr>
@@ -452,7 +327,7 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 8</p>
+<br>Week 4</p>
 </td>
 </tr>
 <tr>
@@ -538,7 +413,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 5</p>
+<br>Week 1</p>
 </td>
 </tr>
 <tr>
@@ -572,7 +447,7 @@ family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 6</p>
+<br>Week 2</p>
 </td>
 </tr>
 <tr>
@@ -603,7 +478,7 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 8</p>
+<br>Week 5</p>
 </td>
 </tr>
 <tr>
@@ -688,8 +563,8 @@ and should be avoided
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 3</p>
+<p>Term 2
+<br>Week 8</p>
 </td>
 </tr>
 <tr>
@@ -727,7 +602,7 @@ in a relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 5</p>
+<br>Week 9</p>
 </td>
 </tr>
 <tr>
@@ -760,7 +635,7 @@ the success of their marriage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 6</p>
+<br>Week 1</p>
 </td>
 </tr>
 <tr>
@@ -784,7 +659,7 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 8</p>
+<br>Week 2</p>
 </td>
 </tr>
 <tr>
@@ -862,8 +737,8 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 5</p>
+<p>Term 2
+<br>Week 8</p>
 </td>
 </tr>
 <tr>
@@ -904,7 +779,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Kent Ridge Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Kent Ridge Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -929,7 +804,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:
@@ -951,7 +826,7 @@ and consistent condom use).&nbsp;
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8-9</p>
 </td>
 </tr>
 <tr>
@@ -978,13 +853,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/MOE_Sexuality_Education_in_School_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 07/02/2024.</p>
+The completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to
-be submitted by 07/02/2024.</p>
+be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6773 1127 or&nbsp;<a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>&nbsp;for
