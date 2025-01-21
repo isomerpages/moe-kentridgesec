@@ -852,14 +852,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/MOE_Sexuality_Education_in_School_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+at the start of the year and is also downloadable&nbsp;<a href="/files/2025_MOE_Sexuality_Education_in_School_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to
-be submitted by 31/01/2025.</p>
+at the start of the year and is also downloadable <a href="/files/2025_eTeens_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6773 1127 or&nbsp;<a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>&nbsp;for
