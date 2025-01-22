@@ -106,67 +106,9 @@ Abstinence and upholding family values are the key messages.</p>
 </ol>
 <p><strong>At Kent Ridge Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Topics / Lessons</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme Learning Objectives</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Raise awareness and provide knowledge on:
-<br>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).&nbsp;
-<br>b) Managing relationships and risky situations in a healthy way.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 8-9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eTeens 2025" src="/images/eTeens_2025.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
