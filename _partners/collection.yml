@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Briefing.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - Family Matters!.md
