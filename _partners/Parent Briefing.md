@@ -1,6 +1,6 @@
 ---
 title: Parent Briefing
-permalink: /parent-briefing/
+permalink: /partners/parent-briefing/
 variant: tiptap
 description: ""
 ---
