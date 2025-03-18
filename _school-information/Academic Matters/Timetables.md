@@ -13,14 +13,6 @@ updated 10 March 2025<br>
 [Secondary 2](/files/2025_Term_2_Class_Timetable_Sec_2_10_Mar.pdf)<br>[Secondary 3](/files/2025_Term_2_Class_Timetable_Sec_3_10_Mar.pdf)<br>[Secondary 4&amp;5](/files/2025_Term_2_Class_Timetable_Sec_45_10_Mar.pdf)
 
 
-##### Class Time-tables (Term 1, 2025)
-updated 23 January 2025<br>
-[Secondary 1](/files/2025_Sem_1_Class_Timetable_Sec_1_31_Dec.pdf)<br>
-[Secondary 2](/files/2025_Sem_1_Class_Timetable_Sec_2_6_Jan.pdf)<br>
-[Secondary 3](/files/Sec_3_23_Jan.pdf)<br>
-[Secondary 4&amp;5](/files/Sec_4_5_23_Jan.pdf)
-
-
 ##### CCA Schedule
 updated 12 March 2025<br>
 [March Holidays](/files/CCA_IP_Schedule__March_2025_School_Website.pdf)
