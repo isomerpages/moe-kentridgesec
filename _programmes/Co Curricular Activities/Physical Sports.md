@@ -29,20 +29,13 @@ and rankings.</p>
 <p></p>
 <p><strong><em>Achievements</em></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>NSG Sportsmanship Award 2024 - (2 students)</p>
-</li>
-<li>
-<p>2023 National School Games South Zone 'B' Division Girls – Quarter Finalist</p>
-</li>
-<li>
-<p>2023 National School Games South Zone 'C' Division Boys – Quarter Finalist</p>
-</li>
-<li>
-<p>2022 National School Games South Zone 'C' Division Girls – Quarter Finalist</p>
-</li>
-</ol>
+<p>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
+Award (2 students)
+<br>2. 2023 National School Games South Zone 'B' Division Girls – Quarter
+Finalist
+<br>3. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist</p>
+<p>4. 2022 National School Games South Zone 'C' Division Girls – Quarter
+Finalist</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Chan Kar Hong
