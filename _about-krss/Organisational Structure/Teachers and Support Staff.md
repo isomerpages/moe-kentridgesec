@@ -461,14 +461,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aqyla Binte Mohammad Affendy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Education Career Guidance (ECGC)</p>
 </td>
 <td rowspan="1" colspan="1">
