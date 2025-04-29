@@ -18,6 +18,10 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 1\. Team
 
+2024
+
+*   National School Games 'C'(Girls) Division 2023 - 4th, League 3
+
 2023
 
 *   National School Games 'B'(Girls) Division 2023 - Quarter Finalists
@@ -40,13 +44,13 @@ This programme is for students who are seeking to improve their game. These fun 
 
 With a commitment to improve from the players and support from parents, the school aims to develop the players in this group to the level required to join the Advanced Training Programme.
 
-Training Frequency: 2 sessions (2.5 hours per each) per week on Monday and Thursday
+Training Frequency: 2 sessions (2.5 hours each) per week
 
 2\. Advanced Training Programme
 
 The programme is specifically tailored for competitive Badminton players and it focuses on players who are keen to improve and bring their skills to the next level. The performance emphasis for this group of students, includes game strategies, mental preparation, fitness and strengthening.
 
-Training Frequency: 3 sessions (2.5 hours per each) per week
+Training Frequency: 3 sessions (2.5 hours each) per week
 
 **Selection Criteria**
 

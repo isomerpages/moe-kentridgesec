@@ -28,10 +28,13 @@ and girls take part in sanctioned competitions and achieve credible results
 and rankings.</p>
 <p></p>
 <p><strong><em>Achievements</em></strong>
-<br>1. 2023 National School Games South Zone 'B' Division Girls – Quarter
+</p>
+<p>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
+Award (2 students)
+<br>2. 2023 National School Games South Zone 'B' Division Girls – Quarter
 Finalist
-<br>2. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist
-<br>3. 2022 National School Games South Zone 'C' Division Girls – Quarter
+<br>3. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist
+<br>4. 2022 National School Games South Zone 'C' Division Girls – Quarter
 Finalist</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -100,13 +103,15 @@ matches are arranged to let them gain experience and increase their confidence
 level during competitions.</p>
 <p></p>
 <p><strong><em>Achievements</em></strong>
-<br>1. 2023 Singapore Schools Sports Council - National School Games - Sportsmanship
+<br>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
+Award (4 students)
+<br>2. 2023 Singapore Schools Sports Council - National School Games - Sportsmanship
 Award (2 students)
-<br>2. 2023 National School Games Floorball Championship 'C' Division Boys
+<br>3. 2023 National School Games Floorball Championship 'C' Division Boys
 – Qualified for 2nd Round
-<br>3. 2023 National School Games Floorball Championship 'B' Division Girls
+<br>4. 2023 National School Games Floorball Championship 'B' Division Girls
 – Qualified for 2nd Round
-<br>4. 2022 National School Games Floorball Championship – Sportsmanship Award
+<br>5. 2022 National School Games Floorball Championship – Sportsmanship Award
 (4 students)</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
