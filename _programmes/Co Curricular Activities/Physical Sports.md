@@ -28,11 +28,25 @@ and girls take part in sanctioned competitions and achieve credible results
 and rankings.</p>
 <p></p>
 <p><strong><em>Achievements</em></strong>
-<br>1. 2023 National School Games South Zone 'B' Division Girls – Quarter
-Finalist
-<br>2. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist
-<br>3. 2022 National School Games South Zone 'C' Division Girls – Quarter
-Finalist</p>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>NSG Sportsmanship Award 2024 - (2 students)</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>2023 National School Games South Zone 'B' Division Girls – Quarter Finalist</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>2023 National School Games South Zone 'C' Division Boys – Quarter Finalist</p>
+</li>
+<li>
+<p>2022 National School Games South Zone 'C' Division Girls – Quarter Finalist</p>
+</li>
+</ol>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Chan Kar Hong
