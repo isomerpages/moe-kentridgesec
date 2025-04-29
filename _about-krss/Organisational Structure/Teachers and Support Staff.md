@@ -421,6 +421,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Usha Rani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Part-Time School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,18 +445,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Bee Yi</p>
+<p>Ms Sakina Ali</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aqyla Binte Mohammad Affendy</p>
+<p>Ms Gan Bee Yi</p>
 </td>
 </tr>
 <tr>
