@@ -28,8 +28,7 @@ and girls take part in sanctioned competitions and achieve credible results
 and rankings.</p>
 <p></p>
 <p><strong><em>Achievements</em></strong>
-</p>
-<p>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
+<br>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
 Award (2 students)
 <br>2. 2023 National School Games South Zone 'B' Division Girls – Quarter
 Finalist
