@@ -18,6 +18,10 @@ Apart from building up the physical fitness, mental fortitude and game skills of
 
 1\. Team
 
+2024
+
+*   National School Games 'C'(Girls) Division 2023 - 4th, League 3
+
 2023
 
 *   National School Games 'B'(Girls) Division 2023 - Quarter Finalists
