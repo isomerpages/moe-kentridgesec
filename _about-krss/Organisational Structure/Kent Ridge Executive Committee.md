@@ -244,17 +244,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH / English Language (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zannatul Nauum Moummee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH / Science</p>
 </td>
 <td rowspan="1" colspan="1">
