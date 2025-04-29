@@ -33,13 +33,9 @@ and rankings.</p>
 <li>
 <p>NSG Sportsmanship Award 2024 - (2 students)</p>
 </li>
-</ol>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>2023 National School Games South Zone 'B' Division Girls – Quarter Finalist</p>
 </li>
-</ol>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>2023 National School Games South Zone 'C' Division Boys – Quarter Finalist</p>
 </li>
