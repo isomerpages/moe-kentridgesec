@@ -42,8 +42,8 @@ with Sportsmanship Award</p>
 </li>
 </ul>
 <p><strong>Training Programmes</strong>
-<br>1. Elementary Training Programme</p>
-<p>This programme introduces the students to basic Basketball techniques
+<br>1. Elementary Training Programme
+<br>This programme introduces the students to basic Basketball techniques
 e.g. principles and skills to&nbsp;dribble, pass, shoot and defend, as
 well as fitness training to improve stamina and footwork.</p>
 <p>Additional training sessions are organised in preparation for competitions.
@@ -51,8 +51,8 @@ Regular friendly matches are also arranged to help our players gain more
 game experience.</p>
 <p>Training Frequency: 2 sessions (2.5 hours each) per week on Monday and
 Thursday</p>
-<p>2. Advanced Training Programme</p>
-<p>This programme is customised specifically for selected Basketball players,
+<p>2. Advanced Training Programme
+<br>This programme is customised specifically for selected Basketball players,
 with a focus to sharpen their techniques and skills, as well as game play
 strategies, fitness and mental preparedness.</p>
 <p><strong>Selection Criteria</strong>
