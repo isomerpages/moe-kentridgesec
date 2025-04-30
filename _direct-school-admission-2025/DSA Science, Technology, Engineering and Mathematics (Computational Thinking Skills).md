@@ -38,10 +38,10 @@ conducted on the same day.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Performance Tasks</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>1. Shortlisted applicants will be invited for an in-person trial.
 <br>2. The STEM (Computational Thinking Skills) trial will consist of the
 following:
@@ -49,7 +49,7 @@ following:
 <br>&nbsp;&nbsp;&nbsp;- Computational Thinking Skills Assessment
 <br>3. Each applicant will be assessed by a panel of teachers with a set of
 rubrics. The set of assessment rubrics is the same for all applicants.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,16 +64,16 @@ a panel of teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Meeting all the criteria does not guarantee the applicant will be shortlisted/given
-an offer.</p>
+<p><em>Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Contact Person</strong>
 <br>DSA - Science, Technology, Engineering and Mathematics (Computational
-Thinking Skills):</p>
-<p>Mrs Tan Jiayi, HOD/ICT
+Thinking Skills):
+<br>Mrs Tan Jiayi, HOD/ICT
 <br>Email: <a href="mailto:low_jiayi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jiayi@schools.gov.sg</a>
 </p>
 <p><strong>School Contact</strong>
