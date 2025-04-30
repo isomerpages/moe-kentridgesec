@@ -6,8 +6,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Background</strong>
-</p>
-<p>Kent Ridge Secondary School offers its&nbsp;<a href="/programmes/distinctive-programmes/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (ALP)</a>&nbsp;under
+<br>Kent Ridge Secondary School offers its&nbsp;<a href="/programmes/distinctive-programmes/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (ALP)</a>&nbsp;under
 the Science, Technology, Engineering and Mathematics (STEM) strand and
 is focused on developing computational thinking through robotics. Kent
 Ridge Secondary School will offer the DSA-Sec to eligible students via
@@ -15,8 +14,7 @@ Computational Thinking Skills. Students who show aptitude in computational
 thinking and are passionate and committed to develop this strength should
 apply.</p>
 <p><strong>Selection Criteria</strong>
-</p>
-<p>Applicants should</p>
+<br>Applicants should</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>be passionate about coding or robotics</p>
@@ -29,8 +27,7 @@ apply.</p>
 </li>
 </ul>
 <p><strong>Selection Process</strong>
-</p>
-<p>Shortlisted DSA applicants will be notified of the date for in-person
+<br>Shortlisted DSA applicants will be notified of the date for in-person
 trial and interview by email. The in-person trial and interview will be
 conducted on the same day.</p>
 <p></p>
