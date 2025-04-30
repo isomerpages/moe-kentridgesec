@@ -2,7 +2,7 @@
 title: Terms and Conditions
 permalink: /school-information/direct-school-admission-2024/terms-and-conditions/
 description: ""
-third_nav_title: Direct School Admission 2024
+third_nav_title: Direct School Admission 2025
 variant: tiptap
 ---
 1\. Students who have been successfully admitted to a secondary school through DSA-Sec, will NOT be allowed to:
