@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p><strong>Background</strong>
 <br>Kent Ridge Secondary School offers its&nbsp;<a href="/programmes/distinctive-programmes/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (ALP)</a>&nbsp;under
-the Science, Technology, Engineering and Mathematics (STEM) strand and
-is focused on developing computational thinking through robotics. Kent
+the Science, Technology, Engineering and Mathematics (STEM) strand. Kent
 Ridge Secondary School will offer the DSA-Sec to eligible students via
 Computational Thinking Skills. Students who show aptitude in computational
 thinking and are passionate and committed to develop this strength should
