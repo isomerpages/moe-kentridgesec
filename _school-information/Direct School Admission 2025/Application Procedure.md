@@ -30,8 +30,7 @@ Jun 2025, 3pm. For more details, please refer to, please refer to&nbsp;[MOE webs
 
 3\. DSA-Sec offers not taken up will be considered lapsed.
 
-Click the following links for more information on the respective DSA programmes:
-
+Click the following links for more information on the respective DSA programmes:<br>
 (1)&nbsp;[DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/),<br>
 (2)&nbsp;[DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),<br>
 (3)&nbsp;[DSA - Sports and Game (Basketball)](/school-information/dsa/sports-and-games-basketball/),<br>
