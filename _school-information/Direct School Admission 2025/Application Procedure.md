@@ -8,11 +8,11 @@ variant: markdown
 **Instructions**
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 
-Jun 2025, 3pm. For more details, please refer to, please refer to [MOE website](https://www.moe.gov.sg/secondary/dsa).
+Jun 2025, 3pm. For more details, please refer to, please refer to&nbsp;[MOE website](https://www.moe.gov.sg/secondary/dsa).
 
 **DSA-Sec Candidates Not Studying in MOE Mainstream Schools**
 
-1\. Candidates are to obtain a Registration Number (RGxxxxxxx) from MOE Customer Service Centre upon the start of the DSA Exercise. Registration number must be submitted before applications can be processed. For more details, please refer to [MOE website](https://go.gov.sg/nmsdsa-sec-application).
+1\. Candidates are to obtain a Registration Number (RGxxxxxxx) from MOE Customer Service Centre upon the start of the DSA Exercise. Registration number must be submitted before applications can be processed. For more details, please refer to&nbsp;[MOE website](https://go.gov.sg/nmsdsa-sec-application).
 
 2\. Candidates who are International Students (IS) may submit their DSA-Sec applications for consideration. They are to take part in the Admissions Exercise for International Students (AEIS).
 
@@ -32,10 +32,7 @@ Jun 2025, 3pm. For more details, please refer to, please refer to [MOE website]
 
 Click the following links for more information on the respective DSA programmes:
 
-(1) [DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/),
-
-(2) [DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),
-
-(3) [DSA - Sports and Game (Basketball)](/school-information/dsa/sports-and-games-basketball/),
-
-(4) [DSA – Sports and Game (Floorball)](/school-information/dsa/sports-and-games-floorball/).
+(1)&nbsp;[DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)](/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/),<br>
+(2)&nbsp;[DSA – Sports and Game (Badminton)](/school-information/dsa/sports-and-games-badminton/),<br>
+(3)&nbsp;[DSA - Sports and Game (Basketball)](/school-information/dsa/sports-and-games-basketball/),<br>
+(4)&nbsp;[DSA – Sports and Game (Floorball)](/school-information/dsa/sports-and-games-floorball/).
