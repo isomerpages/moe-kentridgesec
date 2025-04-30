@@ -104,7 +104,7 @@ of teacher(s) and coach(es).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</em>
+<p><strong><em>Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</em></strong>
 </p>
 </td>
 </tr>
