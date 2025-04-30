@@ -76,10 +76,10 @@ day.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Performance Tasks</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>1. Shortlisted applicants will be invited for a face-to-face selection
 trial.
 <br>2. The Basketball selection trials will consist of the following:
@@ -89,7 +89,7 @@ trial.
 <br>3. Each applicant will be assessed by a panel of teacher(s) and coach(es)
 with a set of rubrics. The set of assessment rubrics is the same for all
 applicants.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
