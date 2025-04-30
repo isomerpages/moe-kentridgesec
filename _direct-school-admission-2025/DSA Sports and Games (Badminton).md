@@ -84,7 +84,6 @@ includes game strategies, mental preparation, fitness and strengthening.</p>
 <br>Shortlisted DSA applicants will be notified of the date for trial and
 interview by email. The trial and interview will be conducted on the same
 day.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
