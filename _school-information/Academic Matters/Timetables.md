@@ -13,3 +13,6 @@ updated 19 March 2025<br>
 [Secondary 2](/files/2025_Term_2_Class_Timetable_Sec_2_18_Mar.pdf) <br>
 [Secondary 3](/files/2025_Term_2_Class_Timetable_Sec_3_10_Mar.pdf) <br>
 [Secondary 4&amp;5](/files/2025_Term_2_Class_Timetable_Sec_45_18_Mar.pdf)
+
+##### School Terms and Holidays for 2025
+[School Terms and Holidays for 2025](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)
