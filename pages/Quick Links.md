@@ -84,4 +84,16 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p>
+<br><strong>For Parent</strong>
+</p>
+<p><a href="/files/Attachment_3_SPF_MY_2025_Secondary_infographic_Joint_School_Advisory_FA.pdf" rel="noopener nofollow" target="_blank">Joint Mid-Year School Holidays Advisory</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attachment_4__SPF_Advisory_on_MISSIM_Final.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attachment_5__Youth_Against_Scams_Poster.jpg">
+</div>
 <p></p>
