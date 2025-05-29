@@ -16,7 +16,6 @@ updated 19 March 2025<br>
 
 ##### June School Holidays
 updated 29 May 2025<br>
-[Tutorial Schedule](/files/June_Holiday_S4_Tutorial.pdf)<br>
 [CCA Schedule](/files/CCA_IP_Schedule__June_2025_School_Website_27May.pdf)
 
 ##### School Terms and Holidays for 2025
