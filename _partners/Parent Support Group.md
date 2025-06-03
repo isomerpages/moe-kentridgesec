@@ -85,6 +85,7 @@ img {
 <img src="/images/Secondary%201%20Orientation%20Day.jpg" alt="Secondary 1 Orientation Day" style="width:70%;">
 <p style="text-align:center;"><em><strong>Secondary 1 Orientation Day</strong>&nbsp;– The PSG booth welcoming our new students and parents to KRSS and helping with registrations for PSG PVs.</em></p>
 
+[MOE PSG Newsletter - Parenting in the Digital Age](/files/MOE_PSG_Newsletter___Parenting_in_the_Digital_Age.pdf)
 
 **Signing Up As A PV**
 <br>
