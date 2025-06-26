@@ -9,7 +9,7 @@ The term 3 timetables can be found in the links below. To support student well-b
 
 ##### Class Time-tables (Term 3, 2025)
 updated 26 June 2025<br>
-[Secondary 1](/files/2025_Sem_2_Class_Timetable_Sec_1_24_Jun.pdf) <br>
+[Secondary 1](/files/2025_Sem_2_Class_Timetable_Sec_1_24_Jun.pdf)<br>
 [Secondary 2](/files/2025_Sem_2_Class_Timetable_Sec_2_24_Jun.pdf)<br>
 [Secondary 3](/files/2025_Sem_2_Class_Timetable_Sec_3_24_Jun.pdf)<br>
 [Secondary 4&amp;5](/files/2025_Sem_2_Class_Timetable_Sec_45_24_Jun.pdf)
