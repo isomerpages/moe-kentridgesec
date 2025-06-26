@@ -225,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anite Bte Mohamed Salleh</p>
+<p>Ms Anita Bte Mohamed Salleh</p>
 </td>
 </tr>
 <tr>
