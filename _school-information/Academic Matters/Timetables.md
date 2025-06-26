@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Matters
 variant: markdown
 ---
-The term 2 timetables can be found in the links below. To support student well-being, the timetable includes scheduled recess breaks and lunch breaks (for longer days). Additionally, snack breaks within curriculum time will be scheduled to help students maintain energy and stay refreshed while learning continues.
+The term 3 timetables can be found in the links below. To support student well-being, the timetable includes scheduled recess breaks and lunch breaks (for longer days). Additionally, snack breaks within curriculum time will be scheduled to help students maintain energy and stay refreshed while learning continues.
 
 ##### Class Time-tables (Term 3, 2025)
 updated 26 June 2025<br>
