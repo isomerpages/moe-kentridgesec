@@ -30,7 +30,7 @@ and self-expressions.</p>
 <p>2024</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National School Games 'C'(Girls) Division 2023 - 4th, League 3</p>
+<p>National School Games 'C'(Girls) Division 2024 - 4th, League 3</p>
 </li>
 </ul>
 <p>2023</p>
