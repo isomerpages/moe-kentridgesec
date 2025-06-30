@@ -27,12 +27,12 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Suhara Binte Ismail</p>
+<p>Mr Seto Yi Kang Marcus</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seto Yi Kang Marcus</p>
+<p>Mdm Siti Suhara Binte Ismail</p>
 </td>
 </tr>
 <tr>
@@ -179,11 +179,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Kok Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kelly Tan Shi Hui</p>
 </td>
 </tr>
 <tr>
