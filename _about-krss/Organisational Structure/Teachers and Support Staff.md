@@ -385,11 +385,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheong How Min Michelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yang Shihao</p>
 </td>
 </tr>
 <tr>
