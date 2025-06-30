@@ -273,11 +273,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Maimunah Binte Ithnin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Monisha Kaur</p>
 </td>
 </tr>
 <tr>
