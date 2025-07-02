@@ -18,7 +18,7 @@ updated 26 June 2025<br>
 updated 01 July 2025<br>
 [Secondary 4NT](/files/4NT_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
 [Secondary 4NA](/files/4NA_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
-[Secondary 4E &amp; 5N](/files/4E_5N_Prelim_Timetable_2025.pdf)
+[Secondary 4E &amp; 5N](/files/4E5N_Preliminary_Examination_2025_updated_1_Jul_25.pdf)
 
 ##### School Terms and Holidays for 2025
 [School Terms and Holidays for 2025](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)
