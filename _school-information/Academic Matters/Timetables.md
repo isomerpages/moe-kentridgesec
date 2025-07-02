@@ -15,7 +15,7 @@ updated 26 June 2025<br>
 [Secondary 4&amp;5](/files/2025_Sem_2_Class_Timetable_Sec_45_24_Jun.pdf)
 
 ##### Preliminary Examination Time-tables
-updated 01 July 2025<br>
+updated 02 July 2025<br>
 [Secondary 4NT](/files/4NT_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
 [Secondary 4NA](/files/4NA_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
 [Secondary 4E &amp; 5N](/files/4E5N_Preliminary_Examination_2025_updated_1_Jul_25.pdf)
