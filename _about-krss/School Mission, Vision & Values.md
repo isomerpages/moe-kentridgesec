@@ -27,6 +27,6 @@ I am responsible for my actions_
 _I care for self and others  
 I care for the environment_
 
-**Excellence in All our Endeavours**  
+**Excellence in all our Endeavours**  
 _I give my best  
 I strive to better myself_

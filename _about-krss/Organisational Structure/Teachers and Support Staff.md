@@ -505,7 +505,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Law Li Wei
-<br>Link to make appointment: <a href="Go.gov.sg/krsecg" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg/krssecg</a>
+<br>Link to make appointment: <a href="https://go.gov.sg/ecgkrss" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgkrss</a>
 </p>
 </td>
 </tr>
