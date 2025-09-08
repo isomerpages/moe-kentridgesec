@@ -23,11 +23,11 @@ updated 02 July 2025<br>
 
 
 ##### End-of-year Examination Time-tables
-updated 22 August 2025<br>
+updated 08 September 2025<br>
 [Secondary 1](/files/Sec_1_EYE_Timetable.pdf)<br>
 [Secondary 2](/files/Sec_2_EYE_Timetable.pdf)<br>
-[Secondary 3E](/files/Sec_3E_EYE_Timetable.pdf)<br>
-[Secondary 3NA](/files/Sec_3NA_EYE_Timetable.pdf)<br>
+[Secondary 3E](/files/Sec_3E_EYE_Timetable_8_Sep.pdf)<br>
+[Secondary 3NA](/files/Sec_3NA_EYE_Timetable_8_Sep.pdf)<br>
 [Secondary 3NT](/files/Sec_3NT_EYE_Timetable.pdf)
 
 ##### School Terms and Holidays for 2025
