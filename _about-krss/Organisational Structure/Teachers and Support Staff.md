@@ -544,14 +544,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ashwin Ajay Unnithan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science Laboratory Technician</p>
 </td>
 <td rowspan="1" colspan="1">
