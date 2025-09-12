@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Ming</p>
+<p>Mdm Teo Kim Lian</p>
 </td>
 </tr>
 <tr>
@@ -540,14 +540,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leonard Siau Ming Chen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ashwin Ajay Unnithan</p>
 </td>
 </tr>
 <tr>
