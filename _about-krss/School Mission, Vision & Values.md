@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **Our Vision** <br>
-A Kent Ridgean has the&nbsp;**Heart of a Saint**,&nbsp;**Passion of an Inventor**&nbsp;and&nbsp;**Will of an Olympian**.
+Every student has a **Heart of a Saint**, **Passion of an Inventor** and the **Will of an Olympian**.
 
 **Our Mission** <br>
 Kent Ridge Secondary nurtures the&nbsp;**heart**, ignites the&nbsp;**passion**&nbsp;and strengthens the&nbsp;**will**&nbsp;of all
