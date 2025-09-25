@@ -5,4 +5,4 @@ description: ""
 third_nav_title: School's Direction
 variant: markdown
 ---
-![School Strategy & Focus](/images/School_Strategy___Focus.png)
+![School Strategy & Focus](/images/School_Strategy_Focus.png)
