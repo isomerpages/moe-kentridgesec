@@ -15,20 +15,10 @@ updated 26 June 2025<br>
 [Secondary 4&amp;5](/files/2025_Sem_2_Class_Timetable_Sec_45_24_Jun.pdf)<br>
 
 
-##### Preliminary Examination Time-tables
-updated 02 July 2025<br>
-[Secondary 4NT](/files/4NT_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
-[Secondary 4NA](/files/4NA_Preliminary_Examination_2025_updated_1_Jul_25.pdf)<br>
-[Secondary 4E &amp; 5N](/files/4E_5N_Preliminary_Examination_2025_updated_9_Jul_25.pdf)
+##### Sec 3 (21 to 23 OCT)
+updated 13 Oct 2025<br>
+[Secondary 3 Eweek 3 (Post Exam) ](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable.pdf)
 
-
-##### End-of-year Examination Time-tables
-updated 08 September 2025<br>
-[Secondary 1](/files/Sec_1_EYE_Timetable.pdf)<br>
-[Secondary 2](/files/Sec_2_EYE_Timetable.pdf)<br>
-[Secondary 3E](/files/Sec_3E_EYE_Timetable_8_Sep.pdf)<br>
-[Secondary 3NA](/files/Sec_3NA_EYE_Timetable_8_Sep.pdf)<br>
-[Secondary 3NT](/files/Sec_3NT_EYE_Timetable.pdf)
 
 ##### School Terms and Holidays for 2025
 [School Terms and Holidays for 2025](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)
