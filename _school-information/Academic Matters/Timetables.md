@@ -15,7 +15,7 @@ updated 26 June 2025<br>
 [Secondary 4&amp;5](/files/2025_Sem_2_Class_Timetable_Sec_45_24_Jun.pdf)<br>
 
 
-##### Sec 3 (21 to 23 OCT)
+##### Secondary 3 (21 to 23 OCT)
 updated 13 Oct 2025<br>
 [Secondary 3 Eweek 3 (Post Exam) ](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable.pdf)
 
