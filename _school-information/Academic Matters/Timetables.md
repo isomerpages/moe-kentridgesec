@@ -17,7 +17,7 @@ updated 26 June 2025<br>
 
 ##### Sec 3 (21 to 23 OCT)
 updated 13 Oct 2025<br>
-[Sec 3 Eweek 3 (Post Exam) ](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable.pdf)
+[Secondary 3 Eweek 3 (Post Exam) ](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable.pdf)
 
 
 ##### School Terms and Holidays for 2025
