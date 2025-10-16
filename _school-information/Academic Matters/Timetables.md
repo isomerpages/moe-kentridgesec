@@ -16,8 +16,12 @@ updated 26 June 2025<br>
 
 
 ##### Secondary 3 (21 to 23 OCT)
-updated 13 Oct 2025<br>
-[Secondary 3 Eweek 3 (Post Exam) ](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable.pdf)
+updated 16 Oct 2025<br>
+[Secondary 3 Eweek 3 (Post Exam)](/files/Sec_3_Eweek_3__21_to_23_Oct__Timetable_updated_.pdf)
+
+##### Secondary 3  (27 to 31 OCT)
+updated 16 Oct 2025<br>
+[Bridging Timetable](/files/Bridging_class_timetable_updated.pdf)
 
 
 ##### School Terms and Holidays for 2025
