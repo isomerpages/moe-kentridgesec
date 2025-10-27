@@ -52,6 +52,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mabel Chia Bee Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,17 +359,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Chye Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher / CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yin Na</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
