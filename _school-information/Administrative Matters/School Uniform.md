@@ -7,7 +7,7 @@ variant: markdown
 ---
 The school’s uniform supplier is **KH Uniform Pte Ltd**.
 
-Online ordering at website:  https://khuniform.com/
+Online ordering at website: [https://khuniform.com/](https://khuniform.com/)
 
 Please refer to the following links for more information:
 * [KRSS Infosheet (All Levels)](/files/KRSS_Infosheet__All_Levels_.pdf)
