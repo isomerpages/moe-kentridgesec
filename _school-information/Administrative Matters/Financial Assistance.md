@@ -8,11 +8,11 @@ variant: markdown
 Students who require financial help with their educational needs can apply for financial assistance from MOE and the school. 
 
 Please visit the following MOE website to find out more:
-https://www.moe.gov.sg/financial-matters/financial-assistance
+[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 Press Release on MOE's enhanced financial assistance schemes:
-https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students
+[https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students](https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students)
 
 Parents/Guardians can apply for financial assistance through the app **Parents Gateway > Services**; or apply **online** via the link below:
+[https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas)
 
-https://go.gov.sg/moe-efasggas
