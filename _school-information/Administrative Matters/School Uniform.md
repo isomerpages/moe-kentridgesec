@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administrative Matters
 variant: markdown
 ---
-The school’s uniform supplier is KH Uniform Pte Ltd.
+The school’s uniform supplier is **KH Uniform Pte Ltd**.
 
 Online ordering at website:  https://khuniform.com/
 
