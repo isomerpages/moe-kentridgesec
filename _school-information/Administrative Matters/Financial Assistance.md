@@ -13,7 +13,16 @@ for financial assistance from MOE and the school.</p>
 <p>Press Release on MOE's enhanced financial assistance schemes:
 <br><a href="https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students</a>
 </p>
-<p>Parents/Guardians can apply for financial assistance through the app <strong>Parents Gateway &gt; Services</strong>;
-or apply <strong>online</strong> via the link below:
-<br><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<p>Parents/Guardians can apply for financial assistance through any of the
+following methods:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Through the app <strong>Parents Gateway &gt; Services</strong>; or</p>
+</li>
+<li>
+<p>Apply<strong> online</strong> via the link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
+</li>
+</ol>
+<p></p>
+<p></p>
