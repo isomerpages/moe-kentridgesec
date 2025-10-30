@@ -5,9 +5,14 @@ description: ""
 third_nav_title: Administrative Matters
 variant: markdown
 ---
-Students who require financial help with their educational needs can apply for financial assistance from MOE and the school. Please click on the links below to find out more:
+Students who require financial help with their educational needs can apply for financial assistance from MOE and the school. 
 
-[MOE FAS 2025 Pamphlet](/files/MOE_FAS_2025_pamphlet__4_languages_.pdf)<br>
-[MOE FAS 2025 Application Form](/files/MOE_FAS_Application_Form_2025.pdf)
+Please visit the following MOE website to find out more:
+https://www.moe.gov.sg/financial-matters/financial-assistance
 
-Parents who want to know more about MOE FAS can visit&nbsp;[MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance).
+Press Release on MOE's enhanced financial assistance schemes:
+https://www.moe.gov.sg/news/press-releases/20251016-MOE-Financial-Assistance-Schemes-to-Benefit-an-Additional-31000-Students
+
+Parents/Guardians can apply for financial assistance through the app **Parents Gateway > Services**; or apply **online** via the link below:
+
+https://go.gov.sg/moe-efasggas
