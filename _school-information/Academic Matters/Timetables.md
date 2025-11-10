@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Academic Matters
 variant: markdown
 ---
-##### Secondary 3  (27 to 31 OCT)
-updated 16 Oct 2025<br>
-[Bridging Timetable](/files/Bridging_class_timetable_updated.pdf)
-
 #### CCA Schedule
 updated 28 Oct 2025<br>
 [End-of-year School Holidays](/files/CCA_IP_Schedule___Oct_to_Dec.pdf)
