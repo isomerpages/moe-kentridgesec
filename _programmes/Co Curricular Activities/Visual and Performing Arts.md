@@ -160,7 +160,7 @@ us.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of DAccomplishment
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2023 - SYF Arts Presentation – Certificate of Distinction
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
