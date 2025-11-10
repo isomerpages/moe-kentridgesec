@@ -1,6 +1,6 @@
 ---
 title: Principles of Accounts and Elements of Business Skills
-permalink: /principles-of-accounts-and-elements-of-business-skills/
+permalink: /about-krss/departments/principles-of-accounts-and-elements-of-business-skills/
 description: ""
 third_nav_title: Departments
 variant: tiptap
