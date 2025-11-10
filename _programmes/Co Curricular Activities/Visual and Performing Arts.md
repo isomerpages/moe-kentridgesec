@@ -100,25 +100,25 @@ objectives are to create a conducive, safe and collaborative environment
 for students to appreciate and explore a variety of dance genres consisting
 mainly of contemporary and jazz along with hip-hop, ballroom and ballet.
 To develop their confidence and stage presence, students are exposed to
-school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as
-external platforms like the Singapore Youth Festival Arts Presentation,
-Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the
-scenes, the dancers build their skills through holiday workshops and inter-school
-exchanges. We welcome you to the Modern Dance Club, a family that braves
-challenges together and where everyone is allowed to grow at their own
-pace.
+school platforms like CCA Fair, Chinese New Year and Hari Raya concerts,
+as well as external platforms like the Singapore Youth Festival Arts Presentation,
+West Coast CC National Day Celebration and the SSSC Colours Award Presentation
+and National School Games Closing Ceremony. Behind the scenes, the dancers
+build their skills through holiday workshops and inter-school exchanges.
+We welcome you to the Modern Dance Club, a family that braves challenges
+together and where everyone is allowed to grow at their own pace.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
-<br>2023 - SYF Arts Presentation – Certificate of Accomplishment
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Maimunah
 <br>Ms Hong Yunfang
-<br>Mr Gabriel Fu Bojun
-<br>Mrs Fu Wen-Ci</p>
+<br>Mr Gabriel Fu Bojun</p>
 </div>
 </details>
 <details class="isomer-details">
