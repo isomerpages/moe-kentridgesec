@@ -25,13 +25,14 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
+<br>2025 - SYF Arts Presentation – Certificate of Distinction
 <br>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021/2022 - NDP 2022 Show Film! Virtual Choir Performance
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Ms Wong Li Xin
-<br>Mdm Wong Weng Han</p>
+<br>Mdm Wong Weng Han
+<br>Ms Monisha Kaur</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -65,6 +66,7 @@ for SYF.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF2021" src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg">
 </div>
+<p></p>
 <p>Serenading the school during school events like CCA Fair and Awards Day
 cum National Day Celebration, members of the Band have multiple chances
 to perform for the school. Through this CCA, members become more musically
@@ -74,7 +76,8 @@ Sound”!
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
-<br>2023 - SYF Arts Presentation – Certificate of Accomplishment
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
 </p>
@@ -100,25 +103,25 @@ objectives are to create a conducive, safe and collaborative environment
 for students to appreciate and explore a variety of dance genres consisting
 mainly of contemporary and jazz along with hip-hop, ballroom and ballet.
 To develop their confidence and stage presence, students are exposed to
-school platforms like CCA Fair, Awards Day and Teachers’ Day, as well as
-external platforms like the Singapore Youth Festival Arts Presentation,
-Danceworks!, TRDO and West Coast CC National Day Celebration. Behind the
-scenes, the dancers build their skills through holiday workshops and inter-school
-exchanges. We welcome you to the Modern Dance Club, a family that braves
-challenges together and where everyone is allowed to grow at their own
-pace.
+school platforms like CCA Fair, Chinese New Year and Hari Raya concerts,
+as well as external platforms like the Singapore Youth Festival Arts Presentation,
+West Coast CC National Day Celebration and the SSSC Colours Award Presentation
+and National School Games Closing Ceremony. Behind the scenes, the dancers
+build their skills through holiday workshops and inter-school exchanges.
+We welcome you to the Modern Dance Club, a family that braves challenges
+together and where everyone is allowed to grow at their own pace.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
-<br>2023 - SYF Arts Presentation – Certificate of Accomplishment
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Maimunah
 <br>Ms Hong Yunfang
-<br>Mr Gabriel Fu Bojun
-<br>Mrs Fu Wen-Ci</p>
+<br>Mr Gabriel Fu Bojun</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -159,6 +162,7 @@ us.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2023 - SYF Arts Presentation – Certificate of Distinction
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
