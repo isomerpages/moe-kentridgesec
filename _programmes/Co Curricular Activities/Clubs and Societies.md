@@ -174,16 +174,18 @@ school operations.</p>
 <br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction
 <br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments
 <br>2021: N.E.mation!2021 - Top 10
-<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Media Club" src="/images/Media Club.png">
-</div>
+<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions
+<br>
+</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Chew Ying Chao
 <br>Mr Ng Chong Hern Bennedic
-<br>Ms Zannatul Nauum Moumee</p>
+<br>Ms Zannatul Nauum Moumee
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Media Club" src="/images/Media Club.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -224,16 +226,12 @@ through training and mentoring their juniors.</p>
 <p>National Junior Informatics Olympiad (NJIO) / Design Thinking with robotics
 and Computational Thinking Competition (DrCT)</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
 </li>
 <li>
 <p>World Robot Olympiad / National Robotics Competition</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Hack@Code&nbsp;</p>
 </li>
@@ -285,12 +283,8 @@ and Computational Thinking Competition (DrCT)</p>
 <p>2024:</p>
 <ul>
 <li>
-<p>Hack@Code (Scratch) - Most Interactive Design x 2</p>
-<p>- Best Presentation Award&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
-Judges Award</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
-Merit Award</p>
+<p>Hack@Code (Scratch) - Most Interactive Design x 2, Best Presentation Award&nbsp;,
+Judges Award, Merit Award</p>
 </li>
 <li>
 <p>Hack@Code (Lego Robotics) - 8<sup>th</sup>, 9<sup>th</sup> and 10<sup>th</sup>&nbsp;&nbsp;</p>
@@ -304,12 +298,8 @@ Merit Award</p>
 <p>2023:&nbsp;</p>
 <ul>
 <li>
-<p>Hack@Code (Scratch) - Most Interactive Design
-<br>-&nbsp; Merit Award</p>
+<p>Hack@Code (Scratch) - Most Interactive Design, Merit Award</p>
 </li>
-</ul>
-<p></p>
-<ul>
 <li>
 <p>Hack@Code (Lego Robotics) - 1st, 3rd&nbsp;</p>
 </li>
@@ -332,9 +322,6 @@ Merit Award</p>
 <p>2023: RoboSports - 1st and 3rd
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
-</div>
 </li>
 </ul>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -342,6 +329,9 @@ Merit Award</p>
 <br>Mr Seto Yi Kang, Marcus
 <br>Ms Nur Hidayah binte Mohmed Nor
 <br>Mdm Ma Jing</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
+</div>
 </div>
 </details>
 </div>
