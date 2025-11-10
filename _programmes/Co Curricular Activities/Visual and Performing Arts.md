@@ -25,6 +25,7 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
+<br>2025 - SYF Arts Presentation – Certificate of Distinction
 <br>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021/2022 - NDP 2022 Show Film! Virtual Choir Performance
 <br>
