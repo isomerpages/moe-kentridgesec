@@ -491,7 +491,7 @@ we support students with SEN to have a smooth transition to secondary school.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sen 2025_1" src="/images/sen 2025_1.png">
 </div>
-<p><strong>Parents Engagement and Support</strong>
+<p><em>Parents Engagement and Support</em>
 <br>We engage parents through various programmes to support their children's
 development and promote inclusivity. These include workshops conducted
 by external vendors and regular sharing of resources via Parents Gateway.
