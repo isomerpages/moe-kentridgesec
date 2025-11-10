@@ -31,7 +31,6 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Ms Wong Li Xin
 <br>Mdm Wong Weng Han</p>
 </div>
 </details>
@@ -66,6 +65,7 @@ for SYF.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF2021" src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg">
 </div>
+<p></p>
 <p>Serenading the school during school events like CCA Fair and Awards Day
 cum National Day Celebration, members of the Band have multiple chances
 to perform for the school. Through this CCA, members become more musically
@@ -75,7 +75,8 @@ Sound”!
 <br>
 </p>
 <p><strong><em>Achievements</em></strong>
-<br>2023 - SYF Arts Presentation – Certificate of Accomplishment
+<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
+<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
 <br>2021 - SYF Arts Presentation – Certificate of Accomplishment
 <br>
 </p>
