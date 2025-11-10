@@ -44,60 +44,77 @@ and friendship.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Infocomm Club</summary>
+<summary>Robotics Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
 <br>THURSDAY: 1535- 1800 HRS</p>
-<p><strong>Mission:</strong>Infocomm members are equipped through collaboration,
+<p><strong>Mission:</strong>Robotics members are equipped through collaboration,
 community engagement and skill development to be computational thinkers
-and work independently and as a group.</p>
-<p>Infocomm Club aims to further develop the skills and competencies of students
+and work independently and as a group.
+<br>
+</p>
+<p>Robotics Club aims to further develop the skills and competencies of students
 with greater interest and aptitude in computational thinking and robotics.
 The 4 – 5 years development programme allows students to deepen their computational
 thinking and robotics skills and knowledge, and to apply what they have
 learnt to design, code and build robotic solutions of increasing complexity
-to complete challenging missions and to address real world needs.
-<br>
-<br>The training framework for Infocomm Club students details a clear progression
+to complete challenging missions and to address real world needs.&nbsp;</p>
+<p>The training framework for Robotics Club students details a clear progression
 of skills from introduction to computational thinking, programming and
 robotics in Sec 1, to deepening of programming and robotics skills in Sec
-2 and 3, to coding and app development skills in Sec 4 and 5.
+2 and 3, to coding and app development skills in Sec 4 and 5.&nbsp;
 <br>
-<br>Students participate in different competitions to hone their skills and
+</p>
+<p>Students participate in different competitions to hone their skills and
 are selected based on their learning progress. Through the process of training
 for the competitions, students learn to apply their skills in new ways,
 leverage on team members’ strengths to complete complex missions and be
-resilient in the face of challenges to continue to invent better solutions.
+resilient in the face of challenges to continue to invent better solutions.&nbsp;
 <br>
-<br>Students also apply their skills to help others during community projects
+</p>
+<p>Students also apply their skills to help others during community projects
 this will be led by the Secondary 3 and 4 seniors. Secondary 3 and 4 students
 will also take on the responsibility of developing their leadership skills
-through training and mentoring their juniors.</p>
+through training and mentoring their juniors.
+<br>
+</p>
 <p><strong><em>Competitions</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Design Thinking with robotics and Computational Thinking Competition</p>
+<p>Bebras Competition</p>
 </li>
+<li>
+<p>National Junior Informatics Olympiad (NJIO) / Design Thinking with robotics
+and Computational Thinking Competition (DrCT)</p>
+</li>
+</ul>
+<ul>
 <li>
 <p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
 </li>
 <li>
-<p>National Robotics Competition</p>
+<p>World Robot Olympiad / National Robotics Competition</p>
 </li>
+</ul>
+<ul>
 <li>
-<p>National Software Competition</p>
-</li>
-<li>
-<p>Spark IT Competition</p>
-</li>
-<li>
-<p>World Robo Tournament</p>
+<p>Hack@Code&nbsp;
+<br>
+</p>
 </li>
 </ul>
 <p><strong><em>Achievements</em></strong>
 </p>
+<p>National Junior Informatics Olympiad</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025: 7 Gold, 11 Silver, 12 Bronze and 15 Honorable Mention
+<br>
+</p>
+</li>
+</ul>
 <p>Design Thinking with robotics and Computational Thinking Competition</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,17 +127,16 @@ through training and mentoring their juniors.</p>
 <p>2022: 2 Gold, 2 Silver, 5 Bronze and 9 Honorable Mention</p>
 </li>
 <li>
-<p>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</p>
-</li>
-</ul>
-<p>Game Jam 1 (Video Game Coding Competition)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2021: 1 Top Game Award</p>
+<p>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention
+<br>
+</p>
 </li>
 </ul>
 <p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025: Robotics - 1st, 2nd, 4th, 5th &amp; 7th Place</p>
+</li>
 <li>
 <p>2024: Robotics - 3rd, 7th &amp; 8th Place</p>
 </li>
@@ -128,41 +144,67 @@ through training and mentoring their juniors.</p>
 <p>2024: Sprint - 2nd and 3rd Place</p>
 </li>
 <li>
-<p>2023: 7th Place - Team “Sparkling Claws”</p>
+<p>2023: 7th Place - Team “Sparkling Claws”
+<br>
+</p>
 </li>
 </ul>
-<p>National Onilne Coding Competition</p>
-<ul data-tight="true" class="tight">
+<p>Hack@Code</p>
+<ul>
 <li>
-<p>2024: Hack@Code (Lego Robotics) - 8th, 9th, 10th</p>
+<p>2025: Hack@Code (Robotics) – Judges Award</p>
 </li>
 <li>
-<p>2023: Hack@Code (Lego Robotics) - 1st, 3rd</p>
+<p>2024:</p>
+<ul>
+<li>
+<p>Hack@Code (Scratch) - Most Interactive Design x 2</p>
+<p>- Best Presentation Award&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Judges Award</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Merit Award</p>
 </li>
 <li>
-<p>2024: Hack@Code (Scratch) - Most Interactive Design x 2, Best Presentation
-Award, Judges Award, Merit</p>
-</li>
-<li>
-<p>2023: Hack@Code (Scratch) - Most Interactive Design, Merit</p>
+<p>Hack@Code (Lego Robotics) - 8<sup>th</sup>, 9<sup>th</sup> and 10<sup>th</sup>&nbsp;&nbsp;</p>
 </li>
 </ul>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p>2023:&nbsp;</p>
+<ul>
+<li>
+<p>Hack@Code (Scratch) - Most Interactive Design
+<br>-&nbsp; Merit Award</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p>Hack@Code (Lego Robotics) - 1st, 3rd&nbsp;</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
 <p>National Robotics Competition (World Robot Olympiad)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024: 2nd place in Robosports</p>
+<p>2025: RoboSports - 2nd, 3rd &amp; 4th Place</p>
+</li>
+<li>
+<p>2024: RoboSports - 2nd Place</p>
 </li>
 <li>
 <p>2023: RoboMission Junior - Certificate of Participation</p>
 </li>
 <li>
-<p>2023: RoboSports - 1st and 3rd</p>
-</li>
-</ul>
-<p>National Software Competition</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2021: 1 Gold, 2 Bronze</p>
+<p>2023: RoboSports - 1st and 3rd
+<br>
+</p>
 </li>
 </ul>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -172,10 +214,7 @@ Award, Judges Award, Merit</p>
 <br>Mdm Ma Jing</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infocomm" src="/images/Infocomm_Club_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="infocomm" src="/images/Infocomm_Club_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
 </div>
 </div>
 </details>
