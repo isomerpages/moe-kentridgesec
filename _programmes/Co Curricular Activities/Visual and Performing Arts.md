@@ -31,7 +31,8 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mdm Wong Weng Han</p>
+<br>Mdm Wong Weng Han
+<br>Ms Monisha Kaur</p>
 </div>
 </details>
 <details class="isomer-details">
