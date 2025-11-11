@@ -32,7 +32,9 @@ performed for the Voices of Singapore Festival.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Wong Weng Han
-<br>Ms Monisha Kaur</p>
+<br>Ms Monisha Kaur
+<br>Ms Mabel Loon
+<br>Mr Karl Anish Luis</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -84,7 +86,8 @@ Sound”!
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm How Siow Ling
 <br>Mr Kevin Nicholas Fonseka
-<br>Mr Mohamad Rasull</p>
+<br>Mr Mohamad Rasull
+<br>Mr Darrell Lim</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Concert band" src="/images/concert band.png">
@@ -169,7 +172,8 @@ us.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Siti Suhara
-<br>Ms Dian Farhana</p>
+<br>Ms Dian Farhana
+<br>Ms Susan Liang</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama Club" src="/images/drama club.png">
@@ -237,7 +241,8 @@ can support their creativity.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr&nbsp;Kenneth Pek
-<br>Mr&nbsp;Hong Thin Yong</p>
+<br>Mr&nbsp;Hong Thin Yong
+<br>Mr Oliver Ho</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eARTh Club" src="/images/eARTh_Club_1.png">
