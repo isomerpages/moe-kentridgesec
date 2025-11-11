@@ -58,8 +58,8 @@ and sportsmanship. We strongly believe in harnessing student leadership
 and will create suitable leadership positions such as Captain, Vice-Captains,
 Student Well-Being Representatives, Training, VIA, Logistics and Administration
 Personnel to develop our students to be well-rounded future leaders. Training
-sessions take place at the school’s Indoor Sports Hall Level 1.</p>
-<p>
+sessions take place at the school’s Indoor Sports Hall Level 1.
+<br>
 <br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 </p>
 <p></p>
@@ -117,8 +117,12 @@ at the Singapore League as well as in the National level. In addition,
 these boys are committed to serving the society and caring for the less
 fortunate through various Community Involvement Projects. The Football
 Team has consistently achieved top placings in the South Zone Football
-Championship since 2006.</p>
-<p></p>
+Championship since 2006.
+<br>
+</p>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+<br>
+</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Rishabh
 <br>Mr Mohd Helmy
@@ -146,7 +150,10 @@ members to various water sports such as dragon boating, kayaking and snorkelling
 as well as camping and hiking activities. Students will go through certification
 courses such as Orienteering Level One and Kayaking One Star. During regular
 CCA sessions, members will also be taught various outdoor-related skills
-such as Camp craft and Outdoor Cooking.</p>
+such as Camp craft and Outdoor Cooking.
+<br>
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Ong Wee Kwang
