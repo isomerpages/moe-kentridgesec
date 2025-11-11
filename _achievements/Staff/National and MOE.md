@@ -71,7 +71,7 @@ staff who demonstrate desired qualities for service excellence.</p>
 <p>Mr K Chandra</p>
 </li>
 <li>
-<p>Mrs Sherine Chua</p>
+<p>Mrs Sherine Ang</p>
 </li>
 <li>
 <p>Ms Lee Siew Har</p>
