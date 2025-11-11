@@ -637,10 +637,6 @@ exemplary character and outstanding personal qualities through their behaviour
 and actions.
 <br>The awards are given to a maximum of 2% of Singaporean students in each
 school at the end of the year.</p>
-<p><strong>Fund-raising2021</strong>
-<br>Raised $5220.75 for Children's Cancer Foundation from CNY collection from
-staff and students &amp; sale of recyclable items collected from “KR Hands
-On Day - Lend a Hand, Save the Earth”</p>
 </li>
 </ul>
 </div>
