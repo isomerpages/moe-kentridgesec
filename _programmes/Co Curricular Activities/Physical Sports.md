@@ -67,7 +67,7 @@ sessions take place at the school’s Indoor Sports Hall Level 1.</p>
 <br>Mr Lim Kheng Joo Vincent
 <br>Mrs Kalaivani Selvin
 <br>Mdm Lam Cheng Wan
-<br>Ms Cheong Suet Fun</p>
+<br>Ms Vivian Cheong</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -98,7 +98,8 @@ level during competitions.</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Jitendra
 <br>Ms Siti Fadzilah
-<br>Mr Ang Swee Huat</p>
+<br>Mr Ang Swee Huat
+<br>Ms Janice Teo</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -150,7 +151,8 @@ such as Camp craft and Outdoor Cooking.</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Ong Wee Kwang
 <br>Mr Chua Chau Lee
-<br>Ms Low Shi Ting</p>
+<br>Ms Low Shi Ting
+<br>Ms Wang Jingou</p>
 </div>
 </details>
 </div>
