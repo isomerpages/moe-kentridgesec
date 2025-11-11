@@ -32,7 +32,9 @@ performed for the Voices of Singapore Festival.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Wong Weng Han
-<br>Ms Monisha Kaur</p>
+<br>Ms Monisha Kaur
+<br>Ms Mabel Loon
+<br>Mr Karl Anish Luis</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -74,17 +76,14 @@ inclined, while learning to cherish the bonds of friendships built during
 their journey with the Band. Come join us and be a part of “One Band, One
 Sound”!
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong> 
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm How Siow Ling
 <br>Mr Kevin Nicholas Fonseka
-<br>Mr Mohamad Rasull</p>
+<br>Mr Mohamad Rasull
+<br>Mr Darrell Lim</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Concert band" src="/images/concert band.png">
@@ -111,11 +110,7 @@ build their skills through holiday workshops and inter-school exchanges.
 We welcome you to the Modern Dance Club, a family that braves challenges
 together and where everyone is allowed to grow at their own pace.
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -160,16 +155,13 @@ House and many others. Our members not only learn to be artistically inclined
 but they cherish the bonds of friendships built during their stay with
 us.
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2023 - SYF Arts Presentation – Certificate of Distinction
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Siti Suhara
-<br>Ms Dian Farhana</p>
+<br>Ms Dian Farhana
+<br>Ms Susan Liang</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama Club" src="/images/drama club.png">
@@ -226,18 +218,13 @@ to showcase their creativity.
 can support their creativity.
 <br>
 </p>
-<p><strong><em>Achievements</em></strong>
-<br>2024 - Live On Festival - High Distinction and Merit, School Category
-<br>2024 - SYF Art Exhibition - Certificate of Recognition
-<br>2023 - Live On Festival - Second Place, School Category
-<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award
-<br>2022 – Extravangaza (Merit)
-<br>2016 - 2021 – Green Schools @ South West – Gold Award
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr&nbsp;Kenneth Pek
-<br>Mr&nbsp;Hong Thin Yong</p>
+<br>Mr&nbsp;Hong Thin Yong
+<br>Mr Oliver Ho</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eARTh Club" src="/images/eARTh_Club_1.png">

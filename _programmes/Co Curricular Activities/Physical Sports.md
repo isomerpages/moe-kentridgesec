@@ -27,14 +27,8 @@ Competency skills and translate them into positive attitudes and self-expression
 and girls take part in sanctioned competitions and achieve credible results
 and rankings.</p>
 <p></p>
-<p><strong><em>Achievements</em></strong>
-<br>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
-Award (2 students)
-<br>2. 2023 National School Games South Zone 'B' Division Girls – Quarter
-Finalist
-<br>3. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist
-<br>4. 2022 National School Games South Zone 'C' Division Girls – Quarter
-Finalist</p>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Chan Kar Hong
@@ -65,18 +59,15 @@ and will create suitable leadership positions such as Captain, Vice-Captains,
 Student Well-Being Representatives, Training, VIA, Logistics and Administration
 Personnel to develop our students to be well-rounded future leaders. Training
 sessions take place at the school’s Indoor Sports Hall Level 1.</p>
-<p></p>
-<p><strong><em>Achievements</em></strong>
-<br>1. 2023 Singapore Schools Sports Council - National School Games - Sportsmanship
-Award (2 students)
-<br>2. 2023 National School Games South Zone 'C' Division Boys – Quarter Finalist
-<br>3. 2022 National School Games South Zone 'C' Division Boys – Quarter Finalist</p>
+<p>
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Lim Kheng Joo Vincent
 <br>Mrs Kalaivani Selvin
 <br>Mdm Lam Cheng Wan
-<br>Ms Cheong Suet Fun</p>
+<br>Ms Vivian Cheong</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -101,22 +92,14 @@ skills and game strategies. To give our players greater exposure, friendly
 matches are arranged to let them gain experience and increase their confidence
 level during competitions.</p>
 <p></p>
-<p><strong><em>Achievements</em></strong>
-<br>1. 2024 Singapore Schools Sports Council - National School Games - Sportsmanship
-Award (4 students)
-<br>2. 2023 Singapore Schools Sports Council - National School Games - Sportsmanship
-Award (2 students)
-<br>3. 2023 National School Games Floorball Championship 'C' Division Boys
-– Qualified for 2nd Round
-<br>4. 2023 National School Games Floorball Championship 'B' Division Girls
-– Qualified for 2nd Round
-<br>5. 2022 National School Games Floorball Championship – Sportsmanship Award
-(4 students)</p>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+</p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Jitendra
 <br>Ms Siti Fadzilah
-<br>Mr Ang Swee Huat</p>
+<br>Mr Ang Swee Huat
+<br>Ms Janice Teo</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -168,7 +151,8 @@ such as Camp craft and Outdoor Cooking.</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Ong Wee Kwang
 <br>Mr Chua Chau Lee
-<br>Ms Low Shi Ting</p>
+<br>Ms Low Shi Ting
+<br>Ms Wang Jingou</p>
 </div>
 </details>
 </div>
