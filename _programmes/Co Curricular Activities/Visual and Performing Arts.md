@@ -76,11 +76,7 @@ inclined, while learning to cherish the bonds of friendships built during
 their journey with the Band. Come join us and be a part of “One Band, One
 Sound”!
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong> 
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -114,11 +110,7 @@ build their skills through holiday workshops and inter-school exchanges.
 We welcome you to the Modern Dance Club, a family that braves challenges
 together and where everyone is allowed to grow at their own pace.
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment</p>
-<p>2023 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -163,11 +155,7 @@ House and many others. Our members not only learn to be artistically inclined
 but they cherish the bonds of friendships built during their stay with
 us.
 <br>
-</p>
-<p><strong><em>Achievements</em></strong>
-<br>2025 - SYF Arts Presentation – Certificate of Accomplishment
-<br>2023 - SYF Arts Presentation – Certificate of Distinction
-<br>2021 - SYF Arts Presentation – Certificate of Accomplishment
+<br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -230,13 +218,7 @@ to showcase their creativity.
 can support their creativity.
 <br>
 </p>
-<p><strong><em>Achievements</em></strong>
-<br>2024 - Live On Festival - High Distinction and Merit, School Category
-<br>2024 - SYF Art Exhibition - Certificate of Recognition
-<br>2023 - Live On Festival - Second Place, School Category
-<br>2022 - 2023 - Green Schools @ South West – 3 Stars Award
-<br>2022 – Extravangaza (Merit)
-<br>2016 - 2021 – Green Schools @ South West – Gold Award
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
