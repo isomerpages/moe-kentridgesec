@@ -104,8 +104,10 @@ photography, Architecture photography, Photo editing e.t.c.</p>
 <p><u>Advanced Videography</u>&nbsp;– training in shooting of video genres
 such as visual documentaries, interviews, video logs, dramas, advertisements,
 video editing using special particle effects and green screen effects e.t.c.</p>
-<p>Note: All students will learn to operate basic AV equipment to support
-school operations.</p>
+<p>Note: All first Year Media Club students will learn to operate basic AV
+equipment to support school operations and will be given a chance to further
+specialise to run events and handle more advanced AV equipment in the second
+year onwards, as an AV specialist.</p>
 <p></p>
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script
 / Content writing + National Education)
