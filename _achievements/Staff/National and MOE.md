@@ -59,7 +59,7 @@ staff who demonstrate desired qualities for service excellence.</p>
 <p>Mrs Elaine Su</p>
 </li>
 </ul>
-<p><strong>Caring Teacher Awards 2024(School Level)</strong>
+<p><strong>Caring Teacher Awards 2024 (School Level)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
