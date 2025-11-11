@@ -47,11 +47,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Hack@Code (Robotics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National Online Coding Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hack@Code (Robotics) – Judges Award
-<br>RoboSports - 2nd, 3rd &amp; 4th Place</p>
+<p>RoboSports - 2nd, 3rd &amp; 4th Place</p>
 </td>
 </tr>
 <tr>
