@@ -111,8 +111,7 @@ school operations.</p>
 / Content writing + National Education)
 <br>Our Schools, Our Stories (Photography and Videography)
 <br>CNB #DrugFreeSG (Videography)
-<br>N.Parks Singapore Gardens Photographer of the Year (Photography)
-<br>#ClickArt S2 Cluster Showcase (Photography)</p>
+<br>N.Parks Singapore Gardens Photographer of the Year (Photography)</p>
 <p></p>
 <p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
