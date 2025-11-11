@@ -104,15 +104,16 @@ photography, Architecture photography, Photo editing e.t.c.</p>
 <p><u>Advanced Videography</u>&nbsp;– training in shooting of video genres
 such as visual documentaries, interviews, video logs, dramas, advertisements,
 video editing using special particle effects and green screen effects e.t.c.</p>
-<p>Note: All students will learn to operate basic AV equipment to support
-school operations.</p>
+<p>Note: All first Year Media Club students will learn to operate basic AV
+equipment to support school operations and will be given a chance to further
+specialise to run events and handle more advanced AV equipment in the second
+year onwards, as an AV specialist.</p>
 <p></p>
 <p><strong>Key Competitions<br></strong>N.E.mation! (Storyboarding + Script
 / Content writing + National Education)
 <br>Our Schools, Our Stories (Photography and Videography)
 <br>CNB #DrugFreeSG (Videography)
-<br>N.Parks Singapore Gardens Photographer of the Year (Photography)
-<br>#ClickArt S2 Cluster Showcase (Photography)</p>
+<br>N.Parks Singapore Gardens Photographer of the Year (Photography)</p>
 <p></p>
 <p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
