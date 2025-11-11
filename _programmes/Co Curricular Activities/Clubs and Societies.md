@@ -27,11 +27,8 @@ are not only trained to be quick-witted and articulate speakers, but the
 many opportunities to work in teams also teach them the value of camaraderie
 and friendship.</p>
 <p></p>
-<p><strong><em>Achievements</em></strong>
-<br>2023: SSSDC (Division 1)19th Best Speaker
-<br>2021: Debate Association Debating Championships Semi-finalists (Gold Division),
-2nd Under-14 Best Speaker
-<br>2021: ACJC Orator’s Trophy Semi-finalist</p>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+</p>
 <p></p>
 <p><strong><em>Teachers-in- charge:</em></strong>
 <br>Mr Lok Sin Min
@@ -57,61 +54,9 @@ helps students in developing problem-solving skills, critical thinking
 and creativity. It also helps improve students’ memory and concentration.
 We will train students to take part in internal and external chess competitions.</p>
 <p></p>
-<p><strong><em>Achievements</em></strong>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 </p>
-<p>National School Individual (NSI)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>U16 Open 6th Place</p>
-</li>
-<li>
-<p>U14 Girls 5th Place</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>U16 Open Champion</p>
-</li>
-<li>
-<p>U14 Open 9th Place</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>Victorian Cup</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>International Chess Secondary Schools Category 2nd place</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>JPJC Chess Tournament</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec Sch Category (Team) Champion Overall</p>
-</li>
-<li>
-<p>Individual Category 1st Prize and 5th Prize</p>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Ong Chuan Hock
 <br>Mr Tan Xue Ji</p>
@@ -168,13 +113,7 @@ school operations.</p>
 <br>N.Parks Singapore Gardens Photographer of the Year (Photography)
 <br>#ClickArt S2 Cluster Showcase (Photography)</p>
 <p></p>
-<p><strong><em>Achievements</em></strong>
-<br>2023:CNB #DrugFreeSG Competition 2023 - Bronze, Merit
-<br>2023: #ClickArt S2 Cluster Showcase 2023 - 3 Distinctions, 8 Accomplishments
-<br>2022: Digital For Life Youth Awards (Challenge 4 Video Category) – Distinction
-<br>2022: #ClickArt S2 Cluster Showcase 2022 – 3 Accomplishments
-<br>2021: N.E.mation!2021 - Top 10
-<br>2021:&nbsp;#ClickArt S2 Cluster Showcase 2021&nbsp;-&nbsp;2 Distinctions
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -233,97 +172,14 @@ and Computational Thinking Competition (DrCT)</p>
 <p>World Robot Olympiad / National Robotics Competition</p>
 </li>
 <li>
-<p>Hack@Code&nbsp;</p>
-</li>
-</ul>
-<p><strong><em>Achievements</em></strong>
-</p>
-<p>National Junior Informatics Olympiad</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2025: 7 Gold, 11 Silver, 12 Bronze and 15 Honorable Mention</p>
-</li>
-</ul>
-<p>Design Thinking with robotics and Computational Thinking Competition</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024: 5 Gold, 4 Silver, 12 Bronze and 7 Honorable Mention</p>
-</li>
-<li>
-<p>2023: 1 Gold, 14 Silver, 21 Bronze and 17 Honorable Mention</p>
-</li>
-<li>
-<p>2022: 2 Gold, 2 Silver, 5 Bronze and 9 Honorable Mention</p>
-</li>
-<li>
-<p>2021: 2 Gold, 3 Silver, 8 Bronze and 8 Special Mention</p>
-</li>
-</ul>
-<p>IDE (Innovation, Design and Engineering) Robotics Competition</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2025: Robotics - 1st, 2nd, 4th, 5th &amp; 7th Place</p>
-</li>
-<li>
-<p>2024: Robotics - 3rd, 7th &amp; 8th Place</p>
-</li>
-<li>
-<p>2024: Sprint - 2nd and 3rd Place</p>
-</li>
-<li>
-<p>2023: 7th Place - Team “Sparkling Claws”</p>
-</li>
-</ul>
-<p>Hack@Code</p>
-<ul>
-<li>
-<p>2025: Hack@Code (Robotics) – Judges Award</p>
-</li>
-<li>
-<p>2024:</p>
-<ul>
-<li>
-<p>Hack@Code (Scratch) - Most Interactive Design x 2, Best Presentation Award&nbsp;,
-Judges Award, Merit Award</p>
-</li>
-<li>
-<p>Hack@Code (Lego Robotics) - 8<sup>th</sup>, 9<sup>th</sup> and 10<sup>th</sup>&nbsp;&nbsp;</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li>
-<p>2023:&nbsp;</p>
-<ul>
-<li>
-<p>Hack@Code (Scratch) - Most Interactive Design, Merit Award</p>
-</li>
-<li>
-<p>Hack@Code (Lego Robotics) - 1st, 3rd&nbsp;</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<p>National Robotics Competition (World Robot Olympiad)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2025: RoboSports - 2nd, 3rd &amp; 4th Place</p>
-</li>
-<li>
-<p>2024: RoboSports - 2nd Place</p>
-</li>
-<li>
-<p>2023: RoboMission Junior - Certificate of Participation</p>
-</li>
-<li>
-<p>2023: RoboSports - 1st and 3rd
+<p>Hack@Code&nbsp;
 <br>
 </p>
 </li>
 </ul>
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
+<br>
+</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Michelle Cheong
 <br>Mr Seto Yi Kang, Marcus
