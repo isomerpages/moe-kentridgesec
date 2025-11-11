@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hack@Code (Robotics)</p>
+<p>Hack@Code (Robotics) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Judges Award</p>
