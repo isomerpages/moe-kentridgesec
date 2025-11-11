@@ -32,36 +32,11 @@ Practices;</p>
 collaboration and critical and inventive thinking skills.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slides_ver_2.jpg">
-</div>
-<p><strong>Sports Exposure -&nbsp;Experiential Week</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Exposure - Experiential Week" src="/images/sports%20yellow.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Exposure - Experiential Week" src="/images/sports%20red.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Exposure - Experiential Week" src="/images/sports%20green.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Exposure - Experiential Week" src="/images/sports%20blue.png">
-</div>
-<p><strong>Sports Empowerment - Outreach to Primary Schools</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sports Empowerment - Outreach to Primary Schools" src="/images/Sports%20Empowerment%20-%20Outreach%20to%20Primary%20Schools.png">
 </div>
-<p><strong>Sports Empowerment - Student Leadership&nbsp;Training</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sports Empowerment - Student Leadership Training" src="/images/Sports%20Empowerment%20-%20Student%20Leadership%20Training.png">
-</div>
-<p><strong>Sports Excellence - Sports CCA</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Excellence - Sports CCA" src="/images/Sports%20Excellence%20-%20Sports%20CCA.png">
 </div>
 <p></p>
