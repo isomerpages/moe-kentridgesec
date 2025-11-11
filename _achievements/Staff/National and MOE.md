@@ -5,45 +5,6 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<p><strong>Academy Awards for Professional Development</strong>
-<br>The Academy Awards (AA) for Professional Development recognise and affirm
-the efforts of officers in the education service and partners in education
-for their contributions to the professional development of the teaching
-fraternity.</p>
-<p>
-<br><strong>Associate of AST Award - Education Officers</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Innovator (SgLDC / SLS CG): Mr Jitrendra Bhilare
-<br>
-</p>
-</li>
-</ul>
-<p><strong>Associate of AST Award - Executive &amp; Administrative Staff and Allied Educators</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mentor: Mr Koh Beng Chye
-<br>
-</p>
-</li>
-</ul>
-<p><strong>Outstanding Youth in Education Award (OYEA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Lim Bee Leng
-<br><a href="https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning" rel="noopener noreferrer nofollow" target="_blank">She turned a chat about hooliganism into a discussion on the importance of learning</a>
-</p>
-</li>
-</ul>
-<p>The OYEA is a national award that recognises and honours the achievements
-of young educators who&nbsp;have shown admirable passion for teaching,
-and commitment to inspiring and nurturing their students.&nbsp;Launched
-in 1999, it seeks to recognise excellent younger teachers for their youthful
-idealism, enthusiasm, energy, and serving as inspiring role models for
-the fraternity.</p>
 <p><strong>MOE Service Excellence Award</strong>
 <br>The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognises
 staff who demonstrate desired qualities for service excellence.</p>
@@ -98,6 +59,45 @@ staff who demonstrate desired qualities for service excellence.</p>
 <p>Mrs Elaine Su</p>
 </li>
 </ul>
+<p><strong>Academy Awards for Professional Development</strong>
+<br>The Academy Awards (AA) for Professional Development recognise and affirm
+the efforts of officers in the education service and partners in education
+for their contributions to the professional development of the teaching
+fraternity.</p>
+<p>
+<br><strong>Associate of AST Award - Education Officers</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Innovator (SgLDC / SLS CG): Mr Jitrendra Bhilare
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Associate of AST Award - Executive &amp; Administrative Staff and Allied Educators</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mentor: Mr Koh Beng Chye
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Outstanding Youth in Education Award (OYEA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Lim Bee Leng
+<br><a href="https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning" rel="noopener noreferrer nofollow" target="_blank">She turned a chat about hooliganism into a discussion on the importance of learning</a>
+</p>
+</li>
+</ul>
+<p>The OYEA is a national award that recognises and honours the achievements
+of young educators who&nbsp;have shown admirable passion for teaching,
+and commitment to inspiring and nurturing their students.&nbsp;Launched
+in 1999, it seeks to recognise excellent younger teachers for their youthful
+idealism, enthusiasm, energy, and serving as inspiring role models for
+the fraternity.</p>
 <p><strong>President’s Award For Teachers 2020, Finalist<br>Mr Vincent Heng Swee Chye</strong>
 </p>
 <div class="isomer-image-wrapper">
