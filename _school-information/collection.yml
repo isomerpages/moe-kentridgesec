@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Photo Gallery.md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
@@ -26,3 +25,4 @@ collections:
       - National Digital Literacy Programme (NDLP).md
       - Frequently Asked Questions (FAQS).md
       - Contact Us.md
+      - Photo Gallery.md
