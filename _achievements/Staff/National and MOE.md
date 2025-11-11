@@ -59,6 +59,25 @@ staff who demonstrate desired qualities for service excellence.</p>
 <p>Mrs Elaine Su</p>
 </li>
 </ul>
+<p><strong>Caring Teacher Awards 2024(School Level)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Elaine Su</p>
+</li>
+<li>
+<p>Mrs Roszana Chu</p>
+</li>
+<li>
+<p>Ms Dian Farhana</p>
+</li>
+<li>
+<p>Ms Nicole Heng</p>
+</li>
+<li>
+<p>Mr Mohammad Helmy Sadon</p>
+</li>
+</ul>
 <p><strong>Academy Awards for Professional Development</strong>
 <br>The Academy Awards (AA) for Professional Development recognise and affirm
 the efforts of officers in the education service and partners in education
@@ -119,25 +138,7 @@ right values in students. Mr Heng heads the Department of PE &amp; CCA.
 Educators like him constantly adopt innovative approaches in their lessons,
 and are lifelong learners and mentors to their peers. Through their words
 and deeds, these educators are an inspiration to their students and colleagues.</p>
-<p><strong>Caring Teacher Awards (School Level)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mrs Elaine Su (Tan Shihan)</p>
-</li>
-<li>
-<p>Ms Lee Pei En Tabitha</p>
-</li>
-<li>
-<p>Ms Kalpana D/O Kaleselvan</p>
-</li>
-<li>
-<p>Ms Foo Shuan Chou</p>
-</li>
-<li>
-<p>Mr Yang Kuangji</p>
-</li>
-</ul>
+<p></p>
 <p><strong>MOE Service Excellence Award 2014<br>Mr Liew Seng Mun (Admin Manager 1)</strong>
 </p>
 <p>Mr Liew Seng Mun, Administration Manager 1, received the MSEA 2014 which
