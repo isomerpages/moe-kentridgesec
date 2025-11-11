@@ -31,8 +31,7 @@ of the Secondary 4N and 5N streams in 2020.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Lam Yao Lun
-<br>Mrs Teo Wee Leng
-<br>Ms Karina Heng</p>
+<br>Mrs Teo Wee Leng</p>
 </div>
 </details>
 <details class="isomer-details">
