@@ -45,11 +45,11 @@ you to consult the privacy notices of those sites.</p>
 <p></p>
 <h5>PHOTOGRAPHY AND VIDEOGRAPHY AT SCHOOL EVENTS/ PUBLICATION OF STUDENTS’ WORK</h5>
 <hr>
-<p>Photographs or video images of your child/ ward may be taken during school
-activities and events. The school may use and publish such photographs
-or video recordings in school publications, such as the school’s website,
-social media channels, or other communication channels. By having your
-child/ward participate in these programmes, you would have deemed to have
-consented to the videorecording and photography of your child/ ward for
-the school’s archival and publicity purposes</p>
+<p>Photographs or video images of you or your child/ward may be taken during
+school activities and events such as classroom lessons, CCA, school camps,
+or school concerts. The school may use and publish such photographs or
+video recordings in school publications, the school's website, social media
+channels, or other communication channels.</p>
+<p>If you object to your child's/ward's photo or video being used for publicity
+purposes, please inform the school.</p>
 <p></p>
