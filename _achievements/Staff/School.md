@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h4><strong>The F.I.R.E. Awards</strong><br>Are presented to staff members who exemplify the school values of FITNESS, INTEGRITY, RESPECT and EXCELLENCE.</h4>
+<p><strong>The F.I.R.E. Awards</strong>
+<br>Are presented to staff members who exemplify the school values of FITNESS,
+INTEGRITY, RESPECT and EXCELLENCE.</p>
 <p><strong><em>The F.I.R.E. Fitness Award</em></strong> 
 <br>Is presented to a staff member who is resilient and cares for his personal
 well-being and professional development.
@@ -28,7 +30,10 @@ and takes pride in educating students.
 do their best and nurtures in them a spirit of innovation.
 <br><strong>Ms Heng Hui Lyn, Nicole<br>Mr K Chandra<br>Mr Chow Kok Wei Kevin<br>Ms Hong Yunfang<br>Mr James Quek Chin Wee</strong>
 </p>
-<h4><br><strong>The Vision Awards</strong><br>Are presented to teaching staff who exemplify the school VISION of the heart of a saint, the passion of an inventor and the will of an olympian.</h4>
+<p>
+<br><strong>The Vision Awards</strong>
+<br>Are presented to teaching staff who exemplify the school VISION of the
+heart of a saint, the passion of an inventor and the will of an olympian.</p>
 <p><strong><em>The Heart of a Saint VISION Award</em></strong>
 <br>Is presented to a teaching staff member who shows care for self, community
 and environment; is always respectful and leads to serve others.
