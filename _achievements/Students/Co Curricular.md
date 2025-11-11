@@ -423,7 +423,7 @@ Competition 2021</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Unit Overall Proficiency Award 2023</strong>
+<p><strong>Unit Overall Proficiency Award 2024</strong>
 </p>
 </td>
 </tr>
@@ -445,18 +445,10 @@ Competition 2021</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Boys’ Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p>Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -475,7 +467,7 @@ Competition 2021</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Singapore Youth Festivals Arts Presentation</strong>
+<p><strong>Singapore Youth Festivals Arts Presentation 2025</strong>
 </p>
 </th>
 </tr>
