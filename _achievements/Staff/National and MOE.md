@@ -138,7 +138,6 @@ right values in students. Mr Heng heads the Department of PE &amp; CCA.
 Educators like him constantly adopt innovative approaches in their lessons,
 and are lifelong learners and mentors to their peers. Through their words
 and deeds, these educators are an inspiration to their students and colleagues.</p>
-<p></p>
 <p><strong>MOE Service Excellence Award 2014<br>Mr Liew Seng Mun (Admin Manager 1)</strong>
 </p>
 <p>Mr Liew Seng Mun, Administration Manager 1, received the MSEA 2014 which
