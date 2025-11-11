@@ -26,8 +26,7 @@ maturity and character and two of them were recently the valedictorians
 of the Secondary 4N and 5N streams in 2020.
 <br>
 </p>
-<p><strong><em>Achievements</em></strong>
-<br>2021 - Unit Overall Proficiency Award&nbsp; - Bronze
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong> 
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -61,13 +60,7 @@ Ridge Secondary has grown steadily in strength with the faithful support
 of the Volunteer Adult Officers. Come and join us in this GB 54th family!
 <br>
 </p>
-<p><strong><em>Achievements</em></strong>
-<br>2021 - Dr Low Guat Tin Challenge - Gold
-<br>
-</p>
-<p><strong><em>Achievements - Unit Overall Proficiency</em></strong>
-<br>2022 - Gold
-<br>2021 - Gold
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -117,10 +110,7 @@ Senior Specialist&nbsp;Assessment Course
 <br>- Cybercrime Prevention Program
 <br>
 </p>
-<p><strong><em>Achievements (BUC)</em></strong>
-<br>2023 - Unit Recognition - Distinction
-<br>2022 - Unit Recognition - Distinction
-<br>2021 - Unit Recognition - Distinction
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
@@ -153,9 +143,7 @@ progress to have experiences of being leaders as they take charge of their
 juniors and events, with the ultimate goal of leading the Unit.
 <br>
 </p>
-<p><strong><em>Achievements</em></strong>
-<br>2022 - Unit Overall Proficiency Award - Participation
-<br>2021 - Unit Overall Proficiency Award - Gold
+<p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
