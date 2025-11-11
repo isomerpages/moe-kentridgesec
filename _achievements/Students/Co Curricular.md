@@ -519,42 +519,20 @@ Competition 2021</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore School Sports Council National School Games</p>
+<p>Singapore Schools Sports Council National School Games (Sportsmanship
+Award)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sportmanship Award - 2 Sailing, 2 Basketball, 2 Floorball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore School Sports Council Colours Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Taekwondo (Kyorugi) National ‘B’ Div Boys (Individual Under 68kg)</p>
+<p>4 from Floorball</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lion City Cup (Singapore National Development Centre Under-15 team)</p>
+<p>Singapore Schools Sports Council – 9<sup>th</sup> Asian School Basketball
+Championships 2025 &amp; 14<sup>th</sup> ASEAN Schools Games 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Basketball – ‘C’ Division Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarter Finalist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Badminton – ‘B’ Division Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarter Finalist</p>
+<p>1 student from Basketball</p>
 </td>
 </tr>
 <tr>
@@ -562,7 +540,63 @@ Competition 2021</p>
 <p>National School Games Badminton – ‘C’ Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarter Finalist</p>
+<p>3<sup>rd</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton – ‘C’ Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G.A.R.an.G Adventure Race - Outdoor Adventure Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> runner up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Water Polo – ‘C’ Division Boys (SP-CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eagles Aquatic Water Polo Championship – U14 Boys (SP-CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eagles Aquatic Water Polo Championship – U18 Girls (SP-CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SP-CCA Water Polo Invitational Competition – ‘C’ Division Boys (SP-CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Southeast Asian and Invitational Wrestling Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Placing</p>
 </td>
 </tr>
 </tbody>
@@ -581,54 +615,10 @@ Competition 2021</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3rd Beach Woodball World Cup Championship</p>
+<p>Singapore Schools Sports Council Colours Award (Distinction)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20th Singapore Lion City Cup International Woodball Championship 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Ladies - Rank 2 and 3
-<br>Youth Men – Rank 6, 7 and 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Lion City Woodball Open Championship 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st, 2nd, 3rd, 4th – Youth-Men Category
-<br>2nd, 3rd – Youth-Ladies Category</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Taekwondo Championship 2023 (Kyorugi) – ‘B’ Division
-Male Black Belt Under 68 kg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>‘B’ Division Girls Tchoukball Competition by SG Active &amp; Tchoukball
-Association of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Runner Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lions Singapore Aquathlon 2023 - Inter-School U17 (13-14 Years Old)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Runner Up</p>
+<p>Woodball &amp; Wrestling</p>
 </td>
 </tr>
 </tbody>
