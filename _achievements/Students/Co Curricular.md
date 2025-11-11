@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<ul>
-<li>
-<p>Cognitive</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Cognitive</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -400,9 +402,12 @@ Competition 2021</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Leadership</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Leadership</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -449,9 +454,12 @@ Competition 2021</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Aesthetics</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Aesthetics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -498,20 +506,18 @@ Competition 2021</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Physical</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Physical</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore School Sports Council National School Games</p>
@@ -628,9 +634,14 @@ Association of Singapore</p>
 </tr>
 </tbody>
 </table>
-</li>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Social-Moral</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>Social-Moral</p>
 <p><strong>Edusave Character Awards (ECHA)</strong>
 <br>The Edusave Character Award which is given to recognise students for demonstrating
 exemplary character and outstanding personal qualities through their behaviour
@@ -643,4 +654,7 @@ staff and students &amp; sale of recyclable items collected from “KR Hands
 On Day - Lend a Hand, Save the Earth”</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
