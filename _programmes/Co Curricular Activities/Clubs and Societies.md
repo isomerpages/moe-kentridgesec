@@ -33,6 +33,7 @@ and friendship.</p>
 <p><strong><em>Teachers-in- charge:</em></strong>
 <br>Mr Lok Sin Min
 <br>Ms Nurhidayah Azman
+<br>Ms Anita Salleh
 <br>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Debate Society" src="/images/debate society.png">
@@ -120,6 +121,8 @@ school operations.</p>
 <br>Mr Chew Ying Chao
 <br>Mr Ng Chong Hern Bennedic
 <br>Ms Zannatul Nauum Moumee
+<br>Mr Yang Shihao
+<br>Ms Kelly Tan
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -133,7 +136,7 @@ school operations.</p>
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 - 1800 HRS
 <br>THURSDAY: 1535- 1800 HRS</p>
-<p><strong>Mission:</strong>Robotics members are equipped through collaboration,
+<p><strong>Mission: </strong>Robotics members are equipped through collaboration,
 community engagement and skill development to be computational thinkers
 and work independently and as a group.</p>
 <p>Robotics Club aims to further develop the skills and competencies of students
