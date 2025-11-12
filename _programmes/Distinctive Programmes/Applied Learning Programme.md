@@ -40,16 +40,16 @@ initiatives; and</p>
 positive change within and beyond the school.</p>
 </li>
 </ul>
-<p>
-<br>These outcomes reflect the school’s commitment to empowering students
+<p>These outcomes reflect the school’s commitment to empowering students
 with the mindset, values and future-ready competencies to contribute meaningfully
-to Singapore’s sustainable development.</p>
-<p><strong>Our Approach to Sustainability Education</strong>
+to Singapore’s sustainable development.
+<br>
+<br><strong>Our Approach to Sustainability Education</strong>
 <br>The ALP adopts a whole-school approach to sustainability education that
 integrates learning across subjects, school spaces and community partnerships.
 It seeks to equip students with the knowledge, values and skills to take
 action for a more sustainable future and to lead initiatives that promote
-environmental stewardship.</p>
+environmental stewardship</p>
 <p>Learning experiences are structured to move students from awareness to
 action:</p>
 <ul data-tight="true" class="tight">
@@ -63,15 +63,12 @@ initiatives that contribute to a more sustainable school and community.</p>
 </li>
 <li>
 <p>In the<strong> <em>Lead</em></strong> phase, they take ownership of projects
-that inspire collective action and positive change.
-<br>
-</p>
+that inspire collective action and positive change.</p>
 </li>
 </ul>
 <p>Through this progression, students develop head, heart, and hands, building
 the <strong>confidence</strong>, <strong>empathy</strong>, and <strong>agency </strong>to
 become active contributors to a sustainable and inclusive Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ALP 2" src="/images/ALP_2.png">
 </div>
