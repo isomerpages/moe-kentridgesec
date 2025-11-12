@@ -41,40 +41,71 @@ performed for the Voices of Singapore Festival.
 <summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1530 - 1800 HRS
+<br>THURSDAY: 1530 - 1800 HRS
 <br>
 </p>
-<p>The Kent Ridge Secondary School Concert Band, established in 2001, has
-been around since the school’s inception in the year 2000. Kent Ridge Concert
-Band is the crucible in which capable leaders and strong friendships are
-forged. The Band is a contributing factor in the school’s artistic atmosphere
-with its wide collection of genres that ranges from classical compositions
-to pop, jazz, rock and even traditional folk songs. The Concert Band participates
-in the Singapore Youth Festival (SYF) biannually and on alternate years,
-we participate in the school’s very own concert, Vivace! It is an avenue
-for visual performing art CCAs to showcase their talents in front of an
-audience while raising funds for charity.&nbsp;</p>
-<p>This year, the Band participated in the Singapore Youth Festival despite
-the strict Safe Management Measures during the current COVID-19 pandemic,
-and pulled through countless hours of online practice sessions, overcoming
-many limitations and restrictions. Concert Band displayed resilience and
-perseverance during these trying times, achieving a certificate of Accomplishment
-for SYF.
+<p>Since 2001, the Kent Ridge Concert Band has been the heartbeat of our
+school's musical community. We provide a supportive environment where students
+discover their musical potential while building lifelong friendships and
+essential leadership skills.
 <br>
 </p>
-<p><strong>Singapore Youth Festival 2021</strong>
+<p><strong>Why Join Concert Band?</strong>
+<br><strong>Musical Growth</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF2021" src="/images/BCS230-KENG-RIDGE-SECONDARY-SCHOOL-A-35-1536x1024.jpg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Master diverse genres from classical to contemporary pop, jazz, and rock</p>
+</li>
+<li>
+<p>Perform with professional-standard instruments and equipment</p>
+</li>
+<li>
+<p>Receive guidance from experienced instructors and student leaders</p>
+</li>
+</ul>
+<p><strong>Performance Opportunities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Showcase talents at school events including National Day celebrations
+and CCA Fair</p>
+</li>
+<li>
+<p>Participate in the prestigious Singapore Youth Festival (SYF) every two
+years</p>
+</li>
+<li>
+<p>Perform at community events like West Coast RC National Day celebrations</p>
+</li>
+</ul>
+<p><strong>Personal Development</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build confidence through regular public performances</p>
+</li>
+<li>
+<p>Develop teamwork and communication skills</p>
+</li>
+<li>
+<p>Cultivate leadership qualities as section leaders and committee members</p>
+</li>
+<li>
+<p>Form lasting friendships with like-minded peers</p>
+</li>
+</ul>
 <p></p>
-<p>Serenading the school during school events like CCA Fair and Awards Day
-cum National Day Celebration, members of the Band have multiple chances
-to perform for the school. Through this CCA, members become more musically
-inclined, while learning to cherish the bonds of friendships built during
-their journey with the Band. Come join us and be a part of “One Band, One
-Sound”!
+<p><strong>Our Commitment</strong>
+<br>At Kent Ridge Concert Band, we believe music builds bridges between people
+and cultures. Through our motto "One Band, One Sound," we nurture empathetic
+communication, foster camaraderie, and develop well-rounded individuals
+who are confident musicians and thoughtful leaders.
+<br>
+</p>
+<p>Whether you're a beginner or experienced musician, there's a place for
+you in our Concert Band family. Come discover the joy of making music together!
 <br>
 <br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong> 
 <br>
@@ -86,7 +117,7 @@ Sound”!
 <br>Mr Darrell Lim</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Concert band" src="/images/concert band.png">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band 2025" src="/images/concert band 2025.jpg">
 </div>
 </div>
 </details>
