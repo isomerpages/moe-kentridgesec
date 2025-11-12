@@ -31,3 +31,36 @@ empathy, compassion, and respect.</p>
 as students represented Singapore with pride and responsibility. The <strong>Hanoi Cultural and Learning Journey 2025</strong> truly
 embodied the school’s vision — nurturing hearts of compassion, inventive
 minds, and resilient spirits ready to thrive in a global community.</p>
+<p></p>
+<p><strong>Hoa Binh Electric Dam</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hoa Binh Electric Dam" src="/images/Hoa_Binh_Electric_Dam.jpg">
+</div>
+<p><strong>Friendship Village</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Friendship Village" src="/images/Friendship_Village.jpg">
+</div>
+<p><strong>Duong Lam Ancient Village</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Duong Lam Ancient Village" src="/images/Duong_Lam_Ancient_Village.jpg">
+</div>
+<p><strong>School Cultural Exchange at Cau Giay Secondary School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Cultural Exchange at Cau Giay Secondary School" src="/images/School_Cultural_Exchange_at_Cau_Giay_Secondary_School.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Cultural Exchange at Cau Giay Secondary School" src="/images/School_Cultural_Exchange_at_Cau_Giay_Secondary_School_1.jpg">
+</div>
+<p><strong>Vietnam Military History Museum</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vietnam Military History Museum" src="/images/Vietnam_Military_History_Museum.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
