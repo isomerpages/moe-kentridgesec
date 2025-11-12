@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Overseas Learning Experience
 variant: tiptap
 ---
+<h4><strong>Hanoi, Vietnam (2 – 5 June 2025)</strong></h4>
 <p>From 2 to 5 June 2025, 36 students and 5 teachers embarked on a meaningful
 4D3N learning journey to <strong>Hanoi, Vietnam</strong>, blending cultural
 immersion, eco-stewardship, and ASEAN connectedness. Designed to develop
