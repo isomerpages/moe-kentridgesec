@@ -1,8 +1,9 @@
 ---
 title: Shanghai
-permalink: /programmes/overseas-learning-journeys/shanghai/
+permalink: /programmes/overseas-learning-experience/shanghai/
 description: ""
-third_nav_title: Overseas Learning Journeys
+third_nav_title: Overseas Learning Experience
+variant: tiptap
 ---
 **Shanghai Twinning Programme**
 
