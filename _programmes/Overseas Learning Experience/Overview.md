@@ -12,4 +12,9 @@ and Bali provided authentic opportunities for students to explore new environmen
 broaden perspectives and develop global mindedness. These experiences nurtured
 empathy, adaptability and a sense of shared humanity, enriching students’
 understanding of the world and inspiring them to lead with compassion,
-curiosity and a spirit of adventure, going Beyond Frontiers.</p>
+curiosity and a spirit of adventure, going Beyond Frontiers.
+<br>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/overseas-learning-experience/vietnam/" rel="noopener nofollow" target="_blank">Hanoi, Vietnam</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/overseas-learning-experience/china/" rel="noopener nofollow" target="_blank">Shenzhen, China</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/overseas-learning-experience/indonesia/" rel="noopener nofollow" target="_blank">Bali, Indonesia</a>
+</p>
