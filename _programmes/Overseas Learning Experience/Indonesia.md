@@ -5,10 +5,12 @@ description: ""
 third_nav_title: Overseas Learning Experience
 variant: tiptap
 ---
-In November 2018, twenty Secondary 2 students had the opportunity to be immersed in a different environment through classroom learning in Hong Kong, where students had a 2-day twinning experience with CCC Heep Woh College.
-
-Students also enhanced their Geographical knowledge by investigating on the housing and tourism sectors in Hong Kong. Geographical fieldwork was carried out on Chung Chau Island, where students learnt more about the coastal environment of Hong Kong.
-
-Through this programme, we hope to increase students’ knowledge of the world beyond their classrooms and textbooks and nurturing the sense of empathy and sense of belonging to Singapore.
-
-![Hong Kong](/images/hong%20kong.png)
+<h4><strong>Bali, Indonesia (2 to 5 June 2025)</strong></h4>
+<p>From 2 to 5 June 2025, a group of 36 students and 5 teachers embarked
+on a meaningful 4-day, 3-night overseas trip to Bali, Indonesia. The programme
+was designed to nurture students’ 21<sup>st</sup> Century Competencies (21CC),
+particularly Civic and Global Literacy, Critical and Inventive Thinking,
+and Communication and Collaboration Skills, through authentic and experiential
+learning beyond the classroom.</p>
+<p><strong>Exploring Traditional Craft and Cultural Heritage in Amed</strong>
+</p>
