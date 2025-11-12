@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Learning Experience
 ---
-<h4><strong>Shenzhen, China (2 – 6 June 2025)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Shenzhen, China (2 – 6 June 2025)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shenzhen China 2025" src="/images/Shenzhen__China_2025.jpg">
 </div>
@@ -92,3 +97,26 @@ that captured their key learning experiences.</p>
 school's vision of nurturing hearts of compassion, inventive minds, and
 resilient spirits ready to thrive in a global community, living out the
 spirit of going <em>Beyond Frontiers</em>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Shanghai Twinning Programme</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An exchange programme in which our students are immersed in a different
+environment through classroom learning and short homestay with their counterparts
+in Shanghai, China. They also visit places of interests to get a taste
+of the richness of Chinese history, culture and traditions. Our students
+also hosted their counterparts when they visit Singapore and KRSS.</p>
+<p>Through this programme, we hope to increase their knowledge of the world
+beyond Singapore and to allow them to evaluate what it means to call themselves,
+Singaporeans and to increase theirs sense of belonging to Singapore. It
+also helps our students to be good hosts to the visitors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shanghai" src="/images/shanghai.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
