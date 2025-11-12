@@ -3,35 +3,91 @@ title: Applied Learning Programme
 permalink: /programmes/distinctive-programmes/applied-learning-programme/
 description: ""
 third_nav_title: Distinctive Programmes
-variant: markdown
+variant: tiptap
 ---
-The School’s Applied Learning Programme (ALP) in “**Computational Thinking through Robotics**” will provide learning opportunities for students to apply their knowledge and skills in Science, Technology, Engineering, and Mathematics and to solve real-world problems. &nbsp;This programme is aligned to Singapore’s initiative to build a Smart Nation and helps to better prepare our students for the future economy.
-
-**ALP Outcomes**
-
-The outcomes of ALP are aligned with the Kent Ridgean Outcomes of nurturing every Kent Ridgean to be a Gracious Citizen, a Passionate Learner, and a Resilient Leader.&nbsp;The desired outcomes are to enable Kent Ridgeans to
-
-*   work well with peers in a respectful manner to share responsibilities and make sound decisions to present robotics-related solutions;
-*   apply computational thinking skills, creative and inquisitive competencies in understanding and solving real-world issues using robotics-related solutions; and
-*   display adaptability and resilience in the face of challenges when working in teams on robotics tasks.
-
-**ALP Instructional Framework**
-
-Our ALP instructional framework takes reference from the&nbsp;**Use-Modify-Create**&nbsp;Learning Progression and principles of&nbsp;**design thinking**.&nbsp;
-
-The Use-Modify-Create Learning Progression describes a pattern of engagement involving scaffolding increasingly deep interactions that can support and deepen the acquisition of computational thinking skills. During the “**Use**” phase, students learn how to use the technology, including the interface and tools. During the “**Modify**” phase, students begin to experiment by modifying existing programs / projects, making increasingly original contributions. Work at the “Use” and “Modify” phases builds foundation for higher levels of engagement with Computational Thinking. Hence Secondary 1 students are introduced to the basic functions of programming and robotics during the robotics proficiency programme. They are also given opportunities to build on their understanding and apply what they have learnt through mini projects.
-
-During the “**Create**” phase, students apply their growing computational thinking skills to create an original product that meets the needs of a specific target audience. Work at this phase will show increasing levels of abstraction and automation. Over time, students will go through these phases to build their capacity to innovate and create&nbsp;**user-centric smart solutions**&nbsp;to solve real world problems. Hence Secondary 2 students are guided to apply what they have learnt across different knowledge domains, including what they have learnt during the robotics proficiency programme, to create an innovative, robotics-based solution to address a real world need using a design thinking process.
-
-<img src="/images/ALP-Instructional-Framework.png" style="width:80%">
-
-**ALP for Every Kent Ridgean**
-
-All Secondary 1 students will experience the **Robotics Proficiency Programme** and all Secondary 2 students will continue to apply what they have learnt in **Project Work** to create user-centric smart solutions to solve real world problems. Specialised programmes are extended to students with passion and higher ability through our school’s Co-Curricular Activity – **[Infocomm Club (Robotics)](https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/clubs-societies/)**, to further develop the students’ skills and competencies in computational thinking and robotics. Students may also choose to deepen their computational thinking and systems thinking skills by offering **O level Computing**. Students are also given opportunities to participate in **Applied Learning Modules (ApLM)** in STEM-related areas.
-
-**Secondary 1 Robotics Proficiency Programme**
-
-![Sec 1 ALP](/images/Sec_1_ALP.png)
-													
-**Secondary 2 Project Work**
-![Sec 2 PW 2025](/images/Sec_2_PW_2025.png)
+<h4><strong>Applied Learning Programme (ALP)</strong></h4>
+<p>The school’s Applied Learning Programme (ALP) nurtures students to <strong>connect knowledge, empathy and innovation to design meaningful solutions for a sustainable future</strong>.
+Grounded in the principles of environmental stewardship and aligned with
+the Singapore Green Plan 2030, the programme engages students in authentic,
+hands-on experiences that deepen their understanding of sustainability
+and their role in shaping a greener future.</p>
+<p><strong>Students learn that sustainability begins where they are, in the places they live, study and play</strong>.
+At Kent Ridge, the Miyawaki Frontier (our mini-forest), Eco-Pond, and Sky
+Garden serve as living laboratories that immerse students in studying biodiversity,
+analysing water quality, and examining sustainable food systems. Through
+these immersive spaces and community-based projects, they discover how
+small actions can create ripples of positive change.</p>
+<p>From exploring how everyday choices affect the environment to applying
+technology for smarter green solutions and contributing to greening efforts
+such as nurturing native trees and orchids, <strong>students develop a strong sense of pride, belonging and stewardship for Singapore’s natural heritage and shared future</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP_1" src="/images/ALP_1.jpg">
+</div>
+<p><strong>ALP Outcomes</strong>
+<br>Aligned with our school vision, <em>Heart of a Saint, Passion of an Inventor, Will of an Olympian</em>,
+and student outcomes of nurturing every Kent Ridgean to be a <em>Gracious Citizen</em>, <em>Passionate Learner</em>,
+and <em>Resilient Leader</em>, the ALP aims to develop students who:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>act with empathy and responsibility towards people and the environment;</p>
+</li>
+<li>
+<p>apply inventive thinking to design and implement purposeful sustainability
+initiatives; and</p>
+</li>
+<li>
+<p>demonstrate resilience and initiative in leading projects that inspire
+positive change within and beyond the school.</p>
+</li>
+</ul>
+<p>
+<br>These outcomes reflect the school’s commitment to empowering students
+with the mindset, values and future-ready competencies to contribute meaningfully
+to Singapore’s sustainable development.</p>
+<p><strong>Our Approach to Sustainability Education</strong>
+<br>The ALP adopts a whole-school approach to sustainability education that
+integrates learning across subjects, school spaces and community partnerships.
+It seeks to equip students with the knowledge, values and skills to take
+action for a more sustainable future and to lead initiatives that promote
+environmental stewardship.</p>
+<p>Learning experiences are structured to move students from awareness to
+action:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In the<strong><em> Explore</em> </strong>phase, students learn about local
+environmental issues and how human actions impact natural systems.</p>
+</li>
+<li>
+<p>In the <strong><em>Apply</em> </strong>phase, they design and implement
+initiatives that contribute to a more sustainable school and community.</p>
+</li>
+<li>
+<p>In the<strong> <em>Lead</em></strong> phase, they take ownership of projects
+that inspire collective action and positive change.
+<br>
+</p>
+</li>
+</ul>
+<p>Through this progression, students develop head, heart, and hands, building
+the <strong>confidence</strong>, <strong>empathy</strong>, and <strong>agency </strong>to
+become active contributors to a sustainable and inclusive Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 2" src="/images/ALP_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 3" src="/images/ALP_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 4" src="/images/ALp_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 5" src="/images/ALp_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 6" src="/images/ALP_6.png">
+</div>
+<p></p>
