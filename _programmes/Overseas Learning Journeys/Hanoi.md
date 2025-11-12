@@ -3,11 +3,31 @@ title: Hanoi
 permalink: /programmes/overseas-learning-journeys/hanoi/
 description: ""
 third_nav_title: Overseas Learning Journeys
+variant: tiptap
 ---
-Led by a team of 3 teachers, a group of 21 Secondary 3 Normal Technical students embarked on an Overseas Service Learning Trip to Hanoi, Vietnam in November 2018. Preparation work started way back in September and prior to the trip, the team prepared lesson materials, engaging activities and outdoor games for 120 students from Sai Son Primary School.
-
-However, on the first day of arrival at the school, they were informed that the local Principal would like them to engage the entire school of 1000+ students. The team had to think out of the box, adjust their plans and work as a team to do their best to interact, befriend and engage all the students. Besides bringing joy to the local children, they also helped to paint three mural walls for Sai Son Primary School's new school site. On their last day of Service Learning, the team presented a memorable farewell ceremony comprising of three entertaining performances for the entire school.
-
-The students demonstrated sincerity in making a positive difference to the local community and they stayed resilient in overcoming all the unexpected challenges. Throughout the process, they have stay close-knitted as a team to Lead, Learn and Serve!
-
-![hanoi](/images/hanoi.png)
+<p>From 2 to 5 June 2025, 36 students and 5 teachers embarked on a meaningful
+4D3N learning journey to <strong>Hanoi, Vietnam</strong>, blending cultural
+immersion, eco-stewardship, and ASEAN connectedness. Designed to develop
+students’ <strong>21st Century Competencies (e21CC)</strong> — such as <em>Global Awareness, Civic Literacy, Critical and Inventive Thinking</em>,
+and <em>Social-Emotional Skills</em> — the trip provided authentic learning
+experiences beyond the classroom.</p>
+<p>Students explored the <strong>Hoa Binh Hydroelectric Plant</strong>, Vietnam’s
+second largest, gaining insights into renewable energy and sustainable
+development. At <strong>Duong Lam Ancient Village</strong>, they engaged
+in hands-on activities that showcased traditional Vietnamese craftsmanship
+and community living, while their visit to the <strong>Vietnam Military History Museum</strong> deepened
+understanding of Vietnam’s resilience and independence. These experiences
+encouraged students to think critically, make cross-cultural connections,
+and appreciate shared regional values within ASEAN.</p>
+<p>A key highlight was the visit to <strong>Cau Giay Secondary School</strong>,
+where students bonded with their Vietnamese peers through friendly matches
+and cultural exchanges. Teachers also conducted a professional sharing
+session on <strong>Educational Technology</strong>, demonstrating how the <strong>Student Learning Space (SLS)</strong> fosters
+engagement — strengthening collaboration and communication across borders.
+Another memorable experience was at <strong>Friendship Village</strong>,
+where students interacted with children affected by Agent Orange, nurturing
+empathy, compassion, and respect.</p>
+<p>The journey reinforced the importance of <strong>integrity</strong> and <strong>national identity</strong>,
+as students represented Singapore with pride and responsibility. The <strong>Hanoi Cultural and Learning Journey 2025</strong> truly
+embodied the school’s vision — nurturing hearts of compassion, inventive
+minds, and resilient spirits ready to thrive in a global community.</p>
