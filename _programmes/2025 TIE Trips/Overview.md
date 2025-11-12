@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 TIE Trips
 ---
+<h4><strong>2025 Trips for International Experience (TIE)</strong><br></h4>
 <p>At Kent Ridge Secondary School, we believe that learning extends beyond
 the classroom. This year, three internationalisation trips to Hanoi, Shenzhen
 and Bali provided authentic opportunities for students to explore new environments,
