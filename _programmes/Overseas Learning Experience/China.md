@@ -133,7 +133,9 @@ Museum 上海市历史博物馆.</p>
 <p>Students experienced Hema Fresh 盒马鲜生 (Alibaba's new retail concept) and
 visited Suzhou Industrial Park 苏州工业园, observing technology integration
 and industrial development.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Modern Innovation" src="/images/modern innovation.png">
+</div>
 <p><strong>Student Reflections</strong>
 </p>
 <p>"Observing the restored Shikumen houses and narrow alleys has sparked
