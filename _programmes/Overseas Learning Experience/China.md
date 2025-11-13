@@ -100,22 +100,56 @@ spirit of going <em>Beyond Frontiers</em>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Shanghai Twinning Programme</strong>
+<summary><strong>Cultural Immersion Trip to Shanghai &amp; Suzhou (10-15 November 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>An exchange programme in which our students are immersed in a different
-environment through classroom learning and short homestay with their counterparts
-in Shanghai, China. They also visit places of interests to get a taste
-of the richness of Chinese history, culture and traditions. Our students
-also hosted their counterparts when they visit Singapore and KRSS.</p>
-<p>Through this programme, we hope to increase their knowledge of the world
-beyond Singapore and to allow them to evaluate what it means to call themselves,
-Singaporeans and to increase theirs sense of belonging to Singapore. It
-also helps our students to be good hosts to the visitors.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="shanghai" src="/images/shanghai.png">
-</div>
+<p>KR's first overseas trip since 2020 saw 30 students explore Shanghai,
+Suzhou, and Hangzhou, deepening their engagement with Chinese language
+and culture whilst developing 21st century competencies.</p>
 <p></p>
+<p><strong>Key Experiences</strong>
+</p>
+<p><strong>Sister School Exchange</strong>
+</p>
+<p>Students participated in classroom lessons, stone art painting workshop,
+and a basketball friendly match at Shanghai No. 4 Middle School (our sister
+school since 2008).</p>
+<p></p>
+<p><strong>Cultural Heritage</strong>
+</p>
+<p>Visits included HuanXiu Villa 环秀山庄 (UNESCO Classical Garden), Suzhou embroidery
+workshop 苏绣工作坊, Hanshan Temple, Shanghai's Xintiandi, Tianzifang, The Bund
+外滩, Oriental Pearl TV Tower 东方明珠电视塔, and The Shanghai Municipal History
+Museum 上海市历史博物馆.</p>
+<p></p>
+<p><strong>Modern Innovation</strong>
+</p>
+<p>Students experienced Hema Fresh 盒马鲜生 (Alibaba's new retail concept) and
+visited Suzhou Industrial Park 苏州工业园, observing technology integration
+and industrial development.</p>
+<p></p>
+<p><strong>Student Reflections</strong>
+</p>
+<p>"Observing the restored Shikumen houses and narrow alleys has sparked
+my interest in architectural heritage, and allowed me to reflect on the
+importance of cultural preservation." - Png Wen Yu</p>
+<p></p>
+<p>"When we joined the lesson with the other students, I quickly realised
+there would be challenges with language and communication style. This experience
+taught me that it's important to seek support rather than struggle alone,
+especially in unfamiliar situations." - Chin Zhi Teng</p>
+<p>
+<br>"I was deeply impressed by how Hema has integrated technology with traditional
+retail seamlessly. It's a hybrid of e-commerce, logistics, and customer
+experience management, offering convenience, personalisation, and efficiency."
+- Alythea Yeoh</p>
+<p></p>
+<p>This successful trip equipped our students with valuable global perspectives
+and cross-cultural skills.</p>
+<p>
+<br>
+<br>
+</p>
 </div>
 </details>
 </div>
