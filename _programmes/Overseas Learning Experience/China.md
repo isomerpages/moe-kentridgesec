@@ -106,7 +106,9 @@ spirit of going <em>Beyond Frontiers</em>.</p>
 <p>KR's first overseas trip since 2020 saw 30 students explore Shanghai,
 Suzhou, and Hangzhou, deepening their engagement with Chinese language
 and culture whilst developing 21st century competencies.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cultural_Immersion_Trip_to_Shanghai___Suzhou" src="/images/Cultural_Immersion_Trip_to_Shanghai___Suzhou.jpg">
+</div>
 <p><strong>Key Experiences</strong>
 </p>
 <p><strong>Sister School Exchange</strong>
@@ -114,14 +116,18 @@ and culture whilst developing 21st century competencies.</p>
 <p>Students participated in classroom lessons, stone art painting workshop,
 and a basketball friendly match at Shanghai No. 4 Middle School (our sister
 school since 2008).</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sister school exchange" src="/images/sister school exchange.png">
+</div>
 <p><strong>Cultural Heritage</strong>
 </p>
 <p>Visits included HuanXiu Villa 环秀山庄 (UNESCO Classical Garden), Suzhou embroidery
 workshop 苏绣工作坊, Hanshan Temple, Shanghai's Xintiandi, Tianzifang, The Bund
 外滩, Oriental Pearl TV Tower 东方明珠电视塔, and The Shanghai Municipal History
 Museum 上海市历史博物馆.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cultural Heritage" src="/images/cultural heritage.png">
+</div>
 <p><strong>Modern Innovation</strong>
 </p>
 <p>Students experienced Hema Fresh 盒马鲜生 (Alibaba's new retail concept) and
