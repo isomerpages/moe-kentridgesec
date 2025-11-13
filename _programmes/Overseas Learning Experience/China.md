@@ -110,8 +110,7 @@ and culture whilst developing 21st century competencies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Cultural_Immersion_Trip_to_Shanghai___Suzhou" src="/images/Cultural_Immersion_Trip_to_Shanghai___Suzhou.jpg">
 </div>
 <p><strong>Key Experiences</strong>
-</p>
-<p><strong>Sister School Exchange</strong>
+<br><strong>Sister School Exchange</strong>
 </p>
 <p>Students participated in classroom lessons, stone art painting workshop,
 and a basketball friendly match at Shanghai No. 4 Middle School (our sister
@@ -120,8 +119,7 @@ school since 2008).</p>
 <img style="width: 100%" height="auto" width="100%" alt="sister school exchange" src="/images/sister school exchange.png">
 </div>
 <p><strong>Cultural Heritage</strong>
-</p>
-<p>Visits included HuanXiu Villa 环秀山庄 (UNESCO Classical Garden), Suzhou embroidery
+<br>Visits included HuanXiu Villa 环秀山庄 (UNESCO Classical Garden), Suzhou embroidery
 workshop 苏绣工作坊, Hanshan Temple, Shanghai's Xintiandi, Tianzifang, The Bund
 外滩, Oriental Pearl TV Tower 东方明珠电视塔, and The Shanghai Municipal History
 Museum 上海市历史博物馆.</p>
@@ -129,35 +127,31 @@ Museum 上海市历史博物馆.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Cultural Heritage" src="/images/cultural heritage.png">
 </div>
 <p><strong>Modern Innovation</strong>
-</p>
-<p>Students experienced Hema Fresh 盒马鲜生 (Alibaba's new retail concept) and
+<br>Students experienced Hema Fresh 盒马鲜生 (Alibaba's new retail concept) and
 visited Suzhou Industrial Park 苏州工业园, observing technology integration
 and industrial development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Modern Innovation" src="/images/modern innovation.png">
 </div>
 <p><strong>Student Reflections</strong>
-</p>
-<p>"Observing the restored Shikumen houses and narrow alleys has sparked
+<br>"Observing the restored Shikumen houses and narrow alleys has sparked
 my interest in architectural heritage, and allowed me to reflect on the
-importance of cultural preservation." - Png Wen Yu</p>
-<p></p>
+importance of cultural preservation." - Png Wen Yu
+<br>
+</p>
 <p>"When we joined the lesson with the other students, I quickly realised
 there would be challenges with language and communication style. This experience
 taught me that it's important to seek support rather than struggle alone,
-especially in unfamiliar situations." - Chin Zhi Teng</p>
-<p>
+especially in unfamiliar situations." - Chin Zhi Teng
+<br>
 <br>"I was deeply impressed by how Hema has integrated technology with traditional
 retail seamlessly. It's a hybrid of e-commerce, logistics, and customer
 experience management, offering convenience, personalisation, and efficiency."
-- Alythea Yeoh</p>
-<p></p>
-<p>This successful trip equipped our students with valuable global perspectives
-and cross-cultural skills.</p>
-<p>
-<br>
+- Alythea Yeoh
 <br>
 </p>
+<p>This successful trip equipped our students with valuable global perspectives
+and cross-cultural skills.</p>
 </div>
 </details>
 </div>
