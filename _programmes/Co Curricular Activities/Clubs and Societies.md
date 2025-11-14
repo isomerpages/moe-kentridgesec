@@ -19,13 +19,7 @@ critically and speak skilfully. We train our students in the art of debating,
 focusing on the domains of research, speech, and working together in a
 team. We take part in debate competitions such as the Singapore Secondary
 Schools Debating Championships, Youth Debate Open and Raffles Debate Academy
-Under-14 Debating Championship. Every year, the students embark on VIA
-projects to pass on their debating skills and knowledge to the community
-by organising public speaking workshops or mentoring sessions for other
-youths or children from various organisations. In this CCA, the debaters
-are not only trained to be quick-witted and articulate speakers, but the
-many opportunities to work in teams also teach them the value of camaraderie
-and friendship.</p>
+Under-14 Debating Championship.</p>
 <p></p>
 <p><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 </p>
