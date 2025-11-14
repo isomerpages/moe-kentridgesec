@@ -24,22 +24,22 @@ ceremony.</p>
 </li>
 </ul>
 <p><strong>2. ATTENDANCE, PUNCTUALITY, TRUANCY &amp; ABSENTEEISM</strong>
-<br>a) Attendance in school is <strong>compulsory</strong>.</p>
-<p>b) Students must be punctual for all school activities including flag
+<br>a) Attendance in school is <strong>compulsory</strong>.
+<br>b) Students must be punctual for all school activities including flag
 raising ceremony, lessons, Co- Curricular Activities (CCA) and official
-school functions.&nbsp;</p>
-<p>c)&nbsp;Students who are absent from any of these activities must produce
+school functions.
+<br>c)&nbsp;Students who are absent from any of these activities must produce
 a medical certificate or relevant official documents to explain their absence
 within <strong>5 working days</strong>, upon coming back to school. Failure
 to do so would mean that the student will be marked absent from school
-and face disciplinary action.&nbsp;</p>
-<p>d)&nbsp;Action will be taken against recalcitrant latecomers.&nbsp;</p>
-<p>e)&nbsp;Students must <strong>seek permission</strong> from the teacher
+and face disciplinary action.
+<br>d)&nbsp;Action will be taken against recalcitrant latecomers.
+<br>e)&nbsp;Students must <strong>seek permission</strong> from the teacher
 if there is a need to leave the class. Students will be allowed to leave
-the class only for urgent and/ or official reasons.&nbsp;</p>
-<p>f) Students are not allowed to leave the school premises during school
-hours without permission.&nbsp;</p>
-<p>g)&nbsp;Students are to <strong>remain in school while waiting for their after-school activities to commence</strong> (eg:
+the class only for urgent and/ or official reasons.
+<br>f) Students are not allowed to leave the school premises during school
+hours without permission.
+<br>g)&nbsp;Students are to <strong>remain in school while waiting for their after-school activities to commence</strong> (eg:
 Consultation and Co-Curricular Activities) unless otherwise stated.
 <br>
 <br><strong>3a. SCHOOL UNIFORM</strong>
