@@ -112,23 +112,33 @@ to live out their values, skills and SE competencies.</p>
 <p>Kent Ridge Secondary adopts positive discipline and restorative practice
 as the whole school approach to setting expectations for all Kent Ridgeans.
 This drives the school in developing the following student management philosophy:&nbsp;</p>
-<p>• Students learn well when there is order and discipline. At the same
-time, they need care, encouragement and space to learn from mistakes and
-improve.</p>
-<p>• Student management is an educative process, and the goal is to instill
+<ul data-tight="true" class="tight">
+<li>
+<p>Students learn well when there is order and discipline. At the same time,
+they need care, encouragement and space to learn from mistakes and improve.</p>
+</li>
+<li>
+<p>Student management is an educative process, and the goal is to instill
 self-discipline and good character in students.</p>
-<p>• Disciplinary measures serve as a proxy for consequences of the poor
-choices made. It is not punishment, and must be meted out fairly, firmly,
-and appropriately.&nbsp;</p>
+</li>
+<li>
+<p>Disciplinary measures serve as a proxy for consequences of the poor choices
+made. It is not punishment, and must be meted out fairly, firmly, and appropriately.&nbsp;</p>
+</li>
+</ul>
 <p>The student management team believes in setting high expectations, and
 providing high care and support for our students to achieve their aspirations.</p>
-<p>&nbsp;</p>
 <p><strong>Setting High Expectations</strong>
 </p>
-<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every Kent Ridgean is capable
-of growth and can be nurtured to become a gracious citizen.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every Kent Ridgean can be and is
-a resilient leader.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Kent Ridgean is capable of growth and can be nurtured to become
+a gracious citizen.</p>
+</li>
+<li>
+<p>Every Kent Ridgean can be and is a resilient leader.</p>
+</li>
+</ul>
 <p>&nbsp;Be it in managing self or leading others, KRSS does not compromise
 on the expectations and standards we set for Kent Ridgeans. In our approach,
 we must be cognisant of the unique aspirations, hopes and needs of each
@@ -136,34 +146,35 @@ Kent Ridgean and their circumstances. In helping them become best versions
 of themselves and impactful leaders of others, we must set expectations
 based on their aspirations, hopes and needs rather than standards we impose
 on them.</p>
-<p>&nbsp;</p>
 <p><strong>Providing High Care and Support</strong>
 </p>
-<p><strong>&nbsp;</strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong
-culture of care which embraces diversity and inclusivity and characterised
-by strong Teacher Student Relationship (TSR) and Peer Support and Relationship
-(PSR).</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A strong culture of care which embraces diversity and inclusivity and
+characterised by strong Teacher Student Relationship (TSR) and Peer Support
+and Relationship (PSR).</p>
+</li>
+</ul>
 <p>Developing a culture of diversity and inclusivity through strong TSR and
 PSR allows us to create opportunities for us to mentor, develop, challenge
 and stretch Kent Ridgeans in different aspects of their behaviourial and
 leadership journey. A key approach is helping Kent Ridgeans to form positive
 support networks and focus on their growth. In KRSS, we provide various
 support systems for all Kent Ridgeans to achieve their aspirations.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>School Based Consequences</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences are used to serve as
-a reminder of the poor choices made.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is not punishment, and must be
-meted out fairly, firmly, and appropriately.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KRSS will consider appropriate disciplinary
-consequences that account for the students’ specific needs and helps them
-learn from the mistake.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Consequences are used to serve as a reminder of the poor choices made.</p>
+</li>
+<li>
+<p>It is not punishment, and must be meted out fairly, firmly, and appropriately.</p>
+</li>
+<li>
+<p>KRSS will consider appropriate disciplinary consequences that account
+for the students’ specific needs and helps them learn from the mistake.</p>
+</li>
+</ul>
 <p><strong><u>Baseline Consequences for Very Serious and Serious Offences</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -192,20 +203,30 @@ learn from the mistake.</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 3 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for
-boys only, with aggravating factors)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment</p>
+</li>
+<li>
+<p>1 stroke of the cane (for boys only, with aggravating factors)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane
-(for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (no better than ‘Fair’)</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+<p><strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -214,20 +235,32 @@ grade adjustment (no better than ‘Fair’)</p>
 <p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane
-(for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (no better than ‘Fair’)</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong>&nbsp;suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong>&nbsp;suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane
-(for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -236,17 +269,23 @@ grade adjustment (‘Poor’)</p>
 <p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane
-(for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Baseline Consequences for Minor Offences</u></strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -269,17 +308,31 @@ grade adjustment (‘Poor’)</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention; <strong>and/or</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Detention; <strong>and/or</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corrective Work Order; <strong>and/or</strong>
+</li>
+<li>
+<p>Corrective Work Order; <strong>and/or</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confiscation; <strong>and/or</strong>
+</li>
+<li>
+<p>Confiscation; <strong>and/or</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflection Essays; <strong>and/or</strong>
+</li>
+<li>
+<p>Reflection Essays; <strong>and/or</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behavioural Contract; <strong>and/or</strong>
+</li>
+</ul>
+<p>•&nbsp;Behavioural Contract; <strong>and/or</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade Adjustment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct Grade Adjustment</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -294,7 +347,6 @@ grade adjustment (‘Poor’)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h3>Student Support Programmes</h3>
 <p><strong>1. Social and Emotional Well-being</strong> 
 <br>Student support structures in this aspect include Individual Counselling
