@@ -107,7 +107,6 @@ to live out their values, skills and SE competencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/krgbplan_1.png">
 </div>
-<p></p>
 <h3>Student Management Committee</h3>
 <p>Kent Ridge Secondary adopts positive discipline and restorative practice
 as the whole school approach to setting expectations for all Kent Ridgeans.
