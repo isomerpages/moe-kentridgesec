@@ -158,33 +158,31 @@ together and where everyone is allowed to grow at their own pace.
 <br>THURSDAY: 1535 - 1800 HRS
 <br>
 </p>
-<p>KRSS Drama Club is a vibrant CCA which fosters a strong bond between the
-members who work together as a team within individual strengths. The school
-currently engages inwardBOUND - Transformation Through Drama which have
-been partners of Kent Ridge Secondary since 2023. The club explores different
+<p>KRSS Drama Club is a vibrant CCA that fosters a strong bond between the
+members who work together as a team with individual strengths. The school
+currently engages inwardBOUND - Transformation Through Drama, which has
+been a partner of Kent Ridge Secondary since 2023. The club explores different
 theatrical plays and seeks to not only entertain but also educate our audiences
 through our dramatic pieces, ranging from modern to traditional. The Kent
 Ridge Drama Club participates in the Singapore Youth Festival Arts Presentation
 (SYF AP) once every two years, where we recently attained a Certificate
-of Distinction in 2023. The piece entitled ‘Sejarah Melayu’ talks about
-a group of students on an excursion to an old Singapore village exhibition.
-As they discuss the exhibit, they grow more interested in the story that
-comes alive in front of their very eyes. By the end, they understand a
-little more about the myths and legends that locals have lived with for
-hundreds of years but are rarely discussed in modern times. They start
-to question how many stories have been lost to time, and why other stories
-have persisted.
-<br>
-<br>On alternate years, the club participate in various performances in school,
+of Accomplishment in 2025. The piece entitled ‘Those Were The Days’ follows
+Grandpa Tony, an old man with memory issues, and his granddaughter. Tony
+recounts to his granddaughter some significant moments in his life, from
+his teenage crushes to his interesting friendships, and takes her on a
+trip down memory lane.</p>
+<p></p>
+<p>On alternate years, the club participates in various performances in school,
 as well as other external performances. Not only that, Kent Ridge Drama
 Club seeks to explore learning through watching professional plays outside
-of school. Through opportunities such as LLP and re:ACT Festival, the club
-explores collaboration pieces with other CCAs, schools or organisations
-locally. The Drama Club fills the lively atmosphere of the school in school
-performances like CCA Fair, Awards Day cum National Day Celebration, Open
-House and many others. Our members not only learn to be artistically inclined
-but they cherish the bonds of friendships built during their stay with
-us.
+of school. Through opportunities such as LLP and CCA VIA, termed re:ACT
+Festival, the club explores collaboration pieces with other CCAs, schools,
+or organisations locally. The Drama Club fills the lively atmosphere of
+the school with school performances like CCA Fair, Total Defence Day, festive
+celebrations such as Chinese New Year and Hari Raya Concerts, Awards Day
+cum National Day Celebration, Open House, and many others. Our members
+not only learn to be artistically inclined, but they also cherish the bonds
+of friendships built during their stay with us.
 <br>
 <br><strong><a href="https://www.kentridgesec.moe.edu.sg/achievements/students/co-curricular/" rel="noopener nofollow" target="_blank">Achievements</a></strong>
 <br>
@@ -195,7 +193,7 @@ us.
 <br>Ms Susan Liang</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drama Club" src="/images/drama club.png">
+<img style="width: 100%" height="auto" width="100%" alt="Drama 2025" src="/images/drama 2025.png">
 </div>
 </div>
 </details>
@@ -276,4 +274,3 @@ can support their creativity.
 </details>
 </div>
 <p></p>
-<p>&nbsp;</p>
