@@ -27,12 +27,7 @@ Under-14 Debating Championship.</p>
 <p><strong><em>Teachers-in- charge:</em></strong>
 <br>Mr Lok Sin Min
 <br>Ms Nurhidayah Azman
-<br>Ms Anita Salleh
-<br>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debate Society" src="/images/debate society.png">
-</div>
-<p>&nbsp;</p>
+<br>Ms Anita Salleh</p>
 </div>
 </details>
 <details class="isomer-details">
