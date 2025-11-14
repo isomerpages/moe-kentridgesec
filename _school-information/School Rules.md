@@ -300,9 +300,6 @@ school facilities where teaching and learning is taking place.
 is allowed in the school premises.
 <br>g) <strong>All students are not allowed to have any form of weapons in their possession. They are also not allowed to bring any weapon-like items which could be used or intended to be used to cause harm.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="code_of_conduct" src="/images/code-of-conduct.jpg">
-</div>
 <p><strong>Student's Conduct Rating</strong> 
 <br>Criteria for grading a student’s conduct in the report book</p>
 <table style="minWidth: 75px">
