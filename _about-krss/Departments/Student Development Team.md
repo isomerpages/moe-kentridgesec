@@ -486,9 +486,6 @@ and</p>
 <li>
 <p>provide opportunities for learning of social and life skills.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p>(b) Youth COP
 <br>The programme aims to</p>
