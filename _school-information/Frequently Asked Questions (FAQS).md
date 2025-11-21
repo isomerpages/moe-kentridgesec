@@ -28,9 +28,8 @@ check MOE’s School Terms and Holidays.</p>
 the Applied Learning Programme (ALP) and Learning for Life Programme (LLP).
 These distinctive programmes provide opportunities for students to discover
 their strengths and interests, and to find greater relevance and motivation
-in their learning. Our ALP is STEM (Science, Technology, Engineering and
-Mathematics)-focused:</p>
-<p>Computational Thinking through Robotics. Please click&nbsp;<a href="/programmes/distinctive-programmes/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+in their learning.</p>
+<p>Please click&nbsp;<a href="/programmes/distinctive-programmes/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on our ALP.</p>
 <p>Our LLP focuses on Sports and Outdoor Education (Education Values of Olympism
 @ Kent Ridge (EVOKE!)). Please click&nbsp;<a href="/programmes/distinctive-programmes/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
