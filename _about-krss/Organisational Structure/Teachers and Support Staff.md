@@ -677,14 +677,6 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Delis Sulastra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Quah Hui Shan</p>
 </td>
 </tr>
