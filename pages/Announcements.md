@@ -31,10 +31,10 @@ limited.&nbsp; &nbsp;</p>
 </p>
 <p><a href="/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>
 </p>
-<p>For social and emotional support resources, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+<p>For social and emotional support resources, please visit <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
-<p>The What's Next pamphlet can be found at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+<p>The What's Next pamphlet can be found at <a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
-<p>Education and Career Guidance (ECG) resources are available at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a> and
-MySkillsFuture Student Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+<p>Education and Career Guidance (ECG) resources are available at <a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a> and
+MySkillsFuture Student Portal at <a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
