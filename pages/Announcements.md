@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Release of 2025 GCE-O Level Examination Results</h3>
+<h3>Release of 2025 GCE-N Level Examination Results</h3>
 <p>Dear Kent Ridgeans and Parents/Guardian(s) of the 2025 Graduating Cohort,</p>
 <p>The GCE N-Level Examination results will be released on Thursday, 18 December
 2025. Students must return to school to collect their hard-copy results
