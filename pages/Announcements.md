@@ -2,38 +2,41 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Release of 2024 GCE-O Level Examination Results
-      
-Dear Kent Ridgeans and Parents/Guardians of the 2024 Graduating Cohort,
-
-The GCE O-Level Examination results will be released on Friday, 10 January 2025. Students are required to collect their hardcopy results slip and/or certificate from the school hall, starting at 2.30 pm.
-
-Students must arrive by 2.15 pm, wear full school uniform, and adhere to school rules on grooming and attire. Please note that students who are not properly attired will not be permitted to enter the school hall and will need to collect their results at a later time.
-
-If a student is unable to collect their results personally, they may authorize an adult, 21 years old and above as a proxy to collect on their behalf. Proxies can collect the results from the General Office after 3.45 pm on the day of release. They must provide photo ID for identification and a Letter of Authorisation. To arrange for a proxy, please inform the school through the form teachers or via email at [krss@moe.edu.sg](mailto:krss@moe.edu.sg) .
-
-We regret that car park facilities will not be available for parents/guardians accompanying students. Please use public car parks in the vicinity. Additionally, seating for accompanying parents is limited.
-
-We wish all our Kent Ridgeans the very best for their O-Level results!
-
-Kent Ridge Secondary School
-
-**Useful resources:**<br>
-[Admin Briefing Slides](/files/Admin_Briefing___O_Level_Results_10_Jan_2025.pdf)<br>
-[Letter of Authorisation](/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf) 
-
-For social and emotional support resources, please visit [https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents) . <br>The What's Next pamphlet can be found at [https://go.gov.sg/whats-next-olevel](https://go.gov.sg/whats-next-olevel) , and ECG resources are available on the MySkillsFuture Student Portal at [https://go.gov.sg/MySFSec](https://go.gov.sg/MySFSec) .
-
-For more Education and Career Guidance (ECG) support, visit:
-[https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise](https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise)
-
-
-
-### Class Time-tables (Semester 1, 2025)
-updated 8th January 2025<br>
-[Secondary 1](/files/2025_Sem_1_Class_Timetable_Sec_1_31_Dec.pdf)<br>
-[Secondary 2](/files/2025_Sem_1_Class_Timetable_Sec_2_6_Jan.pdf)<br>
-[Secondary 3](/files/2025_Sem_1_Class_Timetable_Sec_3_7_Jan.pdf)<br>
-[Secondary 4&amp;5](/files/2025_Sem_1_Class_Timetable_Sec_4_5_7_Jan.pdf)
+<h3>Release of 2025 GCE-O Level Examination Results</h3>
+<p>Dear Kent Ridgeans and Parents/Guardian(s) of the 2025 Graduating Cohort,</p>
+<p><strong>Release of GCE N Level results on 18 Dec 2025</strong>
+</p>
+<p>The GCE N-Level Examination results will be released on Thursday, 18 December
+2025. Students must return to school to collect their hard-copy results
+slip and/or certificate from the school hall, starting at 2.00 pm.</p>
+<p>Students must arrive by 1.45 pm, wear full school uniform, and adhere
+to school rules on grooming and attire e.g. no dyeing of hair.</p>
+<p>If any student is unable to collect their results personally, an adult
+(the proxy) who is 21 years old or above may be authorised to collect on
+their behalf. Proxies can collect the results from the General Office after
+3 pm on the day of release. They must provide photo ID for identification
+and a Letter of Authorisation. To arrange for a proxy, please inform the
+school through the form teachers or via email at <a rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>.</p>
+<p>We regret that car park facilities will not be available for parents/guardian(s)
+accompanying students. Please use public car parks in the vicinity. Additionally,
+seating for accompanying parents is limited.</p>
+<p>Car park facility will not be available for parents/ guardians accompanying
+your child/ ward.&nbsp; Please use the public carparks in the vicinity.&nbsp;
+We also seek your understanding that seats for accompanying parents are
+limited.&nbsp; &nbsp;</p>
+<p>We wish all our Kent Ridgeans the very best for their N-Level results!</p>
+<p>Kent Ridge Secondary School</p>
+<p></p>
+<p><strong>Useful resources:</strong>
+</p>
+<p><a href="/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>
+</p>
+<p>For social and emotional support resources, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+</p>
+<p>The What's Next pamphlet can be found at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+</p>
+<p>Education and Career Guidance (ECG) resources are available at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a> and
+MySkillsFuture Student Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+</p>
