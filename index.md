@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/IMG_0470.png
       key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
         - title: follow on facebook
           description: ""
           url: https://www.facebook.com/kentridgesec
@@ -19,4 +22,8 @@ sections:
           description: ""
           url: https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
 ---
