@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: https://www.kentridgesec.moe.edu.sg/announcements/
         - title: follow on facebook
           description: ""
           url: https://www.facebook.com/kentridgesec
