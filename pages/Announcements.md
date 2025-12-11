@@ -28,7 +28,7 @@ We also seek your understanding that seats for accompanying parents are
 limited.&nbsp; &nbsp;</p>
 <p>We wish all our Kent Ridgeans the very best for their N-Level results!</p>
 <p>Kent Ridge Secondary School</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Useful resources:</strong>
 </p>
 <p><a href="/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>
