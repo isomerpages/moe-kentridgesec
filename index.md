@@ -22,8 +22,4 @@ sections:
           description: ""
           url: https://www.kentridgesec.moe.edu.sg/school-information/contact-information/
       variant: center
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
 ---
