@@ -13,7 +13,7 @@ schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-rel
 useful information on how to prepare your child/ward for the first day
 of school.</p>
 <p>Your child’s/ward’s&nbsp;<strong>2026 Sec 1 Class allocation</strong>&nbsp;will
-be available on Parents Gateway after&nbsp;<strong>12 noon on 22 December 2025 (Monday)</strong>.</p>
+be available on Parents Gateway after&nbsp;<strong>12 noon on 26 December 2025 (Friday)</strong>.</p>
 <p>As there may be student movement due to transfer cases, we seek your understanding
 that there may be changes in the Form Class allocation. All Form Class
 allocation will only be finalised after the school term begins.</p>
@@ -115,13 +115,41 @@ hair)</p>
 </ul>
 <p>Please refer to <strong>School Rules</strong> on the school website for
 our <strong>School Uniform Policy</strong>.</p>
-<p><strong>Books - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Books</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
 </p>
-<p><strong>Uniforms - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
 </p>
-<p><strong>School Rules - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Rules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2. MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p>For 2026 Sec 1 students whose FAS applications have been approved, please
 report to the KRSS school general office for further assistance.
@@ -148,7 +176,7 @@ more details.
 <br><strong>Mr Kevin Chow, SH/PE</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
-<h4><strong>4. Full Subject Based Banding (Secondary)</strong></h4>
+<h4><strong>4. Full Subject Based Banding</strong></h4>
 <p>Kent Ridge Secondary School has implemented Full Subject-Based Banding
 (Full SBB) since 2023.</p>
 <p>Students who are eligible to do subjects at a more demanding level will
@@ -156,8 +184,7 @@ be informed by the school via Parents Gateway.</p>
 <p>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
 <br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
-</p>
-<p><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb</a>
 <br>
 <br>Should you have any queries, please contact the following officer:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
@@ -303,7 +330,7 @@ school by <strong>9 January 2026</strong>.</p>
 <br>If you have been posted to Kent Ridge Secondary School, but assess that
 the school is unable to accommodate your child’s medical or physical health
 needs, you may appeal to MOE for a transfer to another school. Appeals
-can be filed at our school’s general office in person or via email by&nbsp;<strong>12pm, 22 December 2025 (Monday)</strong>. <strong>(Is there an official form from PPS that you will attach here for parents to complete?)</strong>
+can be filed at our school’s general office in person or via email by&nbsp;<strong>12pm, 22 December 2025 (Monday)</strong>.
 <br>
 <br>All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from certified doctors, or assessment reports
