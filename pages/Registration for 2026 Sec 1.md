@@ -284,6 +284,7 @@ classrooms. Students are required to bring their own padlocks. Padlocks
 are also available for purchase at the school bookshop.</p>
 <h4><strong>13. Appeals and School Transfers</strong></h4>
 <p><strong>(A) Appeal to transfer to Kent Ridge Secondary School for non-medical reasons</strong>
+<br>
 <br>Please submit your appeal via this&nbsp;<a href="https://go.gov.sg/krss-s1-appeal" rel="noopener noreferrer nofollow" target="_blank">online form</a>&nbsp;by <strong>12pm, 26 December 2025 (Friday)</strong>.
 <br>
 <br>Please note that your PSLE score must meet the school’s cut-off point
@@ -297,6 +298,7 @@ the programme they are admitted to.</p>
 <p>The application is deemed to be unsuccessful if you do not hear from the
 school by <strong>9 January 2026</strong>.</p>
 <p><strong>(B) MOE’s Medical Appeal Exercise (MAE): For Serious Medical Conditions or Severe Physical Impairments only</strong>
+<br>
 <br>If you have been posted to Kent Ridge Secondary School, but assess that
 the school is unable to accommodate your child’s medical or physical health
 needs, you may appeal to MOE for a transfer to another school. Appeals
