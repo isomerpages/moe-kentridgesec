@@ -65,11 +65,11 @@ more information.</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a>
+<p><a href="https://asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com</a>
+<p><a href="https://khuniform.com" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com</a>
 </p>
 </td>
 </tr>
@@ -115,11 +115,11 @@ hair)</p>
 </ul>
 <p>Please refer to <strong>School Rules</strong> on the school website for
 our <strong>School Uniform Policy</strong>.</p>
-<p><strong>Books - </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
+<p><strong>Books - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
 </p>
-<p><strong>Uniforms - </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/</a>
+<p><strong>Uniforms - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/</a>
 </p>
-<p><strong>School Rules - </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
+<p><strong>School Rules - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
 <br>
 </p>
 <h4><strong>2. MOE Financial Assistance Scheme (FAS)</strong></h4>
@@ -127,13 +127,13 @@ our <strong>School Uniform Policy</strong>.</p>
 report to the KRSS school general office for further assistance.
 <br>
 <br>For students who would like to apply for FAS, please refer to the following
-website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/</a>
+website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/</a>
 </p>
 <h4><strong>3. KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</strong></h4>
 <p><strong>KRSS Co-Curricular Activities (CCAs)</strong>
 </p>
 <p>For information on the school’s co-curricular activities, please refer
-to the following website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
+to the following website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
 <p>Please refer to the&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_CCA_Information_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
 more details.
@@ -155,9 +155,9 @@ more details.
 be informed by the school via Parents Gateway.</p>
 <p>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<p><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb</a>
 <br>
 <br>Should you have any queries, please contact the following officer:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
@@ -210,7 +210,7 @@ skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
 <br>
 <br>For more information on Kent Ridge Secondary’s NDLP, please refer to the
 school website:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
 <br>
 <br>Details on the purchase of PLDs will be shared at a later date.</p>
 <p>Should you have any queries, please contact the following officer:
