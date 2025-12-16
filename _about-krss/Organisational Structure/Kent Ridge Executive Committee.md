@@ -64,18 +64,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Poh Leong Berg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / Student Development [Year Head (Sec 3)]</p>
 </td>
 <td rowspan="1" colspan="1">
