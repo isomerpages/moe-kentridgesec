@@ -148,7 +148,7 @@ more details.
 <br><strong>Mr Kevin Chow, SH/PE</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
-<h4><strong>4. Full Subject Based Banding (Secondary)</strong></h4>
+<h4><strong>4. Full Subject Based Banding</strong></h4>
 <p>Kent Ridge Secondary School has implemented Full Subject-Based Banding
 (Full SBB) since 2023.</p>
 <p>Students who are eligible to do subjects at a more demanding level will
