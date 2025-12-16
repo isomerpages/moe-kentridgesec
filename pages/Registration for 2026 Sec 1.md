@@ -141,8 +141,8 @@ more details. <strong>(pending update from IC)</strong>
 <br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca" rel="noopener noreferrer nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
 3 January 2025 (Fri). <strong>(pending update from IC)</strong>
 <br>
-<br>Should you have any queries, please contact the following officers:</p>
-<p><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
+<br>Should you have any queries, please contact the following officers:
+<br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
 <br>
 <br><strong>Mr Kevin Chow, SH/PE</strong>
@@ -208,9 +208,10 @@ This will also enable students to acquire digital skills and apply these
 skills as they navigate an increasingly&nbsp;digitalised&nbsp;world.
 <br>
 <br>For more information on Kent Ridge Secondary’s NDLP, please refer to the
-school website:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/<br><br></a>Details
-on the purchase of PLDs will be shared at a later date.</p>
+school website:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/national-digital-literacy-programme-ndlp/</a>
+<br>
+<br>Details on the purchase of PLDs will be shared at a later date.</p>
 <p>Should you have any queries, please contact the following officer:
 <br><strong>Mrs Tan Jiayi, HOD/ICT</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">low_jiayi@schools.gov.sg</a>
@@ -230,7 +231,9 @@ closely with the students’ secondary schools to ensure that their school
 timetable and commitments would allow them to participate fully in the
 AEP/MEP.</p>
 <p>Do refer to important details in web links provided below.
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep<br>https://moe.gov.sg/mep</a>
+<br><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
+<a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">
+<br>https://moe.gov.sg/mep</a>
 </p>
 <p>Should you have any queries, please contact the following officer:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
@@ -240,8 +243,8 @@ AEP/MEP.</p>
 <p>For parents of students with Special Educational Needs (SEN), the school's
 SEN Officers will be reaching out to you via Parents Gateway.
 <br>
-<br>For urgent enquiries, you can also contact them:</p>
-<p>Senior SEN Officer
+<br>For urgent enquiries, you can also contact them:
+<br>Senior SEN Officer
 <br><strong>Mrs Cheryl Lim</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tan_seok_gek@schools.gov.sg</a>
 </p>
@@ -251,8 +254,8 @@ SEN Officers will be reaching out to you via Parents Gateway.
 </p>
 <h4><strong>9. School Counselling Support</strong></h4>
 <p>Parents who would like to find out more about the school’s counselling
-support system can contact the following officers:</p>
-<p>Senior School Counsellor
+support system can contact the following officers:
+<br>Senior School Counsellor
 <br><strong>Mr Aw Wei Keong, Freddy</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">aw_wei_keong_freddy@schools.gov.sg</a>
 </p>
@@ -281,8 +284,7 @@ classrooms. Students are required to bring their own padlocks. Padlocks
 are also available for purchase at the school bookshop.</p>
 <h4><strong>13. Appeals and School Transfers</strong></h4>
 <p><strong>(A) Appeal to transfer to Kent Ridge Secondary School for non-medical reasons</strong>
-</p>
-<p>Please submit your appeal via this&nbsp;<a href="https://go.gov.sg/krss-s1-appeal" rel="noopener noreferrer nofollow" target="_blank">online form</a>&nbsp;by <strong>12pm, 26 December 2025 (Friday)</strong>.
+<br>Please submit your appeal via this&nbsp;<a href="https://go.gov.sg/krss-s1-appeal" rel="noopener noreferrer nofollow" target="_blank">online form</a>&nbsp;by <strong>12pm, 26 December 2025 (Friday)</strong>.
 <br>
 <br>Please note that your PSLE score must meet the school’s cut-off point
 (COP) for the relevant posting year.</p>
@@ -304,8 +306,8 @@ can be filed at our school’s general office in person or via email by&nbsp;<st
 as medical reports, letters from certified doctors, or assessment reports
 from qualified medical professionals.
 <br>
-<br>The appeal results will be released on <strong>2 January 2026</strong>.</p>
-<p>
+<br>The appeal results will be released on <strong>2 January 2026</strong>.
+<br>
 <br><strong>(C) Appeal to transfer to another school for non-medical reasons</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -316,7 +318,9 @@ from qualified medical professionals.
 <p>You should still report to KRSS on 2 January 2026 if you do not hear from
 your preferred school by then</p>
 </li>
-</ul>
+<li>
 <p>While awaiting reply from the other school, you will not need to purchase
 KRSS uniforms and books</p>
+</li>
+</ul>
 <p></p>
