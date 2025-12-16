@@ -13,7 +13,7 @@ schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-rel
 useful information on how to prepare your child/ward for the first day
 of school.</p>
 <p>Your child’s/ward’s&nbsp;<strong>2026 Sec 1 Class allocation</strong>&nbsp;will
-be available on Parents Gateway after&nbsp;<strong>12 noon on 22 December 2025 (Monday)</strong>.</p>
+be available on Parents Gateway after&nbsp;<strong>12 noon on 26 December 2025 (Friday)</strong>.</p>
 <p>As there may be student movement due to transfer cases, we seek your understanding
 that there may be changes in the Form Class allocation. All Form Class
 allocation will only be finalised after the school term begins.</p>
@@ -303,7 +303,7 @@ school by <strong>9 January 2026</strong>.</p>
 <br>If you have been posted to Kent Ridge Secondary School, but assess that
 the school is unable to accommodate your child’s medical or physical health
 needs, you may appeal to MOE for a transfer to another school. Appeals
-can be filed at our school’s general office in person or via email by&nbsp;<strong>12pm, 22 December 2025 (Monday)</strong>. <strong>(Is there an official form from PPS that you will attach here for parents to complete?)</strong>
+can be filed at our school’s general office in person or via email by&nbsp;<strong>12pm, 22 December 2025 (Monday)</strong>.
 <br>
 <br>All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from certified doctors, or assessment reports
