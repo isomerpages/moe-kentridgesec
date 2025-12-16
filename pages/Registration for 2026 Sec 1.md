@@ -115,13 +115,41 @@ hair)</p>
 </ul>
 <p>Please refer to <strong>School Rules</strong> on the school website for
 our <strong>School Uniform Policy</strong>.</p>
-<p><strong>Books - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Books</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/booklist/</a>
 </p>
-<p><strong>Uniforms - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
 </p>
-<p><strong>School Rules - </strong><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Rules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2. MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p>For 2026 Sec 1 students whose FAS applications have been approved, please
 report to the KRSS school general office for further assistance.
@@ -156,8 +184,7 @@ be informed by the school via Parents Gateway.</p>
 <p>For more information on Full Subject-Based Banding (Full SBB), parents
 can refer to the following websites:
 <br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
-</p>
-<p><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb</a>
+<br><a href="https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb</a>
 <br>
 <br>Should you have any queries, please contact the following officer:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
