@@ -136,10 +136,10 @@ website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.kentr
 to the following website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
 <p>Please refer to the&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_CCA_Information_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
-more details. <strong>(pending update from IC)</strong>
+more details.
 <br>
 <br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca" rel="noopener noreferrer nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
-3 January 2025 (Fri). <strong>(pending update from IC)</strong>
+3 January 2025 (Fri).
 <br>
 <br>Should you have any queries, please contact the following officers:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
@@ -157,8 +157,9 @@ be informed by the school via Parents Gateway.</p>
 can refer to the following websites:
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/<br><br></a>Should
-you have any queries, please contact the following officer:
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/full-subject-based-banding-sbb/</a>
+<br>
+<br>Should you have any queries, please contact the following officer:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sherine_chua@schools.gov.sg</a>
 </p>
