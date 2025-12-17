@@ -15,9 +15,6 @@ of school.</p>
 <p>Class allocation for your child/ward will be available on Parents Gateway
 from <strong>23 December 2025 (Tuesday)</strong>. We seek your understanding
 that minor adjustments may still occur thereafter.</p>
-<p>As there may be student movement due to transfer cases, we seek your understanding
-that there may be changes in the Form Class allocation. All Form Class
-allocation will only be finalised after the school term begins.</p>
 <p>You will also be notified via Parents Gateway if your child/ ward is eligible
 to offer core subjects under SBB at a more demanding level, or Higher Mother
 Tongue Languages HCL/HML. Please check the SBB and MTL sections below for
