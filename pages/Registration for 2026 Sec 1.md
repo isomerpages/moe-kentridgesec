@@ -13,8 +13,8 @@ schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-rel
 useful information on how to prepare your child/ward for the first day
 of school.</p>
 <p>Class allocation for your child/ward will be available on Parents Gateway
-from <strong>23 December 2025 (Tuesday)</strong>. We seek your understanding
-that minor adjustments may still occur thereafter.</p>
+(under the “Contacts” section) after 12 noon on 23 December 2025 (Tuesday).
+We seek your understanding that minor adjustments may still be made thereafter.</p>
 <p>You will also be notified via Parents Gateway if your child/ ward is eligible
 to offer core subjects under SBB at a more demanding level, or Higher Mother
 Tongue Languages HCL/HML. Please check the SBB and MTL sections below for
