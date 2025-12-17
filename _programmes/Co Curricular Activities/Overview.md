@@ -10,7 +10,7 @@ CCA is a core component of our holistic curriculum where students discover
 their interests and talents, while learning important life skills. At the
 secondary level, CCA is compulsory; each student will participate in at
 least one school-based CCA.</p>
-<p>Kent Ridge offers 18 CCAs and each CCA offers engaging programmes to build
+<p>Kent Ridge offers 19 CCAs and each CCA offers engaging programmes to build
 students’ character and develop their leadership competencies.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -51,8 +51,8 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys’ Brigade, Girls’ Brigade, National Cadet Corp, National Police Cadet
-Corp</p>
+<p>Boys’ Brigade, Girls’ Brigade, National Cadet Corp, National Civil Defence
+Cadet Corp<u>,</u> National Police Cadet Corp</p>
 </td>
 </tr>
 <tr>
