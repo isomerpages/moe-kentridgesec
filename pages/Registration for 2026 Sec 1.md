@@ -163,11 +163,11 @@ website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based
 <p>For information on the school’s co-curricular activities, please refer
 to the following website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
-<p>Please refer to the&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/files/KRSS_CCA_Information_Letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
+<p>Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
 more details.
 <br>
-<br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-cca" rel="noopener noreferrer nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
-3 January 2025 (Fri).
+<br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-ccasurvey" rel="noopener noreferrer nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
+9 January 2025 (Friday).
 <br>
 <br>Should you have any queries, please contact the following officers:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
@@ -249,8 +249,7 @@ school website:
 apply for the Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP&nbsp;Centres:
 <br>• AEP: National Junior College
 <br>• MEP: Anglo-Chinese School (Independent)
-<br>• MEP:&nbsp;Dunman&nbsp;High School</p>
-<p>Details for online application will be shared at a later date.
+<br>• MEP:&nbsp;Dunman&nbsp;High School
 <br>
 <br>Successful applicants will attend weekly lessons in the afternoon at the
 AEP/MEP Centre and are expected to commit to the programme for 4 years.
