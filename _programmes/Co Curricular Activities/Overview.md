@@ -51,8 +51,8 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys’ Brigade, Girls’ Brigade, National Cadet Corp, National Civil Defence
-Cadet Corp<u>,</u> National Police Cadet Corp</p>
+<p>Boys’ Brigade, Girls’ Brigade, National Cadet Corps, National Civil Defence
+Cadet Corps<u>,</u> National Police Cadet Corps</p>
 </td>
 </tr>
 <tr>
