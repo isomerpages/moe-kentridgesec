@@ -122,6 +122,35 @@ Senior Specialist&nbsp;Assessment Course
 </div>
 </details>
 <details class="isomer-details">
+<summary>National Civil Defence Cadet Corps</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>MONDAY:&nbsp; 1535 – 1800 HRS</p>
+<p></p>
+<p>The Kent Ridge Secondary School National Civil Defence Cadet Corps (NCDCC)
+will commence in <strong>2026</strong>, with the aim of developing students
+into confident, resilient and community-minded leaders who are prepared
+to serve and protect in times of emergency.</p>
+<p></p>
+<p>Working in close partnership with the Singapore Civil Defence Force (SCDF),
+NCDCC nurtures active citizenship by equipping cadets with essential life-saving
+skills, emergency preparedness knowledge, and a strong sense of responsibility
+towards the community. Through structured training and hands-on experiences,
+cadets learn to respond calmly and effectively in crisis situations, while
+developing discipline, teamwork and leadership.</p>
+<p></p>
+<p>NCDCC programmes are designed to build character and values, foster resilience,
+and cultivate a spirit of service. Cadets are trained to care for others,
+support their communities, and rise to challenges with confidence and courage.
+As students progress through the levels, they are given increasing opportunities
+to take on leadership roles—mentoring juniors, planning activities, and
+leading the unit—thereby developing ownership, initiative and responsibility.</p>
+<p></p>
+<p>Through NCDCC, Kent Ridge students will discover their strengths, grow
+in self-confidence, and develop the skills and mindset needed to make a
+meaningful contribution to society, both in school and beyond.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>National Police Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
