@@ -124,8 +124,8 @@ Senior Specialist&nbsp;Assessment Course
 <details class="isomer-details">
 <summary>National Civil Defence Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>MONDAY:&nbsp; 1535 – 1800 HRS</p>
-<p></p>
+<p><strong>Day / Time:</strong>
+<br>MONDAY:&nbsp; 1535 – 1800 HRS</p>
 <p>The Kent Ridge Secondary School National Civil Defence Cadet Corps (NCDCC)
 will commence in <strong>2026</strong>, with the aim of developing students
 into confident, resilient and community-minded leaders who are prepared
