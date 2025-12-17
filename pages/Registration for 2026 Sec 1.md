@@ -13,8 +13,8 @@ schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-rel
 useful information on how to prepare your child/ward for the first day
 of school.</p>
 <p>Class allocation for your child/ward will be available on Parents Gateway
-from <strong>23 December</strong>. We seek your understanding that minor
-adjustments may still occur thereafter.</p>
+from <strong>23 December 2025 (Tuesday)</strong>. We seek your understanding
+that minor adjustments may still occur thereafter.</p>
 <p>As there may be student movement due to transfer cases, we seek your understanding
 that there may be changes in the Form Class allocation. All Form Class
 allocation will only be finalised after the school term begins.</p>
