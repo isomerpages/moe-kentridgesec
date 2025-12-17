@@ -12,8 +12,9 @@ schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-rel
 <p>The school will be using Parents Gateway (PG) to communicate with you
 useful information on how to prepare your child/ward for the first day
 of school.</p>
-<p>Your child’s/ward’s&nbsp;<strong>2026 Sec 1 Class allocation</strong>&nbsp;will
-be available on Parents Gateway after&nbsp;<strong>12 noon on 26 December 2025 (Friday)</strong>.</p>
+<p>Class allocation for your child/ward will be available on Parents Gateway
+from <strong>23 December</strong>. We seek your understanding that minor
+adjustments may still occur thereafter.</p>
 <p>As there may be student movement due to transfer cases, we seek your understanding
 that there may be changes in the Form Class allocation. All Form Class
 allocation will only be finalised after the school term begins.</p>
@@ -78,10 +79,12 @@ more information.</p>
 <p>Important Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Book List</p>
+<p><a href="/files/Kent_Ridge_Secondary_2026___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KRSS Infosheet (S1)</p>
+<p><a href="/files/KRSS_Infosheet__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS Infosheet (S1)</a>
+</p>
 </td>
 </tr>
 <tr>
