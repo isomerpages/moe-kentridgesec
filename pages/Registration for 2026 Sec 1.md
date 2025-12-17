@@ -138,7 +138,7 @@ our <strong>School Uniform Policy</strong>.</p>
 <p>Uniforms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/school-rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/school-rules/</a>
+<p><a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/uniform/</a>
 </p>
 </td>
 </tr>
@@ -275,23 +275,19 @@ AEP/MEP.</p>
 SEN Officers will be reaching out to you via Parents Gateway.
 <br>
 <br>For urgent enquiries, you can also contact them:
-<br>Senior SEN Officer
-<br><strong>Mrs Cheryl Lim</strong>
+<br><strong>Mrs Cheryl Lim, Senior SEN Officer </strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tan_seok_gek@schools.gov.sg</a>
-</p>
-<p>SEN Officer
-<br><strong>Ms Sakina Binte Mohamed Ali</strong>
+<br>
+<br><strong>Ms Sakina Binte Mohamed Ali, SEN Officer </strong>
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">Sakina_Mohamed_Ali@schools.gov.sg</a>
 </p>
 <h4><strong>9. School Counselling Support</strong></h4>
 <p>Parents who would like to find out more about the school’s counselling
 support system can contact the following officers:
-<br>Senior School Counsellor
-<br><strong>Mr Aw Wei Keong, Freddy</strong>
+<br><strong>Mr Aw Wei Keong, Freddy, Senior School Counsellor </strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">aw_wei_keong_freddy@schools.gov.sg</a>
-</p>
-<p>School Counsellor
-<br><strong>Ms Usha Rani </strong>
+<br>
+<br><strong>Ms Usha Rani, School Counsellor </strong>
 <br>Email:<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">Usha_Rani@schools.gov.sg</a>
 </p>
 <h4><strong>10. School Counselling Support</strong></h4>
