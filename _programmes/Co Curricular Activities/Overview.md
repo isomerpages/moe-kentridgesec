@@ -33,7 +33,7 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Debate Society, International Chess, Media Club, Robotics Club</p>
+<p>Debate Society, International Chess Club, Media Club, Robotics Club</p>
 </td>
 </tr>
 <tr>
