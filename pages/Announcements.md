@@ -4,6 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<h3><a href="https://www.kentridgesec.moe.edu.sg/school-information/registration-for-2026-sec-1-students/" rel="noopener nofollow" target="_blank">Registration for 2026 Sec 1 Students</a></h3>
 <h3>Release of 2025 GCE-N Level Examination Results</h3>
 <p>Dear Kent Ridgeans and Parents/Guardian(s) of the 2025 Graduating Cohort,</p>
 <p>The GCE N-Level Examination results will be released on Thursday, 18 December
