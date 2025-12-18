@@ -168,7 +168,7 @@ website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/adminis
 </p>
 <h4><strong>3. KRSS&nbsp;Co-Curricular&nbsp;Activities (CCAs)</strong></h4>
 <p>For information on the school’s co-curricular activities, please refer
-to the following website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
+to the following website: <a href="https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
 <p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2026.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a> for
 more details.
