@@ -32,7 +32,7 @@ MTL sections below for more information.</p>
 </p>
 <p>For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 <h4><strong>1. Purchase of Books and Uniforms</strong></h4>
-<p>Dates of Sales in School: <strong>December 22, 23, 26, 29, 30</strong>
+<p>Dates of sales in School: <strong>December 22, 23, 26, 29, 30</strong>
 </p>
 <p>Operating Hours: <strong>9am to 3pm</strong>
 </p>
@@ -98,7 +98,7 @@ MTL sections below for more information.</p>
 <p>Location</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Bookshop (Canteen, Level 3)</p>
+<p>School Bookshop at the Canteen (Level 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Counter at the back of the Canteen (Level 3)</p>
@@ -166,9 +166,7 @@ report to the KRSS school general office for further assistance.
 <br>For students who would like to apply for FAS, please refer to the following
 website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/</a>
 </p>
-<h4><strong>3. KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</strong></h4>
-<p><strong>KRSS Co-Curricular Activities (CCAs)</strong>
-</p>
+<h4><strong>3. KRSS&nbsp;Co-Curricular&nbsp;Activities (CCAs)</strong></h4>
 <p>For information on the school’s co-curricular activities, please refer
 to the following website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
@@ -196,7 +194,7 @@ can refer to the following websites:
 <br><strong>Mrs Sherine Ang, Year Head</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sherine_chua@schools.gov.sg</a>
 </p>
-<h4><strong>5. Mother Tongue Languages (MTL) Matters</strong></h4>
+<h4><strong>5. Mother Tongue Languages (MTL)</strong></h4>
 <p><strong>Higher Mother Tongue (HMT) Languages:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -263,7 +261,7 @@ Prior to application, interested students and their parents should work
 closely with the students’ secondary schools to ensure that their school
 timetable and commitments would allow them to participate fully in the
 AEP/MEP.</p>
-<p>Do refer to important details in web links provided below.
+<p>Do refer to important details in the web links provided below.
 <br><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
 <a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">
 <br>https://moe.gov.sg/mep</a>
@@ -277,6 +275,7 @@ AEP/MEP.</p>
 SEN Officers will be reaching out to you via Parents Gateway.
 <br>
 <br>For urgent enquiries, you can also contact them:
+<br>
 <br><strong>Mrs Cheryl Lim, Senior SEN Officer </strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tan_seok_gek@schools.gov.sg</a>
 <br>
@@ -286,17 +285,14 @@ SEN Officers will be reaching out to you via Parents Gateway.
 <h4><strong>9. School Counselling Support</strong></h4>
 <p>Parents who would like to find out more about the school’s counselling
 support system can contact the following officers:
+<br>
 <br><strong>Mr Aw Wei Keong, Freddy, Senior School Counsellor </strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">aw_wei_keong_freddy@schools.gov.sg</a>
 <br>
 <br><strong>Ms Usha Rani, School Counsellor </strong>
 <br>Email:<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">Usha_Rani@schools.gov.sg</a>
 </p>
-<h4><strong>10. School Counselling Support</strong></h4>
-<p>To welcome our new Secondary 1 students, the Secondary 1 Orientation Programme
-will be held on&nbsp;<strong>2, 5 and 9 January 2026</strong>.</p>
-<p>Details of the orientation programme will be shared at a later date.</p>
-<h4><strong>11. Secondary One Students using Primary Level School Smart Card (SSC)</strong></h4>
+<h4><strong>10. Secondary One Students using Primary Level School Smart Card (SSC)</strong></h4>
 <p>All students entering Secondary One in January 2026 will be issued with
 a new Secondary Level School Smart Card (SSC). TransitLink will deliver
 the cards to secondary schools by April 2026.
@@ -307,11 +303,11 @@ travel till end-April 2026.</p>
 <p>Students can still purchase the Bus Concession Pass (BCP) using their
 Primary Level SSCs but they would need to purchase the BCP for Secondary
 School students.</p>
-<h4><strong>12. Student Lockers</strong></h4>
+<h4><strong>11. Student Lockers</strong></h4>
 <p>Lockers are provided for all students and are located outside their respective
 classrooms. Students are required to bring their own padlocks. Padlocks
 are also available for purchase at the school bookshop.</p>
-<h4><strong>13. Appeals and School Transfers</strong></h4>
+<h4><strong>12. Appeals and School Transfers</strong></h4>
 <p><strong>(A) Appeal to transfer to Kent Ridge Secondary School for non-medical reasons</strong>
 <br>
 <br>Please submit your appeal via this&nbsp;<a href="https://go.gov.sg/krss-s1-appeal" rel="noopener noreferrer nofollow" target="_blank">online form</a>&nbsp;by <strong>12pm, 26 December 2025 (Friday)</strong>.
