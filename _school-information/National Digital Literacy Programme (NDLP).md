@@ -98,10 +98,10 @@ school has put in place processes to support our students, staff and partners.</
 </td>
 <td rowspan="1" colspan="1">
 <p>For students joining the school in 2021 and 2022 - Lenovo Chromebook 500e
-Gen 2 (Enhanced)
-<br>For students joining the school in 2023 - Lenovo Chromebook 500e Gen 3
-(Enhanced)
-<br>For students joining the school in 2024 &amp; 2025 - Lenovo Chromebook
+Gen 2 (Enhanced)</p>
+<p>For students joining the school in 2023 - Lenovo Chromebook 500e Gen 3
+(Enhanced)</p>
+<p>For students joining the school in 2024 &amp; 2025 - Lenovo Chromebook
 500e Gen 4 (Enhanced)</p>
 <p>For students joining the school in 2026 - Lenovo Chromebook 500e Gen 4S
 (Enhanced)</p>
