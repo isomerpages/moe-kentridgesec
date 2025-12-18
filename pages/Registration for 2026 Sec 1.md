@@ -4,7 +4,7 @@ permalink: /registration-for-2026-sec-1/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents/Guardian(s),</p>
+<p>Dear Parent(s)/Guardian(s),</p>
 <p>A warm welcome on your child’s/ward’s posting to Kent Ridge Secondary
 School!</p>
 <p>Please note that students do not need to report to their posted secondary
@@ -16,10 +16,11 @@ of school.</p>
 (under the “Contacts” section) after 12 noon on 23 December 2025 (Tuesday).
 We seek your understanding that minor adjustments may still be made thereafter.</p>
 <p>You will also be notified via Parents Gateway if your child/ ward is eligible
-to offer core subjects under SBB at a more demanding level, or Higher Mother
-Tongue Languages HCL/HML. Please check the SBB and MTL sections below for
-more information.</p>
-<p><strong>Do ensure books for the correct subject level are purchased for your child/ward. If uncertain, you might consider waiting until the first week of school to purchase your textbooks.</strong>
+to offer core subjects at a more demanding level under Full Subject Based
+Banding (FSBB), or Higher Mother Tongue Languages (MTL), Higher Chinese
+Language (HCL) / Higher Malay Language (HML). Please check the FSBB and
+MTL sections below for more information.</p>
+<p><strong>Do ensure books for the correct subject level are purchased for your child/ward. If you are uncertain, you may wish to consider waiting until the first week of school to purchase your child's books.</strong>
 </p>
 <p>For further clarification, please&nbsp;<a href="https://www.kentridgesec.moe.edu.sg/school-information/contact-information" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 <h4><strong>1. Purchase of Books and Uniforms</strong></h4>
