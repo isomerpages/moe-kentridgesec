@@ -174,6 +174,7 @@ to the following website: <a href="https://www.kentridgesec.moe.edu.sg/programme
 more details.
 <br>
 <br>Should you have any queries, please contact the following officers:
+<br>
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
 <br>
