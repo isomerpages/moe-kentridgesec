@@ -339,7 +339,7 @@ from qualified medical professionals.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to your&nbsp;<u>preferred school’s</u>&nbsp;website for more information.</p>
+<p>Refer to your&nbsp;<u>preferred school’s</u>&nbsp;website for more information</p>
 </li>
 <li>
 <p>You should still report to KRSS on 2 January 2026 if you do not hear from
