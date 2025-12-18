@@ -262,7 +262,7 @@ Prior to application, interested students and their parents should work
 closely with the students’ secondary schools to ensure that their school
 timetable and commitments would allow them to participate fully in the
 AEP/MEP.</p>
-<p>Do refer to important details in the web links provided below.
+<p>Do refer to important details in the web links provided below:
 <br><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
 <a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">
 <br>https://moe.gov.sg/mep</a>
