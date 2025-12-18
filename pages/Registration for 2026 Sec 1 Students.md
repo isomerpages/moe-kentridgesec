@@ -8,10 +8,9 @@ description: ""
 <p>A warm welcome on your child’s/ward’s posting to Kent Ridge Secondary
 School!</p>
 <p>As part of the e-Registration process, we kindly request that you complete
-and submit the KRSS Secondary 1 (2026) <a href="https://go.gov.sg/sec1e-registration" rel="noopener nofollow" target="_blank">e-Registration Form</a> by 29
-December 2025 (Monday). This will help the school to gather essential information
-to support your child’s/ward’s smooth transition into secondary school
-life. &nbsp; &nbsp;</p>
+and submit the <strong>KRSS Secondary 1 (2026) <a href="https://go.gov.sg/sec1e-registration" rel="noopener nofollow" target="_blank">e-Registration Form</a></strong> by <strong>29 December 2025 (Monday)</strong>.
+This will help the school gather essential information to support your
+child’s/ward’s smooth transition into secondary school life. &nbsp; &nbsp;</p>
 <p>Please note that students do not need to report to their posted secondary
 schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20251212-2025-secondary-1-posting-results" rel="noopener nofollow" target="_blank">S1 posting results</a>.</p>
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation Programme
@@ -19,14 +18,13 @@ will be held on <strong>2, 5 and 9 January 2026</strong>. A <strong>Secondary 1 
 be held on <strong>9 January 2026 (Friday) at 6pm</strong>.</p>
 <p>Details of the <strong>First Day of School (2 January 2026)</strong> and
 the Secondary 1 Orientation Programme will be shared at a later date.</p>
-<p>The school will be using Parents Gateway (PG) to communicate with you
-useful information on how to prepare your child/ward for the first day
-of school.</p>
+<p>The school will be using Parents Gateway (PG) to communicate useful information
+on how to prepare your child/ward for the first day of school.</p>
 <p>Class allocation for your child/ward will be available on Parents Gateway
-(under the “Contacts” section) after 12 noon on 23 December 2025 (Tuesday).
+(under the “Contacts” section) <strong>after 12 noon on 23 December 2025 (Tuesday)</strong>.
 We seek your understanding that minor adjustments may still be made thereafter.</p>
 <p>You will also be notified via Parents Gateway if your child/ ward is eligible
-to offer core subjects at a more demanding level under Full Subject Based
+to offer core subjects at a more demanding level under Full Subject-Based
 Banding (FSBB), or Higher Mother Tongue Languages (MTL), Higher Chinese
 Language (HCL) / Higher Malay Language (HML). Please check the FSBB and
 MTL sections below for more information.</p>
@@ -184,7 +182,7 @@ more details.
 <br><strong>Mr Kevin Chow, SH/PE</strong>
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
-<h4><strong>4. Full Subject Based Banding</strong></h4>
+<h4><strong>4. Full Subject-Based Banding</strong></h4>
 <p>Kent Ridge Secondary School has implemented Full Subject-Based Banding
 (Full SBB) since 2023.</p>
 <p>Students who are eligible to do subjects at a more demanding level will
