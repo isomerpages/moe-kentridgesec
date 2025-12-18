@@ -309,11 +309,9 @@ as his/her full name, class and Student iCON ID to set up user accounts.</p>
 <details class="isomer-details">
 <summary>Acceptable Use Policy (AUP)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
 <p><strong>Kent Ridge Secondary School</strong>
-</p>
-<p><strong><u>Acceptable Use Policy (AUP)<br>For Personal Learning Device &amp; School ICT Resources</u></strong>
+<br><strong><u>Acceptable Use Policy (AUP)</u></strong>
+<br><strong><u>For Personal Learning Device &amp; School ICT Resources</u></strong>
 </p>
 <p>Dear Student,</p>
 <p>Computing devices and access to the Internet have become a necessity for
@@ -380,8 +378,6 @@ before downloading, copying or sharing any copyrighted materials (<em>e.g.</em>&
 videos, music).</p>
 <p>10. You should not use, copy or share digital files in an unauthorised
 or illegal manner.</p>
-</li>
-</ul>
 </div>
 </details>
 </div>
