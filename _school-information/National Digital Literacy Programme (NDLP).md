@@ -18,13 +18,10 @@ to facilitate an environment that encourages personalised learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%;" height="auto" width="100%" alt="NATIONAL DIGITAL LITERACY PROGRAMME (NDLP)" src="/images/NDLP_1.jpg">
 </div>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;NDLP in Kent Ridge Secondary
-School &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>NDLP in Kent Ridge Secondary School</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Our school strives to develop Kent Ridgeans who are</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -307,11 +304,13 @@ students’ video conferencing needs.</p>
 <p>The school may also choose to roll out applications other than those listed
 above. The school may need to use your child’s/ward’s personal data such
 as his/her full name, class and Student iCON ID to set up user accounts.</p>
-</li>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Acceptable Use Policy (AUP)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Acceptable Use Policy
-(AUP) &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Kent Ridge Secondary School</strong>
 </p>
 <p><strong><u>Acceptable Use Policy (AUP)<br>For Personal Learning Device &amp; School ICT Resources</u></strong>
@@ -381,7 +380,13 @@ before downloading, copying or sharing any copyrighted materials (<em>e.g.</em>&
 videos, music).</p>
 <p>10. You should not use, copy or share digital files in an unauthorised
 or illegal manner.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
