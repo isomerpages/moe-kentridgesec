@@ -14,6 +14,11 @@ to support your child’s/ward’s smooth transition into secondary school
 life. &nbsp; &nbsp;</p>
 <p>Please note that students do not need to report to their posted secondary
 schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20251212-2025-secondary-1-posting-results" rel="noopener nofollow" target="_blank">S1 posting results</a>.</p>
+<p>To welcome our new Secondary 1 students, the Secondary 1 Orientation Programme
+will be held on <strong>2, 5 and 9 January 2026</strong>. A <strong>Secondary 1 Parents' Briefing</strong> will
+be held on <strong>9 January 2026 (Friday) at 6pm</strong>.</p>
+<p>Details of the <strong>First Day of School (2 January 2026)</strong> and
+the Secondary 1 Orientation Programme will be shared at a later date.</p>
 <p>The school will be using Parents Gateway (PG) to communicate with you
 useful information on how to prepare your child/ward for the first day
 of school.</p>
@@ -161,13 +166,13 @@ our <strong>School Uniform Policy</strong>.</p>
 report to the KRSS school general office for further assistance.
 <br>
 <br>For students who would like to apply for FAS, please refer to the following
-website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/</a>
+website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/</a>
 </p>
 <h4><strong>3. KRSS&nbsp;Co-Curricular&nbsp;Activities (CCA) Information</strong></h4>
 <p><strong>KRSS Co-Curricular Activities (CCAs)</strong>
 </p>
 <p>For information on the school’s co-curricular activities, please refer
-to the following website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
+to the following website: <a href="https://www.kentridgesec.moe.edu.sg/school-information/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
 <p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2026.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a> for
 more details.
@@ -199,13 +204,13 @@ can refer to the following websites:
 <ul data-tight="true" class="tight">
 <li>
 <p>Students eligible for HCL/HML will be informed by the school via Parents
-Gateway to indicate their option.</p>
+Gateway to indicate their option</p>
 </li>
 <li>
-<p>HCL/HML lessons will be conducted in school.</p>
+<p>HCL/HML lessons will be conducted in school</p>
 </li>
 <li>
-<p>They do not need to buy CL/ML books before the decision is made.</p>
+<p>They do not need to buy CL/ML books before the decision is made</p>
 </li>
 </ul>
 <p><strong>For the following groups of students, the school will make arrangements to see you when school starts:</strong>
