@@ -7,6 +7,11 @@ description: ""
 <p>Dear Parent(s)/Guardian(s),</p>
 <p>A warm welcome on your child’s/ward’s posting to Kent Ridge Secondary
 School!</p>
+<p>As part of the e-Registration process, we kindly request that you complete
+and submit the KRSS Secondary 1 (2026) <a href="https://go.gov.sg/sec1e-registration" rel="noopener nofollow" target="_blank">e-Registration Form</a> by 29
+December 2025 (Monday). This will help the school to gather essential information
+to support your child’s/ward’s smooth transition into secondary school
+life. &nbsp; &nbsp;</p>
 <p>Please note that students do not need to report to their posted secondary
 schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20251212-2025-secondary-1-posting-results" rel="noopener nofollow" target="_blank">S1 posting results</a>.</p>
 <p>The school will be using Parents Gateway (PG) to communicate with you
@@ -164,11 +169,8 @@ website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based
 <p>For information on the school’s co-curricular activities, please refer
 to the following website: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/overview/</a>
 </p>
-<p>Please refer to the&nbsp;<a href="/files/KRSS_CCA_Information_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">KRSS CCA Information Letter</a>&nbsp;for
+<p>Please refer to the <a href="/files/KRSS_CCA_Information_Letter_2026.pdf" rel="noopener nofollow" target="_blank">KRSS CCA Information Letter</a> for
 more details.
-<br>
-<br>Please complete the&nbsp;<a href="https://go.gov.sg/pri-sch-ccasurvey" rel="noopener noreferrer nofollow" target="_blank">Survey on Primary School CCA</a>&nbsp;by
-9 January 2025 (Friday).
 <br>
 <br>Should you have any queries, please contact the following officers:
 <br><strong>Ms Jaime Lim, HOD/Aesthetics &amp; CCA</strong>
