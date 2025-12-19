@@ -13,7 +13,7 @@ Registration for 2026 Sec 1 Students</p>
 December 2025. Please find the following briefing slides:
 <br><a href="/files/Post_N_level_results_release_FAQ___recommendation.pdf" rel="noopener nofollow" target="_blank">Post N level results release FAQ &amp; recommendation</a>
 <br><a href="/files/Admin_Briefing___N_Level_Results_18_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Admin Briefing - N Level Results 18 Dec 2025</a>
-<br><a href="/files/Admin_Briefing___N_Level_Results_18_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Info Sheet for Parents (N-Level)</a>
+<br><a href="/files/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener nofollow" target="_blank">Info Sheet for Parents (N-Level)</a>
 </p>
 <p>We wish you all the best! 😊</p>
 <p><strong>Useful resources:</strong>
