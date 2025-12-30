@@ -30,7 +30,7 @@ of the Secondary 4N and 5N streams in 2020.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Lam Yao Lun
+<br>Ms Susan Liang Siew Geok
 <br>Mrs Teo Wee Leng</p>
 </div>
 </details>
@@ -148,6 +148,10 @@ leading the unit—thereby developing ownership, initiative and responsibility.<
 <p>Through NCDCC, Kent Ridge students will discover their strengths, grow
 in self-confidence, and develop the skills and mindset needed to make a
 meaningful contribution to society, both in school and beyond.</p>
+<p></p>
+<p><strong><em>Teachers in-charge</em></strong>
+<br>Ms Hong Yunfang
+<br>Mrs Esther Fong</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -177,7 +181,7 @@ juniors and events, with the ultimate goal of leading the Unit.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Mohammad Basheer Adrian
 <br>Mdm Haizurah Kadir Mydin
-<br>Ms Kiang Jian Xuan</p>
+<br>Ms Vivien Tan</p>
 </div>
 </details>
 </div>
