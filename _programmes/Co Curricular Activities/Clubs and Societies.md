@@ -26,7 +26,6 @@ Under-14 Debating Championship.</p>
 <p></p>
 <p><strong><em>Teachers-in- charge:</em></strong>
 <br>Mr Lok Sin Min
-<br>Ms Nurhidayah Azman
 <br>Ms Anita Salleh</p>
 </div>
 </details>
@@ -108,11 +107,9 @@ year onwards, as an AV specialist.</p>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Chew Ying Chao
 <br>Mr Ng Chong Hern Bennedic
 <br>Ms Zannatul Nauum Moumee
-<br>Mr Yang Shihao
-<br>Ms Kelly Tan
+<br>Ms Vivian Cheong
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -176,8 +173,8 @@ and Computational Thinking Competition (DrCT)</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Michelle Cheong
 <br>Mr Seto Yi Kang, Marcus
-<br>Ms Nur Hidayah binte Mohmed Nor
-<br>Mdm Ma Jing</p>
+<br>Mdm Ma Jing
+<br>Ms Firhana</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
 </div>
