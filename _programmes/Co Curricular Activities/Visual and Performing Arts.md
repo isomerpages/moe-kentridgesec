@@ -31,9 +31,9 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mdm Wong Weng Han
+<br>Ms Mabel Loon Ting Ting
 <br>Ms Monisha Kaur
-<br>Ms Mabel Loon
+<br>Ms Lim Bee Leng
 <br>Mr Karl Anish Luis</p>
 </div>
 </details>
@@ -112,7 +112,6 @@ you in our Concert Band family. Come discover the joy of making music together!
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm How Siow Ling
-<br>Mr Kevin Nicholas Fonseka
 <br>Mr Mohamad Rasull
 <br>Mr Darrell Lim</p>
 <p></p>
@@ -146,7 +145,6 @@ together and where everyone is allowed to grow at their own pace.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Maimunah
-<br>Ms Hong Yunfang
 <br>Mr Gabriel Fu Bojun</p>
 </div>
 </details>
@@ -189,8 +187,8 @@ of friendships built during their stay with us.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Siti Suhara
-<br>Ms Dian Farhana
-<br>Ms Susan Liang</p>
+<br>Ms Teo-Hua Yue Janice
+<br>Mrs Fu Wen-ci</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama 2025" src="/images/drama 2025.png">
