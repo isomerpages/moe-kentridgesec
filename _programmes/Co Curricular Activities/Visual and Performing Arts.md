@@ -251,7 +251,7 @@ can support their creativity.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr&nbsp;Kenneth Pek
 <br>Mr&nbsp;Hong Thin Yong
-<br>Mr Oliver Ho</p>
+<br>Mr Xu Kaibin</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eARTh Club" src="/images/eARTh_Club_1.png">
