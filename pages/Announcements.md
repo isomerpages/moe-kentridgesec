@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Guide to reset MIMS password</h3>
+<h3>Guide on How to Reset MIMS Password</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MIMS_SSPR_Guide" src="/images/Posters_MIMS_SSPR_Guide_Page_2.jpg">
 </div>
