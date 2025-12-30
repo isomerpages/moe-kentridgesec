@@ -34,7 +34,8 @@ and rankings.</p>
 <br>Mr Chan Kar Hong
 <br>Mr Lim Er Song
 <br>Ms Foo Shuan Chou
-<br>Mr Mohd Taib</p>
+<br>Mr Neo Sian Lee
+<br>Mr Chew Ying Chao</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -67,7 +68,7 @@ sessions take place at the school’s Indoor Sports Hall Level 1.
 <br>Mr Lim Kheng Joo Vincent
 <br>Mrs Kalaivani Selvin
 <br>Mdm Lam Cheng Wan
-<br>Ms Vivian Cheong</p>
+<br>Ms Kelly Tan Shi Hui</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -96,10 +97,9 @@ level during competitions.</p>
 </p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Jitendra
 <br>Ms Siti Fadzilah
 <br>Mr Ang Swee Huat
-<br>Ms Janice Teo</p>
+<br>Mr Mohd Taib</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -126,7 +126,6 @@ Championship since 2006.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Rishabh
 <br>Mr Mohd Helmy
-<br>Mr Chia Tai-Yu
 <br>Mr Smithy Methias @ Yusoef Adam</p>
 </div>
 </details>
@@ -158,8 +157,7 @@ such as Camp craft and Outdoor Cooking.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Ong Wee Kwang
 <br>Mr Chua Chau Lee
-<br>Ms Low Shi Ting
-<br>Ms Wang Jingou</p>
+<br>Ms Low Shi Ting</p>
 </div>
 </details>
 </div>
