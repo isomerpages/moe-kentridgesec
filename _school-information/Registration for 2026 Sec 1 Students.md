@@ -15,9 +15,8 @@ child’s/ward’s smooth transition into secondary school life. &nbsp; &nbsp;</
 schools upon receiving their&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20251212-2025-secondary-1-posting-results" rel="noopener nofollow" target="_blank">S1 posting results</a>.</p>
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation Programme
 will be held on <strong>2, 5 and 9 January 2026</strong>. A <strong>Secondary 1 Parents' Briefing</strong> will
-be held on <strong>9 January 2026 (Friday) at 6pm</strong>.</p>
-<p>Details of the <strong>First Day of School (2 January 2026)</strong> and
-the Secondary 1 Orientation Programme will be shared at a later date.</p>
+be held on <strong>9 January 2026 (Friday) at 6pm</strong>. Please refer
+to the orientation programme details <a href="/files/KRSS_2026_Sec_1_Orientation_Programme.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>The school will be using Parents Gateway (PG) to communicate useful information
 on how to prepare your child/ward for the first day of school.</p>
 <p>Class allocation for your child/ward will be available on Parents Gateway
