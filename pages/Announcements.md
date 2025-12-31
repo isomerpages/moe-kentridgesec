@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Class Time-table (Semester 1, 2026)</h3>
+<h3>Class Timetable (Semester 1, 2026)</h3>
 <p>Please refer to the class timetable for semester 1, 2026, at this <a href="https://www.kentridgesec.moe.edu.sg/school-information/academic-matters/timetables/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3>MIMS Password Reset Guide</h3>
 <div class="isomer-image-wrapper">
