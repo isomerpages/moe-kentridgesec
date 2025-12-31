@@ -244,7 +244,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
+<p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yu Xiaoyan</p>
