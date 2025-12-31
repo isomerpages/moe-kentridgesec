@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Development [Year Head (Sec 3)]</p>
+<p>HOD / Student Development [Year Head (Sec 4/5)]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Asan Bin Mohideen Pitchay</p>
@@ -79,18 +79,6 @@ variant: tiptap
 <p>Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nicole Song Xiao Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tay_xiao_lin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Sherine Ang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,13 +88,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 4/5)</p>
+<p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Su</p>
+<p>Mrs Nicole Song Xiao Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shihan_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shihan_elaine@moe.edu.sg</a>
+<p><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tay_xiao_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Yang Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_shihan_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -149,6 +149,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chandra S/O Karumanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nagaretnam S/O Yalumalai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -222,7 +233,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
+<p>HOD / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr James Quek Chin Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yu Xiaoyan</p>
@@ -269,7 +291,7 @@ variant: tiptap
 <p>SH / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hidayah Binte Mohamed Nor</p>
+<p>Mr Ng Zhi Kai Joel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -299,10 +321,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Malay Language</p>
+<p>SH / ICT (Info Comm Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haizurah Bte Kadir Mydin</p>
+<p>Mr Lam Yao Lun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -310,10 +332,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
+<p>SH / Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Quek Chin Wee</p>
+<p>Mdm Haizurah Bte Kadir Mydin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -358,17 +380,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Chye Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chia Tai-Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

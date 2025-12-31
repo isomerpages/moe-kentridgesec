@@ -10,8 +10,8 @@ variant: tiptap
 <summary>Choir</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS- 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p>The Kent Ridge Choir – “Kent Ridge Voices” – was formed when the school
@@ -31,9 +31,9 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mdm Wong Weng Han
+<br>Ms Loon Ting Ting, Mabel
 <br>Ms Monisha Kaur
-<br>Ms Mabel Loon
+<br>Ms Lim Bee Leng
 <br>Mr Karl Anish Luis</p>
 </div>
 </details>
@@ -41,8 +41,8 @@ performed for the Voices of Singapore Festival.
 <summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1530 - 1800 HRS
-<br>THURSDAY: 1530 - 1800 HRS
+<br>MONDAY: 1530 HRS - 1800 HRS
+<br>THURSDAY: 1530 HRS - 1800 HRS
 <br>
 </p>
 <p>Since 2001, the Kent Ridge Concert Band has been the heartbeat of our
@@ -112,7 +112,6 @@ you in our Concert Band family. Come discover the joy of making music together!
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm How Siow Ling
-<br>Mr Kevin Nicholas Fonseka
 <br>Mr Mohamad Rasull
 <br>Mr Darrell Lim</p>
 <p></p>
@@ -125,8 +124,9 @@ you in our Concert Band family. Come discover the joy of making music together!
 <summary>Dance Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS</p>
+<p></p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
 enthusiastic team of students, teachers and instructors. Our programme’s
 objectives are to create a conducive, safe and collaborative environment
@@ -146,7 +146,6 @@ together and where everyone is allowed to grow at their own pace.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Maimunah
-<br>Ms Hong Yunfang
 <br>Mr Gabriel Fu Bojun</p>
 </div>
 </details>
@@ -154,8 +153,8 @@ together and where everyone is allowed to grow at their own pace.
 <summary>Drama Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p>KRSS Drama Club is a vibrant CCA that fosters a strong bond between the
@@ -189,8 +188,8 @@ of friendships built during their stay with us.
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Siti Suhara
-<br>Ms Dian Farhana
-<br>Ms Susan Liang</p>
+<br>Ms Teo-Hua Yue Janice
+<br>Mrs Fu Wen-ci</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama 2025" src="/images/drama 2025.png">
@@ -201,8 +200,8 @@ of friendships built during their stay with us.
 <summary>eARTh Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p><strong>Mission:</strong>To promote the awareness and appreciation of
@@ -253,7 +252,7 @@ can support their creativity.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr&nbsp;Kenneth Pek
 <br>Mr&nbsp;Hong Thin Yong
-<br>Mr Oliver Ho</p>
+<br>Mr Xu Kaibin</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eARTh Club" src="/images/eARTh_Club_1.png">

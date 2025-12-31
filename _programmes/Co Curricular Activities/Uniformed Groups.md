@@ -10,7 +10,7 @@ variant: tiptap
 <summary>Boys' Brigade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS</p>
 <p>The 74th Boys' Brigade Company started in 2000 with seven boys and now
 stands at about 35 members strong. Our programme is run with the help of
 Volunteer Adult Officers. We have a wide range of activities such as character
@@ -30,7 +30,7 @@ of the Secondary 4N and 5N streams in 2020.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Lam Yao Lun
+<br>Ms Susan Liang Siew Geok
 <br>Mrs Teo Wee Leng</p>
 </div>
 </details>
@@ -38,7 +38,7 @@ of the Secondary 4N and 5N streams in 2020.
 <summary>Girls' Brigade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
 <br>(THURSDAYS, when required, or when Monday is a PH)</p>
 <p>The Girls’ Brigade's mission is to develop each girl and officer to her
 fullest potential by equipping, empowering and enabling every girl to be
@@ -76,7 +76,7 @@ of the Volunteer Adult Officers. Come and join us in this GB 54th family!
 <summary>National Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
 <br>
 <br><strong>Vision: </strong>Be Extraordinary Youth Leaders</p>
 <p>The mission of the Kent Ridge National Cadet Corps (NCC) is to develop
@@ -125,7 +125,7 @@ Senior Specialist&nbsp;Assessment Course
 <summary>National Civil Defence Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY:&nbsp; 1535 – 1800 HRS</p>
+<br>MONDAY:&nbsp; 1535 HRS – 1800 HRS</p>
 <p>The Kent Ridge Secondary School National Civil Defence Cadet Corps (NCDCC)
 will commence in <strong>2026</strong>, with the aim of developing students
 into confident, resilient and community-minded leaders who are prepared
@@ -148,13 +148,17 @@ leading the unit—thereby developing ownership, initiative and responsibility.<
 <p>Through NCDCC, Kent Ridge students will discover their strengths, grow
 in self-confidence, and develop the skills and mindset needed to make a
 meaningful contribution to society, both in school and beyond.</p>
+<p></p>
+<p><strong><em>Teachers in-charge</em></strong>
+<br>Ms Hong Yunfang
+<br>Mrs Esther Fong</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>National Police Cadet Corps</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS</p>
 <p></p>
 <p>The Kent Ridge Secondary School's National Police Cadet Corps (NPCC) develops
 our students to be active citizens and community leaders, by working in
@@ -177,7 +181,7 @@ juniors and events, with the ultimate goal of leading the Unit.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Mohammad Basheer Adrian
 <br>Mdm Haizurah Kadir Mydin
-<br>Ms Kiang Jian Xuan</p>
+<br>Ms Vivien Tan</p>
 </div>
 </details>
 </div>

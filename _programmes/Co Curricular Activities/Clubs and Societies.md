@@ -11,8 +11,8 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS</p>
 <p>The Debate Society, formerly a special interest group, is a newly-established
 CCA in 2017. The CCA aims to develop student-debaters who are able to think
 critically and speak skilfully. We train our students in the art of debating,
@@ -26,7 +26,6 @@ Under-14 Debating Championship.</p>
 <p></p>
 <p><strong><em>Teachers-in- charge:</em></strong>
 <br>Mr Lok Sin Min
-<br>Ms Nurhidayah Azman
 <br>Ms Anita Salleh</p>
 </div>
 </details>
@@ -34,8 +33,8 @@ Under-14 Debating Championship.</p>
 <summary>International Chess Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS (Recreational)
-<br>THURSDAY: 1535 - 1800 HRS (Competitive)</p>
+<br>MONDAY: 1535 HRS - 1800 HRS (Recreational)
+<br>THURSDAY: 1535 HRS - 1800 HRS (Competitive)</p>
 <p>International Chess is a newly established CCA in 2023. It was formerly
 a special interest group and had about 30 students playing regularly and
 taking part in school competitions.&nbsp; The objectives of International
@@ -58,10 +57,10 @@ We will train students to take part in internal and external chess competitions.
 <p><strong>Day / Time:</strong>
 </p>
 <p><u>CCA TRAINING DATES:</u>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS</p>
 <p><u>AV DUTIES:</u>
-<br>- EVERY MORNING (0700 – 0800) [TEAM BASED ROTATIONAL BASIS]
+<br>- EVERY MORNING (0700 HRS – 0800 HRS) [TEAM BASED ROTATIONAL BASIS]
 <br>- DURING SCHOOL EVENTS [SELECTED STUDENTS]</p>
 <p><u>PHOTO/VIDEO DUTIES OR PRODUCTIONS:</u>
 <br>- DURING SCHOOL EVENTS [SELECTED STUDENTS]
@@ -108,11 +107,9 @@ year onwards, as an AV specialist.</p>
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Chew Ying Chao
 <br>Mr Ng Chong Hern Bennedic
 <br>Ms Zannatul Nauum Moumee
-<br>Mr Yang Shihao
-<br>Ms Kelly Tan
+<br>Ms Vivian Cheong
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -124,8 +121,8 @@ year onwards, as an AV specialist.</p>
 <summary>Robotics Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535- 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS</p>
 <p><strong>Mission: </strong>Robotics members are equipped through collaboration,
 community engagement and skill development to be computational thinkers
 and work independently and as a group.</p>
@@ -176,8 +173,8 @@ and Computational Thinking Competition (DrCT)</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mdm Michelle Cheong
 <br>Mr Seto Yi Kang, Marcus
-<br>Ms Nur Hidayah binte Mohmed Nor
-<br>Mdm Ma Jing</p>
+<br>Mdm Ma Jing
+<br>Ms Firhana Binte Mohamed Almuddin (Mrs Arafat)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
 </div>
