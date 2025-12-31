@@ -10,8 +10,8 @@ variant: tiptap
 <summary>Choir</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS- 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p>The Kent Ridge Choir – “Kent Ridge Voices” – was formed when the school
@@ -41,8 +41,8 @@ performed for the Voices of Singapore Festival.
 <summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1530 - 1800 HRS
-<br>THURSDAY: 1530 - 1800 HRS
+<br>MONDAY: 1530 HRS - 1800 HRS
+<br>THURSDAY: 1530 HRS - 1800 HRS
 <br>
 </p>
 <p>Since 2001, the Kent Ridge Concert Band has been the heartbeat of our
@@ -124,8 +124,9 @@ you in our Concert Band family. Come discover the joy of making music together!
 <summary>Dance Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS</p>
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS</p>
+<p></p>
 <p>The Kent Ridge Modern Dance Club prides itself on having a dedicated and
 enthusiastic team of students, teachers and instructors. Our programme’s
 objectives are to create a conducive, safe and collaborative environment
@@ -152,8 +153,8 @@ together and where everyone is allowed to grow at their own pace.
 <summary>Drama Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p>KRSS Drama Club is a vibrant CCA that fosters a strong bond between the
@@ -199,8 +200,8 @@ of friendships built during their stay with us.
 <summary>eARTh Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1800 HRS
-<br>THURSDAY: 1535 - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p><strong>Mission:</strong>To promote the awareness and appreciation of
