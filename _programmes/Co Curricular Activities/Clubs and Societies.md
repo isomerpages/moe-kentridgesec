@@ -174,7 +174,7 @@ and Computational Thinking Competition (DrCT)</p>
 <br>Mdm Michelle Cheong
 <br>Mr Seto Yi Kang, Marcus
 <br>Mdm Ma Jing
-<br>Ms Firhana</p>
+<br>Mrs Arafat</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="robotics club 2025" src="/images/robotics club 2025.png">
 </div>
