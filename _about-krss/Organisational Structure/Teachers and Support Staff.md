@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Arafat</p>
+<p>Ms Firhana Binte Mohamed Almuddin (Mrs Arafat)</p>
 </td>
 </tr>
 <tr>
