@@ -10,8 +10,8 @@ variant: tiptap
 <summary>Badminton</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY &amp; THURSDAY: 1535 - 1800 HRS
-<br>FRIDAY: 1330 - 1630 HRS (only for selected students)
+<br>MONDAY &amp; THURSDAY: 1535 HRS - 1800 HRS
+<br>FRIDAY: 1330 HRS - 1630 HRS (only for selected students)
 <br>
 </p>
 <p>Kent Ridge Secondary School Badminton Team's curriculum is designed&nbsp;to
@@ -42,8 +42,8 @@ and rankings.</p>
 <summary>Basketball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY &amp; WEDNESDAY: : 1535 -1800 HRS (B Division)
-<br>MONDAY &amp; THURSDAY: 1535 -1800 HRS (C Division)
+<br>MONDAY &amp; WEDNESDAY: : 1535 HRS -1800 HRS (B Division)
+<br>MONDAY &amp; THURSDAY: 1535 HRS -1800 HRS (C Division)
 <br>
 </p>
 <p>Our motto of “One Voice, One Team, One Goal!” spells out the motivational
@@ -75,8 +75,8 @@ sessions take place at the school’s Indoor Sports Hall Level 1.
 <summary>Floorball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY &amp; THURSDAY: 1535 - 1800 HRS (Boys)
-<br>TUESDAY &amp; THURSDAY: 1535 - 1800 HRS (Girls)
+<br>MONDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Boys)
+<br>TUESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Girls)
 <br>
 </p>
 <p>KRSS Floorball Team was established in 2008 with a pioneer cohort of 36
@@ -106,8 +106,8 @@ level during competitions.</p>
 <summary>Football</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>TUESDAY &amp; THURSDAY: 1535 - 1800 HRS (C Division)
-<br>WEDNESDAY &amp; THURSDAY: 1535 - 1800 HRS (B Division)
+<br>TUESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (C Division)
+<br>WEDNESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (B Division)
 <br>
 </p>
 <p>The Kent Ridge Football Team takes part in training sessions and tournaments
@@ -133,8 +133,8 @@ Championship since 2006.
 <summary>Outdoor Adventure Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1535 - 1830 HRS (inc. of travelling time)
-<br>FRIDAY (ODD WEEK): 1300 - 1615 HRS (inc. of travelling time)
+<br>MONDAY: 1535 HRS - 1830 HRS (inc. of travelling time)
+<br>FRIDAY (ODD WEEK): 1300 HRS - 1615 HRS (inc. of travelling time)
 <br>
 <br>(Sailing - for Sec 4 students till NSG)
 <br>FRIDAY: 1300 - 1800hours
