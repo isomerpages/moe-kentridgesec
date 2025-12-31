@@ -31,7 +31,7 @@ performed for the Voices of Singapore Festival.
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Ms Mabel Loon Ting Ting
+<br>Ms Loon Ting Ting, Mabel
 <br>Ms Monisha Kaur
 <br>Ms Lim Bee Leng
 <br>Mr Karl Anish Luis</p>
