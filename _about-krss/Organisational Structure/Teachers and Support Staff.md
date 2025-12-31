@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loon Ting Ting</p>
+<p>Ms Loon Ting Ting, Mabel</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Firhana</p>
+<p>Mrs Arafat</p>
 </td>
 </tr>
 <tr>
