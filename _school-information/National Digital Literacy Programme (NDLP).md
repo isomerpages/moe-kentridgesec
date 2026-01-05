@@ -233,7 +233,7 @@ PLD and manage prolonged use of the PLD to reduce stress on the eyes.</p>
 <p>Parents/guardians can choose between these 3 DMA After-School Parent Options
 to suit their preferences for managing the PLDs&nbsp;<strong>after school hours</strong>.
 Parents can request to change their choice of DMA option by submitting
-this form:&nbsp;<a href="https://go.gov.sg/krparentdma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/krdma2025</a>.
+this form: <a href="https://go.gov.sg/krparentdma" rel="noopener nofollow" target="_blank">https://go.gov.sg/krparentdma</a>.
 The request will be processed by the school&nbsp;<strong>at the end of every month</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%;" height="auto" width="100%" alt="DMA" src="/images/New_MOE_DMA.jpg">
