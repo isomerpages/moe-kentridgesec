@@ -310,18 +310,14 @@ as his/her full name, class and Student iCON ID to set up user accounts.</p>
 <summary>Acceptable Use Policy (AUP)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Kent Ridge Secondary School</strong>
-<br><strong><u>Acceptable Use Policy (AUP)</u></strong>
-<br><strong><u>For use of EdTech Resources</u></strong>
+<br><strong><u>Acceptable Use Policy (AUP) For use of EdTech Resources</u></strong>
 </p>
 <p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
-</p>
-<p>Technology is an essential part of learning in today’s world.
-<br>
-<br>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
+<br>Technology is an essential part of learning in today’s world.</p>
+<p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
 safely and responsibly, in line with efforts to develop your digital literacies
 and growth as digitally responsible citizens.</p>
-<p>&nbsp;</p>
 <p>EdTech resources include the following, but are not limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -412,17 +408,17 @@ should not post online remarks that are</p>
 pictures and videos) that is inappropriate (e.g. indecent, pornographic,
 defamatory, hurtful to self or others).</p>
 </li>
-</ul>
-<p>• make threats, cause harassment or embarrassment, impersonate or intimidate
+<li>
+<p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.</p>
+</li>
+</ul>
 <ol start="10" data-tight="true" class="tight">
 <li>
 <p>You should not use MOE/school-deployed ICT system accounts for any commercial
 activities (e.g. buying and selling of goods and services).</p>
 </li>
 </ol>
-<p>Non-compliance with the above will lead to disciplinary action in accordance
-with the school’s discipline policy.</p>
 <p><strong>Respecting Copyright</strong>
 </p>
 <ol start="11" data-tight="true" class="tight">
