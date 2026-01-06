@@ -313,18 +313,34 @@ as his/her full name, class and Student iCON ID to set up user accounts.</p>
 <br><strong><u>Acceptable Use Policy (AUP)</u></strong>
 <br><strong><u>For use of EdTech Resources</u></strong>
 </p>
-<p>Dear Student,</p>
-<p>Computing devices and access to the Internet have become a necessity for
-work, play and learning in the 21st century. As you navigate the digital
-space, you should do so in a safe and responsible manner. More information
-can be found in the “Student Kit on Cyber Wellness and Learning with a
-Personal Learning Device”. The kit can be found here (SLS log-in is required):&nbsp;
-<a href="https://go.gov.sg/cwstudentkit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cwstudentkit</a>.</p>
-<p>In addition, you are reminded to observe the guidelines stated in this
-Acceptable Use Policy (AUP) on the use of personal learning devices (PLDs)
-and the school’s ICT resources. ICT resources include the following, but
-are not limited to, MOE/school-deployed ICT system accounts, the device
-management application (DMA) and the school’s internet network.</p>
+<p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
+</p>
+<p>Technology is an essential part of learning in today’s world.
+<br>
+<br>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
+use of EdTech resources to help you understand how to use these resources
+safely and responsibly, in line with efforts to develop your digital literacies
+and growth as digitally responsible citizens.</p>
+<p>&nbsp;</p>
+<p>EdTech resources include the following, but are not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</p>
+</li>
+<li>
+<p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON);
+and school internet networks.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>For more information, please refer to:</p>
+<p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
+– <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
+</p>
+<p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
+(Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
+</p>
+<p></p>
 <p><strong>General</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -334,7 +350,9 @@ are not authorised to.</p>
 </li>
 <li>
 <p>You are reminded that the use of learning devices and school’s EdTech
-resources should solely be for the purpose of learning.</p>
+resources should solely be for the purpose of learning.
+<br>
+</p>
 </li>
 </ol>
 <p><strong>Using your PLD</strong>
