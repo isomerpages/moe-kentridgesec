@@ -330,9 +330,6 @@ and school internet networks.</p>
 </ul>
 <p>
 <br>For more information, please refer to:</p>
-<p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
-– <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
-</p>
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
