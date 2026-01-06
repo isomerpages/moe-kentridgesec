@@ -310,8 +310,7 @@ as his/her full name, class and Student iCON ID to set up user accounts.</p>
 <summary>Acceptable Use Policy (AUP)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Kent Ridge Secondary School</strong>
-<br><strong><u>Acceptable Use Policy (AUP)</u></strong>
-<br><strong><u>For use of EdTech Resources</u></strong>
+<br><strong><u>Acceptable Use Policy (AUP) For use of EdTech Resources</u></strong>
 </p>
 <p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
 </p>
