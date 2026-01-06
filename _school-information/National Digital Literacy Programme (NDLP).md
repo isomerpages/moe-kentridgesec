@@ -332,8 +332,8 @@ and growth as digitally responsible citizens.</p>
 and school internet networks.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>For more information, please refer to:</p>
+<p>
+<br>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
 – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
 </p>
