@@ -416,6 +416,8 @@ others.</p>
 activities (e.g. buying and selling of goods and services).</p>
 </li>
 </ol>
+<p>Non-compliance with the above will lead to disciplinary action in accordance
+with the school’s discipline policy.</p>
 <p><strong>Respecting Copyright</strong>
 </p>
 <ol start="11" data-tight="true" class="tight">
