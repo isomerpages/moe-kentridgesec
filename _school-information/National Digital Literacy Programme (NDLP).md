@@ -374,8 +374,8 @@ and updates when being prompted by the system.</p>
 </li>
 <li>
 <p>All PLDs are installed with a Device Management Application (DMA) to support
-a safe and conducive learning environment.&nbsp; You should not attempt
-to bypass the DMA.</p>
+a safe and conducive learning environment. You should not attempt to bypass
+the DMA.</p>
 </li>
 <li>
 <p>You are responsible for regularly backing up your learning materials in
