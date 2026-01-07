@@ -88,7 +88,7 @@ Cadet Corps<u>,</u> National Police Cadet Corps</p>
 </tr>
 </tbody>
 </table>
-<p><u>LEAPS 2.0 Framework</u>
+<p><strong>LEAPS 2.0 Framework</strong>
 <br>Our CCA programmes are guided by the LEAPS 2.0 framework to encourage
 and recognise students’ holistic development in life skills, competencies
 and values.&nbsp; Students will be recognised with levels of attainment
