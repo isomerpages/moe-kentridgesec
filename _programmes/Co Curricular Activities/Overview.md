@@ -37,9 +37,8 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allow students to explore and extend their interests in wide</p>
-<p>ranging and specialised areas which may be knowledge-</p>
-<p>based or skill-based</p>
+<p>Allow students to explore and extend their interests in wide ranging and
+specialised areas which may be knowledge-based or skill-based</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Debate Society, International Chess Club, Media Club, Robotics Club</p>
@@ -63,9 +62,8 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aim to make good citizens of students by inculcating in</p>
-<p>them self-reliance, resilience, discipline and a spirit of</p>
-<p>service to others</p>
+<p>Aim to make good citizens of students by inculcating in them self-reliance,
+resilience, discipline and a spirit of service to others</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys’ Brigade, Girls’ Brigade, National Cadet Corps, National Civil Defence
@@ -78,9 +76,8 @@ Cadet Corps<u>,</u> National Police Cadet Corps</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instil in students a sense of graciousness and an</p>
-<p>appreciation for the rich culture and heritage of a multi-</p>
-<p>racial society</p>
+<p>Instil in students a sense of graciousness and an appreciation for the
+rich culture and heritage of a multi-racial society</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir, Concert Band, Dance, Drama, eARTh Club</p>
@@ -88,7 +85,7 @@ Cadet Corps<u>,</u> National Police Cadet Corps</p>
 </tr>
 </tbody>
 </table>
-<p><u>LEAPS 2.0 Framework</u>
+<p><strong>LEAPS 2.0 Framework</strong>
 <br>Our CCA programmes are guided by the LEAPS 2.0 framework to encourage
 and recognise students’ holistic development in life skills, competencies
 and values.&nbsp; Students will be recognised with levels of attainment
