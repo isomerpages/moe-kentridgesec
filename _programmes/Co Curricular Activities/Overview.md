@@ -12,8 +12,9 @@ secondary level, CCA is compulsory; each student will participate in at
 least one school-based CCA.</p>
 <p>Kent Ridge offers 19 CCAs and each CCA offers engaging programmes to build
 students’ character and develop their leadership competencies.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -21,6 +22,9 @@ students’ character and develop their leadership competencies.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>CCA Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Objective</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>CCAs</strong>
@@ -33,6 +37,11 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Allow students to explore and extend their interests in wide</p>
+<p>ranging and specialised areas which may be knowledge-</p>
+<p>based or skill-based</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Debate Society, International Chess Club, Media Club, Robotics Club</p>
 </td>
 </tr>
@@ -40,6 +49,9 @@ students’ character and develop their leadership competencies.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/physical-sports/" rel="noopener noreferrer nofollow" target="_blank">Physical Sports</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop robustness, fair play and team spirit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton, Basketball, Floorball, Football, Outdoor Adventure Club</p>
@@ -51,6 +63,11 @@ students’ character and develop their leadership competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Aim to make good citizens of students by inculcating in</p>
+<p>them self-reliance, resilience, discipline and a spirit of</p>
+<p>service to others</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Boys’ Brigade, Girls’ Brigade, National Cadet Corps, National Civil Defence
 Cadet Corps<u>,</u> National Police Cadet Corps</p>
 </td>
@@ -59,6 +76,11 @@ Cadet Corps<u>,</u> National Police Cadet Corps</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.kentridgesec.moe.edu.sg/programmes/co-curricular-activities/visual-performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Visual and Performing Arts</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instil in students a sense of graciousness and an</p>
+<p>appreciation for the rich culture and heritage of a multi-</p>
+<p>racial society</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir, Concert Band, Dance, Drama, eARTh Club</p>
