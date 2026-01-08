@@ -26,17 +26,17 @@ also seek your understanding that seats for accompanying parents are limited.</p
 <p>Kent Ridge Secondary School</p>
 <p><strong>Useful resources:</strong>
 <br><a href="/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>
-<br>The What's Next pamphlet can be found at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>.</p>
+<br>The What's Next pamphlet can be found at <a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>.</p>
 <p><strong>Resources for Parents</strong>
 <br>For resources on social and emotional support as well as education and
 career guidance, please refer to the attached Information Sheet.&nbsp;Education
 and Career Guidance (ECG) Parent Resource&nbsp;is also available at &nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/olevel-ecgparentresources</a>.</p>
+<a href="http://go.gov.sg/olevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/olevel-ecgparentresources</a>.</p>
 <p><strong>ECG Counselling Support</strong>
 <br>For ECG counselling support, students may contact the ECG Counsellor in
 their schools or make an ECG counselling appointment with the ECG Centre
 @ MOE from 7 - 21&nbsp;January 2026 (Weekdays: 9.00 am to 5.00 pm; Saturdays:
-9.00 am to 12.00 pm) through the appointment booking form <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
+9.00 am to 12.00 pm) through the appointment booking form <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
 <h3>Class Timetable (Semester 1, 2026)</h3>
 <p>Please refer to the class timetable for semester 1, 2026, at this <a href="https://www.kentridgesec.moe.edu.sg/school-information/academic-matters/timetables/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3>MIMS Password Reset Guide</h3>
