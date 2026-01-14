@@ -25,6 +25,8 @@ also seek your understanding that seats for accompanying parents are limited.</p
 <p>We wish all our Kent Ridgeans the very best for their O-Level results!</p>
 <p>Kent Ridge Secondary School</p>
 <p><strong>Useful resources:</strong>
+<br><a href="/files/Admin_Briefing___O_Level_Results_14_Jan_2026_updated_on_12_Jan.pdf" rel="noopener nofollow" target="_blank">Admin Briefing – O Level Results 14 Jan 2026</a>
+<br><a href="/files/2025_O_Level_Briefing_Slides_for_Students_on_Supporting_Students__Well_being.pdf" rel="noopener nofollow" target="_blank">2025 O-Level Briefing Slides for Students on Supporting Students’ Well-being</a>
 <br><a href="/files/Letter_of_authorisation__collection_of_results_by_proxy____KRSS.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>
 <br>The What's Next pamphlet can be found at <a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>.</p>
 <p><strong>Resources for Parents</strong>
