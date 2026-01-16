@@ -87,26 +87,22 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </ol>
 <p><strong>At Kent Ridge Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Lessons in CCE 2025_Sec 1" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Lessons in CCE 2025_Sec 2" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Lessons in CCE 2025_Sec 3" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Lessons in CCE 2025_Sec 4" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Lessons in CCE 2025_Sec 5" src="/images/Sexuality_Education_Lessons_in_CCE_2025_Sec_5.png">
 </div>
+<p></p>
 <p><strong><em>eTeens</em></strong>&nbsp;<strong>Programme</strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
