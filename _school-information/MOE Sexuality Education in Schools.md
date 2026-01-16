@@ -48,9 +48,8 @@ on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>for more information on the scope of Sexuality Education in the
-school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:
@@ -71,10 +70,10 @@ maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
-ability to act responsibly. Given the pressures faced by the middle adolescent
-from within themselves and from peers, it is important to build a strong
-sense of self-worth, personal conviction and an understanding of the possible
-consequences of sexual behaviour.</p>
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
 </li>
 </ol>
 <ol start="7" data-tight="true" class="tight">
@@ -105,13 +104,16 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong><em>eTeens</em></strong>&nbsp;<strong>Programme</strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
-perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
-mass talk segment and a classroom-based programme. The desired outcome
-of the &nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
