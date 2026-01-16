@@ -114,8 +114,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
 perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
-mass talk segment and a classroom-based programme.The desired outcome of
-the &nbsp;<em>eTeens</em>&nbsp; programme is that students are empowered
+mass talk segment and a classroom-based programme. The desired outcome
+of the &nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 <li>
@@ -126,7 +126,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Kent Ridge Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Kent Ridge Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eTeens 2025" src="/images/eTeens_2025.png">
@@ -142,13 +142,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/2025_MOE_Sexuality_Education_in_School_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+The completed form is to be submitted by 31/01/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/2025_eTeens_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 31/01/2025.</p>
+is to be submitted by 31/01/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6773 1127 or&nbsp;<a href="mailto:krss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krss@moe.edu.sg</a>&nbsp;for
