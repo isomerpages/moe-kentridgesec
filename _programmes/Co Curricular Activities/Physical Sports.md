@@ -134,12 +134,8 @@ Championship since 2006.
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 HRS - 1830 HRS (inc. of travelling time)
-<br>FRIDAY (EVEN WEEK): 1400 HRS - 1715 HRS (inc. of travelling time)
-<br>
-<br>(Sailing - for Sec 4 students till NSG)
-<br>FRIDAY: 1300 - 1800hours
-<br>
-</p>
+<br>FRIDAY (EVEN WEEK): 1400 HRS - 1715 HRS (inc. of travelling time)</p>
+<p></p>
 <p><strong>VISION</strong>: O.D.A.C
 <br>Open-minded. Disciplined. Adaptable. Confident.
 <br>
