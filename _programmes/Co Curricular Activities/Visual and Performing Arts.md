@@ -41,8 +41,8 @@ performed for the Voices of Singapore Festival.
 <summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY: 1530 HRS - 1800 HRS
-<br>THURSDAY: 1530 HRS - 1800 HRS
+<br>MONDAY: 1535 HRS - 1800 HRS
+<br>THURSDAY: 1535 HRS - 1800 HRS
 <br>
 </p>
 <p>Since 2001, the Kent Ridge Concert Band has been the heartbeat of our

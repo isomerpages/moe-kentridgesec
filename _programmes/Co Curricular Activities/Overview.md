@@ -90,7 +90,7 @@ rich culture and heritage of a multi-racial society</p>
 and recognise students’ holistic development in life skills, competencies
 and values.&nbsp; Students will be recognised with levels of attainment
 in Participation, Achievement, Leadership and Service domains.&nbsp; More
-information can be found at this link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0</a>
+information can be found at this link: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0</a>
 </p>
 <p>At the end of the graduating year, students’ CCA attainment can be used
 for admission to Junior Colleges/Polytechnics/Institute of Technical Education
