@@ -76,7 +76,7 @@ sessions take place at the school’s Indoor Sports Hall Level 1.
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY &amp; WEDNESDAY: 1535 HRS - 1800 HRS (Boys)
-<br>TUESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Girls)
+<br>MONDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Girls)
 <br>
 </p>
 <p>KRSS Floorball Team was established in 2008 with a pioneer cohort of 36
