@@ -43,7 +43,7 @@ and rankings.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY &amp; WEDNESDAY: : 1535 HRS -1800 HRS (B Division)
-<br>MONDAY &amp; THURSDAY: 1535 HRS -1800 HRS (C Division)
+<br>WEDNESDAY &amp; THURSDAY: 1535 HRS -1800 HRS (C Division)
 <br>
 </p>
 <p>Our motto of “One Voice, One Team, One Goal!” spells out the motivational
@@ -75,7 +75,7 @@ sessions take place at the school’s Indoor Sports Hall Level 1.
 <summary>Floorball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>MONDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Boys)
+<br>MONDAY &amp; WEDNESDAY: 1535 HRS - 1800 HRS (Boys)
 <br>TUESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (Girls)
 <br>
 </p>
@@ -106,8 +106,8 @@ level during competitions.</p>
 <summary>Football</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
-<br>TUESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (C Division)
-<br>WEDNESDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (B Division)
+<br>THURSDAY &amp; FRIDAY: 1535 HRS - 1800 HRS (B Division)
+<br>MONDAY &amp; THURSDAY: 1535 HRS - 1800 HRS (C Division)
 <br>
 </p>
 <p>The Kent Ridge Football Team takes part in training sessions and tournaments
@@ -134,7 +134,7 @@ Championship since 2006.
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Day / Time:</strong>
 <br>MONDAY: 1535 HRS - 1830 HRS (inc. of travelling time)
-<br>FRIDAY (ODD WEEK): 1300 HRS - 1615 HRS (inc. of travelling time)
+<br>FRIDAY (EVEN WEEK): 1300 HRS - 1615 HRS (inc. of travelling time)
 <br>
 <br>(Sailing - for Sec 4 students till NSG)
 <br>FRIDAY: 1300 - 1800hours
