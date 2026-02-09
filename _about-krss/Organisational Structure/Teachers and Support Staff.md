@@ -498,7 +498,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leonard Siau Ming Chen</p>
+<p>Mr Mohamad Haziq Bin Azian</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Haziq Bin Azian</p>
+<p>Mr Wan Muhammad Fairuz Bin Wan Hisham</p>
 </td>
 </tr>
 <tr>
