@@ -70,7 +70,7 @@ variant: tiptap
 <p>Mr Mohamed Asan Bin Mohideen Pitchay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_asan_mohideen_pitc@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_asan_mohideen_pitc@moe.edu.sg</a>
+<p><a href="mailto:mohamed_asan_mohideen_pitc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_asan_mohideen_pitc@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Mrs Sherine Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sherine_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherine_chua@moe.edu.sg</a>
+<p><a href="mailto:sherine_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sherine_chua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mrs Nicole Song Xiao Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_tay_xiao_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tay_xiao_lin@moe.edu.sg</a>
+<p><a href="mailto:nicole_tay_xiao_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tay_xiao_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mrs Tan Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shihan_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
+<p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
