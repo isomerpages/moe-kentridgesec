@@ -15,7 +15,8 @@ third_nav_title: National Digital Literacy Prog
 <br>Student Briefing Slides on PLD Rollout (Mar 2026)
 <br><a href="/files/Student_Device_Information_Kit_2026__Lenovo_Devices_AsiaPac_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit 2026</a>
 <br>
-<br>
+<br><strong>DMA Guide for Parents</strong>
+<br><a href="https://go.gov.sg/chromeparentdmaguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/chromeparentdmaguide</a>
 <br>
 <br>
 </p>
