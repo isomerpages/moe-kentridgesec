@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-<h1><strong>National Digital Literacy Programme (NDLP)</strong></h1>
+<p><strong>National Digital Literacy Programme (NDLP)</strong>
+</p>
 <p>Digital technology is becoming increasingly pervasive in jobs, workplaces
 and society. The NDLP was launched in March 2020 to make digital learning
 inclusive by equipping students with the digital literacies to be future-ready.
