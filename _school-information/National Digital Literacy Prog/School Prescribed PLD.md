@@ -1,6 +1,6 @@
 ---
 title: School Prescribed PLD
-permalink: /school-prescribed-pld/
+permalink: /school-information/national-digital-literacy-programme-ndlp/school-prescribed-pld/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog
@@ -86,8 +86,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or
-<br>Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</p>
+<p>Gross Household Income (“<strong>GHI</strong>”) is $4,000 or less, or
+<br>Per Capita Income (“<strong>PCI</strong>”)* is $1,000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required.
@@ -99,8 +99,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or
-<br><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or
+<br><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
@@ -112,8 +112,8 @@ below for information on the eligibility for the subsidy:</p>
 FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or
-<br><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or
+<br><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>

@@ -1,6 +1,6 @@
 ---
 title: Acceptable Use Policy
-permalink: /school-information/pdlp/acceptable-use-policy/
+permalink: /school-information/national-digital-literacy-programme/acceptable-use-policy/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog

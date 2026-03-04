@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /school-information/pdlp/resources/
+permalink: /school-information/national-digital-literacy-programme/resources/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog

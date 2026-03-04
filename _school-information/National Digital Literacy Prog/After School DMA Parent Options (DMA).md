@@ -1,6 +1,6 @@
 ---
 title: After School DMA Parent Options (DMA)
-permalink: /after-school-dma-parent-options-dma/
+permalink: /school-information/national-digital-literacy-programme/after-school-dma-parent-options-dma/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog
@@ -40,8 +40,7 @@ The request will be processed by the school&nbsp;<strong>at the end of every mon
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_MOE_DMA.jpg">
 </div>
 <p><strong>Cyber-wellness</strong>
-</p>
-<p>The school has in place measures to enable a safe and seamless learning
+<br>The school has in place measures to enable a safe and seamless learning
 environment for students. Parents play a key role in partnering the school
 to support their child.&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -81,8 +80,7 @@ PLD.</p>
 </li>
 </ul>
 <p><strong>Roll-Out of IT Applications as part of the NDLP</strong>
-</p>
-<p>As part of the NDLP, schools will progressively roll out IT applications
+<br>As part of the NDLP, schools will progressively roll out IT applications
 that will be vital to students’ learning experience and educational journey.
 The school will roll out some or all of the following applications:</p>
 <ul data-tight="true" class="tight">

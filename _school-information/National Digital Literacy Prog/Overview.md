@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /school-information/national-digital-literacy-programme/overview/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog
