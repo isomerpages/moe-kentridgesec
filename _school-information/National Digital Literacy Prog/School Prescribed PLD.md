@@ -1,6 +1,6 @@
 ---
 title: School Prescribed PLD
-permalink: /school-information/national-digital-literacy-programme-ndlp/school-prescribed-pld/
+permalink: /school-information/national-digital-literacy-programme/school-prescribed-pld/
 variant: tiptap
 description: ""
 third_nav_title: National Digital Literacy Prog
