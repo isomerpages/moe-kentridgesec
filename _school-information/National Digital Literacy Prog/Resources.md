@@ -11,7 +11,7 @@ third_nav_title: National Digital Literacy Prog
 <br><a href="https://go.gov.sg/cw-studentkit" rel="noopener nofollow" target="_blank">Student Kit on Cyber Wellness and Learning with a Personal Learning Device (Secondary)</a>
 <br>
 <br><strong>KRSS ICT Briefing Slides </strong>
-<br>ICT Briefing Slides for Parents (Jan 2026)
+<br><a href="/files/NDLP_BL_Parent_Briefing_Handout_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">ICT Briefing Slides for Parents (Jan 2026)</a>
 <br>Student Briefing Slides on PLD Rollout (Mar 2026)
 <br><a href="/files/Student_Device_Information_Kit_2026__Lenovo_Devices_AsiaPac_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit 2026</a>
 <br>
