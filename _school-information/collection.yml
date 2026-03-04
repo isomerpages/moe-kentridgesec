@@ -2,14 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - National Digital Literacy Prog/.keep
-      - National Digital Literacy Prog/Overview.md
-      - National Digital Literacy Prog/School Prescribed PLD.md
-      - National Digital Literacy Prog/After School DMA Parent Options (DMA).md
-      - National Digital Literacy Prog/Acceptable Use Policy.md
-      - National Digital Literacy Prog/Resources.md
-      - National Digital Literacy Prog/National Digital Literacy Programme
-        (NDLP).md
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
@@ -30,6 +22,12 @@ collections:
       - Direct School Admission 2025/Application Procedure.md
       - Direct School Admission 2025/FAQ.md
       - MOE Sexuality Education in Schools.md
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/Overview.md
+      - National Digital Literacy Prog/School Prescribed PLD.md
+      - National Digital Literacy Prog/After School DMA Parent Options (DMA).md
+      - National Digital Literacy Prog/Acceptable Use Policy.md
+      - National Digital Literacy Prog/Resources.md
       - Registration for 2026 Sec 1 Students.md
       - Frequently Asked Questions (FAQS).md
       - Contact Us.md

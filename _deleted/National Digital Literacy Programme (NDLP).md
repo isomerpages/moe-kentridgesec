@@ -3,7 +3,6 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /school-information/national-digital-literacy-programme-ndlp/
 description: ""
 variant: tiptap
-third_nav_title: National Digital Literacy Prog
 ---
 <p>Digital technology is becoming increasingly pervasive in jobs, workplaces
 and society. The NDLP was launched in March 2020 to make digital learning
