@@ -286,19 +286,14 @@ that will be vital to students’ learning experience and educational journey.
 The school will roll out some or all of the following applications:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Student</strong>&nbsp;<strong>iCON</strong>: Every secondary school
-student will be given an email address. This is a service provided by Google
-as part of Google Suite.&nbsp;</p>
+<p><strong>Student iCON (Google Workspace):</strong> Every secondary school
+student will be provided with access to the Google Suite set of tools,
+including email address.</p>
 </li>
 <li>
-<p><strong>Microsoft</strong>&nbsp;<strong>Pro Plus</strong>: Every secondary
-school student will be able to use Microsoft Office tools that include
-Word, PowerPoint and Excel.&nbsp;</p>
-</li>
-<li>
-<p><strong>Zoom</strong>: Every secondary school student will be given a
-Zoom free account with a 40-min time limit using the Student iCON for the
-students’ video conferencing needs.</p>
+<p><strong>Microsoft 365 Pro Plus: </strong>Every secondary school student
+will be able to use Microsoft Office tools that include Word, PowerPoint,
+and Excel.</p>
 </li>
 </ul>
 <p>The school may also choose to roll out applications other than those listed
