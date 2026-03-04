@@ -2,11 +2,12 @@ collections:
   school-information:
     output: true
     order:
-      - PDLP/After School DMA Parent Options (DMA).md
-      - PDLP/Resources.md
-      - PDLP/Acceptable Use Policy.md
-      - PDLP/National Digital Literacy Programme (NDLP).md
-      - PDLP/.keep
+      - National Digital Literacy Prog/After School DMA Parent Options (DMA).md
+      - National Digital Literacy Prog/Resources.md
+      - National Digital Literacy Prog/Acceptable Use Policy.md
+      - National Digital Literacy Prog/National Digital Literacy Programme
+        (NDLP).md
+      - National Digital Literacy Prog/.keep
       - Academic Matters/.keep
       - Academic Matters/AEP & MEP.md
       - Academic Matters/Assessment Matters.md
