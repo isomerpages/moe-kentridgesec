@@ -132,7 +132,7 @@ each AI tool's age restrictions before using it.</p>
 </li>
 <li>
 <p>If the use of AI is permitted, you should acknowledge the use of AI in
-weighted assessments and homework as required.3</p>
+weighted assessments and homework as required.</p>
 </li>
 <li>
 <p>You are to practice academic integrity and be responsible for your own
