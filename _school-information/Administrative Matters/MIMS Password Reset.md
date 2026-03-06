@@ -1,6 +1,6 @@
 ---
-title: Edupass Password Reset (formerly MIMS)
-permalink: /edupass-password-reset/
+title: MIMS Password Reset
+permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
