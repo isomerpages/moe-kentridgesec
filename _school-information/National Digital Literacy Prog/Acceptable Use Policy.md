@@ -60,7 +60,8 @@ and updates when being prompted by the system.</p>
 <li>
 <p>All PLDs are installed with a Device Management Application (DMA) to support
 a safe and conducive learning environment. You should not attempt to bypass
-the DMA.</p>
+the DMA. Doing so will be treated as a breach of school rules and may result
+in disciplinary consequences.</p>
 </li>
 <li>
 <p>You are responsible for regularly backing up your learning materials in
