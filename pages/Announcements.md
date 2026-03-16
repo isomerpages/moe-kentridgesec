@@ -4,6 +4,11 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<h3>CCA &amp; Tutorial Schedule</h3>
+<p>Updated 16 March 2026</p>
+<p><a href="https://cms.isomer.gov.sg/files/CCA_Tutorial_Schedule___March_2026.pdf" rel="noopener nofollow" target="_blank"><u>March Holidays</u></a>
+</p>
+<p></p>
 <h3>Class Timetable (Semester 1, 2026)</h3>
 <p>Please refer to the class timetable for semester 1, 2026, at this <a href="https://www.kentridgesec.moe.edu.sg/school-information/academic-matters/timetables/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3>MIMS Password Reset Guide</h3>
