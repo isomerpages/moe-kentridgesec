@@ -18,6 +18,13 @@ while learning continues.
 <br><a href="/files/2026_Sem_1_TT_Sec_3_8_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 <br><a href="/files/2026_Sem_1_TT_Sec_4_8_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
+<h5>CCA &amp; Tutorial Schedule</h5>
+<p><a href="/files/CCA_Tutorial_Schedule___March_2026.pdf" rel="noopener nofollow" target="_blank">March Holidays</a>
+</p>
 <h5>School Terms and Holidays for 2026</h5>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">School Terms and Holidays for 2026</a>
+<br>
+<br>
+<br>
+<br>
 </p>
