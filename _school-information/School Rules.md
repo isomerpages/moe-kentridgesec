@@ -248,7 +248,15 @@ improper or outlandish hair styles.
 <br>d) Students must not wear coloured contact lenses.
 <br>e) Tattoos and body art (even stickers or non-permanent ink) are not allowed.
 <br>f) Students must keep their fingernails short, clean and unvarnished.</p>
-<p><strong>5. CANTEEN AND CORRIDOR CONDUCT</strong>
+<p><strong>5. SCHOOL-BASED ASSESSMENT</strong>
+<br>a) Students are to act with honesty during all assessments. They should
+not offer, seek, obtain, or discuss any information related to the common
+assessment (e.g., WA/Exam) with their peers <strong>before, during and after</strong> the
+commencement of the common assessment.
+<br>b) Any form of dishonest behaviour in assessments will be subjected to
+disciplinary actions by the school.
+<br>
+<br><strong>6. CANTEEN AND CORRIDOR CONDUCT</strong>
 <br>a) Students must queue when buying food and drinks in the canteen.
 <br>b) Consumption of food and drinks is permitted and confined to the school
 canteen only, unless authorised by a teacher.
