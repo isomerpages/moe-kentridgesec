@@ -99,6 +99,7 @@ level during competitions.</p>
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Ms Siti Fadzilah
 <br>Mr Ang Swee Huat
+<br>Mr Sim Zheng Xian
 <br>Mr Mohd Taib</p>
 </div>
 </details>
