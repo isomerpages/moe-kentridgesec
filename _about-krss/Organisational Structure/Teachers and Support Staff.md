@@ -62,7 +62,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +72,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Claudia Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Zheng Xian</p>
 </td>
 </tr>
 <tr>
@@ -182,11 +187,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Basheer Bin Adrian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhan Huili</p>
 </td>
 </tr>
 <tr>
