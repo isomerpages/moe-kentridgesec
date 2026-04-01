@@ -110,7 +110,7 @@ year onwards, as an AV specialist.</p>
 <br>Mr Ng Chong Hern Bennedic
 <br>Ms Zannatul Nauum Moumee
 <br>Ms Vivian Cheong
-<br>Ms Sim Huili
+<br>Ms Zhan Huili
 <br>
 </p>
 <div class="isomer-image-wrapper">
