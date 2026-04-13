@@ -2,8 +2,6 @@ collections:
   direct-school-admission-2025:
     output: true
     order:
-      - DSA Science, Technology, Engineering and Mathematics (Computational
-        Thinking Skills).md
       - DSA Sports and Games (Badminton).md
       - DSA Sports and Games (Basketball).md
       - DSA Sports and Games (Floorball).md
