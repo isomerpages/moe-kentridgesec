@@ -26,11 +26,24 @@ our students to develop positive character traits which will strengthen
 their 21st&nbsp;century competency skills and translate into positive attitudes
 and self-expressions.</p>
 <p><strong>Latest Achievements</strong>
-<br>1. Team</p>
+<br>1. Team
+<br>
+<br>2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games 'C'(Girls) Division 2024 - 4th, League 3</p>
+</li>
+<li>
+<p>National School Games 'C'(Boys) Division 2024 - 3rd, League 4</p>
+</li>
+</ul>
 <p>2024</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National School Games 'C'(Girls) Division 2024 - 4th, League 3</p>
+</li>
+<li>
+<p>National School Games 'C'(Boys) Division 2024 - 3rd, League 5</p>
 </li>
 </ul>
 <p>2023</p>
