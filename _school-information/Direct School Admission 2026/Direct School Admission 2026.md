@@ -17,7 +17,7 @@ A very warm welcome to Kent Ridge Secondary School 2026 DSA-Sec Exercise.
 
 At Kent Ridge, we have two distinctive programmes:
 
-*   [Applied Learning Programme (Computational Thinking Through Robotics)](/programmes/distinctive-programmes/applied-learning-programme/)
+*   [Applied Learning Programme (Innovating Beyond Frontiers for a Sustainable Tomorrow)](/programmes/distinctive-programmes/applied-learning-programme/)
 *   [Learning for Life Programme (Sports and Outdoor Education)](/programmes/distinctive-programmes/learning-for-life-programme/)
 
 We offer the following DSA talent areas in 2026:
