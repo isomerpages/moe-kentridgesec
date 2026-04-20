@@ -31,15 +31,15 @@ coaches.</p>
 <p>Singapore Schools Sports Council - National School Games - 2 Students
 with Sportsmanship Award</p>
 </li>
+<li>
+<p>Singapore U18 basketball Team for Asian Schools and ASEAN Schools Championships</p>
+</li>
 </ul>
 <p>2024</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Schools Sports Council - National School Games - 2 Students
 with Sportsmanship Award</p>
-</li>
-<li>
-<p>Singapore U18 basketball Team for Asian Schools and ASEAN Schools Championships</p>
 </li>
 </ul>
 <p>2023</p>
@@ -129,11 +129,8 @@ of teacher(s) and coach(es).</p>
 </table>
 <p><strong>Contact Persons</strong>
 <br>DSA - Sports and Games (Basketball)：
-<br>Mr Lim Kheng Joo Vincent
-<br>Email: <a href="mailto:lim_kheng_joo_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kheng_joo_vincent@schools.gov.sg</a>
-</p>
-<p>HOD Aesthetics &amp; CCA: Ms Jaime Lim
-<br>Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+<br>Mr Kevin Chow
+<br>Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
 <p><strong>School Contact</strong>
 <br>Kent Ridge Secondary School
