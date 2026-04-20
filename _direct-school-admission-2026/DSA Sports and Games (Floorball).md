@@ -133,11 +133,8 @@ of teacher(s) and coach(es).</p>
 </table>
 <p><strong>Contact Persons</strong>
 <br>DSA - Sports and Games (Floorball):
-<br>Mr Jitendra Bhilare
-<br>Email: <a href="mailto:jitendra_khashaba_bhilare@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jitendra_khashaba_bhilare@schools.gov.sg</a>
-</p>
-<p>HOD Aesthetics &amp; CCA: Ms Jaime Lim
-<br>Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+<br>Mr Kevin Chow
+<br>Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
 <p><strong>School Contact</strong>
 <br>Kent Ridge Secondary School
