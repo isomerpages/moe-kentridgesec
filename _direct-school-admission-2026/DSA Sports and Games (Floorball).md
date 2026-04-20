@@ -131,7 +131,7 @@ of teacher(s) and coach(es).</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Contact Persons</strong>
+<p><strong>Contact Person</strong>
 <br>DSA - Sports and Games (Floorball):
 <br>Mr Kevin Chow
 <br>Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
