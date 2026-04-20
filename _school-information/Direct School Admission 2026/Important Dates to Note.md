@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
-![DSA_Important_Dates_2025](/images/DSA_Important_Dates_2025.png)
+![DSA_Important_Dates_2026](/images/dsa%20important%20dates%202026.png)
