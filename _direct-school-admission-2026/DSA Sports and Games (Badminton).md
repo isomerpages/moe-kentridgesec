@@ -140,11 +140,8 @@ of teacher(s) and coach(es).</p>
 </table>
 <p><strong>Contact Person</strong>
 <br>DSA - Sports and Games (Badminton):
-<br>Mr Chan Kar Hong
-<br>Email: <a href="mailto:chan_kar_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kar_hong@schools.gov.sg</a>
-</p>
-<p>HOD Aesthetics &amp; CCA: Ms Jaime Lim
-<br>Email: <a href="mailto:lim_hwee_fung_jaime@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_fung_jaime@schools.gov.sg</a>
+<br>Mr Kevin Chow
+<br>Email: <a href="mailto:chow_kok_wei_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kok_wei_kevin@schools.gov.sg</a>
 </p>
 <p><strong>School Contact</strong>
 <br>Kent Ridge Secondary School
