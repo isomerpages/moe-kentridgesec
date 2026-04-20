@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
-<p style="text-align: center;"><strong>KENT RIDGE SECONDARY SCHOOL</strong></p><strong>
-<p style="text-align: center;">2026 Direct School Admission (DSA-Sec) Exercise</p>
-<p style="text-align: center;">for Admission to Secondary 1 in 2027</p></strong>
+<p style="text-align: center;"><strong>KENT RIDGE SECONDARY SCHOOL</strong></p>
+<p style="text-align: center;"><strong>2026 Direct School Admission (DSA-Sec) Exercise</strong></p>
+<p style="text-align: center;"><strong>for Admission to Secondary 1 in 2027</strong></p>
 
 <p>Dear Primary 6 Students and Parents,</p>
 <p>A very warm welcome to Kent Ridge Secondary School 2026 DSA-Sec Exercise.</p>
