@@ -34,7 +34,6 @@ to the school, and participate in the activities related to the talent
 they are selected for from year 1-4.</p>
 <p>3. DSA-Sec offers not taken up will be considered lapsed.</p>
 <p>Click the following links for more information on the respective DSA programmes:
-<br>(1)&nbsp;<a href="/school-information/dsa/science-technology-engineering-n-mathematics-computational-thinking-skills/" rel="noopener noreferrer nofollow" target="_blank">DSA - Science, Technology, Engineering and Mathematics (Computational Thinking Skills)</a>,
-<br>(2)&nbsp;<a href="/school-information/dsa/sports-and-games-badminton/" rel="noopener noreferrer nofollow" target="_blank">DSA – Sports and Game (Badminton)</a>,
-<br>(3)&nbsp;<a href="/school-information/dsa/sports-and-games-basketball/" rel="noopener noreferrer nofollow" target="_blank">DSA - Sports and Game (Basketball)</a>,
-<br>(4)&nbsp;<a href="/school-information/dsa/sports-and-games-floorball/" rel="noopener noreferrer nofollow" target="_blank">DSA – Sports and Game (Floorball)</a>.</p>
+<br>(1)&nbsp;<a href="/school-information/dsa/sports-and-games-badminton/" rel="noopener noreferrer nofollow" target="_blank">DSA – Sports and Game (Badminton)</a>,
+<br>(2)&nbsp;<a href="/school-information/dsa/sports-and-games-basketball/" rel="noopener noreferrer nofollow" target="_blank">DSA - Sports and Game (Basketball)</a>,
+<br>(3)&nbsp;<a href="/school-information/dsa/sports-and-games-floorball/" rel="noopener noreferrer nofollow" target="_blank">DSA – Sports and Game (Floorball)</a>.</p>
