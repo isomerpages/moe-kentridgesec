@@ -3,14 +3,12 @@ title: Direct School Admission 2026
 permalink: /school-information/direct-school-admission-2026/
 description: ""
 third_nav_title: Direct School Admission 2026
-variant: tiptap
+variant: markdown
 ---
-<p><strong>KENT RIDGE SECONDARY SCHOOL</strong>
-</p>
-<p><strong>2026 Direct School Admission (DSA-Sec) Exercise</strong>
-</p>
-<p><strong>for Admission to Secondary 1 in 2027</strong>
-</p>
+<p style="text-align: center;"><strong>KENT RIDGE SECONDARY SCHOOL</strong></p><strong>
+<p style="text-align: center;">2026 Direct School Admission (DSA-Sec) Exercise</p>
+<p style="text-align: center;">for Admission to Secondary 1 in 2027</p></strong>
+
 <p>Dear Primary 6 Students and Parents,</p>
 <p>A very warm welcome to Kent Ridge Secondary School 2026 DSA-Sec Exercise.</p>
 <p>At Kent Ridge, we have two distinctive programmes:</p>
