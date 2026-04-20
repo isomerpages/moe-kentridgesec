@@ -2,7 +2,7 @@
 title: Application Procedure
 permalink: /school-information/direct-school-admission-2024/application-procedure/
 description: ""
-third_nav_title: Direct School Admission 2025
+third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
 **Instructions** <br>

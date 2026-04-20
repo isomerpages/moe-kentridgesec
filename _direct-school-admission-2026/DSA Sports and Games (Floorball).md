@@ -24,7 +24,22 @@ and leadership skills. Both our boys’ and girls’ teams compete in the Nation
 coaches, supported by a strong group of dedicated alumni, who are passionate
 about raising the standard of the sport in the school.</p>
 <p><strong>Achievements</strong>
-<br>2023</p>
+</p>
+<p>2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Schools Sports Council - National School Games - 4 Students
+with Sportsmanship Award</p>
+</li>
+</ul>
+<p>2024</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Schools Sports Council - National School Games - 2 Students
+with Sportsmanship Award</p>
+</li>
+</ul>
+<p>2023</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Schools Sports Council - National School Games - 2 Students

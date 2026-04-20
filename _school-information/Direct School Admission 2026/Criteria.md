@@ -2,7 +2,7 @@
 title: Criteria
 permalink: /school-information/direct-school-admission-2024/criteria/
 description: ""
-third_nav_title: Direct School Admission 2025
+third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
 1\. Applicant must be eligible for Secondary 1 in 2026.
