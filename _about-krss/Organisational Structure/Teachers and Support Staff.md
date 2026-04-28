@@ -200,16 +200,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gabriel Fu Bojun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Karl Anish Luis</p>
 </td>
 </tr>
 <tr>
