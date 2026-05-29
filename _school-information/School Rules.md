@@ -215,11 +215,11 @@ to be worn with the school uniform.</p>
 braided.</p>
 </li>
 <li>
-<p>If ribbons are used, they must be of one colour (black/blue/white).</p>
+<p>If ribbons are used, they must be of one colour.</p>
 </li>
 <li>
-<p>The fringe must not cover the eyes. Hairband or hairpin (black/blue/white)
-must be used to hold back the fringe.</p>
+<p>The fringe must not cover the eyes. Hairband or hairpin must be used to
+hold back the fringe.</p>
 </li>
 <li>
 <p>Hair must be of its natural colour and not tinted or dyed.</p>
