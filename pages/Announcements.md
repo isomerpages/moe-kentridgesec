@@ -5,12 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>CCA &amp; Tutorial Schedule</h3>
-<p>Updated 16 March 2026</p>
-<p><a href="/files/CCA_Tutorial_Schedule___March_2026.pdf" rel="noopener nofollow" target="_blank">March Holidays</a>
+<p>Updated 4 June 2026</p>
+<p><a href="/files/CCA_Tutorial_Schedule___June_2026_1June26.pdf" rel="noopener nofollow" target="_blank">June Holidays</a>
 </p>
-<p></p>
-<h3>Class Timetable (Semester 1, 2026)</h3>
-<p>Please refer to the class timetable for semester 1, 2026, at this <a href="https://www.kentridgesec.moe.edu.sg/school-information/academic-matters/timetables/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3>MIMS Password Reset Guide</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MIMS_SSPR_Guide" src="/images/Posters_MIMS_SSPR_Guide_Page_2.jpg">
