@@ -47,8 +47,8 @@ We will train students to take part in internal and external chess competitions.
 </p>
 <p></p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mr Ong Chuan Hock
-<br>Mr Tan Xue Ji</p>
+<br>Mr Tan Xue Ji
+<br>Ms Vivien Tan</p>
 </div>
 </details>
 <details class="isomer-details">
