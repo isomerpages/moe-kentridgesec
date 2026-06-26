@@ -484,7 +484,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Wan Phing
-<br>Link to make appointment:</p>
+<br>Link to make appointment: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/krss-ecg-lwp</a>
+</p>
 </td>
 </tr>
 </tbody>
