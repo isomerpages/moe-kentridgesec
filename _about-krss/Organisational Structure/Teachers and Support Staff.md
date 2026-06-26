@@ -62,16 +62,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kheng Joo Vincent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Claudia Ng</p>
 </td>
 </tr>
 <tr>
@@ -200,11 +195,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gabriel Fu Bojun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Weng Han</p>
 </td>
 </tr>
 <tr>
@@ -302,11 +302,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hong Thin Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Qun Hao</p>
 </td>
 </tr>
 <tr>
@@ -370,16 +375,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lam Yao Lun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Chuan Hock</p>
 </td>
 </tr>
 <tr>
