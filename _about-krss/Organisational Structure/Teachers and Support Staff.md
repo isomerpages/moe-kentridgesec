@@ -468,8 +468,8 @@ variant: tiptap
 <p>Education Career Guidance (ECGC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Law Li Wei
-<br>Link to make appointment: <a href="https://go.gov.sg/ecgkrss" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgkrss</a>
+<p>Ms Liu Wan Phing
+<br>Link to make appointment: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/krss-ecg-lwp</a>
 </p>
 </td>
 </tr>
