@@ -4,6 +4,16 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<h3>Class Time-tables (Semester 2, 2026)</h3>
+<p>Updated 26 June 2026</p>
+<p><a href="/files/2026_Sem_2_TT_Sec_1_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+<p><a href="/files/2026_Sem_2_TT_Sec_2_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+<p><a href="/files/2026_Sem_2_TT_Sec_3_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+<p><a href="/files/2026_Sem_2_TT_Sec_4_5_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+</p>
 <h3>CCA &amp; Tutorial Schedule</h3>
 <p>Updated 4 June 2026</p>
 <p><a href="/files/CCA_Tutorial_Schedule___June_2026_1June26.pdf" rel="noopener nofollow" target="_blank">June Holidays</a>
