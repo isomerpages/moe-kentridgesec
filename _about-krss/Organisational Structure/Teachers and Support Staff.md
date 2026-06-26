@@ -88,7 +88,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,10 +97,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sarah Cheok Xian Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Shi Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Chee Hian, Justin</p>
 </td>
 </tr>
 <tr>
@@ -221,11 +231,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rishabh Gurunath Talwalkar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Shee Onn</p>
 </td>
 </tr>
 <tr>

@@ -63,9 +63,9 @@ of the Volunteer Adult Officers. Come and join us in this GB 54th family!
 <br>
 </p>
 <p><strong><em>Teachers in-charge</em></strong>
-<br>Mrs Claudia Ng
 <br>Ms Wong Sue Jin
-<br>Mrs Loke Wenyi</p>
+<br>Mrs Loke Wenyi
+<br>Ms Oh Wen Ci</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Girls' brigade" src="/images/Girls' Brigade.png">
