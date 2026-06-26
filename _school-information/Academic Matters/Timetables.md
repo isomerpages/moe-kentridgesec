@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Academic Matters
 variant: tiptap
 ---
-<h5>Class Time-tables (Semester 2, 2026) </h5>
+<h5>Class Time-tables (Semester 2, 2026)</h5>
 <p>Updated 26 June 2026</p>
 <p><a href="/files/2026_Sem_2_TT_Sec_1_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
-<p>Secondary 2</p>
+<p><a href="/files/2026_Sem_2_TT_Sec_2_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
 <p><a href="/files/2026_Sem_2_TT_Sec_3_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 <p><a href="/files/2026_Sem_2_TT_Sec_4_5_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
