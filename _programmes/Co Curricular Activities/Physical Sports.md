@@ -100,7 +100,8 @@ level during competitions.</p>
 <br>Ms Siti Fadzilah
 <br>Mr Ang Swee Huat
 <br>Mr Sim Zheng Xian
-<br>Mr Mohd Taib</p>
+<br>Mr Mohd Taib
+<br>Mr Tay Chee Hian, Justin</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -127,7 +128,8 @@ Championship since 2006.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Rishabh
 <br>Mr Mohd Helmy
-<br>Mr Smithy Methias @ Yusoef Adam</p>
+<br>Mr Smithy Methias @ Yusoef Adam
+<br>Mr Soh Shee Onn</p>
 </div>
 </details>
 <details class="isomer-details">
