@@ -181,7 +181,7 @@ juniors and events, with the ultimate goal of leading the Unit.
 <p><strong><em>Teachers in-charge</em></strong>
 <br>Mr Mohammad Basheer Adrian
 <br>Mdm Haizurah Kadir Mydin
-<br>Ms Vivien Tan</p>
+<br>Mr Lim Qun Hao</p>
 </div>
 </details>
 </div>
