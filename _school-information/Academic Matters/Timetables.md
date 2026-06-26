@@ -21,10 +21,6 @@ levels and support their learning.</p>
 <br><a href="/files/2026_Sem_2_TT_Sec_3_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 <br><a href="/files/2026_Sem_2_TT_Sec_4_5_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-<h5>CCA &amp; Tutorial Schedule</h5>
-<p>Updated 4 June 2026</p>
-<p><a href="/files/CCA_Tutorial_Schedule___June_2026_1June26.pdf" rel="noopener nofollow" target="_blank">June Holidays</a>
-</p>
 <h5>School Terms and Holidays for 2026</h5>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">School Terms and Holidays for 2026</a>
 <br>

@@ -20,10 +20,6 @@ levels and support their learning.</p>
 <br><a href="/files/2026_Sem_2_TT_Sec_3_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 <br><a href="/files/2026_Sem_2_TT_Sec_4_5_26_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-<h3>CCA &amp; Tutorial Schedule</h3>
-<p>Updated 4 June 2026</p>
-<p><a href="/files/CCA_Tutorial_Schedule___June_2026_1June26.pdf" rel="noopener nofollow" target="_blank">June Holidays</a>
-</p>
 <h3>MIMS Password Reset Guide</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MIMS_SSPR_Guide" src="/images/Posters_MIMS_SSPR_Guide_Page_2.jpg">
