@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h3>Class Time-tables (Semester 2, 2026)</h3>
 <p>Updated 30 June 2026</p>
+<p>Updated 30 June 2026</p>
 <p><strong>Semester 2 Timetables and Snack Breaks</strong>
 </p>
 <p>Dear Parent(s) / Guardian,</p>
