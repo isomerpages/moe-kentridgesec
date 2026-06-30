@@ -7,6 +7,8 @@ variant: tiptap
 ---
 <h5>Class Time-tables (Semester 2, 2026)</h5>
 <p>Updated 30 June 2026</p>
+<p><strong>Semester 2 Timetables and Snack Breaks</strong>
+</p>
 <p>Dear Parent(s) / Guardian,</p>
 <p>The Semester 2 timetables can be found in the links below.</p>
 <p>To support our students’ well-being and help them maintain their energy
