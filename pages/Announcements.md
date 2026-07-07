@@ -22,6 +22,12 @@ levels and support their learning.</p>
 <br><a href="/files/2026_Sem_2_TT_Sec_3_30_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 <br><a href="/files/2026_Sem_2_TT_Sec_4_5_30_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
+<h3>Preliminary Examination</h3>
+<p>Updated 7 July 2026</p>
+<p><a href="/files/4NA_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NA</a>
+<br><a href="/files/4NT_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NT</a>
+<br><a href="/files/4E_5N_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4E &amp; 5N</a>
+</p>
 <h3>MIMS Password Reset Guide</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MIMS_SSPR_Guide" src="/images/Posters_MIMS_SSPR_Guide_Page_2.jpg">
