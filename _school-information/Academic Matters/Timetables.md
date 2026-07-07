@@ -23,6 +23,12 @@ levels and support their learning.</p>
 <br><a href="/files/2026_Sem_2_TT_Sec_3_30_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 <br><a href="/files/2026_Sem_2_TT_Sec_4_5_30_June_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
+<h5>Preliminary Examination</h5>
+<p>Updated 7 July 2026</p>
+<p><a href="/files/4NA_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NA</a>
+<br><a href="/files/4NT_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NT</a>
+<br><a href="/files/4E_5N_Preliminary_Examination_2026_updated_1_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 4E &amp; 5N</a>
+</p>
 <h5>School Terms and Holidays for 2026</h5>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">School Terms and Holidays for 2026</a>
 <br>
